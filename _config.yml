@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:           "Home-Oliver Y. Chen"
+title:           "Home-Oliver Y. Chén"
 headtitle:       "Oliver Y. Chén"
 description:     "Personal website of Oliver Y. Chen"
 logo:            
@@ -30,7 +30,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Oliver Y. Chen
+  name: Oliver Y. Chén
   avatar: ZW.JPG
   bio: "Graduate Fellow at Johns Hopkins Department of Biostatistics. "
   position: "Graduate Fellow"
