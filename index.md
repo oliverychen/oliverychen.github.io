@@ -31,7 +31,7 @@ Leisurely he like to read - currently he is reading Edgar Allan Poe's and Willia
 
 
 <br />
-[Here](/pages/publications/) is a list of my publications. My CV is [here](/files/doc/cv2015-ZW.pdf).
+[Here](/pages/publications/) is a list of my publications. My CV is [here](/files/doc/CV_Chen_Feb_2015.pdf).
 
 <br />
 <br />
