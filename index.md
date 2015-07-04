@@ -15,14 +15,20 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-I am a postdoctoral fellow in the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at [Johns Hopkins University](http://www.jhsph.edu/). I am advised by Professor [Scott Zeger](http://www.jhsph.edu/faculty/directory/profile/3859/Zeger/Scott), and work closely with [Hopkins inHealth](http://hopkinsinhealth.jhu.edu/) methodology group, [Causal Inference Working Group](http://jhsphcausalinference.weebly.com/), and [International Vaccine Access Center (IVAC)](http://www.jhsph.edu/research/centers-and-institutes/ivac/).
+Oliver is a Graduate Fellow Ph.D. student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/) and Assistant Professor Dr. [Elizabeth (Betsy) Ogburn](http://www.eogburn.com). He also works closely with Professor Dr. [Brian Caffo]() from Hopkins Biostatistics and Assistant Professor Dr. Xiao Luo from the [Department of Theoratical Statistics](http://www.jhsph.edu/departments/biostatistics/) at the [North Carolina State University](http://www.stat.ncsu.edu/). He is a member of the [Statistical Methods and Applications for Research in Technology (SMART)](http://www.smart-stats.org)group. Prior to Hopkins, he was a University Fellow at the [Department of Statistics](http://www.statistics.northwestern.edu) at [Northwestern University](http://www.northwestern.edu).
+
+
 
 <br />
-I conduct statistical research on hierarchical Bayesian latent variable models motivated by and applied to health decisions made for individuals. Broadly, I am interested in discovering simple latent structure representations in complex biomedical data that can improve inferences and decisions about population or individual health. I have also worked on causal inference methods 1) to evaluate novel treatment rules under special designs like matched-pair cluster randomized design, as these designs are useful for interventions that can only be applied at cluster level; and 2) to facilitate the inference for novel estimands and/or semiparametric models by automating and unifying the derivation of efficient influence functions (EIF) and ensuing estimation.
+He received his Master's in Theoratical Statistics from the [Department of Mathematics and Statistics] at [Washington State University](http://www.wsu.edu); and spread his undergraduate time in the [ECUST Business School](http://bs.ecust.edu.cn:8080/index_news_en.jsp?OID=2-4187912&no=3&nodecode=ysytp&imageindex=1&bar=News) in Shanghai and [Rollins College](http://www.rollins.edu) in Florida, earning a B.S. in Financial Engineering.
 
 
 <br />
-Currently a major focus of my work is on analysis of multiple mixed-type longitudinal measurements with feedbacks in treatment assignments. I am working on hierarchical Bayesian methods to to infer latent trajectories that represent individual disease progressions that have direct applications to childhood pneumonia etiology studies and disease surveillance.
+His research interests include: neuroscience, causal inference, longitudinal data analysis, functional data analysis, experimental design, optimization, and high dimensional data analysis. He likes to think about statistics philosophy also, but he usually ends up getting lost before he turns to Socrates or Birnbaum, and gives up thereupon (not because the former died of drinking the poison and the latter committed suicide, but because he figures he is constantly trying to quantify certainty based upon uncertainty, a statistical idée fixe). This process, nevertheless, keeps recurring intermittently. 
+
+<br />
+Leisurely he like to read - currently he is reading Edgar Allan Poe's and William Shakespeare's. He likes classical music, his favorite composer is Debussy, his favorite pianist is Horowitz, and his favorite is Schumann's Kinderszenen, Op.15, performed by Horowitz at the Moscow Conservatory in 1986.  He loves red wine - especially when combined with some captivating conversation with his good old friends. Yet he enjoys white wine to a much lessened extent - he has a funny yet cruel story to share in private. He enjoys beer too, and has developed a fondness of dry stout since his time in Chicago.
+
 
 <br />
 [Here](/pages/publications/) is a list of my publications. My CV is [here](/files/doc/cv2015-ZW.pdf).
@@ -31,7 +37,7 @@ Currently a major focus of my work is on analysis of multiple mixed-type longitu
 <br />
 <br />
 <br />
-**Pronounciation of my name:** [<img src="./images/speaker.jpg" width="20px" height="20px"/>](http://biostat.jhsph.edu/people/student/names/Zhenke%20Wu.wav)
+
 
 <br />
 ---
