@@ -68,7 +68,7 @@ Oil on canvas, approx. 8 by 12 in.
 
 ## Classical Music
 
- I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is Debussy, my favorite pianist is Horowitz, and my favorite piece is *Nr. 7, Träumerei* in Schumann's *Kinderszenen, Op.15*, performed by Horowitz at the Moscow Conservatory in 1986.
+I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is Debussy, my favorite pianist is Horowitz, and my favorite piece is *Nr. 7, Träumerei* in Schumann's *Kinderszenen, Op.15*, performed by Horowitz at the Moscow Conservatory in 1986.
 
 
 ## Wine
