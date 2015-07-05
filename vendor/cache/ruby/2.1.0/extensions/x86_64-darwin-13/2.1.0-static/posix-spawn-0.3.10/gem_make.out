@@ -1,0 +1,13 @@
+/Users/Oliver/.rvm/rubies/ruby-2.1.2/bin/ruby extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+compiling posix-spawn.c
+linking shared-object posix_spawn_ext.bundle
+ld: warning: directory not found for option '-L/Users/travis/.sm/pkg/active/lib'
+
+make "DESTDIR=" install
+/usr/bin/install -m 0755 posix_spawn_ext.bundle ./.gem.20150704-87501-19ukv1m
+installing default posix_spawn_ext libraries
