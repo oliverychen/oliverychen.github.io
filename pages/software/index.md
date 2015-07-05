@@ -9,17 +9,12 @@ image:
   credit: #Texture Lovers
   creditlink: #http://texturelovers.com
 ---
-Please contact me with experiences using any of the code below.
+I am the Author and Maintainer of the follows packages. 
 
-#### Etiology estimation and individual diagnosis: nested partially-latent class model (npLCM)
-* `nplcm`: Bayesian nested partially-latent class models for disease etiology estimation and visualization from case-control data.
+#### Principal Direction of Mediation (PDM)
+* `PDM`: The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
-* [[go to repository]](http://github.com/zhenkewu/nplcm)
-
-#### Evaluation of indivudualized health care under matched-pair cluster randomized (MPCR) design
-* `mpcr`: Covariate-calibrated treatment effect estimation in matched-pair cluster randomized trials.
-
-* [[go to repository]](http://github.com/zhenkewu/mpcr)
+* [[go to repository]](http://github.com/oliverychen)
 
 <br />
 ---
