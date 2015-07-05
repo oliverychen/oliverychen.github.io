@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Oliver Y. Chén's Research Page
 locale:           en_US
-url:              
+url:              http://oliverychen.github.io/oliverychen
 
 
 # Jekyll configuration
@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  name: Oliver Chen
+  avatar: OLIVER.JPG
+  bio: "Graduate Fellow at Department of Biostatistics of the Johns Hopkins University."
+  email: olivery.chen@gmail.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: oliverychen
+  skype: oliverchan1988
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
