@@ -24,7 +24,9 @@ Technique: Gong-bi (工筆)
 ### Classical Music
  I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is Debussy, my favorite pianist is Horowitz, and my favorite piece is *Nr. 7, Träumerei* in Schumann's *Kinderszenen, Op.15*, performed by Horowitz at the Moscow Conservatory in 1986.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qq7ncjhSqtk" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=qq7ncjhSqtk" frameborder="0> 
+
+</iframe>
  
 ### I enjoy collecting and studying red wine, especially when combined with some captivating conversation with my friends.
 
