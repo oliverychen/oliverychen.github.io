@@ -17,8 +17,8 @@ I have been painting *Gōng-Bi* style *watercolor* (aquarelle) for twenty-six ye
 [Drunk Li-Bai](/images/Taibai.jpg)
 
 Date painted: 2006
-Ink on raw Xuan paper, approx. 100 x 100 cm
-Technique: Gōng-Bi
+Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
+Technique: Gong-bi (工筆)
 
   
 ### Classical Music
