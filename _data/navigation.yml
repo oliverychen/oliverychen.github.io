@@ -1,13 +1,19 @@
 # Site navigation links
 
-- title: About
-  url: /about/
+- title: Contact
+  url: /pages/contact/
 
-- title: Sample Posts
-  url: /posts/
+- title: Research
+  url: /pages/research/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Publications
+  url: /pages/publications/
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Teaching
+  url: /pages/teaching/
+  
+- title: Software
+  url: /pages/software/
+
+
+ 
