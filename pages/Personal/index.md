@@ -3,7 +3,7 @@ layout: page
 title: personal
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
-comments: true
+comments: 
 image:
   feature: texture-feature-01.jpg
   credit: #Texture Lovers
@@ -14,12 +14,11 @@ image:
 
 I have been painting *Gōng-Bi* style *watercolor* (aquarelle) for twenty-six years; I also enjoy *oil painting*. Here are some of my works.
 
-image:
-  feature: Taibai.jpg
-  credit: Drunk Li-Bai
-          Date painted: 2006
-          Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
-          Technique: Gong-bi (工筆)
+![Drunk Li-Bai](/images/Taibai.jpg)
+
+Date painted: 2006
+Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
+Technique: Gong-bi (工筆)
 
   
 ### Classical Music

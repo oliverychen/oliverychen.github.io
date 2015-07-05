@@ -10,8 +10,7 @@ image:
   creditlink: #http://texturelovers.com
 ---
 
-### published/in preparation
-<!-- -**Wu Z**, Deloria-Knoll M, Hammitt LL, and Zeger SL, for the PERCH Core Team (2015). Partially Latent Class Models (pLCM) for Case-Control Studies of Childhood Pneumonia Etiology. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. doi: 10.1111/rssc.12101.[[pdf]](http://onlinelibrary.wiley.com/doi/10.1111/rssc.12101/abstract)[[ArXiv]](http://arxiv.org/abs/1411.5774)[[R code]](http://github.com/zhenkewu/nplcm)--> 
+### published/in preparation 
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (2015) The Principal Direction of Mediation. Submitting to *Journal of the American Statistical Association*.
 
