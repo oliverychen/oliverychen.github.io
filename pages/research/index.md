@@ -9,4 +9,4 @@ image:
   credit: #Texture Lovers
   creditlink: #http://texturelovers.com
 ---
-See [publications](/pages/publications).
+Incoming. For now, please see [publications](/pages/publications).

@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title:           "Home-Oliver Y. Chen"
-headtitle:       "Oliver Y. Chen"
-description:     "Personal website of Oliver Chen"
+title:           "Home-Zhenke Wu"
+headtitle:       "Zhenke Wu, PhD"
+description:     "Personal website of Zhenke Wu, PhD"
 logo:            
 teaser:          
 locale:           en_US
-url:              http://oliverychen.github.io
+url:              http://zhenkewu.github.io
 
 
 # Jekyll configuration
@@ -30,20 +30,20 @@ kramdown:
 
 # Site owner
 owner:
-  name: Oliver Chen
-  avatar: OLIVER.JPG
-  bio: "Graduate Fellow at Johns Hopkins Department of Biostatistics. "
-  position: "Graduate Fellow"
+  name: Zhenke Wu
+  avatar: ZW.JPG
+  bio: "Postdoctoral Fellow at Johns Hopkins Department of Biostatistics. "
+  position: "Postdoctoral Fellow"
   department: "Department of Biostatistics"
   school: "Bloomberg School of Public Health"
   university: "Johns Hopkins University"
-  email: olivery.chen@gmail.com
-  email2: "oliver@jhmi.edu"
+  email: zhenkewu@gmail.com
+  email2: "zhwu@jhu.edu"
   navcolor: "#D91838"
-  skype: oliverchan1988
-  disqus-shortname: oliverychen
-  twitter: 
-  facebook: 
+  skype: wzk_qdh4
+  disqus-shortname: zhenkewu
+  twitter: zhenkewu
+  facebook: zhenke.wu
   google:
     plus: 
     analytics: UA-57530925-1
@@ -51,7 +51,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: oliverychen
+  github: zhenkewu
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
