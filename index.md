@@ -12,7 +12,7 @@ image:
 <div id="drawer" markdown="1">
 {:toc}
 </div>
-</section><!-- /#table-of-contents -->
+</section>
 
 
 
