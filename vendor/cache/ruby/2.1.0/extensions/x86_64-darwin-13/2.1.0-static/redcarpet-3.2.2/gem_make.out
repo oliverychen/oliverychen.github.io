@@ -31,5 +31,5 @@ linking shared-object redcarpet.bundle
 ld: warning: directory not found for option '-L/Users/travis/.sm/pkg/active/lib'
 
 make "DESTDIR=" install
-/usr/bin/install -m 0755 redcarpet.bundle ./.gem.20150704-87501-174zykg
+/usr/bin/install -m 0755 redcarpet.bundle ./.gem.20150705-88869-1f38rek
 installing default redcarpet libraries

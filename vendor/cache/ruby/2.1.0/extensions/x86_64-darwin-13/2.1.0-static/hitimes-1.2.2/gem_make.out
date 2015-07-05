@@ -14,5 +14,5 @@ linking shared-object hitimes/2.1/hitimes.bundle
 ld: warning: directory not found for option '-L/Users/travis/.sm/pkg/active/lib'
 
 make "DESTDIR=" install
-/usr/bin/install -m 0755 hitimes.bundle ./.gem.20150704-87501-1yo1dvw/hitimes/2.1
+/usr/bin/install -m 0755 hitimes.bundle ./.gem.20150705-88869-9bd4xm/hitimes/2.1
 installing default hitimes libraries

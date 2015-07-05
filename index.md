@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Home"
+regenerate: true
 excerpt: 
 tags: [Jekyll, theme, responsive, blog, template]
 image:

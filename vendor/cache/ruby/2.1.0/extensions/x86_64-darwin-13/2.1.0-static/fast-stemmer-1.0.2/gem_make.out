@@ -18,5 +18,5 @@ linking shared-object stemmer.bundle
 ld: warning: directory not found for option '-L/Users/travis/.sm/pkg/active/lib'
 
 make "DESTDIR=" install
-/usr/bin/install -m 0755 stemmer.bundle ./.gem.20150704-87501-gicw8t
+/usr/bin/install -m 0755 stemmer.bundle ./.gem.20150705-88869-qv0p61
 installing default stemmer libraries

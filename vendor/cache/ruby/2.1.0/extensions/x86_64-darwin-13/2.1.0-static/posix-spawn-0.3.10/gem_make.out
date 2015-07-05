@@ -9,5 +9,5 @@ linking shared-object posix_spawn_ext.bundle
 ld: warning: directory not found for option '-L/Users/travis/.sm/pkg/active/lib'
 
 make "DESTDIR=" install
-/usr/bin/install -m 0755 posix_spawn_ext.bundle ./.gem.20150704-87501-19ukv1m
+/usr/bin/install -m 0755 posix_spawn_ext.bundle ./.gem.20150705-88869-qagpkn
 installing default posix_spawn_ext libraries

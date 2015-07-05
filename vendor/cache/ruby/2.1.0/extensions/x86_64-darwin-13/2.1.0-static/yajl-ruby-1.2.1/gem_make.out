@@ -30,5 +30,5 @@ linking shared-object yajl/yajl.bundle
 ld: warning: directory not found for option '-L/Users/travis/.sm/pkg/active/lib'
 
 make "DESTDIR=" install
-/usr/bin/install -m 0755 yajl.bundle ./.gem.20150704-87501-1tvvybv/yajl
+/usr/bin/install -m 0755 yajl.bundle ./.gem.20150705-88869-2svufm/yajl
 installing default yajl libraries
