@@ -70,8 +70,7 @@ Oil on canvas, approx. 8 by 12 in.
 
 I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is Debussy, my favorite pianist is Horowitz, and my favorite piece is *Nr. 7, Träumerei* in Schumann's *Kinderszenen, Op.15*, performed by Horowitz at the Moscow Conservatory in 1986.
 
-[![Everything Is AWESOME](http://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Everything Is AWESOME")
-
+YT("https://www.youtube.com/watch?v=XU_ccvjxq6o", print = TRUE)
 
 
 ## Wine
