@@ -17,7 +17,7 @@ I have been painting *Gōng-Bi* (工筆) style *watercolor* (aquarelle) for twen
 
 #### Drunk Li-Bai
 
-![Drunk Li-Bai](/images/Taibai.jpg)
+![x](/images/Taibai.jpg)
 
 <br />
 <br />
@@ -39,7 +39,7 @@ The painting was painted à la Gōng-bi (工筆) on xüān paper (宣紙, made o
 #### Pondering the Imponderables
 
 
-![ Pondering the Imponderables](/images/Pondering_the_Imponderables.jpg)
+![x](/images/Pondering_the_Imponderables.jpg)
 
 <br />
 <br />
@@ -53,14 +53,14 @@ Technique: Gong-bi (工筆)
 
 #### L'horizon du port intérieur de Baltimore
 
-![L'horizon du port intérieur de Baltimore](/images/Baltimore.jpg)
+![x](/images/Baltimore.jpg)
 <br />
 Date painted: 2014
 <br />
 Watercolor and acrylic on canvas
 
 #### Ristorante Trattoria Sempione 
-![Ristorante Trattoria Sempione](/images/Venice.jpg)
+![x](/images/Venice.JPG)
 <br />
 <br />
 Date painted: In progress
