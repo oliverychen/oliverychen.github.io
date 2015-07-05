@@ -13,7 +13,7 @@ comments:
 
 ## Painting
 
-I have been painting *Gōng-Bi* (工筆) style *watercolor* (aquarelle) for twenty-six years; I also enjoy *oil painting*. Here are some of my works.
+I have been painting *Gōng-Bi* (工筆) style *watercolor* (aquarelle) for twenty years; I also enjoy *oil painting*. Here are some of my works.
 
 #### Drunk Li-Bai
 

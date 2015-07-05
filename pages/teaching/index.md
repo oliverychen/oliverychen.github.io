@@ -10,10 +10,10 @@ comments: true
 
 ![x](/images/Ames.jpg)
 
-<br />
+
 * Instructor
 
-  * Statistical Thinking (Stat 205), Department of Statistics, Washington State University (WSU), 2011-2012.<br><br>
+  * Statistical Thinking, Department of Mathematics and Statistics, Washington State University (WSU), 2011-2012.<br><br>
 	
 * Teaching Assistant
 
