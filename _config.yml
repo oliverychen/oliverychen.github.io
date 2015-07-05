@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:           "Home-Oliver Y. Chén"
-headtitle:       "Oliver Y. Chén"
-description:     "Personal website of Oliver Y. Chen"
+title:           "Home-Oliver Y. Chen"
+headtitle:       "Oliver Y. Chen"
+description:     "Personal website of Oliver Chen"
 logo:            
 teaser:          
 locale:           en_US
@@ -30,8 +30,8 @@ kramdown:
 
 # Site owner
 owner:
-  name: Oliver Y. Chén
-  avatar: ZW.JPG
+  name: Oliver Chen
+  avatar: oliver.JPG
   bio: "Graduate Fellow at Johns Hopkins Department of Biostatistics. "
   position: "Graduate Fellow"
   department: "Department of Biostatistics"
@@ -42,10 +42,11 @@ owner:
   navcolor: "#D91838"
   skype: oliverchan1988
   disqus-shortname: oliverychen
+  twitter: 
   facebook: oliverychen
   google:
     plus: 
-    analytics: 
+    analytics: UA-57530925-1
     verify: 
     ad-client: 
     ad-slot: 

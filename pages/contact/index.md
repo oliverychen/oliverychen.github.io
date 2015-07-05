@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: contact
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: 
@@ -19,7 +19,7 @@ Office E3031 <br />
 Baltimore, MD 21205, USA <br /> 
 
 <br />
-oliver[at] jhmi.edu
+oliver [at] gmail.com
 
 <br />
 Github: [oliverychen](http://github.com/oliverychen)<br />

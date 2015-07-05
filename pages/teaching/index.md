@@ -12,7 +12,7 @@ image:
 
 * Instructor
 
-	* Statistical Thinking (Stat 205), Department of Statistics, Washington State University (WSU), 2011-2012.<br><br>
+  * Statistical Thinking (Stat 205), Department of Statistics, Washington State University (WSU), 2011-2012.<br><br>
 	
 * Teaching Assistant
 
@@ -24,4 +24,5 @@ image:
 	
 	* 2014 Statistical Reasoning in Public Health I, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
     
-	* 2010-2012 Introduction to Statistical Methods (Stat 212), Department of Statistics, WSU.
+	* 2010-2012 Introduction to Statistical Methods (Stat 212), Department of Statistics, Washington State University.
+

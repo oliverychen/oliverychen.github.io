@@ -10,26 +10,24 @@ image:
   creditlink: #http://texturelovers.com
 ---
 
-### published/in press
-- **Wu Z**, Deloria-Knoll M, Hammitt LL, and Zeger SL, for the PERCH Core Team (2015). Partially Latent Class Models (pLCM) for Case-Control Studies of Childhood Pneumonia Etiology. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. doi: 10.1111/rssc.12101.[[pdf]](http://onlinelibrary.wiley.com/doi/10.1111/rssc.12101/abstract)[[ArXiv]](http://arxiv.org/abs/1411.5774)[[R code]](http://github.com/zhenkewu/nplcm)
+### published/in preparation
+<!-- -**Wu Z**, Deloria-Knoll M, Hammitt LL, and Zeger SL, for the PERCH Core Team (2015). Partially Latent Class Models (pLCM) for Case-Control Studies of Childhood Pneumonia Etiology. *Journal of the Royal Statistical Society: Series C (Applied Statistics)*. doi: 10.1111/rssc.12101.[[pdf]](http://onlinelibrary.wiley.com/doi/10.1111/rssc.12101/abstract)[[ArXiv]](http://arxiv.org/abs/1411.5774)[[R code]](http://github.com/zhenkewu/nplcm)--> 
 
-- Frangakis CE, Qian T, **Wu Z**, Diaz I (2015). Deductive Derivation and Turing-computerization of Semiparametric Efficient Estimation. *Biometrics*, To appear. [[pdf]](http://biostats.bepress.com/ucbbiostat/paper324/)[[slides]](/files/doc/slides/turing-eif.pdf) [[R code]](http://www.biostat.jhsph.edu/~cfrangak/papers/deduction/)
+- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (2015) The Principal Direction of Mediation. Submitting to *Journal of the American Statistical Association*.
 
-- **Wu Z**, Frangakis CE, Louis TA, Scharfstein DO (2014). Estimating Treatment Effects in Cluster Randomized Trials by Calibrating Covariate Imbalances between Clusters. *Biometrics*, 70: 1014–1022. doi: 10.1111/biom.12214.[[pdf]](http://onlinelibrary.wiley.com/doi/10.1111/biom.12214/abstract) [[ArXiv]](http://arxiv.org/abs/1411.5787?context=stat) [[slides]](/files/doc/slides/mpcr.pdf) [[R code]](http://onlinelibrary.wiley.com/store/10.1111/biom.12214/asset/supinfo/biom12214-sm-0001-SuppData_Code.zip?v=1&s=0434b191ec083e646962764d3708c3721bc7476d)
+- **Chén Y.**, and Xiao L. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. To submit to *Biometrics*. 
+  
+- **Chén Y.**, Di J., and Xiao L. (In progress 2015 -) Penalised Iterative Sparse Partial Correlation Estimation ($\Pi$-SPaCE) - with an application to whoe-brain graph estimation.
 	
-- Georgiades C, Geschwind J-F, Neil H, Hines-Peralta A, Liapi E, Hong K, **Wu Z**, Kamel I, Frangakis CE(2012). Lack of response after initial chemoembolization for hepatocellular carcinoma: Does it predict failure of subsequent treatment? Radiology 265:115-123.[[pdf]](http://pubs.rsna.org/doi/abs/10.1148/radiol.12112264)
-	
-### under review
-- **Wu Z**, Deloria-Knoll M, and Zeger SL (2015+). Nested Partially-Latent Class Models for Dependent Binary Data; Estimating Disease Etiology. [[pdf]](http://biostats.bepress.com/jhubiostat/paper276/)[[R code]](http://github.com/zhenkewu/nplcm)
-	
-###in preparation
 
-- **Wu Z**, Zeger SL. Partial Latent Class Model in Regression Analysis.
+- **Chén Y.**, Di J., Cohen J., Nebel M.B., and Lindquist M. (In progress 2015-) A Numerical Comparison of Reliability of Different Imaging Methods in Brain Parcellation and Node Identification: with an Application to the Human Connectome Project Data.
+
+- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (In progress 2015-) Ultrahigh Dimensional Principal Direction of Mediation. In progress.
 	
-- **Wu Z**, Knoll MD, Li M, Zeger SL: Longitudinal Latent Variable Models for Etiologic Inferences.
+- **Chén Y.**, and Jacroux, M$^*$. (2014) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*.
 	
-- **Wu Z**, Ogburn EL. A Latent Space Model for Inference in A Single Social Network.
+- Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics*.
 	
-- **Wu Z**, Zeger SL. Individualizing Health with Longitudinal Measurements and Feedback in Treatment Assignments
+- Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2012) Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute.
 	
-- PERCH Study Group: Burden and Etiology of Severe Childhood Pneumonia in Developing Countries (Pneumonia Etiology Research for Child Health, PERCH): A 21st Century Perspective. In preparation for *Lancet*.
+- **Chén Y.**, (2010) An Introduction and the Application of the Computerized Intelligent Information Analysis and Filter System Model (CIIAFSM).  
