@@ -1,6 +1,6 @@
 ---
-layout: page
 title: Personal
+layout: page
 tags: [about, Jekyll, theme, responsive]
 modified: 2015-07-05T20:53:07.573882-04:00
 comments: 
