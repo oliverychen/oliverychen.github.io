@@ -10,28 +10,18 @@ image:
   creditlink: #http://texturelovers.com
 ---
 
-* instructor
+* Instructor
 
-	* 2014 Statistical Methods for Individualizing Health. Mayo Clinic, November 17, Rochester, MN. (Short course taught with Prof. Scott Zeger)<br><br>
+	* Statistical Thinking (Stat 205), Department of Statistics, Washington State University (WSU), 2011-2012.<br><br>
 	
-* guest lecturer
+* Teaching Assistant
 
-	* 2012 A unified framework for high-dimensional analysis of M-estimators with decomposable regularizers. Advanced Special Topics, 140.840: Large-scale Inference, Prof. Han Liu<br><br>
-		
-* teaching assistant
-
-	* 2014 Multilevel Statistical Models, Graduate, 140.656. Dr. Elizabeth Colantuoni.
+	* 2015 Statistical Methods in Public Health IV, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 	
-	* 2014 Analysis of Longitudinal Data, Graduate, 140.655. Dr. Elizabeth Colantuoni
+	* 2015 Principles and Methods of Functional Neuroimaging II, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 	
-	* 2013 Biostatistics in Public Health, Undergraduate, 280.346, advanced. Prof. Scott Zeger.
+	* 2014 Principles and Methods of Functional Neuroimaging I, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 	
-	* 2013 [Case-based Introduction to Biostatistics](https://www.coursera.org/course/casebasedbiostat), www.coursera.org, Prof. Scott Zeger.
+	* 2014 Statistical Reasoning in Public Health I, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
     
-	* 2013 Bayesian Methods I-II, Graduate, 140.762-763, Prof. Gary Rosner.
-	
-	* 2012 Biostatistics in Public Health, Undergraduate, 280.346, advanced. Prof. Scott Zeger
-	
-	* 2011-12 Advanced Probability Theory I-II, Graduate, 550.620 - 621, Prof. James Fill.
-	
-	* 2010-11 Essentials of Probability and Statistical Inference I-IV, Graduate, 140.646-649. Profs. Michael Rosenblum and Charles Rohde.
+	* 2010-2012 Introduction to Statistical Methods (Stat 212), Department of Statistics, WSU.
