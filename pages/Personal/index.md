@@ -9,8 +9,6 @@ comments: true
 
 ![x](/images/Dumas.jpg)
 
-<br />
-
 ## Painting
 
 I have been painting *Gōng-Bi* (工筆) style *watercolor* (aquarelle) for twenty years; I also enjoy *oil painting*. Here are some of my works.
