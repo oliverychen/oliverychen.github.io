@@ -1,12 +1,8 @@
 # Site wide configuration
 
-title:           "Home-Oliver Y. Chen"
-headtitle:       "Oliver Y. Chen"
-description:     "Personal website of Oliver Chen"
-logo:            
-teaser:          
+title:            Site Title
 locale:           en_US
-url:              https://github.com/zhenkewu
+url:              
 
 
 # Jekyll configuration
@@ -30,30 +26,24 @@ kramdown:
 
 # Site owner
 owner:
-  name: Oliver Chen
-  avatar: OLIVER.JPG
-  bio: "Graduate Fellow at Johns Hopkins Department of Biostatistics. "
-  position: "Graduate Fellow"
-  department: "Department of Biostatistics"
-  school: "Bloomberg School of Public Health"
-  university: "Johns Hopkins University"
-  email: olivery.chen@gmail.com
-  email2: "oliver@jhmi.edu"
-  navcolor: "#D91838"
-  skype: oliverchan1988
-  disqus-shortname: oliverychen
-  twitter: 
-  facebook: 
+  name: Your Name
+  avatar: bio-photo.jpg
+  bio: "Describe your self."
+  email: 
+  disqus-shortname: 
+  twitter: #username
+  facebook: #username
   google:
-    plus: 
-    analytics: UA-57530925-1
+    plus: #username
+    analytics: 
     verify: 
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: oliverychen
+  github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
+  xing: #username
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -61,6 +51,10 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
