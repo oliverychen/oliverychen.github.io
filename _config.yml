@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            "HOME: Oliver Y. Chen"
+title:            "HOME: Oliver Y. Chén"
 locale:           en_US
 url:              http://oliverychen.github.io
 
@@ -28,7 +28,7 @@ kramdown:
 owner:
   name: Oliver Chen
   avatar: OLIVER.JPG
-  bio: "Graduate Fellow at Department of Biostatistics of the Johns Hopkins University."
+  bio: "Graduate Fellow at Department of Biostatistics, the Johns Hopkins University."
   email: olivery.chen@gmail.com
   disqus-shortname: 
   twitter: #username

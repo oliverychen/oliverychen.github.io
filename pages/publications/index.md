@@ -2,14 +2,17 @@
 layout: page
 title: publications
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2015-07-05T20:53:07.573882-04:00
 comments:
-image:
-  feature: texture-feature-01.jpg
-  credit: #Texture Lovers
-  creditlink: #http://texturelovers.com
+
+
 ---
 
+{% include _head.html %}
+
+![x](/images/Gauss.jpg)
+
+<br />
 ### published/in preparation 
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (2015) The Principal Direction of Mediation. Submitting to *Journal of the American Statistical Association*.
