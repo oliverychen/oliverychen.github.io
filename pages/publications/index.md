@@ -14,7 +14,7 @@ comments:
 
 - **Chén Y.**, and Xiao L. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. To submit to *Biometrics*. 
   
-- **Chén Y.**, Di J., and Xiao L. (In progress 2015 -) Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whoe-brain graph estimation.
+- **Chén Y.**, Di J., and Xiao L. (In progress 2015 -) Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation.
 	
 - **Chén Y.**, Di J., Cohen J., Nebel M.B., and Lindquist M. (In progress 2015-) A Numerical Comparison of Reliability of Different Imaging Methods in Brain Parcellation and Node Identification: with an Application to the Human Connectome Project Data.
 
