@@ -16,7 +16,6 @@ comments:
   
 - **Chén Y.**, Di J., and Xiao L. (In progress 2015 -) Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whoe-brain graph estimation.
 	
-
 - **Chén Y.**, Di J., Cohen J., Nebel M.B., and Lindquist M. (In progress 2015-) A Numerical Comparison of Reliability of Different Imaging Methods in Brain Parcellation and Node Identification: with an Application to the Human Connectome Project Data.
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (In progress 2015-) Ultrahigh Dimensional Principal Direction of Mediation. In progress.
@@ -28,3 +27,14 @@ comments:
 - Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2012) Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute.
 	
 - **Chén Y.**, (2010) An Introduction and the Application of the Computerized Intelligent Information Analysis and Filter System Model (CIIAFSM).  
+
+## Books and Book Chapters
+
+- **Chén Y.**, Wu ZK (In progress 2014-) Optimization in Statistics: with Applications.
+
+- Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184.
+
+
+For more, see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
+  
+
