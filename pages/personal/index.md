@@ -18,7 +18,6 @@ I have been painting *Gōng-Bi* (工筆) style *watercolor* (aquarelle) for twen
 ![x](/images/Taibai.jpg)
 
 <br />
-<br />
 Date painted: 2006
 <br />
 Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
@@ -40,7 +39,6 @@ The painting was painted à la Gōng-bi (工筆) on xüān paper (宣紙, made o
 ![x](/images/Pondering_the_Imponderables.jpg)
 
 <br />
-<br />
 Date painted: 2006
 <br />
 Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
@@ -52,6 +50,7 @@ Technique: Gong-bi (工筆)
 #### L'horizon du port intérieur de Baltimore
 
 ![x](/images/Baltimore.jpg)
+
 <br />
 Date painted: 2014
 <br />
