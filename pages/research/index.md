@@ -61,6 +61,8 @@ Objective measurement of physical activity using wearable devices such as accele
 ![y](/images/intercept.png) 
 <br />
 Bivariate intercept estimation
+
+<br />
 ![x](/images/slope.png) 
 <br />
 Bivariate slope estimation
