@@ -10,7 +10,7 @@ excerpt:
 
 <br />
 <br />
-Oliver is a Graduate Fellow Ph.D. student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/) and Assistant Professor Dr. [Elizabeth (Betsy) Ogburn](http://www.eogburn.com). He also works closely with Professor Dr. [Brian Caffo](http://www.bcaffo.com) from Hopkins Biostatistics and Assistant Professor Dr. [Xiao Luo](http://biostat.jhsph.edu/~lxiao)
+Oliver is a Graduate Fellow Ph.D. student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/) and Assistant Professor Dr. [Elizabeth (Betsy) Ogburn](http://www.eogburn.com). He also works with Professor Dr. [Brian Caffo](http://www.bcaffo.com) from Hopkins Biostatistics and Assistant Professor Dr. [Xiao Luo](http://biostat.jhsph.edu/~lxiao)
 from the Department of Statistics at the North Carolina State University. He is a member of the [Statistical Methods and Applications for Research in Technology (SMART)](http://www.smart-stats.org) group.
 
 <br />
