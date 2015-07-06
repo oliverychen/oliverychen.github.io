@@ -52,6 +52,8 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 <br />
 ![x](/images/intercept.png) 
 
+<br />
+
 ![x](/images/slope.png) 
 <br />
 
