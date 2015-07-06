@@ -49,7 +49,6 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 # Bivariate Longitudinal Functional Data Analysis
 
 <br />
-<br />
 ![y](/images/intercept.png) 
 
 <br />
