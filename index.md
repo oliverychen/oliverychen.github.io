@@ -24,4 +24,4 @@ He likes to think about statistics philosophy also, but he usually ends up getti
 
 
 <br />
-His curriculum vitae is [here](/files/doc/CV_Chen_Feb_2015.pdf).
+His **curriculum vitae** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
