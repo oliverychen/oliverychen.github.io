@@ -20,7 +20,7 @@ and an outcome variable.
 <br />
 <br />
 
-![](/images/path.png =50x50)
+![](/images/path.png =30x30)
 
 The three-variable path diagram used to represent the multivariate mediation framework. The variables corresponding to Z and Y are scalars, while the variable corresponding to M is a ultra-high dimensional vector. The influence of the intermediate variable on the outcome is often determined using structural equation models (SEMs), with model coefficients interpreted as effects. However little work has been done on mediation analysis when the intermediate variable (mediator) is a highdimensional vector. As a motivating example, consider a functional magnetic resonance imaging (fMRI) study of thermal pain where we are interested in determining which brain measurements (over hundreds of thousands of voxels) mediate the relationship between the application of a thermal stimulus and self-reported pain. To address the problem of high dimensional mediators in the context of linear SEMs, we propose a framework called the principal direction of mediation (PDM).
 <br />
