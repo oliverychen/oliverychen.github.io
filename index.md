@@ -20,8 +20,4 @@ He received his Master's in Theoratical Statistics from the [Department of Mathe
 His primary research interest is in computational neuroscience (an interdisciplinary study of statistics, computer optimization and neuroscience). For example, in a brain mediation analysis where the mediator consists whole-brain voxels of dimension more than 200,000. He is also interested in functional data analysis, partial correlation estimation and graph estimation, causal inference, experimental design, and problems relating to high dimensional data analysis. 
 
 <br />
-He likes to think about statistics philosophy also, but he usually ends up getting lost before he turns to Socrates or Birnbaum, and gives up thereupon (not because the former died of drinking the poison and the latter committed suicide, but because he figures he is constantly trying to quantify certainty based upon uncertainty, a statistical idée fixe). This process, nevertheless, keeps recurring intermittently. 
-
-
-<br />
-His **curriculum vitae** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
+His <span font-size:2em;">curriculum vitae </span> is [here](/files/doc/CV_Chen_Feb_2015.pdf).
