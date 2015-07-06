@@ -2,7 +2,10 @@
 
 
 
-- title: Research
+- title: Home
+  url: /pages/home/
+
+ - title: Research
   url: /pages/research/
 
 - title: Publications
