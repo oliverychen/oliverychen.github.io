@@ -12,7 +12,7 @@ comments: true
 <br />
 ---
 
-## Principal Direction of Mediation
+# Principal Direction of Mediation
 
 Mediation analysis has become an important tool in the behavioral sciences for investigating
 the role of intermediate variables that lie in the path between a randomized treatment
@@ -45,7 +45,7 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 <br />
 
 
-## By-variate Longitudinal Functional Data Analysis
+# By-variate Longitudinal Functional Data Analysis
 
 <br />
 <br />
@@ -58,7 +58,7 @@ Objective measurement of physical activity using wearable devices such as accele
 <br />
 
 
-## Packages
+# Packages
 
 I am the author and maintainer of the follows packages. 
 
