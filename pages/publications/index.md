@@ -35,6 +35,8 @@ comments:
 - Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184.
 
 
-For more, see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
+## Others
+
+- For more information, see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
   
 
