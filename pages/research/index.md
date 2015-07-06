@@ -46,7 +46,7 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 <br />
 
 
-# By-variate Longitudinal Functional Data Analysis (LFDA)
+# By-variate Longitudinal Functional Data Analysis
 
 <br />
 <br />
