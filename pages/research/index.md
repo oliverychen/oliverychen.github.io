@@ -22,7 +22,7 @@ and an outcome variable.
 
 ![](/images/path.png)
 
-The three-variable path diagram used to represent the multivariate mediation framework. The variables corresponding to Z and Y are scalars, while the variable corresponding to M is a ultra-high dimensional vector. The influence of the intermediate variable on the outcome is often determined using structural equation models (SEMs), with model coefficients interpreted as effects. However little work has been done on mediation analysis when the intermediate variable (mediator) is a highdimensional vector. As a motivating example, consider a functional magnetic resonance imaging (fMRI) study of thermal pain where we are interested in determining which brain measurements (over hundreds of thousands of voxels) mediate the relationship between the application of a thermal stimulus and self-reported pain. To address the problem of high dimensional mediators in the context of linear SEMs, we propose a framework called the principal direction of mediation (PDM).
+The three-variable path diagram used to represent the multivariate mediation framework. The variables corresponding to Z and Y are scalars, while the variable corresponding to M is a ultra-high dimensional vector. Little work has been done on mediation analysis when the intermediate variable (mediator) is a highdimensional vector. As a motivating example, consider a functional magnetic resonance imaging (fMRI) study of thermal pain where we are interested in determining which brain measurements (over 200,000 voxels) mediate the relationship between the application of a thermal stimulus and self-reported pain. To address the problem of high dimensional mediators in the context of linear SEMs, we propose a framework called the principal direction of mediation (PDM).
 <br />
 <br />
 <br />
@@ -55,7 +55,7 @@ Objective measurement of physical activity using wearable devices such as accele
 
 ## Packages
 
-I am the Author and Maintainer of the follows packages. 
+I am the author and maintainer of the follows packages. 
 
 #### Principal Direction of Mediation (PDM)
 * `PDM`: The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
