@@ -1,0 +1,18 @@
+# Site navigation links
+
+
+
+- title: Home
+  url: /pages/home/
+
+- title: Research
+  url: /pages/research/
+
+- title: Publications
+  url: /pages/publications/
+
+- title: Teaching
+  url: /pages/teaching/
+
+- title: Personal
+  url: /pages/personal/
