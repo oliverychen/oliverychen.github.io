@@ -50,14 +50,12 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 
 <br />
 <br />
-![x](/images/intercept.png) 
+![y](/images/intercept.png) 
 
-<br />
 <br />
 Bivariate intercept estimation
 ![x](/images/slope.png) 
 
-<br />
 <br />
 Bivariate slope estimation
 
