@@ -18,7 +18,10 @@ He received his Master's in Theoratical Statistics from the [Department of Mathe
 
 
 <br />
-His primary research interest is in computational neuroscience (an interdisciplinary study of statistics, computer optimization and neuroscience). For example, in a brain mediation analysis where the mediator consists whole-brain voxels of dimension more than 200,000. He is also interested in functional data analysis, partial correlation estimation and graph estimation, causal inference, experimental design, and problems relating to high dimensional data analysis. 
+His primary research interest is in computational neuroscience (an interdisciplinary study of statistics, computer optimization and neuroscience). For example, consider a fMRI study of thermal pain where we are interested in determining which brain measurements (over 200,000 voxels) mediate the relationship between the application of a thermal stimulus and self-reported pain. He is also interested in functional data analysis, partial correlation estimation and graph estimation, causal inference, experimental design, and problems relating to high dimensional data analysis. 
+
+
+ 
 
 <br />
 His **curriculum vitae** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
