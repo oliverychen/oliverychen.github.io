@@ -24,5 +24,8 @@ comments: true
 	
 	* 2014 Statistical Reasoning in Public Health I, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
     
-	* 2010-2012 Introduction to Statistical Methods (Stat 212), Department of Statistics, Washington State University.
+	* 2010-2012 Introduction to Statistical Methods (Spring), Department of Mathematics and Statistics, Washington State University.
+
+  * 2010-2012 Introduction to Statistical Methods (Fall), Department of Mathematics and Statistics, Washington State University.
+
 
