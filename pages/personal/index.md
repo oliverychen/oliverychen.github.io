@@ -75,7 +75,7 @@ I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is De
 
 ## Wine
 
-I enjoy collecting and studying red wine, especially when combined with some captivating conversation with my friends.
+I enjoy studying red wine, especially when combined with some captivating conversation with my friends.
 
 <br />
 ---
