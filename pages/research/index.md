@@ -21,7 +21,6 @@ and an outcome variable.
 <br />
 
 ![](/images/path.png)
-
 The three-variable path diagram used to represent the multivariate mediation framework. The variables corresponding to Z and Y are scalars, while the variable corresponding to M is a ultra-high dimensional vector. Little work has been done on mediation analysis when the intermediate variable (mediator) is a highdimensional vector. As a motivating example, consider a functional magnetic resonance imaging (fMRI) study of thermal pain where we are interested in determining which brain measurements (over 200,000 voxels) mediate the relationship between the application of a thermal stimulus and self-reported pain. To address the problem of high dimensional mediators in the context of linear SEMs, we propose a framework called the principal direction of mediation (PDM).
 <br />
 <br />
@@ -30,8 +29,6 @@ The three-variable path diagram used to represent the multivariate mediation fra
 ![x](/images/figure0.png)
 
 <br />
-<br />
-
 Brain activity measured over 206; 777 voxels after thermal stimulation. (Upper left) Two trials from the same subject receiving a stimulation of 48C overlayed on one another; (Upper right) Two trials from two different subjects both receiving a stimulation of 48C; (Lower left) Two trials from the same subject receiving stimulations of 42C (gray) and 48C (cyan); (Lower right) Two trials from two different subjects receiving stimulations of 42C (gray) and 48C (cyan). The cyan line in all four plots corresponds to the same trial for the same subject.
 
 
@@ -41,7 +38,6 @@ Brain activity measured over 206; 777 voxels after thermal stimulation. (Upper l
 
 <br />
 <br />
-
 Thresholded map corresponding to the first Principal Direction of Mediation (PDM). The map is consistent with regions typically considered active in pain research; including cerebellum, ventral medial prefrontal cortex, dorsal posterior insula, and secondary somatosensory cortex.
 
 <br />
