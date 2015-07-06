@@ -29,7 +29,8 @@ The three-variable path diagram used to represent the multivariate mediation fra
 ![x](/images/figure0.png)
 
 <br />
-Brain activity measured over 206; 777 voxels after thermal stimulation. (Upper left) Two trials from the same subject receiving a stimulation of 48C overlayed on one another; (Upper right) Two trials from two different subjects both receiving a stimulation of 48C; (Lower left) Two trials from the same subject receiving stimulations of 42C (gray) and 48C (cyan); (Lower right) Two trials from two different subjects receiving stimulations of 42C (gray) and 48C (cyan). The cyan line in all four plots corresponds to the same trial for the same subject.
+Brain activity measured over 206,777 voxels after thermal stimulation. 
+(Upper left) Two trials from the same subject receiving a stimulation of 48C overlayed on one another; (Upper right) Two trials from two different subjects both receiving a stimulation of 48C; (Lower left) Two trials from the same subject receiving stimulations of 42C (gray) and 48C (cyan); (Lower right) Two trials from two different subjects receiving stimulations of 42C (gray) and 48C (cyan). The cyan line in all four plots corresponds to the same trial for the same subject.
 <br />
 <br />
 
