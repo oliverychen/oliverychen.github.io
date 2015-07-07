@@ -76,7 +76,7 @@ Bivariate slope estimation
 <br />
 <br />
 
-# Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) -  whole-brain graph estimation
+# Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with whole-brain graph estimation
 
 **Keywords** `Sparse partial correlation estimation`, `Graph estimation`, `Network study`, `fMRI`.
 <br />
