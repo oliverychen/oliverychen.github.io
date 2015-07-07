@@ -20,7 +20,7 @@ comments:
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (In progress 2015-) Ultrahigh Dimensional Principal Direction of Mediation. In progress.
 	
-- **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen-Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
+- **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen_Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
 	
 - Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics*.
 	
