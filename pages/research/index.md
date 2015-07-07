@@ -14,7 +14,8 @@ comments: true
 
 # Principal Direction of Mediation (PDM)
 
-*Keywords* principal direction of mediation, principal components analysis, fMRI, mediation analysis, structural equation models, high-dimensional data.
+**Keywords** `Principal direction of mediation`, `Principal components analysis`, `fMRI`, `Mediation analysis`, `Structural equation models`, `High-dimensional data`.
+<br />
 
 Mediation analysis has become an important tool in the behavioral sciences for investigating
 the role of intermediate variables that lie in the path between a randomized treatment
@@ -50,7 +51,8 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 
 # Bivariate Longitudinal Functional Data Analysis
 
-*Keywords* Accelerometry, Bivariate smoothing, Covariance function, FACE, P-splines.
+**Keywords** `Accelerometry`, `Bivariate smoothing`, `Covariance function`, `FACE`, `P-splines`.
+<br />
 
 ![x](/images/all.png) 
 
@@ -75,7 +77,8 @@ Bivariate slope estimation
 
 # Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE)
 
-*Keywords* Sparse Partial Correlation Estimation, Graph Estimation, Network Study, fMRI.
+**Keywords** `Sparse partial correlation estimation`, `Graph estimation`, `Network study`, `fMRI`.
+<br />
 
 Sparse matrix estimation is often used in network science including neuroscience, social network, and genomic study, where the networks are high-dimensional and sparse. Graph estimation is subsequently used to numerically and visually delineate the networks between different brain voxels, individuals, or genes. While there has been significant research on the topic in recent years, most existing methods require pre-selecting the non-zero support set of the correlation matrix, or entailing a time-consuming block-wise estimation fashion. To address the problem of ultra-highdimensional network estimation where little prior information is present, we propose a framework called the Penalized Iterative Sparse Partial Correlation Estimation (Π-SPaCE). This framework does not require prior information: it allows us to estimate the off-diagonal elements of the partial correlation matrix directly, and is faster than traditional methods in high-dimensional sparse matrix setting. We study this method using simulation and an application to whole-brain graph estimation using data from an fMRI study.
 <br />
