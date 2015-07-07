@@ -80,6 +80,7 @@ Bivariate slope estimation
 
 **Keywords** `Sparse partial correlation estimation`, `Graph estimation`, `Network study`, `fMRI`.
 <br />
+<br />
 
 ![x](/images/graph_estimation.png) 
 
