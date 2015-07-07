@@ -32,7 +32,7 @@ comments:
 
 - **Chén Y.**, Wu ZK (In progress 2014-) Optimization in Statistics: with Applications.
 
-- Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184.
+- Dasgupta, N., **Chén Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184.
 
 
 ## Others
