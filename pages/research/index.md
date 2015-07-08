@@ -17,7 +17,7 @@ comments: true
 **Keywords** `Principal direction of mediation`, `Principal components analysis`, `fMRI`, `Mediation analysis`, `Structural equation models`, `High-dimensional data`.
 <br />
 <br />
-
+<br />
 Mediation analysis has become an important tool in the behavioral sciences for investigating
 the role of intermediate variables that lie in the path between a randomized treatment
 and an outcome variable.
