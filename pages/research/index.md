@@ -52,10 +52,12 @@ The principal direction of mediation (PDM) is philosophically similar to princip
 <br />
 Thresholded map corresponding to the first Principal Direction of Mediation (PDM). 
 
+<br />
 ![x](/images/map_2.jpg) 
 
 <br />
-The same map using the top 5% most extreme values.The map is consistent with regions typically considered active in pain research; including cerebellum, ventral medial prefrontal cortex, dorsal posterior insula, and secondary somatosensory cortex.
+The same map using the top 5% most extreme values.
+<br />The maps are consistent with regions typically considered active in pain research; including cerebellum, ventral medial prefrontal cortex, dorsal posterior insula, and secondary somatosensory cortex.
 
 
 <br />
