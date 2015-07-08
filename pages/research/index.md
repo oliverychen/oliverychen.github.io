@@ -39,7 +39,7 @@ Brain activity measured over 206,777 voxels after thermal stimulation.
 <br />
 
 <br />
-The principal direction of mediation (PDM) is philosophically similar to principal componentanalysis (PCA), but addresses a fundamentally different problem. The first PDM is thelinear combination of the elements of a high-dimensional vector of potential mediators thatmaximizes the likelihood of the SEM. Like PCA, subsequent directions can thereafter befound that maximizes the likelihood of the SEM conditional on being orthogonal to previousdirections. We provide an estimation algorithm and prove some asymptotic propertiesof the obtained estimates. The efficacy of the approach is illustrated through simulationsand an application to data from an fMRI study of thermal pain.
+The principal direction of mediation (PDM) is philosophically similar to principal component analysis (PCA), but addresses a fundamentally different problem. The first PDM is the linear combination of the elements of a high-dimensional vector of potential mediators that maximizes the likelihood of the SEM. Like PCA, subsequent directions can thereafter be found that maximizes the likelihood of the SEM conditional on being orthogonal to previous directions. We provide an estimation algorithm and prove some asymptotic properties of the obtained estimates. The efficacy of the approach is illustrated through simulations and an application to data from an fMRI study of thermal pain.
 
 ### The first Principal Direction of Mediation
 <br />
