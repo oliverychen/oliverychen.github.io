@@ -15,7 +15,7 @@ Oliver is a Graduate Fellow student of the [Department of Biostatistics](http://
 <br />
 He is interested in the following technological areas
 
-- (Brain) Mediation analysis: theory and methods
+- (Brain) mediation analysis: theory and methods
 
 - Computational neuroscience
 
