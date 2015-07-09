@@ -6,6 +6,5 @@ excerpt:
 ---
 {% include _scripts.html %}
 
-[](/files/doc/CV_Chen_Feb_2015.pdf)
 
 His **curriculum vitae** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
