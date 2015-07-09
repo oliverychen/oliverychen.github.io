@@ -14,23 +14,23 @@ Oliver is a Graduate Fellow student of the [Department of Biostatistics](http://
 
 <br />
 He is interested in the following statistical areas
-- computational neuroscience. For example, develope statistical theory and methods in (brain) mediation analysis when the intermediate variable is ultra-high dimensional (~200,000 voxles).
 
-- high-dimensional longitudinal functional data analysis
+- Computational neuroscience. For example, develope statistical theory and methods in (brain) mediation analysis when the intermediate variable is ultra-high dimensional (~200,000 voxles).
 
-- partial correlation estimation
+- High-dimensional longitudinal functional data analysis
 
-- smoothing and semiparametric regression
+- Partial correlation estimation
+
+- Smoothing and semiparametric regression
 
 <br />
 His major scientific areas of interests are
-- neuroscience
 
-- structural and functional MRI
+- Neuroscience
 
-- network and graph estimation, in particular whole-brain graph estimation
+- Structural and functional MRI
 
-- wearable computing, in particular aging research related to physical activity
+- Network and graph estimation, in particular whole-brain graph estimation
 
 
 
