@@ -13,15 +13,14 @@ excerpt:
 Oliver is a Graduate Fellow student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/) and Assistant Professor Dr. [Elizabeth (Betsy) Ogburn](http://www.eogburn.com).
 
 <br />
-He is interested in the following statistical areas
+He is interested in the following technological areas
 
-- Computational neuroscience. For example, develope statistical theory and methods in (brain) mediation analysis when the intermediate variable is ultra-high dimensional (~200,000 voxles).
+- (Brain) Mediation analysis: theory and methods
+
+- Computational neuroscience
 
 - High-dimensional longitudinal functional data analysis
 
-- Partial correlation estimation
-
-- Smoothing and semiparametric regression
 
 <br />
 His major scientific areas of interests are
@@ -30,9 +29,9 @@ His major scientific areas of interests are
 
 - Structural and functional MRI
 
-- Network and graph estimation, in particular whole-brain graph estimation
+- Graph estimation, in particular whole-brain graph estimation
 
-
+He has also worked on projects relating to partial correlation estimation and smoothing, semiparametric regression, and cross-over experimental design.
 
 
 <br />
