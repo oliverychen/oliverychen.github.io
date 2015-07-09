@@ -17,9 +17,11 @@ He is interested in the following technological areas
 
 - (Brain) mediation analysis: theory and methods
 
-- Computational modelling
+- Computational modelling and programming
 
-- High-dimensional (longitudinal functional) data analysis
+- Computational (theoretical) neuroscience
+
+- High-dimensional longitudinal functional data analysis
 
 
 <br />

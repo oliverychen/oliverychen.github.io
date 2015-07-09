@@ -17,9 +17,11 @@ He is interested in the following technological areas
 
 - (Brain) mediation analysis: theory and methods
 
-- Computational modelling
+- Computational modelling and programming
 
-- High-dimensional (longitudinal functional) data analysis
+- Computational (theoretical) neuroscience
+
+- High-dimensional longitudinal functional data analysis
 
 
 <br />
@@ -31,8 +33,8 @@ His major scientific areas of interests are
 
 - Graph estimation, in particular whole-brain graph estimation
 
-He has also worked on projects relating to partial correlation estimation and smoothing, semiparametric regression, and cross-over experimental design.
 
+He has also worked on projects relating to partial correlation estimation and smoothing, semiparametric regression, and cross-over experimental design.
 
 <br />
 His **curriculum vitae** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
