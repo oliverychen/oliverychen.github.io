@@ -59,8 +59,13 @@ Thresholded map corresponding to the first Principal Direction of Mediation (PDM
 The same map using the top 5% most extreme values.
 
 <br />
+![x](/images/PDM1pos.jpg)
+Positive first PDM. 
+
+<br />
 The maps are consistent with regions typically considered active in pain research; including cerebellum, ventral medial prefrontal cortex, dorsal posterior insula, and secondary somatosensory cortex.
 
+`**Prior to official prints, please obtain permission from my advisor first to review results of negative first PDM, and higher order PDMs**`
 
 <br />
 <br />
