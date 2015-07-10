@@ -24,7 +24,7 @@ and an outcome variable.
 <br />
 <br />
 
-![](/images/path.png)
+![](/images/path.jpeg)
 The three-variable path diagram used to represent the multivariate mediation framework. The variables corresponding to Z and Y are scalars, while the variable corresponding to M is an ultra-high dimensional vector.
 <br />
 <br />
