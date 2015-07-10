@@ -66,7 +66,7 @@ Positive first PDM.
 The maps are consistent with regions typically considered active in pain research; including cerebellum, ventral medial prefrontal cortex, dorsal posterior insula, and secondary somatosensory cortex.
 
 <br />
-**Prior to official prints, please obtain permission from my advisor first to review results of negative first PDM, and higher order PDMs**
+**Prior to official prints, please obtain permission from my advisor first to review results of negative first PDM, and higher order PDMs.**
 
 <br />
 <br />
