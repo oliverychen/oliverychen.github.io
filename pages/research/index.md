@@ -12,7 +12,7 @@ comments: true
 <br />
 ---
 
-# Principal Direction of Mediation (PDM)
+# High-dimensional Multivariate Mediation: the Principal Direction of Mediation
 
 **Keywords** `Principal direction of mediation`, `Principal components analysis`, `fMRI`, `Mediation analysis`, `Structural equation models`, `High-dimensional data`.
 <br />
