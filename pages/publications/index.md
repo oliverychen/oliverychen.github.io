@@ -18,7 +18,7 @@ comments:
 	
 - **Chén Y.**, Di J., Cohen J., Nebel M.B., and Lindquist M. (In progress 2015-) A Numerical Comparison of Reliability of Different Imaging Methods in Brain Parcellation and Node Identification: with an Application to the Human Connectome Project Data.
 
-- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (In progress 2015-) Ultrahigh Dimensional Principal Direction of Mediation. In progress.
+- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (In progress 2015-) Ultrahigh Dimensional Principal Direction of Mediation in Applications.
 	
 - **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen_Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
 	
