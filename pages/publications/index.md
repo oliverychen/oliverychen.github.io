@@ -10,7 +10,7 @@ comments:
 ![x](/images/Gauss.jpg)
 <br />
 
-- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (2015) [The Principal Direction of Mediation](/files/doc/PDM.pdf). Submitting to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/PDM_Supplemental_Materials_June_12.pdf)
+- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](/files/doc/PDM.pdf). Submitting to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/PDM_Supplemental_Materials_June_12.pdf)
 
 - **Chén Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) [A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change](/files/doc/LFDA.pdf). To submit to *Biometrics*. 
   
