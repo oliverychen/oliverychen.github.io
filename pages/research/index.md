@@ -13,7 +13,7 @@ comments: true
 ---
 
 # High-dimensional Multivariate Mediation:
-<br />
+
 # the Principal Direction of Mediation
 
 **Keywords** `Principal direction of mediation`, `Principal components analysis`, `fMRI`, `Mediation analysis`, `Structural equation models`, `High-dimensional data`.
