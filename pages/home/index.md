@@ -10,7 +10,7 @@ excerpt:
 
 <br />
 <br />
-Oliver is a Graduate Fellow student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/) and Assistant Professor Dr. [Elizabeth (Betsy) Ogburn](http://www.eogburn.com).
+Oliver is a Graduate Fellow student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/).
 
 <br />
 He is interested in the following technological areas
