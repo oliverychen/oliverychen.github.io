@@ -121,7 +121,7 @@ I am the author and maintainer of the follows packages.
 #### Principal Direction of Mediation (PDM)
 * `PDM`: The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
-* [Go to repository](http://github.com/oliverychen/PDM/)
+* [Go to repository](http://www.github.com/oliverychen/PDM/)
 
 * To install in R:
 <br />
