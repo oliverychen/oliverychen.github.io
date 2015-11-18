@@ -10,9 +10,10 @@ comments:
 ![x](/images/Gauss.jpg)
 <br />
 
-- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](/files/doc/PDM.pdf). Submitting to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/PDM_Supplemental_Materials_June_12.pdf)
+- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](/files/doc/PDM.pdf). Submitting to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/PDM_Supplemental_Materials_June_12.pdf) `Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.`
 
-- **Chén Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) [A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change](/files/doc/LFDA.pdf). To submit to *Biometrics*. 
+
+- **Chén Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) [A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change](/files/doc/LFDA.pdf). To submit to *Biometrics*. `With an invited talk at the 8th International Conference of the ERCIM WG on Computational and Methodological Statistics` 
   
 - **Chén Y.**, Di J., and Xiao L. (In progress 2015 -) [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
 	
@@ -22,6 +23,8 @@ comments:
 	
 - **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen_Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
 	
+- Gershman S., **Chén Y.**, Konkle T. (In preparation 2015 -) The Generative Representational Similarity Analysis. `Joint work at Harvard University the Center for Brain Science and Department of Psychology.`
+
 - Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics*.
 	
 - Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2012) Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute.
