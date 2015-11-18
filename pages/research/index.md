@@ -78,8 +78,10 @@ The maps are consistent with regions typically considered active in pain researc
 **Keywords** `Accelerometry`, `Bivariate smoothing`, `Covariance function`, `FACE`, `P-splines`.
 <br />
 
+<br />
 Objective measurement of physical activity using wearable devices such as accelerometers provides detailed information on patterns and intensities of daily physical activity, which can be potential biomarkers of human aging. Accelerometers record quasi-continuous activity information for many days and for hundreds of individuals. For example, in the Baltimore Longitudinal Study on Aging, daily physical activity was recorded for about 300 adults during each visit for several days and each subject has two to four visits. An interesting problem that naturally arises is how to quantify daily physical activity patterns change with age, gender, body mass index, among other covariates. We propose a longitudinal functional data model where the parameters of interest are bivariate functions of time and age. To deal with the complex correlation structure in the data, we use a GEE-type approach for model estimation. For efficient parameters and covariance estimation, we introduce a two-step procedure
 
+<br />
 <br />
 ![y](/images/response.png) 
 Physical activities for four subjects without noise and with moderate noise. The results are based upon mutually orthogonal bases. The black and cyan lines indicate two different within-subject trials.
@@ -94,6 +96,7 @@ Bivariate intercept estimation. From left to right: true, estimated (stage I), a
 ![x](/images/slope.png) 
 Bivariate slope estimation. From left to right: true, estimated (stage I), and estimated (stage II) bivariate slope surfaces.
 
+<br />
 <br />
 ![y](/images/covariance.png) 
 Heatmaps for the estimated, smoothed, and true bivariate between and within covariances.
