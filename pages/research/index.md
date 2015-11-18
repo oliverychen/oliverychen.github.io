@@ -84,7 +84,7 @@ Objective measurement of physical activity using wearable devices such as accele
 <br />
 <br />
 ![y](/images/response.png) 
-Physical activities for four subjects without noise and with moderate noise. The results are based upon mutually orthogonal bases. The black and cyan lines indicate two different within-subject trials.
+Physical activities for four subjects without noise, with moderate noise, and with large noise. The results are based upon mutually orthogonal bases. The black and cyan lines indicate two different within-subject trials.
 
 
 <br />
