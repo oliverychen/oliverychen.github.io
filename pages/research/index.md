@@ -73,7 +73,7 @@ The maps are consistent with regions typically considered active in pain researc
 <br />
 
 
-# Bivariate Longitudinal Functional Data Analysis
+# Longitudinal Functional Data Analysis
 
 **Keywords** `Accelerometry`, `Bivariate smoothing`, `Covariance function`, `FACE`, `P-splines`.
 <br />
