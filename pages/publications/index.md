@@ -10,7 +10,7 @@ comments:
 ![x](/images/Gauss.jpg)
 <br />
 
-- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](http://arxiv.org/pdf/1511.09354v1.pdf/). Submitted to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/HDMM_Supplemental_Materials.pdf) `Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.`
+- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](http://arxiv.org/pdf/1511.09354v1.pdf). Submitted to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/HDMM_Supplemental_Materials.pdf) `Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.`
 
 - **Chén Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) [A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change](/files/doc/LFDA.pdf). To submit to *Biometrics*. `With an invited talk at the 8th International Conference of the ERCIM WG on Computational and Methodological Statistics.` 
   
