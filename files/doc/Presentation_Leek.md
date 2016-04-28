@@ -11,6 +11,8 @@ tags:
 comments: yes
 ---
 
+By [Jeff Leek](http://jtleek.com/). Converted by [Oliver Y.C.](http://oliverychen.com). For more cool stuff: visit [Jeff Leek](http://jtleek.com/).
+
 --------------------
 
 This guide is part of the series of guides that have so far covered [data sharing](https://github.com/jtleek/datasharing), [reviewing papers](https://github.com/jtleek/reviews), and [writing R packages](https://github.com/jtleek/rpackages). The guide is designed primarily for students in statistics and computational biology although some of the ideas will be useful in other disciplines as well.
@@ -179,7 +181,6 @@ Use at your own risk, but these are talks I like or have given (or both :-).
 * [Karl Broman](http://kbroman.org/pages/talks.html)
 * [Zach Holmann](http://zachholman.com/talks)
 * [Hilary Mason](http://www.hilarymason.com/category/presentations-2/)
-* 
 
 
 Other good/interesting talk guides
@@ -188,9 +189,4 @@ Other good/interesting talk guides
 * Nacho Caballero at [F1000Research blog](http://blog.f1000research.com/2014/08/13/how-to-give-a-talk-that-everyone-remembers/)
 * Alyssa Frazee on [her blog](http://alyssafrazee.com/ideas-for-super-awesome-conferences.html) 
 
-
-Contributors
-------
-
-* [Jeff Leek](http://jtleek.com/)
 
