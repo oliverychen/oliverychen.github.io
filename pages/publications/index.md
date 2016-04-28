@@ -16,7 +16,7 @@ comments:
 
 - [The Elements of Style](/files/doc/Style.pdf) teaches concise and vigorous English writing.
 
-- Professor [Jeff Leek](http://jtleek.com) gives good advice on effective presentation [here.](https://github.com/jtleek/talkguide)
+- Professor [Jeff Leek](http://jtleek.com) gives good advice on effective presentation [here](https://github.com/jtleek/talkguide).
 
 
 ## Recent Work
