@@ -1,158 +1,16 @@
-% Use only LaTeX2e, calling the article.cls class and 12-point type.
+---
+title: "The Leek group guide to giving talks"
+layout: page
+modified: '2014-08-08T20:53:07.573882-04:00'
+output: pdf_document
+tags:
+- about
+- Jekyll
+- theme
+- responsive
+comments: yes
+---
 
-\documentclass[12pt]{article}
-\usepackage{fullpage, amsfonts, natbib}
-\usepackage{algorithmic, algorithm, enumerate, color,url,multirow}
-\usepackage{times}
-\usepackage{dsfont}
-\usepackage{graphicx}
-\usepackage{amsmath}
-\usepackage{caption}
-\usepackage{subcaption}
-\usepackage{mathrsfs}
-\usepackage{amssymb}
-\usepackage{pdfpages}
-\usepackage{tabularx}
-\usepackage{multirow}
-\usepackage{gensymb}
-\usepackage{amsthm}
-\usepackage{relsize}
-\usepackage[hidelinks]{hyperref}
-\hypersetup{colorlinks=true,citecolor=blue}
-\DeclareMathOperator*{\argmax}{argmax}
-\providecommand{\keywords}[1]{\textbf{Keywords} #1}
-\newcommand\ringring[1]{%
-  {% make an Ord atom
-   \mathop{\kern0pt #1}\limits^{% set a box over the variable
-     \vbox to-1.85ex{
-       \kern-2ex % lower the ring accents
-       \hbox to 0pt{\hss\normalfont\kern.1em \r{}\kern-.45em \r{}\hss}%
-       \vss % fill
-     }% end of \vbox
-   }% end of the superscript
-  }% end of \mathop
-}
-
-\topmargin 0.0cm
-\oddsidemargin 0.2cm
-\textwidth 16cm 
-\textheight 21cm
-\footskip 1.0cm
-
-\newenvironment{sciabstract}{%
-\begin{quote} \bf}
-{\end{quote}}
-
-\newtheorem{thm}{Theorem}[]
-
-\renewcommand\refname{References and Notes}
-
-\newcounter{lastnote}
-\newenvironment{scilastnote}{%
-\setcounter{lastnote}{\value{enumiv}}%
-\addtocounter{lastnote}{+1}%
-\begin{list}%
-{\arabic{lastnote}.}
-{\setlength{\leftmargin}{.22in}}
-{\setlength{\labelsep}{.5em}}}
-{\end{list}}
-
-
-
-
-% Include your paper's title here
-
-%\title{The Principal Direction of Mediation} 
-
-\title{High-dimensional Multivariate Mediation\\
- with Application to Neuroimaging Data} 
-
-
-\author{
-Oliver Y. Ch\'en$^1$,  Elizabeth L. Ogburn$^1$, Ciprian M. Crainiceanu$^1$,\\ Brian S. Caffo$^1$, Tor D. Wager$^2$, Martin A. Lindquist$^1$ \\ \\
-$^1$ Department of Biostatistics\\
-\bigskip
-Johns Hopkins Bloomberg School of Public Health \\ 
-$^2$ Department of Psychology and Neuroscience\\
-University of Colorado Boulder
-}
-
-
-% Include the date command, but leave its argument blank.
-
-\date{}
-
-
-%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%
-\def\E{\mathbb{E}}
-\def\P{\mathbb{P}}
-\def\bE{\mathbf{E}}
-\def\cov{\textnormal{Cov}}
-\def\C{\mathcal{C}}
-
-\def\by{\mathbf{y}}
-\def\bY{\mathbf{Y}}
-\def\bZ{\mathbf{Z}}
-\def\bA{\mathbf{A}}
-\def\bB{\mathbf{B}}
-\def\bC{\mathbf{C}}
-\def\bBb{\breve{\mathbf{B}}}
-\def\1{\mathbf{1}}
-\def\bbeta{\boldsymbol{\beta}}
-\def\balpha{\boldsymbol{\alpha}}
-\def\bgamma{\boldsymbol{\gamma}}
-\def\bmu{\boldsymbol{\mu}}
-\def\bX{\mathbf{X}}
-\def\be{\boldsymbol{\e}}
-\def\bSigma{\boldsymbol{\Sigma}}
-\def\bGamma{\boldsymbol{\Gamma}}
-\def\bV{\mathbf{V}}
-\def\bI{\mathbf{I}}
-\def\bJ{\mathbf{J}}
-\def\b1{\mathbf{1}}
-\def\bP{\mathbf{P}}
-\def\bD{\mathbf{D}}
-\def\sigmahat{\hat{\sigma}}
-\def\sigmatilde{\tilde{\sigma}}
-\def\Chat{\hat{\C}}
-\def\Ctilde{\tilde{\C}}
-\def\bV{\mathbf{V}}
-\def\bVtilde{\tilde{\bV}}
-\def\bSigmatilde{\tilde{\bSigma}}
-\def\bSigmahat{\hat{\bSigma}}
-\def\bbetatilde{\tilde{\bbeta}}
-\def\vec{\textnormal{vec}}
-\def\be{\mathbf{e}}
-\def\bH{\mathbf{H}}
-\def\bYtilde{\tilde{\bY}}
-\def\diag{\textnormal{diag}}
-\def\ddiag{\textnormal{ddiag}}
-\def\bA{\mathbf{A}}
-\def\bu{\mathbf{u}}
-\def\bU{\mathbf{U}}
-\def\bD{\mathbf{D}}
-\def\bX{\mathbf{X}}
-\def\bY{\mathbf{Y}}
-\def\bM{\mathbf{M}}
-\def\bw{\mathbf{w}}
-\def\bff{\mathbf{f}}
-\def\btheta{\boldsymbol{\theta}}
-\def\bTheta{\boldsymbol{\Theta}}
-
-
-
-\begin{document}
-
-% Double-space the manuscript.
-
-\baselineskip24pt
-
-% Make the title.
-
-\maketitle 
-
-% Place your abstract within the special {sciabstract} environment.
-The Leek group guide to giving talks
 --------------------
 
 This guide is part of the series of guides that have so far covered [data sharing](https://github.com/jtleek/datasharing), [reviewing papers](https://github.com/jtleek/reviews), and [writing R packages](https://github.com/jtleek/rpackages). The guide is designed primarily for students in statistics and computational biology although some of the ideas will be useful in other disciplines as well.
@@ -336,5 +194,3 @@ Contributors
 
 * [Jeff Leek](http://jtleek.com/)
 
-
-\end{document}
