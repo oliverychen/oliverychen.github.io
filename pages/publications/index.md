@@ -10,11 +10,14 @@ comments:
 ![x](/images/Gauss.jpg)
 <br />
 
-## On Scientific Writing
+## On Scientific Writing and Presentation
 
-[This aritical](/files/doc/scientific_writing.pdf) is recommended by Professor [Andreas Buja](http://www-stat.wharton.upenn.edu/~buja) as "an article everybody should read" on scientific reading. Here is a [summary version](/files/doc/summary.pdf) of it.
+- [This aritical](/files/doc/scientific_writing.pdf) is recommended by Professor [Andreas Buja](http://www-stat.wharton.upenn.edu/~buja) as "an article everybody should read" on scientific reading. Here is a [summary version](/files/doc/summary.pdf) of it. 
 
-[The Elements of Style](/files/doc/style.pdf) teaches concise and vigorous English writing.
+- [The Elements of Style](/files/doc/style.pdf) teaches concise and vigorous English writing.
+
+- Professor [Jeff Leek](http://jtleek.com) gives good advice on effective presentation [here.](https://github.com/jtleek/talkguide)
+
 
 ## Recent Work
 
