@@ -72,10 +72,4 @@ I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is De
 <br />
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
 <br />
-
-## Wine
-
-I enjoy studying red wine, especially when combined with some captivating conversation with my friends.
-
-<br />
 ---
