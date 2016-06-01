@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: "Blog"
 layout: page
 tags: [about, Jekyll, theme, responsive]
 modified: 2015-07-05T20:53:07.573882-04:00
@@ -27,9 +27,14 @@ Jun 1, 2016
 
 May 1, 2016
 
+<br>
 If you would not be forgotten as soon as you are dead, either write something worth reading or do things worth writing.
 
-- Benjamin Franklin
+<br/>
+
+Benjamin Franklin
+
+<br/>
 
 I have been long thinking about writing a blog that puts in order a few resources from which I have benefited immensely in my yet-immature-but-steadily-improving academic writing and presenting career. On one hand, this project serves as a library to which I have an easy access; on the other hand, I hope that some students like myself can benefit from reading the list of articles, essays, and blogs below. This is an on-going project. Please send me recommendations of additional resources that can be included, and please check back every now and then as I update.
 
@@ -49,13 +54,28 @@ I have been long thinking about writing a blog that puts in order a few resource
 <li> Compare with the original</li> and
 <li> Revise and improve your essay.</li>
 
-- [Andrew Lee](http://www.hopkinsmedicine.org/otolaryngology/our_team/residents_fellows.html), MD, suggests that the best thing to do to improve writing skills is read are essays; and read them <b>critically</b>. By critically, he means while reading, think why does the author choose that particular word? What does that word do? Here is a list of additional sources he suggests us to read:
-<li> [The Atlantic](http://www.theatlantic.com)</li>
-<li> [The Economist](http://www.economist.com) </li>
-<li> [The New York Times Editorials](http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html)</li>
-<li> [Great Expectation](/files/Great_Expectations.pdf), by Charles Dickens</li>
-<li> [Crime and Punishment](/files/Crime_and_Punishment.pdf), by Fyodor Dostoevsky </li>
-<li> [Catch 22](/files/Catch_22.pdf), by Joseph Heller </li>
-<li> [Wuthering Heights](/files/Wuthering_Heights.pdf), by Emily Bronte</li>
-<li> [Heart of Darkness](/files/Heart_of_Darkness.pdf), by Joseph Conrad</li>
-<li> [Beloved](/files/Beloved.pdf) <a href="{{ site.baseurl }}"></a>, by Toni Morrison</li>[The Sound and the Fury](/files/The_sound_and_the_fury.pdf), by William Faulkner</li>
+<br />
+
+[Andrew Lee](http://www.hopkinsmedicine.org/otolaryngology/our_team/residents_fellows.html), MD, suggests that the best thing to do to improve writing skills is read are essays; and read them <b>critically</b>. By critically, he means while reading, think why does the author choose that particular word? What does that word do? Here is a list of additional sources he suggests us to read:
+
+<br />
+
+[The Atlantic](http://www.theatlantic.com)
+
+[The Economist](http://www.economist.com) 
+
+[The New York Times Editorials](http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html)
+
+[Great Expectation](/files/Great_Expectations.pdf), by Charles Dickens
+
+[Crime and Punishment](/files/Crime_and_Punishment.pdf), by Fyodor Dostoevsky 
+
+[Catch 22](/files/Catch_22.pdf), by Joseph Heller 
+
+[Wuthering Heights](/files/Wuthering_Heights.pdf), by Emily Bronte
+
+[Heart of Darkness](/files/Heart_of_Darkness.pdf), by Joseph Conrad
+
+[Beloved](/files/Beloved.pdf) <a href="{{ site.baseurl }}"></a>, by Toni Morrison
+
+[The Sound and the Fury](/files/The_sound_and_the_fury.pdf), by William Faulkner
