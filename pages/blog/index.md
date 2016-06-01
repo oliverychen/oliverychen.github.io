@@ -10,12 +10,30 @@ comments:
 ![x](/images/data_speak.jpg)
 <br />
 
-# Welcome to the Data Speak blog, where data speak.
+# Welcome to the <span style="color:red">Data Speak </span> blog, where data speak.
+<hr>
+
+<h2>Sir R. A. Fisher on Brain Science: a Fictional Interpretation</h2>
 
 Jun 1, 2016
 
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>Understanding how the brain works is arguably one of the greatest scientific challenges of our time.</p>
+
+– Alivisatos et al.
+
+</div> 
+
+<br> According to Sir R. A. Fisher, in his [Statisticcal Methods for Research Workers](/files/Fisher_1.pdf) book, Statistics may be regarded as <i>(i.) the study of populations, (ii.) as the study of variation, (iii.) as the study of methods of the reduction of data.</i>
+<br/>
 
 
+
+
+
+
+<hr>
 
 <h2>On Scientific Writing and Presentation</h2>
 
