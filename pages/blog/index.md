@@ -50,8 +50,9 @@ May 1, 2016
 </div> 
 
 <br>
-I have been long thinking about writing a blog that puts in order a few resources from which I have benefited immensely in my yet-immature-but-steadily-improving academic writing and presenting career. On one hand, this project serves as a library to which I have an easy access; on the other hand, I hope that some students like myself can benefit from reading the list of articles, essays, and blogs below. This is an on-going project. Please send me recommendations of additional resources that can be included, and please check back every now and then as I update.
+I have been long thinking about writing a blog that puts in order a few resources from which I have benefited immensely in my yet-immature-but-steadily-improving academic writing and presenting career. On one hand, this project serves as a library to which I have a convenient access; on the other hand, I hope that some students like myself can benefit from reading these articles, essays, and blogs below. This is an on-going project; and the choice of resources purely subjective. Nonetheless, if you have any comment, or if you would like to recommend additional resources, please <a href="mailto:olivery.chen@yahoo.com?Subject=Comment%20on%20your%20blog" target="_top">send</a> me an email. Please check back every now and then as I update.
 <br/>
+
 
 <br>[This aritical](/files/doc/scientific_writing.pdf) is recommended by Professor [Andreas Buja](http://www-stat.wharton.upenn.edu/~buja) as "an article everybody should read" on scientific reading. Here is a [summary version](/files/doc/summary.pdf) of it.
 <br/>
@@ -74,7 +75,7 @@ I have been long thinking about writing a blog that puts in order a few resource
 <li> Revise and improve your essay.</li>
 <br />
 
-<br>[Andrew Lee](http://www.hopkinsmedicine.org/otolaryngology/our_team/residents_fellows.html), MD, suggests that the best thing to do to improve writing skills is read are essays; and read them <b>critically</b>. By critically, he means while reading, think why does the author choose that particular word? What does that word do? Here is a list of additional sources he suggests us to read:
+<br> <a href="http://www.hopkinsmedicine.org/otolaryngology/our_team/residents_fellows.html">Andrew Lee</a>, MD, my former roommate, an ENT resident at the Johns Hopkins Hospital, and an excellent writer, suggests that the most effective thing to do to improve one's writing skills is to read essays; and read them <b>critically</b>. "By critically", Andrew elaborates, "I mean while reading, think why does the author choose that particular word, and what does that word do?" To highlight the importance of effective writing, I once asked Andrew to read an email of mine in response to a job application, which seemed to be on the verge of a declination at that time. He rewrote the email and got me the job. He did not change the context of the communication; but he carefully changed a few words, which improved the presentation drastically. Here is a list of resources he suggests to read:
 
 <li> <a href="http://www.theatlantic.com">The Atlantic</a> </li>
 <li> <a href="http://www.economist.com">The Economist</a> </li>
@@ -87,3 +88,4 @@ I have been long thinking about writing a blog that puts in order a few resource
 <li> <a href="{{ site.baseurl }}/files/Beloved.pdf">Beloved</a>, by Toni Morrison</li>
 <li> <a href="{{ site.baseurl }}/files/The_sound_and_the_fury.pdf">The Sound and the Fury</a>, by William Faulkner</li>
 <br/>
+
