@@ -10,15 +10,6 @@ comments:
 ![x](/images/Gauss.jpg)
 <br />
 
-## On Scientific Writing and Presentation
-
-- [This aritical](/files/doc/scientific_writing.pdf) is recommended by Professor [Andreas Buja](http://www-stat.wharton.upenn.edu/~buja) as "an article everybody should read" on scientific reading. Here is a [summary version](/files/doc/summary.pdf) of it. 
-
-- [The Elements of Style](/files/doc/Style.pdf) teaches concise and vigorous English writing.
-
-- Professor [Jeff Leek](http://jtleek.com) gives good advice on effective presentation [here](/files/doc/Presentation_Leek.pdf).
-
-
 ## Recent Work
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](http://arxiv.org/pdf/1511.09354v1.pdf). Submitted to *Journal of the American Statistical Association*. [Supplemental Materials](/files/doc/HDMM_Supplemental_Materials.pdf) `Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.`

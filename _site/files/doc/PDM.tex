@@ -1,0 +1,163 @@
+% Use only LaTeX2e, calling the article.cls class and 12-point type.
+
+\documentclass[12pt]{article}
+\usepackage{fullpage, amsfonts, natbib}
+\usepackage{algorithmic, algorithm, enumerate, color,url,multirow}
+\usepackage{times}
+\usepackage{dsfont}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{mathrsfs}
+\usepackage{amssymb}
+\usepackage{pdfpages}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{gensymb}
+\usepackage{amsthm}
+\usepackage{relsize}
+\usepackage[hidelinks]{hyperref}
+\hypersetup{colorlinks=true,citecolor=blue}
+\DeclareMathOperator*{\argmax}{argmax}
+\providecommand{\keywords}[1]{\textbf{Keywords} #1}
+\newcommand\ringring[1]{%
+  {% make an Ord atom
+   \mathop{\kern0pt #1}\limits^{% set a box over the variable
+     \vbox to-1.85ex{
+       \kern-2ex % lower the ring accents
+       \hbox to 0pt{\hss\normalfont\kern.1em \r{}\kern-.45em \r{}\hss}%
+       \vss % fill
+     }% end of \vbox
+   }% end of the superscript
+  }% end of \mathop
+}
+
+\topmargin 0.0cm
+\oddsidemargin 0.2cm
+\textwidth 16cm 
+\textheight 21cm
+\footskip 1.0cm
+
+\newenvironment{sciabstract}{%
+\begin{quote} \bf}
+{\end{quote}}
+
+\newtheorem{thm}{Theorem}[]
+
+\renewcommand\refname{References and Notes}
+
+\newcounter{lastnote}
+\newenvironment{scilastnote}{%
+\setcounter{lastnote}{\value{enumiv}}%
+\addtocounter{lastnote}{+1}%
+\begin{list}%
+{\arabic{lastnote}.}
+{\setlength{\leftmargin}{.22in}}
+{\setlength{\labelsep}{.5em}}}
+{\end{list}}
+
+
+
+
+% Include your paper's title here
+
+%\title{The Principal Direction of Mediation} 
+
+\title{High-dimensional Multivariate Mediation\\
+ with Application to Neuroimaging Data} 
+
+
+\author{
+Oliver Y. Ch\'en$^1$,  Elizabeth L. Ogburn$^1$, Ciprian M. Crainiceanu$^1$,\\ Brian S. Caffo$^1$, Tor D. Wager$^2$, Martin A. Lindquist$^1$ \\ \\
+$^1$ Department of Biostatistics\\
+\bigskip
+Johns Hopkins Bloomberg School of Public Health \\ 
+$^2$ Department of Psychology and Neuroscience\\
+University of Colorado Boulder
+}
+
+
+% Include the date command, but leave its argument blank.
+
+\date{}
+
+
+%%%%%%%%%%%%%%%%% END OF PREAMBLE %%%%%%%%%%%%%%%%
+\def\E{\mathbb{E}}
+\def\P{\mathbb{P}}
+\def\bE{\mathbf{E}}
+\def\cov{\textnormal{Cov}}
+\def\C{\mathcal{C}}
+
+\def\by{\mathbf{y}}
+\def\bY{\mathbf{Y}}
+\def\bZ{\mathbf{Z}}
+\def\bA{\mathbf{A}}
+\def\bB{\mathbf{B}}
+\def\bC{\mathbf{C}}
+\def\bBb{\breve{\mathbf{B}}}
+\def\1{\mathbf{1}}
+\def\bbeta{\boldsymbol{\beta}}
+\def\balpha{\boldsymbol{\alpha}}
+\def\bgamma{\boldsymbol{\gamma}}
+\def\bmu{\boldsymbol{\mu}}
+\def\bX{\mathbf{X}}
+\def\be{\boldsymbol{\e}}
+\def\bSigma{\boldsymbol{\Sigma}}
+\def\bGamma{\boldsymbol{\Gamma}}
+\def\bV{\mathbf{V}}
+\def\bI{\mathbf{I}}
+\def\bJ{\mathbf{J}}
+\def\b1{\mathbf{1}}
+\def\bP{\mathbf{P}}
+\def\bD{\mathbf{D}}
+\def\sigmahat{\hat{\sigma}}
+\def\sigmatilde{\tilde{\sigma}}
+\def\Chat{\hat{\C}}
+\def\Ctilde{\tilde{\C}}
+\def\bV{\mathbf{V}}
+\def\bVtilde{\tilde{\bV}}
+\def\bSigmatilde{\tilde{\bSigma}}
+\def\bSigmahat{\hat{\bSigma}}
+\def\bbetatilde{\tilde{\bbeta}}
+\def\vec{\textnormal{vec}}
+\def\be{\mathbf{e}}
+\def\bH{\mathbf{H}}
+\def\bYtilde{\tilde{\bY}}
+\def\diag{\textnormal{diag}}
+\def\ddiag{\textnormal{ddiag}}
+\def\bA{\mathbf{A}}
+\def\bu{\mathbf{u}}
+\def\bU{\mathbf{U}}
+\def\bD{\mathbf{D}}
+\def\bX{\mathbf{X}}
+\def\bY{\mathbf{Y}}
+\def\bM{\mathbf{M}}
+\def\bw{\mathbf{w}}
+\def\bff{\mathbf{f}}
+\def\btheta{\boldsymbol{\theta}}
+\def\bTheta{\boldsymbol{\Theta}}
+
+
+
+\begin{document}
+
+% Double-space the manuscript.
+
+\baselineskip24pt
+
+% Make the title.
+
+\maketitle 
+
+% Place your abstract within the special {sciabstract} environment.
+\newpage
+\begin{abstract}
+Mediation analysis has become an important tool in the behavioral sciences for investigating the role of intermediate variables that lie in the path between a randomized treatment and an outcome variable. The influence of the intermediate variable on the outcome is often determined using structural equation models (SEMs), with model coefficients interpreted as effects. While there has been significant research on the topic in recent years, little work has been done on mediation analysis when the intermediate variable (mediator) is a high-dimensional vector. In this work we present a new method for performing mediation in this setting called the directions of mediation (DMs). The first DM is defined as the linear combination of the elements of a high-dimensional vector of potential mediators that maximizes the likelihood of the SEM. The subsequent DMs are defined as linear combinations of the elements of the high-dimensional vector that are orthonormal to the previous DMs and maximize the likelihood of the SEM. We provide an estimation algorithm and establish the asymptotic properties of the obtained estimators. This method is well suited for cases when many potential mediators are measured. Examples of high-dimensional potential mediators are brain images composed of hundreds of thousands of voxels, genetic variation measured at millions of SNPs, or vectors of thousands of variables in large-scale epidemiological studies. We demonstrate the method using a functional magnetic resonance imaging (fMRI) study of thermal pain where we are interested in determining which brain locations mediate the relationship between the application of a thermal stimulus and self-reported pain. 
+
+\end{abstract}
+\keywords{directions of mediation, principal components analysis, fMRI, mediation analysis, structural equation models, high-dimensional data}
+
+
+\end{document}

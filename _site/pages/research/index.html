@@ -298,29 +298,34 @@ The maps are consistent with regions typically considered active in pain researc
 <p><br />
 <br /></p>
 
-<h1 id="bivariate-longitudinal-functional-data-analysis">Bivariate Longitudinal Functional Data Analysis</h1>
+<h1 id="longitudinal-functional-data-analysis">Longitudinal Functional Data Analysis</h1>
 
 <p><strong>Keywords</strong> <code>Accelerometry</code>, <code>Bivariate smoothing</code>, <code>Covariance function</code>, <code>FACE</code>, <code>P-splines</code>.
 <br /></p>
 
-<p><img src="/images/all.png" alt="x" /></p>
-
 <p><br />
-Raw versus estimated response</p>
-
-<p><br />
-<br />
 Objective measurement of physical activity using wearable devices such as accelerometers provides detailed information on patterns and intensities of daily physical activity, which can be potential biomarkers of human aging. Accelerometers record quasi-continuous activity information for many days and for hundreds of individuals. For example, in the Baltimore Longitudinal Study on Aging, daily physical activity was recorded for about 300 adults during each visit for several days and each subject has two to four visits. An interesting problem that naturally arises is how to quantify daily physical activity patterns change with age, gender, body mass index, among other covariates. We propose a longitudinal functional data model where the parameters of interest are bivariate functions of time and age. To deal with the complex correlation structure in the data, we use a GEE-type approach for model estimation. For efficient parameters and covariance estimation, we introduce a two-step procedure</p>
 
 <p><br />
+<br />
+<img src="/images/response.png" alt="y" /> 
+Physical activities for four subjects without noise, with moderate noise, and with large noise. The results are based upon mutually orthogonal bases. The black and cyan lines indicate two different within-subject trials.</p>
+
+<p><br />
 <img src="/images/intercept.png" alt="y" /> 
-Bivariate intercept estimation</p>
+Bivariate intercept estimation. From left to right: true, estimated (stage I), and estimated (stage II) bivariate intercept surfaces.</p>
 
 <p><br />
 <br />
 <img src="/images/slope.png" alt="x" /> 
-Bivariate slope estimation
+Bivariate slope estimation. From left to right: true, estimated (stage I), and estimated (stage II) bivariate slope surfaces.</p>
+
+<p><br />
 <br />
+<img src="/images/covariance.png" alt="y" /> 
+Heatmaps for the estimated, smoothed, and true bivariate between and within covariances.</p>
+
+<p><br />
 <br />
 <br /></p>
 
@@ -348,7 +353,24 @@ Sparse matrix estimation is often used in network science including neuroscience
     <p><code>PDM</code>: The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).</p>
   </li>
   <li>
-    <p><a href="http://github.com/oliverychen">[go to repository]</a></p>
+    <p><a href="http://www.github.com/oliverychen/PDM/">Go to repository</a>.</p>
+  </li>
+  <li>
+    <p>To install in R:
+<br />
+install.package(“devtools””)
+<br />
+library(devtools)
+<br />
+install_github(“oliverychen/PDM”)
+<br />
+library(PDM)
+<br />
+help(PDM)
+<br />
+help(PDM_1)
+<br />
+help(PDM_2)</p>
   </li>
 </ul>
 
@@ -368,7 +390,7 @@ Sparse matrix estimation is often used in network science including neuroscience
   <footer>
     
 
-<span>&copy; 2015 Oliver Y. Chén. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+<span>&copy; 2016 Oliver Y. Chén. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
 
   </footer>
 </div><!-- /.footer-wrap -->
