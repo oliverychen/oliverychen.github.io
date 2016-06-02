@@ -20,10 +20,13 @@ I work on research in the multidisciplinary area between statistics, computer sc
 
 - **High-dimensional brain mediation analysis**: when I hit your hand hard (there is an input), and you tell me that hurts (there is an output), which parts of your brain are potentially activated (there is a intermediate variable - brain - that is mediating the process)?
 
-- **Causal inference**: when I hit your hand hard, several parts of your brain are activated, and you tell me that hurts, (1) do some parts of your brain get activated first; (2) if so, (how) does the activation of some parts of the brain "causes" the activation of other parts; and (3) can we use brain signals to predict behaviors?
+- **Causal inference **: when I hit your hand hard, several parts of your brain are activated, and you tell me that hurts, (1) do some parts of your brain get activated first; (2) if so, (how) does the activation of some parts of the brain "causes" the activation of other parts; and (3) can we use brain signals to predict behaviors?
 
 - **Graph estimation**: when I hit your hand hard, and you tell me that hurts, what does your brain network look like? Before hitting your hand, I show you a picture of my hand and a picture of a [hammer](/images/hammer.jpg), does your brain signal differ? Can I predict what you see using your brain signals?
 
+Here I use an example of my hitting your hand. However, many extensions exist. For mediation analysis, the input can be extended to visual (presenting you different objects), auditory (playing you different types of sounds), etc., and the output can be extended to verbal (you tell me what you see, hear, or how you feel), movement (according to the input, choose to click a button or not), etc. Furthermore, it can be extended to where there is not any known input, for example, you tell me what you are thinking (output), and I wish to use your brain signals to predict whether you are lying. Moreover, it can be extended to where there is not any input, nor output, for example, we wish to decode your dream. For causal inference and graph estimation, it is interesting to study resting-state "causality" and network.
+
+<br> 
 Scientifically, I develope knowledge in statistis, computer science, behavioral and clinical neuroscience, psychology, and use brain data, to understand the brain, and ultimately, to understand who we are.
 
 <br>
