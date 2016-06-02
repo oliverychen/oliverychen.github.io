@@ -20,7 +20,7 @@ I work on research in the multidisciplinary area between statistics, computer sc
 
 - **High-dimensional brain mediation analysis**: when I hit your hand hard (there is an input), and you tell me that hurts (there is an output), which parts of your brain are potentially activated (there is a intermediate variable - brain - that is mediating the process)?
 
-- **Causal inference **: when I hit your hand hard, several parts of your brain are activated, and you tell me that hurts, (1) do some parts of your brain get activated first; (2) if so, (how) does the activation of some parts of the brain "causes" the activation of other parts; and (3) can we use brain signals to predict behaviors?
+- **Causal inference**: when I hit your hand hard, several parts of your brain are activated, and you tell me that hurts, (1) do some parts of your brain get activated first; (2) if so, (how) does the activation of some parts of the brain "causes" the activation of other parts; and (3) can we use brain signals to predict behaviors?
 
 - **Graph estimation**: when I hit your hand hard, and you tell me that hurts, what does your brain network look like? Before hitting your hand, I show you a picture of my hand and a picture of a [hammer](/images/hammer.jpg), does your brain signal differ? Can I predict what you see using your brain signals?
 
