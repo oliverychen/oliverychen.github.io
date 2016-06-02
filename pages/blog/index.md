@@ -13,7 +13,7 @@ comments:
 # Welcome to the <span style="color:red">Data Speak </span> blog, where data speak.
 <hr>
 
-<!-- 
+
 <h2>Sir R. A. Fisher on Brain Science: a Fictional Interpretation</h2>
 
 Jun 1, 2016
@@ -29,8 +29,40 @@ Jun 1, 2016
 <br> In the introductory of Sir R. A. Fisher's epic book [Statisticcal Methods for Research Workers](/files/Fisher_1.pdf), he introduced that Statistics may be regarded as <i>(i.) the study of populations, (ii.) as the study of variation, (iii.) as the study of methods of the reduction of data.</i>
 <br/>
 
+<br> 
+Here, we claim that the main interest of data analysis in neuroscience can be divided in to three areas according to Sir Fisher's above three viewpoints. We will further expatiate these three areas by including a few statistical approaches with regards to contemporary data science development in neuroscience.
+<br/>
+
+<br> 
+First, the study of brain data is to gain insights to understanding how brain perceives, processes, stores, and output information, in a **population**. One of the scientific end goals is to make scientific progress on diagnostics, treatments, cures and management of the brain disorders. Personalized treaments of brain diseases are ideal; yet current knowledge and technology have limitations. From an industry point of view, it is more cost effective and enduring to produce drugs that would treat 80% of the patients relative well, than those that are only effective to a few individuals. Admittedly, there is an increasing interest in understanding brain at the individual level, for example, using brain signals to identify a person (See  <a href="http://www.nature.com/neuro/journal/v18/n11/abs/nn.4135.html"> Constable et al</a> and <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4216735/pdf/nihms-637906.pdf"> Wachinger et al</a>, among others). We believe that with the advancement of data acquisition technology and increasing computing power, we can one day analyse single subject in a much quicker and accurate manner. However, a reasonable understanding of the brain at the population level will assist us in understanding the brain at the individual level; and two of the reasons why we are working on the brain at the population level is that (1) one day we can implement our knowledge of the brain in studying individual brains, such as an introduction of personalized brain medicinel; and (2) one day, we can create computers that mimic the way brain processes, e.g. <a href="http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html"> neural networks computer</a>.
+<br/>
+
+<br> 
+Second, why is studying the brain so complicated? There are three main challenges: (a) the brain is a complicated organ stored in a blackbox. Little do we know how information is processed in the box. For example, does the brain input and output information linearly, or non-linearly (and in which form)?; (b) there is so much variation amongst different brains in terms of sizes, volumes, shapes, etc; and (c) there is so much variation in measuring brain signals - the least invasive way of understanding the brain. Whilist the first challenge is mainly extensively tackled by computer scientists currently via proposing a variety of neural networks (e.g. <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network">recurrent neural networks</a>; <a href="https://en.wikipedia.org/wiki/Boltzmann_machine">Boltzmann neural network</a>; <a href="https://en.wikipedia.org/wiki/Deep_learning#Deep_neural_networks">Deep neural networks</a>; <a href="http://www.sciencedirect.com/science/article/pii/S0169207004001116">Adaptive neural networks</a>; <a href="https://en.wikipedia.org/wiki/Radial_basis_function_network">Radial basis networks</a>), statisticians working on neuroscience are actively seeking to overcome the latter two.
+<br/> 
+
+<br>
+![x](/images/decoding.jpg)
+<br/> 
+
+<br> 
+In brain science, the two efficient approaches in dealing with large data are (I) principal component analysis (PCA) and (II) sparcity. The PCA method captures the marjority of the variation of the data. However, it is inconsistent when p ~ n or p >> n. There are a few papers on sparse PCA that have demonstrated subspace consistency. For example, <a href="http://projecteuclid.org/download/pdfview_1/euclid.aos/1368018173">Ma et al</a> and <a href="https://arxiv.org/pdf/0911.3827.pdf">Jung et al</a>. The sparcity assumption, in essence, is to make p < n. It makes neurobiological sense in the following manner: the brain as an organ consumes energy. At any given time, be it resting state or task state, only a portion of the neurons are activated so as to reserve energy. I had conversation with Professor <a href="http://www.jhsph.edu/faculty/directory/profile/323/pien-chien-huang">Pien-Chien Huang</a>, during which he mentioned that we human-beings do not dream in color (or at least have dreams less vivid and coloful). <a href="http://www.faculty.ucr.edu/~eschwitz/SchwitzPapers/DreamChina051031.htm">Schwitzgebel et al</a> has an article discussing this. I conjecture (with absence of scientific evidence) that a part of the reason is the brain attempts to reserve energy while sleeping (where only the minimal amount of information is processed: e.g. the outlines and orientations are sufficient to distiguish different objects) - statistically a natural way of conducting data reduction! Much of the exisiting and on-going projects with regards to brain decoding, such as facial recognition and dream decoding, (see decoding simple pictures: <a href="http://haxbylab.dartmouth.edu/publications/HGF+01.pdf"> Haxby et al</a>, decoding objects with edges and orientations: <a href="http://www.nature.com/neuro/journal/v8/n5/full/nn1445.html"> Haynes and Rees </a> and <a href="http://www.nature.com/neuro/journal/v8/n5/full/nn1444.html"> Kamitani and Tong </a>, decoding complex picutres:<a href="http://gallantlab.org/_downloads/2009.Naselaris.etal.pdf"> Gallant et al </a>, decoding movies: <a href="https://www.youtube.com/watch?v=nsjDnYxJ0bo"> Gallant et al </a>, decoding intentions: <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.2011.05994.x/pdf"> Haynes et al </a>, and decoding dreams:<a href="http://science.sciencemag.org/content/340/6132/639"> Kamitani et al </a>) are conducted with a combination of conducting PCA, LASSO (sparcity assumption), and Bayesian analysis.
+<br/>
+
+<br> To deal with noisy data, preprocessing.
+<br/>
+
+
+
+
+
+
+
+
+
+
 <hr>
--->
+
 
 
 
@@ -50,7 +82,7 @@ May 1, 2016
 </div> 
 
 <br>
-I have been long thinking about writing a blog that puts in order a few resources from which I have benefited immensely in my yet-immature-but-steadily-improving academic writing and presenting career. On one hand, this project serves as a library to which I have a convenient access; on the other hand, I hope that some students like myself can benefit from reading these articles, essays, and blogs below. This is an on-going project; and the choice of resources purely subjective. Nonetheless, if you have any comment, or if you would like to recommend additional resources, please <a href="mailto:olivery.chen@yahoo.com?Subject=Comment%20on%20your%20blog" target="_top">send</a> me an email. Please check back every now and then as I update.
+I have been long thinking about writing a blog that puts in order a few resources from which I have benefited immensely in my yet-immature-but-steadily-improving academic writing and presenting skills. On one hand, this project serves as a library to which I have a convenient access; on the other hand, I hope that some students like myself can benefit from reading these articles, essays, and blogs below. This is an on-going project; and the choice of resources purely subjective. Nonetheless, if you have any comment, or if you would like to recommend additional resources, please <a href="mailto:olivery.chen@yahoo.com?Subject=Comment%20on%20your%20blog" target="_top">send</a> me an email. Please check back every now and then as I update.
 <br/>
 
 
