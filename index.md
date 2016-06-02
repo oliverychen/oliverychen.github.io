@@ -16,7 +16,7 @@ I am a Graduate Fellow student of the [Department of Biostatistics](http://www.j
 I work on research in the multidisciplinary area between statistics, computer science, and neuroscience. I am passionate about developing and implementing statistical theory, methods, and computer algorithms to understand the unknowns of the human brain and its pathology. I am especially interested in being an advocate to raise society’s awareness of diseases caused by human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
 <br/>
 
-<br>  There are three fundemental problems:
+<br>  I am interested in three main problems:
 
 - **High-dimensional brain mediation analysis**: when I hit your hand hard (there is an input), and you tell me that hurts (there is an output), which parts of your brain are potentially activated (there is an intermediate variable - brain - that is mediating the process)?
 
