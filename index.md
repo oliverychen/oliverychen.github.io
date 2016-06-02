@@ -30,7 +30,7 @@ Above I use an example of my hitting your hand. However, many extensions exist. 
 Scientifically, I develope knowledge in statistis, computer science, behavioral and clinical neuroscience, psychology, and use brain data, to understand the brain, and ultimately, to understand who we are.
 
 <br>
-I have a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog/).
+I write a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog/).
 <br/>
 
 <br />
