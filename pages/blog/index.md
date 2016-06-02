@@ -28,13 +28,27 @@ June 1, 2016
 
 <br> In the introductory of Sir R. A. Fisher's epic book [Statisticcal Methods for Research Workers](/files/Fisher_1.pdf), he introduced that Statistics may be regarded <i>(i.) as the study of populations, (ii.) as the study of variation, (iii.) as the study of methods of the reduction of data.</i>
 <br/>
+<br> 
+- Oliver Y. C.
+<br/>
+<br/>
+<br/>
+
 
 <br> 
-Here, we claim that the main interest of data analysis in neuroscience can be divided into three areas according to Sir Fisher's above three viewpoints. We will further expatiate these three areas by including a few statistical approaches with regards to contemporary data science development in neuroscience.
+June 1, 1919.
+<br/>
+
+<br>
+My name is Ronald Aylmer Fisher. I am a researcher at Rothamsted Experimental Station (the director here, Dr.<a href="https://en.wikipedia.org/wiki/E._John_Russell"> E. John Russell</a>, calls it Rothamsted Research for short) in Harpenden, a small town in the St Albans City district in the county of Hertfordshire, England. Here at Rothamsted Research, I analyze data obtained from crop experiments during the day. At night, I am working on a few manuscripts on experimental design and gathering several statistical methods to analyse variance in field studies. Two weeks ago, I paid a trip back to Cambridge and had a long discussion with my old boys John Keynes, Reginald Punnett, and Horace Darwin, and have become very interested in studying data collected from the human brain. I would like to present a few thoughts sprung from our conversation. 
+<br/>
+
+<br>
+I claim that the usefulness of statistics in neuroscience can be divided into three areas: the study of the brain in populations, (ii.) the study of variation of the brain between and within groups, and (iii.) the study of methods of the reduction of large brain data. I shall further expatiate these three areas by including statistical approaches with regards to data science development in neuroscience.
 <br/>
 
 <br> 
-First, the study of brain data is to gain insights to understanding how brain perceives, processes, stores, and output information, in a **population**. One of the scientific end goals is to make scientific progress on diagnostics, treatments, cures and management of brain disorders. Personalized treaments of brain diseases are ideal; yet current knowledge and technology have limitations. From an industry point of view, it is more cost effective and enduring to produce drugs that would treat 80% of the patients relative well, than those that are only effective to a few individuals. Admittedly, there is an increasing interest in understanding brain at the individual level, for example, using brain signals to identify a person (See  <a href="http://www.nature.com/neuro/journal/v18/n11/abs/nn.4135.html"> Constable et al</a> and <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4216735/pdf/nihms-637906.pdf"> Wachinger et al</a>, among others). We believe that with the advancement of data acquisition technology and increasing computing power, we can one day analyse single subject in a much quicker and accurate manner. However, a reasonable understanding of the brain at the population level will assist us in understanding the brain at the individual level; and two of the reasons why we are working on the brain at the population level is that (1) one day we can implement our knowledge of the brain in studying individual brains, such as an introduction of personalized brain medicine; and (2) one day, we can create computers that mimic the way brain processes, e.g. <a href="http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html"> neural networks computer</a>.
+First, the study of brain data is to gain insights to understanding how brain perceives, processes, stores, and output information, in a **population**. One of the scientific end goals is to make scientific progress on diagnostics, treatments, cures and management of brain disorders. Personalized treaments of brain diseases are ideal; yet current knowledge and technology have limitations. From an industry point of view, it is more cost effective and enduring to produce drugs that would treat 80% of the patients relative well, than those that are only effective to a few individuals. Admittedly, there is an increasing interest in understanding brain at the individual level, for example, using brain signals to identify a person (See  <a href="http://www.nature.com/neuro/journal/v18/n11/abs/nn.4135.html"> Constable et al</a> and <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4216735/pdf/nihms-637906.pdf"> Wachinger et al</a>, among others). I believe that with the advancement of data acquisition technology and increasing computing power, we can one day analyse single subject in a much quicker and accurate manner. However, a reasonable understanding of the brain at the population level will assist us in understanding the brain at the individual level; and two of the reasons why we are working on the brain at the population level is that (1) one day we can implement our knowledge of the brain in studying individual brains, such as an introduction of personalized brain medicine; and (2) one day, we can create computers that mimic the way brain processes, e.g. <a href="http://www.nature.com/nature/journal/v529/n7587/full/nature16961.html"> neural networks computer</a>.
 <br/>
 
 <br> 
