@@ -10,7 +10,7 @@ comments:
 ![x](/images/data_speak.jpg)
 <br />
 
-# Welcome to the <span style="color:red">Data Speak </span> blog, where data speak.
+# Welcome to the <span style="color:red">Data Whisper  </span> blog, where data whisper.
 <hr>
 
 
