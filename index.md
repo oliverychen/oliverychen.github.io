@@ -18,7 +18,7 @@ I work on research in the multidisciplinary area between statistics, computer sc
 
 <br>  There are three fundemental problems:
 
-- **High-dimensional brain mediation analysis**: when I hit your hand hard (there is an input), and you tell me that hurts (there is an output), which parts of your brain are potentially activated (there is a intermediate variable - brain - that is mediating the process)?
+- **High-dimensional brain mediation analysis**: when I hit your hand hard (there is an input), and you tell me that hurts (there is an output), which parts of your brain are potentially activated (there is an intermediate variable - brain - that is mediating the process)?
 
 - **Causal inference**: when I hit your hand hard, several parts of your brain are activated, and you tell me that hurts, (1) do some parts of your brain get activated first; (2) if so, (how) does the activation of some parts of the brain "causes" the activation of other parts; and (3) can we use brain signals to predict behaviors?
 
