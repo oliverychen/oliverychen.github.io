@@ -26,7 +26,7 @@ June 1, 2016
 
 </div> 
 
-<br> In the introductory of Sir R. A. Fisher's epic book [Statisticcal Methods for Research Workers](/files/Fisher_1.pdf), he introduced that Statistics may be regarded as <i>(i.) the study of populations, (ii.) as the study of variation, (iii.) as the study of methods of the reduction of data.</i>
+<br> In the introductory of Sir R. A. Fisher's epic book [Statisticcal Methods for Research Workers](/files/Fisher_1.pdf), he introduced that Statistics may be regarded <i>(i.) as the study of populations, (ii.) as the study of variation, (iii.) as the study of methods of the reduction of data.</i>
 <br/>
 
 <br> 
