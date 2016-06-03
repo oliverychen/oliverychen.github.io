@@ -22,7 +22,7 @@ Last updated: June 1, 2016
 
 <p>Statistics may be regarded (i.) as the study of populations, (ii.) as the study of variation, (iii.) as the study of methods of the reduction of data.</p>
 
-– Sir R. A. Fisher, Statisticcal Methods for Research Workers
+– Sir R. A. Fisher, Statistical Methods for Research Workers
 
 </div> 
 
