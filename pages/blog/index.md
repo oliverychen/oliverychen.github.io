@@ -16,7 +16,7 @@ comments:
 
 <h2>Sir R. A. Fisher on Brain Science: a Neo-fictional Interpretation</h2>
 
-June 1, 2016
+Last updated: June 1, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
 
