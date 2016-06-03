@@ -16,6 +16,13 @@ I am a Graduate Fellow student of the [Department of Biostatistics](http://www.j
 I work on research in the multidisciplinary area between statistics, computer science, and neuroscience. I am passionate about developing and implementing statistical theory, methods, and computer algorithms to understand the unknowns of the human brain and its pathology. I am especially interested in being an advocate to raise society’s awareness of diseases caused by human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
 <br/>
 
+<br>
+I write a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog/).
+<br/>
+
+<br />
+My **<font color="blue">curriculum vitae</font>** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
+
 <br>  I am interested in three main problems:
 
 - **High-dimensional brain mediation analysis**: when I hit your hand hard (there is an input), and you tell me that hurts (there is an output), which parts of your brain are potentially activated (there is an intermediate variable - brain - that is mediating the process)?
@@ -29,12 +36,7 @@ Above I use an example of my hitting your hand. However, many extensions exist. 
 <br> 
 Scientifically, I aim to develope my knowledge in statistis, computer science, behavioral and clinical neuroscience, psychology, and use brain data, to understand the brain, and ultimately, to understand who we are.
 
-<br>
-I write a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog/).
-<br/>
 
-<br />
-My **<font color="blue">curriculum vitae</font>** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
 
 <!--
 - (Brain) mediation analysis: theory and methods. For example, he is interested when the intermediate variable is a high-dimensional vector ( > 200,000 voxels).
