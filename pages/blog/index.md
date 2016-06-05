@@ -68,7 +68,8 @@ function (HRF)), respectively. Then <img center src="http://latex.codecogs.com/g
     <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
         <img src="{{ site.baseurl }}/images/fMRI_1.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
     </a>
-    <img src="{{ site.baseurl }}/images/fMRI_1.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+    <img src="{{ site.baseurl }}/images/fMRI_2.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+    <figcaption>Fig 1. Left: Raw fMRI; Right: Smoothed fMRI</figcaption>
 </div>
 
 
