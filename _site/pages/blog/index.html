@@ -265,8 +265,8 @@
 A useful approach to develop one’s skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&amp;url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&amp;usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making “causal” claims, etc.
 <br /></p>
 
-<h4>Part I: Model Basics</h4>
-<p>First, fMRI data can be decomposed into two parts: (a) experimental design caused activation, or resting state activation; and (b) noises. Namely,</p>
+<h4>Part 1: Model Basics</h4>
+<p>First, fMRI data can be decomposed into two parts: (a) signals (experimental design caused activation, or resting state activation); and (b) noises. Namely,</p>
 <center>
 <img center="" src="http://latex.codecogs.com/gif.latex?
 s(t) = h(t) + \epsilon(t),
@@ -276,7 +276,9 @@ s(t) = h(t) + \epsilon(t),
 where <img center="" src="http://latex.codecogs.com/gif.latex? s(t), h(t), " border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex? \epsilon(t)" border="0" /> are signal response, activation function, and noise, respectively, at time <img center="" src="http://latex.codecogs.com/gif.latex? t" border="0" />.
 <br /></p>
 
-<p><br /> The activation function <img center="" src="http://latex.codecogs.com/gif.latex?h(t) " border="0" /> is convolved from <img center="" src="http://latex.codecogs.com/gif.latex? h(t) = f(t)*g(t) = \int_{-\infty}^{\infty} f(\tau) g (t-\tau) d\tau" border="0" />, where we can treat <img center="" src="http://latex.codecogs.com/gif.latex? f(t)" border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex? g(t)" border="0" /> as a stimulas function (dependent upon experiemental design) and a “weight” function (a haemodynamic response
+<h4>1.1 Signals</h4>
+
+<p>The activation function <img center="" src="http://latex.codecogs.com/gif.latex?h(t) " border="0" /> is convolved from <img center="" src="http://latex.codecogs.com/gif.latex? h(t) = f(t)*g(t) = \int_{-\infty}^{\infty} f(\tau) g (t-\tau) d\tau" border="0" />, where we can treat <img center="" src="http://latex.codecogs.com/gif.latex? f(t)" border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex? g(t)" border="0" /> as a stimulas function (dependent upon experiemental design) and a “weight” function (a haemodynamic response
 function (HRF)), respectively. Then <img center="" src="http://latex.codecogs.com/gif.latex?h(t) " border="0" /> is, intuitively, a weighted (by <img center="" src="http://latex.codecogs.com/gif.latex?g(t) " border="0" />) average of <img center="" src="http://latex.codecogs.com/gif.latex?f(t) " border="0" /> over the real line. For example:</p>
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Convolution_of_spiky_function_with_box.gif" alt="W3Schools.com" />
@@ -293,7 +295,8 @@ g(t) = \frac{1}{k \tau_h (k-1)} \left( \frac{t}{\tau_h} \right)^k \exp{\{- \frac
 Consider a block function <img center="" src="http://latex.codecogs.com/gif.latex?f(t) " border="0" /> (corresponding to a block experimental design), then the convolved activation function <img center="" src="http://latex.codecogs.com/gif.latex?h(t) " border="0" /> using gamma-variate HRF function is shown below in dashed blue:</p>
 
 <p><img src="/images/Figure_1.jpeg" alt="HTML5 Icon" style="width:512px;" />
-<br /></p>
+<!-- --></p>
+<h4>1.2 Noises</h4>
 
 <!--
 <div style="background-color:lightgray; color:black; padding:20px;">

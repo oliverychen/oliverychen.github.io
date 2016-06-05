@@ -36,8 +36,8 @@ A useful approach to develop one's skills in investigating human brain data is t
 <br/>
 
 
-<h4>Part I: Model Basics</h4>
-First, fMRI data can be decomposed into two parts: (a) experimental design caused activation, or resting state activation; and (b) noises. Namely,
+<h4>Part 1: Model Basics</h4>
+First, fMRI data can be decomposed into two parts: (a) signals (experimental design caused activation, or resting state activation); and (b) noises. Namely,
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
 s(t) = h(t) + \epsilon(t),
@@ -47,7 +47,9 @@ s(t) = h(t) + \epsilon(t),
 where <img center src="http://latex.codecogs.com/gif.latex? s(t), h(t), " border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? \epsilon(t)" border="0"/> are signal response, activation function, and noise, respectively, at time <img center src="http://latex.codecogs.com/gif.latex? t" border="0"/>.
 <br/>
 
-<br> The activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
+<h4>1.1 Signals</h4>
+
+The activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
 " border="0"/> is convolved from <img center src="http://latex.codecogs.com/gif.latex?
 h(t) = f(t)*g(t) = \int_{-\infty}^{\infty} f(\tau) g (t-\tau) d\tau" border="0"/>, where we can treat <img center src="http://latex.codecogs.com/gif.latex? f(t)" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? g(t)" border="0"/> as a stimulas function (dependent upon experiemental design) and a "weight" function (a haemodynamic response
 function (HRF)), respectively. Then <img center src="http://latex.codecogs.com/gif.latex?h(t)
@@ -72,8 +74,8 @@ Consider a block function <img center src="http://latex.codecogs.com/gif.latex?f
 
 <img src="{{ site.baseurl }}/images/Figure_1.jpeg" alt="HTML5 Icon" 
 style="width:512px;">
-<br>
-
+<!-- -->
+<h4>1.2 Noises</h4>
 
 <!--
 <div style="background-color:lightgray; color:black; padding:20px;">
