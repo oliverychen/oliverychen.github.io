@@ -44,7 +44,13 @@ s(t) = h(t) + \epsilon(t),
 " border="0"/>
 </center>
 <br>
-where <img center src="http://latex.codecogs.com/gif.latex? s(t), h(t), " border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? \epsilon(t)" border="0"/> are the response signal, activation function, and noise, respectively, at time <img center src="http://latex.codecogs.com/gif.latex? t" border="0"/>.
+where <img center src="http://latex.codecogs.com/gif.latex? s(t), h(t), " border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? \epsilon(t)" border="0"/> are signal response, activation function, and noise, respectively, at time <img center src="http://latex.codecogs.com/gif.latex? t" border="0"/>.
+<br/>
+
+<br> The activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
+" border="0"/> is convolved from <img center src="http://latex.codecogs.com/gif.latex?
+h(t) = f(t)*g(t)," border="0"/>, where we can treat <img center src="http://latex.codecogs.com/gif.latex? f(t)" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? g(t)" border="0"/> as experiemental design and "weight", respectively.
+
 
 
 
