@@ -16,7 +16,7 @@ comments:
 
 <!-- blog III -->
 
-<h2>On Simulation of Artificial Functional Magnetic Resonance Imaging (fMRI) Data</h2>
+<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data</h2>
 
 Last updated: June 5, 2016
 
