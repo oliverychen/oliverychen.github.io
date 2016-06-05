@@ -49,15 +49,27 @@ where <img center src="http://latex.codecogs.com/gif.latex? s(t), h(t), " border
 
 <br> The activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
 " border="0"/> is convolved from <img center src="http://latex.codecogs.com/gif.latex?
-h(t) = f(t)*g(t)," border="0"/>, where we can treat <img center src="http://latex.codecogs.com/gif.latex? f(t)" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? g(t)" border="0"/> as experiemental design and "weight", respectively. Then <img center src="http://latex.codecogs.com/gif.latex?h(t)
-" border="0"/> can be regarded as weighted (by <img center src="http://latex.codecogs.com/gif.latex?g(t)
+h(t) = f(t)*g(t) = \int_{-\infty}^{\infty} f(\tau) g (t-\tau) d\tau" border="0"/>, where we can treat <img center src="http://latex.codecogs.com/gif.latex? f(t)" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? g(t)" border="0"/> as a stimulas function (dependent upon experiemental design) and a "weight" function (a haemodynamic response
+function (HRF)), respectively. Then <img center src="http://latex.codecogs.com/gif.latex?h(t)
+" border="0"/> is, intuitively, a weighted (by <img center src="http://latex.codecogs.com/gif.latex?g(t)
 " border="0"/>) average of <img center src="http://latex.codecogs.com/gif.latex?f(t)
-" border="0"/> over . For example:
+" border="0"/> over the real line. For example:
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Convolution_of_spiky_function_with_box.gif" alt="W3Schools.com">
 </center>
 
 
+<h4>Part II: Codes</h4>
+
+<h4>Part III: Imaging Results</h4>
+
+
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/fMRI_1.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+    </a>
+    <img src="{{ site.baseurl }}/images/fMRI_1.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
+</div>
 
 
 <hr>
