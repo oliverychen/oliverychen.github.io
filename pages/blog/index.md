@@ -14,6 +14,50 @@ comments:
 <hr>
 
 
+<!-- blog III -->
+
+<h2>Simulate Artificial fMRI Data</h2>
+
+Last updated: June 5, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>Understanding how the brain works is arguably one of the greatest scientific challenges of our time.</p>
+
+– Alivisatos et al
+
+</div> 
+
+<br/>
+
+
+<br> 
+A useful way to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a> , amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. 
+<br/>
+
+
+<br> First, fMRI data are composed of two parts: (a) experimental design caused activation, or resting state activation; and (b) noises. 
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+\int_0^2 2x^2 dx
+" border="0"/>
+</center>
+<br> 
+
+
+
+
+
+<hr>
+
+
+
+
+
+
+
+
+<!-- blog II -->
 <h2>Sir R. A. Fisher on Brain Science: a Neo-fictional Interpretation</h2>
 
 Last updated: June 1, 2016
@@ -75,7 +119,7 @@ The third usefulness of statistics in brain science is due to the practical need
 
 
 
-
+<!-- blog I -->
 <h2>On Scientific Writing and Presentation</h2>
 
 May 1, 2016
