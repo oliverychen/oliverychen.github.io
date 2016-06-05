@@ -51,8 +51,8 @@ where <img center src="http://latex.codecogs.com/gif.latex? s(t), h(t), " border
 " border="0"/> is convolved from <img center src="http://latex.codecogs.com/gif.latex?
 h(t) = f(t)*g(t)," border="0"/>, where we can treat <img center src="http://latex.codecogs.com/gif.latex? f(t)" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex? g(t)" border="0"/> as experiemental design and "weight", respectively. Then <img center src="http://latex.codecogs.com/gif.latex?h(t)
 " border="0"/> can be regarded as weighted (by <img center src="http://latex.codecogs.com/gif.latex?g(t)
-" border="0"/>) of <img center src="http://latex.codecogs.com/gif.latex?f(t)
-" border="0"/>. For example:
+" border="0"/>) average of <img center src="http://latex.codecogs.com/gif.latex?f(t)
+" border="0"/> over . For example:
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Convolution_of_spiky_function_with_box.gif" alt="W3Schools.com">
 </center>
