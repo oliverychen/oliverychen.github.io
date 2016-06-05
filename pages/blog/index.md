@@ -32,7 +32,7 @@ Last updated: June 5, 2016
 
 
 <br> 
-A useful way to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making "causal" claims, etc.
+A useful approach to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making "causal" claims, etc.
 <br/>
 
 
@@ -57,11 +57,54 @@ function (HRF)), respectively. Then <img center src="http://latex.codecogs.com/g
 <center>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Convolution_of_spiky_function_with_box.gif" alt="W3Schools.com">
 </center>
+There are a few choices of HRFs (<img center src="http://latex.codecogs.com/gif.latex? g(t)" border="0"/>), e.g., Gamma, double-Gamma, and the balloon model. Here, we take the Gamma function as an example. Consider the gamma-variate HRF function:
+<center>
+<img center src="http://latex.codecogs.com/gif.latex? 
+g(t) = \frac{1}{k \tau_h (k-1)} \left( \frac{t}{\tau_h} \right)^k \exp{\{- \frac{t}{\tau_h}\}}
+" border="0"/> 
+</center>
+with <img center src="http://latex.codecogs.com/gif.latex? k=3" border="0"/>  and <img center src="http://latex.codecogs.com/gif.latex? \tau_h = 0.242" border="0"/>;
+
+<br>
+Consider a block function <img center src="http://latex.codecogs.com/gif.latex?f(t)
+" border="0"/> (corresponding to a block experimental design), then the convolved activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
+" border="0"/> using gamma-variate HRF function is shown below in dashed blue:
+
+<img src="{{ site.baseurl }}/images/Figure_1.jpeg" alt="HTML5 Icon" 
+style="width:512px;">
+<br>
 
 
-<h4>Part II: Codes</h4>
+<!--
+<div style="background-color:lightgray; color:black; padding:20px;">
+<pre>
+	<code>
+totaltime <- 200
+dur <- 20
+delta_t <- 5
+onsets_1 <- seq(1, 200, 40)
+onsets_2 <- onsets_1 + delta_t
 
-<h4>Part III: Imaging Results</h4>
+### Simulate block design
+s <- stimfunction(totaltime = totaltime, onsets = onsets_1, 
+                  durations = dur, accuracy = 0.1)
+#par(mar=c(1,1,1,1))
+
+### Simulate one gamma-variate HRF function
+gamma_1 <- specifydesign(totaltime = totaltime, onsets = list(onsets_1), 
+                       durations = list(dur), effectsize = 1, TR = 2, conv = "gamma")
+
+### Simulate another (time-drift) gamma-variate HRF function
+gamma_2 <- specifydesign(totaltime = totaltime, onsets = list(onsets_2), 
+                         durations = list(dur), effectsize = 1, TR = 2, conv = "gamma")
+    </code>
+</pre>
+</div> 
+-->
+
+
+
+<h4>Part II: Imaging Results</h4>
 
 
 <div id="top">
