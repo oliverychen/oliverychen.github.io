@@ -76,6 +76,36 @@ Consider a block function <img center src="http://latex.codecogs.com/gif.latex?f
 style="width:512px;">
 <!-- -->
 <h4>1.2 Noises</h4>
+There are four types of noises: (1) white noise, (2) colored noise, (3) temporal noise, and (4) spatial noise. 
+
+<h5>1.2.1 White Noises</h5>
+1. a. It is a system noise that is part of the fMRI data. 
+1. b. It could be <i>Rician</i> distributed (for fMRI data with low signal-to-noise ratio, SNR); or <i>Gaussian</i> distributed (higher SNR, > 10).
+
+<h5>1.2.2 Colored Noises</h5>
+1. a. It depends upon the signal, the timing or the location
+1. b. For signal-dependent colored noises, it could be 
+(a) low-frequency drift (due to slow fuctuations in the scanner hardware; the drift is modeled as a basis of discrete cosine functions);
+(b) physiological noise (models the variability in the signal that is caused by cardiac and respiratory artefacts; the noise is modeled as sine and cosine functions); and
+(c) task-related noise (accounts for spontaneous neural activity due to the experimental
+task; modeled by adding random noise where and when activation is present; and it can be interpreted as residual noise from head motion that is not removed in the pre-processing stage).
+
+<h5>1.2.3 Temporal Noises</h5>
+1. a. Due to the fact that fMRI data are repeated measurements;
+1. b. It could be modeled as an <img center src="http://latex.codecogs.com/gif.latex?AR(p)
+" border="0"/> model:
+<img center src="http://latex.codecogs.com/gif.latex?
+\epsilon(t) = \sum_{i=1}^p \rho_i \epsilon_{t-i} + \eta_i,
+" border="0"/>
+where <img center src="http://latex.codecogs.com/gif.latex?
+\eta_i \sim N (0, \sigma^2)
+" border="0"/>.
+
+<h5>1.2.3 Spatial Noises</h5>
+1. a. It models the spatial dependencies in fMRI data: adjacent voxels are more correlated than those that are far apart;
+1. b . It could be modeled as (1) an AR correlation structure, (2) a Gaussian random
+field, and (3) a Gamma random field.
+
 
 <!--
 <div style="background-color:lightgray; color:black; padding:20px;">
@@ -106,7 +136,7 @@ gamma_2 <- specifydesign(totaltime = totaltime, onsets = list(onsets_2),
 
 
 
-<h4>Part II: Imaging Results</h4>
+<h4>Part 2: Imaging Results</h4>
 
 
 <div id="top">
