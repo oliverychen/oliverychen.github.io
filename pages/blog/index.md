@@ -69,7 +69,7 @@ with <img center src="http://latex.codecogs.com/gif.latex? k=3" border="0"/>  an
 
 <br>
 Consider a block function <img center src="http://latex.codecogs.com/gif.latex?f(t)
-" border="0"/> (corresponding to a block experimental design), then the convolved activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
+" border="0"/> (corresponding to a block experimental design; and in the following figure, the black lined blocks), then the convolved activation function <img center src="http://latex.codecogs.com/gif.latex?h(t)
 " border="0"/> using gamma-variate HRF function is shown below in dashed blue:
 
 <img src="{{ site.baseurl }}/images/Figure_1.jpeg" alt="HTML5 Icon" 
@@ -106,6 +106,15 @@ where <img center src="http://latex.codecogs.com/gif.latex?
 1. b . It could be modeled as (1) an AR correlation structure, (2) a Gaussian random
 field, and (3) a Gamma random field.
 
+As an illustration, below on the left, we present a figure with task-based noise; and on the right, a 3-D view of a 20 by 20 slide of Gaussian random field spatial noise.
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/task_based_noise.jpeg" alt="HTML5 Icon" style="height:200px;">
+    </a>
+    <img src="{{ site.baseurl }}/images/Gaussian_rf.jpg" alt="HTML5 Icon" style="height:200px;">
+</div>
+</center>
 
 <!--
 <div style="background-color:lightgray; color:black; padding:20px;">
@@ -135,10 +144,9 @@ gamma_2 <- specifydesign(totaltime = totaltime, onsets = list(onsets_2),
 -->
 
 
-
 <h4>Part 2: Imaging Results</h4>
 
-
+<center>
 <div id="top">
     <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
         <img src="{{ site.baseurl }}/images/fMRI_1.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
@@ -146,7 +154,7 @@ gamma_2 <- specifydesign(totaltime = totaltime, onsets = list(onsets_2),
     <img src="{{ site.baseurl }}/images/fMRI_2.gif" alt="HTML5 Icon" style="width:128px;height:128px;">
     <figcaption>Fig 1. Left: Raw fMRI; Right: Smoothed fMRI</figcaption>
 </div>
-
+</center>
 
 <hr>
 

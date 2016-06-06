@@ -292,7 +292,7 @@ g(t) = \frac{1}{k \tau_h (k-1)} \left( \frac{t}{\tau_h} \right)^k \exp{\{- \frac
 <p>with <img center="" src="http://latex.codecogs.com/gif.latex? k=3" border="0" />  and <img center="" src="http://latex.codecogs.com/gif.latex? \tau_h = 0.242" border="0" />;</p>
 
 <p><br />
-Consider a block function <img center="" src="http://latex.codecogs.com/gif.latex?f(t) " border="0" /> (corresponding to a block experimental design), then the convolved activation function <img center="" src="http://latex.codecogs.com/gif.latex?h(t) " border="0" /> using gamma-variate HRF function is shown below in dashed blue:</p>
+Consider a block function <img center="" src="http://latex.codecogs.com/gif.latex?f(t) " border="0" /> (corresponding to a block experimental design; and in the following figure, the black lined blocks), then the convolved activation function <img center="" src="http://latex.codecogs.com/gif.latex?h(t) " border="0" /> using gamma-variate HRF function is shown below in dashed blue:</p>
 
 <p><img src="/images/Figure_1.jpeg" alt="HTML5 Icon" style="width:512px;" />
 <!-- --></p>
@@ -330,6 +330,16 @@ where <img center="" src="http://latex.codecogs.com/gif.latex? \eta_i \sim N (0,
 field, and (3) a Gamma random field.</li>
 </ol>
 
+<p>As an illustration, below on the left, we present a figure with task-based noise; and on the right, a 3-D view of a 20 by 20 slide of Gaussian random field spatial noise.</p>
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/task_based_noise.jpeg" alt="HTML5 Icon" style="height:200px;" />
+    </a>
+    <img src="/images/Gaussian_rf.jpg" alt="HTML5 Icon" style="height:200px;" />
+</div>
+</center>
+
 <!--
 <div style="background-color:lightgray; color:black; padding:20px;">
 <pre>
@@ -359,6 +369,7 @@ gamma_2 <- specifydesign(totaltime = totaltime, onsets = list(onsets_2),
 
 <h4>Part 2: Imaging Results</h4>
 
+<center>
 <div id="top">
     <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
         <img src="/images/fMRI_1.gif" alt="HTML5 Icon" style="width:128px;height:128px;" />
@@ -366,6 +377,7 @@ gamma_2 <- specifydesign(totaltime = totaltime, onsets = list(onsets_2),
     <img src="/images/fMRI_2.gif" alt="HTML5 Icon" style="width:128px;height:128px;" />
     <figcaption>Fig 1. Left: Raw fMRI; Right: Smoothed fMRI</figcaption>
 </div>
+</center>
 
 <hr />
 
