@@ -222,7 +222,7 @@ The third usefulness of statistics in brain science is due to the practical need
 <!-- blog I -->
 <h2>On Scientific Writing and Presentation</h2>
 
-May 1, 2016
+Last updated: May 1, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
 
