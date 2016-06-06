@@ -110,7 +110,7 @@ As an illustration, below on the left, we present a figure with task-based noise
 <center>
 <div id="top">
     <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
-        <img src="{{ site.baseurl }}/images/task_based_noise.jpeg" alt="HTML5 Icon" style="height:200px;">
+        <img src="{{ site.baseurl }}/images/Task_based_noise.jpeg" alt="HTML5 Icon" style="height:200px;">
     </a>
     <img src="{{ site.baseurl }}/images/Gaussian_rf.jpg" alt="HTML5 Icon" style="height:200px;">
 </div>
