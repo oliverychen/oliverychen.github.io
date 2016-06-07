@@ -248,7 +248,7 @@
 <!-- blog Top -->
 
 <!-- blog IV -->
-<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II):Visualization</h2>
+<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II): Visualization</h2>
 
 <p>Last updated: June 7, 2016</p>
 
@@ -261,17 +261,17 @@
 </div>
 
 <p><br /> 
-Once we understand the data generation mechanism of fMRI data, and have become familiar with the parameters needed, we can proceed to simulate desired fMRI data.</p>
+Once we understand the data generation mechanism of fMRI data, and have become familiar with the parameters needed, we can proceed to simulate desired fMRI data. There are many wonderful articles providing examples and codes for simulating fMRI data (see, for example, <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&amp;url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&amp;usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>).</p>
 
 <p><br /> 
-To examine the quality of the simulated data; a convenient way is to visualize it. For example, imaging there is a brain region associated with abnormal activities (such as a tumor); and we wish to simulate fMRI data in this scenario. Below is the 3-D visulization of simulated data for a slide of brain over 100 time points. Notice the region with intensive signals.</p>
+Here I shall focus on the visualization of simulated fMRI data, so as to examine the quality of the realizatio of the simulation, such as, if we are to simulate fMRI data for a regional brain lesion, does the simulated fMRI data accord with real world scenario? Additionaly, I am interested in seeing the intensity of signal changes across time. This has real-inplications. For example, visualizing the dynamic connectivity of brain regions; visualizing the growth of tumors; and etc. Let us consider a concrete example. Imaging there is a brain region associated with abnormal activities (such as a tumor); and we wish to simulate fMRI data in this scenario. Below is the 3-D visulization of simulated data for a slide of brain over 100 time points. Notice the region with intensive signals.</p>
 
 <center>
 <img src="/images/tumor.gif" alt="HTML5 Icon" style="width:256px;" />
 </center>
 
 <p><br />
-Here is the code.</p>
+Here is the <b>R</b> code.</p>
 <xmp>
 library(rgl)
 library(animation)
@@ -295,7 +295,7 @@ system("convert -delay 40 *.pdf tumor.gif")
 
 <!-- blog III -->
 
-<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (I):Generating Mechanism</h2>
+<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (I): Generating Mechanism</h2>
 
 <p>Last updated: June 5, 2016</p>
 
