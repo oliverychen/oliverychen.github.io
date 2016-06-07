@@ -86,7 +86,7 @@ Last updated: June 5, 2016
 
 
 <br> 
-A useful approach to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. <a href="{{ site.baseurl }}/files/fMRI_glossary.pdf">Here</a> is a useful reference of MRI glossary. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making "causal" claims, etc.
+A useful approach to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. <a href="{{ site.baseurl }}/files/doc/fMRI_glossary.pdf">Here</a> is a useful reference of MRI glossary. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making "causal" claims, etc.
 <br/>
 
 
@@ -304,7 +304,7 @@ I have been long thinking about writing a blog that puts in order a few resource
 <br>Professor [Jeff Leek](http://jtleek.com) gives good advice on effective presentation [here](/files/doc/Presentation_Leek.pdf).
 <br/>
 
-<br>As a student studying in the interdisciplinary field between statistics, computer science, and neurosicence, I have learned a great deal from reading the works of Sir R. A. Fisher's, inter alia, the <em>"Statistical Trilogy"</em> : (1) [Statisticcal Methods for Research Workers](/files/Fisher_1.pdf); (2) [The Design of Experiments](/files/Fisher_2.pdf); and (3) [Statistical Methods and Scientific Inference](http://www.amazon.com/Statistical-Methods-Scientific-Inference-Ronald/dp/0028447409)
+<br>As a student studying in the interdisciplinary field between statistics, computer science, and neurosicence, I have learned a great deal from reading the works of Sir R. A. Fisher's, inter alia, the <em>"Statistical Trilogy"</em> : (1) [Statisticcal Methods for Research Workers](/files/doc/Fisher_1.pdf); (2) [The Design of Experiments](/files/doc/Fisher_2.pdf); and (3) [Statistical Methods and Scientific Inference](http://www.amazon.com/Statistical-Methods-Scientific-Inference-Ronald/dp/0028447409)
 <br/>
 
 
@@ -321,12 +321,12 @@ I have been long thinking about writing a blog that puts in order a few resource
 <li> <a href="http://www.theatlantic.com">The Atlantic</a> </li>
 <li> <a href="http://www.economist.com">The Economist</a> </li>
 <li> <a href="http://topics.nytimes.com/top/opinion/editorialsandoped/editorials/index.html">The New York Times Editorials</a></li>
-<li> <a href="{{ site.baseurl }}/files/Great_Expectations.pdf">Great Expectation</a>, by Charles Dickens</li>
-<li> <a href="{{ site.baseurl }}/files/Crime_and_Punishment.pdf">Crime and Punishment</a>, by Fyodor Dostoevsky </li>
-<li> <a href="{{ site.baseurl }}/files/Catch_22.pdf">Catch 22</a>, by Joseph Heller </li>
-<li> <a href="{{ site.baseurl }}/files/Wuthering_Heights.pdf">Wuthering Heights</a>, by Emily Bronte</li>
-<li> <a href="{{ site.baseurl }}/files/Heart_of_Darkness.pdf">Heart of Darkness</a>, by Joseph Conrad</li>
-<li> <a href="{{ site.baseurl }}/files/Beloved.pdf">Beloved</a>, by Toni Morrison</li>
-<li> <a href="{{ site.baseurl }}/files/The_sound_and_the_fury.pdf">The Sound and the Fury</a>, by William Faulkner</li>
+<li> <a href="{{ site.baseurl }}/files/doc/Great_Expectations.pdf">Great Expectation</a>, by Charles Dickens</li>
+<li> <a href="{{ site.baseurl }}/files/doc/Crime_and_Punishment.pdf">Crime and Punishment</a>, by Fyodor Dostoevsky </li>
+<li> <a href="{{ site.baseurl }}/files/doc/Catch_22.pdf">Catch 22</a>, by Joseph Heller </li>
+<li> <a href="{{ site.baseurl }}/files/doc/Wuthering_Heights.pdf">Wuthering Heights</a>, by Emily Bronte</li>
+<li> <a href="{{ site.baseurl }}/files/doc/Heart_of_Darkness.pdf">Heart of Darkness</a>, by Joseph Conrad</li>
+<li> <a href="{{ site.baseurl }}/files/doc/Beloved.pdf">Beloved</a>, by Toni Morrison</li>
+<li> <a href="{{ site.baseurl }}/files/doc/The_sound_and_the_fury.pdf">The Sound and the Fury</a>, by William Faulkner</li>
 <br/>
 
