@@ -17,7 +17,7 @@ comments:
 <!-- blog Top -->
 
 <!-- blog IV -->
-<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II): Visualization</h2>
+<h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II): Dynamic 3D Visualization</h2>
 
 Last updated: June 7, 2016
 
@@ -33,32 +33,28 @@ Last updated: June 7, 2016
 Once we understand the data generation mechanism of fMRI data, and have become familiar with the parameters needed, we can proceed to simulate desired fMRI data. There are many wonderful articles providing examples and codes for simulating fMRI data (see, for example, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>).
 
 <br> 
-Here I shall focus on the visualization of simulated fMRI data, so as to examine the quality of the realizatio of the simulation, such as, if we are to simulate fMRI data for a regional brain lesion, does the simulated fMRI data accord with real world scenario? Additionaly, I am interested in seeing the intensity of signal changes across time. This has real-inplications. For example, visualizing <a href="http://www.sciencedirect.com/science/article/pii/S0959438807000396">the brain dynamic functional connectivity</a>; visualizing the growth of tumors; and etc. Let us consider a concrete example. Imaging there is a brain region associated with abnormal activities (such as a tumor); and we wish to simulate fMRI data in this scenario. Below is the 3-D visulization of simulated data for a slide of brain over 100 time points. Notice the region with intensive signals. 
+Here I shall focus on the visualization of simulated fMRI data, so as to examine the quality of the realizatio of the simulation, such as, if we are to simulate fMRI data for a regional brain lesion, does the simulated fMRI data accord with real world scenario? Additionaly, I am interested in seeing the intensity of signal changes across time. This has real-inplications. For example, visualizing <a href="http://www.sciencedirect.com/science/article/pii/S0959438807000396">the brain dynamic functional connectivity</a>; visualizing the growth of tumors; and etc. Let us consider a concrete example. Consider a patient with two brain regions associated with abnormal activities (e.g. the patient has two tumors); and we wish to simulate fMRI data in this scenario. Below, on the left we present dynamic 2-D intensity of simulated data for a slice (a cross-section) of the patient's brain during 100 scans (with TR = 2); and on the right we present the dynamic 3-D image of threshold activities for the first 20 scans. Notice the two regions with intensive signals. 
+
 
 <center>
-<img src="{{ site.baseurl }}/images/tumor.gif" alt="HTML5 Icon" style="width:256px;">
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/tumor.gif" alt="HTML5 Icon" style="width:256px;">
+    </a>
+    <img src="{{ site.baseurl }}/images/3D.gif" alt="HTML5 Icon" style="width:256px;">
+</div>
 </center>
 
+
 <br/>
-Here is the <b>R</b> code.
-<xmp>
-library(rgl)
-library(animation)
-open3d()
+Please <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">send me an email</a> if you want the code for generating above dynamic 2D/3D plots.
 
-rgl.viewpoint( theta = 0, phi = 30, fov = 60, zoom = 1)
- for(k in 1: dim(data)[4]){
-   rgl.surface(1:64,1:64,data[1,,,][,,k], col = "green3")
-   rgl.postscript(paste("persp3dd_",k,".pdf", sep=""),"pdf")
-   print(paste("plot", k, "complete"))
-   ### Not run: covert pdf to png
-   #im.convert(paste("persp3dd_",k,".pdf", sep=""),
-   #           output = paste("persp3dd_",k,".png", sep=""), extra.opts="-density 150")
- }
+<br/>
+For gnerating static 3D plot, there is a wonderful article written by <a href="https://journal.r-project.org/archive/2014-1/muschelli-sweeney-crainiceanu.pdf
+"> Muschelli et al</a>.
 
-### put all pdf together into one gif file
-system("convert -delay 40 *.pdf tumor.gif")
-</xmp>
+
+
 
 <hr>
 
