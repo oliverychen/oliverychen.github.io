@@ -184,7 +184,7 @@ Now that we understand the general mechanism of fMRI data generation, we need ad
 
 <li>noise type: low-frequency, physiological, task-related, mixture;</li>
 
-<li>spat noise: AR correlation, Gaussian random field, Gamma random field;</li>
+<li>spatial noise: AR correlation, Gaussian random field, Gamma random field;</li>
 
 <li>weights of each type of noise;</li>
 
