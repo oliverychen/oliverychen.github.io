@@ -50,7 +50,7 @@ Here I shall focus on the visualization of simulated fMRI data, so as to examine
 Please <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">send me an email</a> if you want the code for generating above dynamic 2D/3D plots.
 
 <br/>
-For gnerating static 3D plot, there is a wonderful article written by <a href="https://journal.r-project.org/archive/2014-1/muschelli-sweeney-crainiceanu.pdf
+For gnerating static 3D plot, there is a terrific article written by <a href="https://journal.r-project.org/archive/2014-1/muschelli-sweeney-crainiceanu.pdf
 "> Muschelli et al</a>.
 
 
