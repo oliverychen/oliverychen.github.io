@@ -16,13 +16,13 @@ comments: true
 	
 * Teaching Assistant
 
-    * 2015 Statistical Methods in Public Health IV, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
+    * 2016 Statistical Methods in Public Health IV, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 
-    * 2015 Statistical Methods in Public Health III, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
+    * 2016 Statistical Methods in Public Health III, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 
-    * 2015 Statistical Methods in Public Health II, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
+    * 2016 Statistical Methods in Public Health II, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 
-    * 2015 Statistical Methods in Public Health I, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
+    * 2016 Statistical Methods in Public Health I, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 
 	* 2015 Statistical Methods in Public Health IV, Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health.
 	
