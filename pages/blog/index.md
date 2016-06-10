@@ -18,7 +18,7 @@ comments:
 
 
 <!-- blog IV -->
-<h2>Time Series, Causality, and Forecasting: a <i> post hoc ergo propter hoc </i> fallacy? </h2>
+<!--<h2>Time Series, Causality, and Forecasting: a <i> post hoc ergo propter hoc </i> fallacy? </h2>
 
 Last updated: June 10, 2016
 
@@ -41,6 +41,8 @@ Last updated: June 10, 2016
 
 
 <hr>
+
+-->
 
 <!-- blog IV -->
 <h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II): Dynamic 3D Visualization</h2>
