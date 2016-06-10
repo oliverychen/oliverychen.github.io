@@ -38,7 +38,7 @@ comments:
 
 ## Books and Book Chapters
 
-- **Chén Y.** (2016) [Sir R. A. Fisher on Brain Science: a Neo-fictional Interpretation](/files/doc/fisher.pdf).
+- **Chén Y.** (2016) [Sir R. A. Fisher on Brain Science: a Neo-fictional Interpretation](/files/doc/Fisher.pdf).
 
 ## Others
 
