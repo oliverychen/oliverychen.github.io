@@ -70,9 +70,10 @@ Here I shall focus on visualization of simulated fMRI data, so as to examine the
 <center>
 <div id="top">
     <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
-        <img src="{{ site.baseurl }}/images/tumor.gif" alt="HTML5 Icon" style="width:256px;">
+        <img src="{{ site.baseurl }}/images/tumor.gif" alt="HTML5 Icon" style="width:200px;">
     </a>
-    <img src="{{ site.baseurl }}/images/3D.gif" alt="HTML5 Icon" style="width:256px;">
+    <img src="{{ site.baseurl }}/images/Tabelow.gif" alt="HTML5 Icon" style="width:200px;">
+    <img src="{{ site.baseurl }}/images/3D.gif" alt="HTML5 Icon" style="width:200px;">
 </div>
 </center>
 
@@ -81,10 +82,11 @@ Here I shall focus on visualization of simulated fMRI data, so as to examine the
 Please <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">send me an email</a> if you want the code for generating above dynamic 2D/3D plots.
 
 <br/>
-For gnerating static 3D plot, there is a terrific article written by <a href="https://journal.r-project.org/archive/2014-1/muschelli-sweeney-crainiceanu.pdf
+For generating static 3D plot, there is a terrific article written by <a href="https://journal.r-project.org/archive/2014-1/muschelli-sweeney-crainiceanu.pdf
 "> Muschelli et al</a>.
 
-
+<br/>
+For generating static 2D plot, there is a terrific article written by  <a href="{{ site.baseurl }}/files/doc/Tabelow.pdf">Tabelow et al</a>. The data are <a href="{{ site.baseurl }}/files/doc/Tabelow_data">here</a>. <a href="https://www.wias-berlin.de/projects/matheon_a3/doc/poster-HBM2011-fmri.pdf">Here</a> is some further reading.
 
 
 <hr>
@@ -231,6 +233,9 @@ Now that we understand the general mechanism of fMRI data generation, we need ad
 
 <li>other parameters</li>
 
+<br> Other useful packages includes:
+
+<li> Package: oro.nifti </li> write and read AFNI files;
 
 <h4>Part 3: Imaging Results</h4>
 
