@@ -20,7 +20,7 @@ comments:
 	
 - **Chén Y.**, Di J., Cohen J., Nebel M.B., and Lindquist M. (In progress 2015-) A Numerical Comparison of Reliability of Different Imaging Methods in Brain Parcellation and Node Identification: with an Application to the Human Connectome Project Data.
 
-- **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., and Lindquist, M. (In progress 2015-) Ultrahigh Dimensional Principal Direction of Mediation in Applications.
+- **Chén Y.**, A Generalized and Drifting Time Corrected Approach Using Wiener-Granger Causality and VAR(p) Process for Detecting High-Dimensional Directed Functional Communication between Brain Regions and Predicting Behavior.
 	
 - **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen_Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
 	
@@ -41,7 +41,7 @@ comments:
 
 - **Chén Y.** [A Handbook to Conquer Casella and Berger Book in Ten Days](/files/doc/CB.pdf).
 - **Chén Y.** [A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs](/files/doc/EB.pdf).
-- **Chén Y.** [Sir R. A. Fisher on Brain Science: a Neo-fictional Interpretation](/files/doc/Fisher.pdf).
+- **Chén Y.** [From Sir Fisher’s Classical Philosophy to the Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf). *Significance*. The Royal Statistical Society. Under the second round review.
 
 ## Others
 
