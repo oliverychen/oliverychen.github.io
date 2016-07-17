@@ -198,9 +198,7 @@ w_{ij} (\nu_k)
 j^{\text{th}}
 " border="0"/> visit from the subject-specific mean function, and <img center src="http://latex.codecogs.com/gif.latex?
 \epsilon_{ijk} \sim N(0, \sigma_\epsilon^2).
-" border="0"/>
-
-Furthermore, we model <img center src="http://latex.codecogs.com/gif.latex?
+" border="0"/> Furthermore, we model <img center src="http://latex.codecogs.com/gif.latex?
 b_i (\nu)
 " border="0"/> and <img center src="http://latex.codecogs.com/gif.latex?
 w_{ij} (\nu)
