@@ -20,7 +20,7 @@ I work on research in the multidisciplinary area between statistics, computer sc
 <br/>
 
 <br>
-I write a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog/).
+I write a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog/) about brain data science.
 <br/>
 
 <br />
