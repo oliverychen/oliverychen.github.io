@@ -371,6 +371,50 @@ Heavy-tailed Time Series;
 
 -->
 
+<!-- blog V -->
+<h2>On Task-based <i>Age</i> and <i>Gender</i> Effects on <i>Spatial</i> Brain Representations: with Applications to the Human Connectome Project </h2>
+
+<p>Last updated: July 16, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼Biology gives you a brain. Life turns it into a mind.</p>
+
+– Jeffrey Eugenides
+
+</div>
+
+<p><br /> 
+I had the idea of this post after an inspirational conversation with Professor <a href="http://www.med.upenn.edu/apps/faculty/index.php/g293/p3226">Ruben Gur</a>, who, together with his wife, Professor <a href="http://www.med.upenn.edu/apps/faculty/index.php/g275/p11144"> Raquel Gur</a>, are world renowned experts in neuropsychology, and have done a tremendous amount of work in gender and age differences in the brain.</p>
+
+<p><br />
+Here, I would like to propose a functional mixed effect model to investigate how gender and age effects on encoded (representational) brain signals under (i.e. conditioning on) different tasks. This framework can be implemented to study the <a href="https://wiki.humanconnectome.org/display/PublicData/HCP+Data+Dictionary+Public-+500+Subject+Release">500-subject datasets</a> from the <a href="https://www.humanconnectome.org/">Human Connectome Project</a>, with a goal to understand age and gender effects on the following main categories: alertness, cognition, emotion, motor function, personality, sensory, substance use, etc. Each main category could be further divided into subcategories: e.g. one may be interested in studying age, gender, and age-gender effects on emotion, in particular, psychological well-being.</p>
+
+<p><br />
+We consider a marginal model for the brain activity data. Specifically, for subject <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> at visit <img center="" src="http://latex.codecogs.com/gif.latex? j " border="0" />, consider:</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+y_{ij}(\nu_k) \vert x_{ij}, z_i = \alpha(\nu_k, x_{ij}) + z_i \beta (\nu_k, x_{ij}) + \epsilon_{ij} (\nu_k),
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? \nu_k \in \mathcal{V} " border="0" /> indicates the <img center="" src="http://latex.codecogs.com/gif.latex? k^{\text{th}} " border="0" /> voxel, <img center="" src="http://latex.codecogs.com/gif.latex? y_{ij}(\nu_k) " border="0" /> is the voxle-specific intensity, <img center="" src="http://latex.codecogs.com/gif.latex? x_{ij} " border="0" /> is the age, <img center="" src="http://latex.codecogs.com/gif.latex? z_i " border="0" /> is the gender, and the error follows a working model</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\epsilon_{ij} (\nu_k) = b_i (\nu_k) + w_{ij} (\nu_k) + \epsilon_{ijk},
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? b_i (\nu_k) " border="0" /> models the subject-specific mean function of brain activity, <img center="" src="http://latex.codecogs.com/gif.latex? w_{ij} (\nu_k) " border="0" /> models the deviation of the <img center="" src="http://latex.codecogs.com/gif.latex? j^{\text{th}} " border="0" /> visit from the subject-specific mean function, and <img center="" src="http://latex.codecogs.com/gif.latex? \epsilon_{ijk} \sim N(0, \sigma_\epsilon^2). " border="0" /></p>
+
+<p>Furthermore, we model <img center="" src="http://latex.codecogs.com/gif.latex? b_i (\nu) " border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex? w_{ij} (\nu) " border="0" /> by two zero mean Gaussian processes with <i> spatial</i> covariance
+functions <img center="" src="http://latex.codecogs.com/gif.latex? \Sigma^b(\nu,v) " border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex? \Sigma^w(\nu,v) " border="0" />, respectively. Finally, we assume that <img center="" src="http://latex.codecogs.com/gif.latex? b_i (\nu) " border="0" />, <img center="" src="http://latex.codecogs.com/gif.latex? w_{ij} (\nu) " border="0" />, and <img center="" src="http://latex.codecogs.com/gif.latex? \epsilon_{ijk} " border="0" />, are mutually independent.</p>
+
+<p><br /> 
+This framework can be implemented to study age, gender, and age-gender effects on sensory data (audition, olfaction, pain, taste, vision), on substance use (alcohol, tobacco, and drug), psychiatric and life function, motor (endurance, locomotion, dexterity, and strength), emotion (emotion recognition, negative affect, psychological well-being, social relationships, stress and self efficacy), cognition (episodic memory, executive function/cognitive flexibility, executive function/inhibition, fluid intelligence, language/reading decoding, language/vocabulary comprehension, processing speed, self-regulation/impulsivity, spatial orientation, sustained attention, verbal episodic memory, working Memory, and alertness (cognitive status, and sleep). Each area could be developed into a journal article using the above framework.</p>
+
+<hr />
+
 <!-- blog IV -->
 <h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II): Dynamic 3D Visualization</h2>
 
