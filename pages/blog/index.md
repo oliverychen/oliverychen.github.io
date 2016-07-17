@@ -216,6 +216,25 @@ w_{ij} (\nu)
 " border="0"/>, are mutually independent.
 
 <br>
+To interpret the model, here <img center src="http://latex.codecogs.com/gif.latex?
+ \alpha(\nu, x)
+" border="0"/> is the brain activity mean surface, specifically, <img center src="http://latex.codecogs.com/gif.latex?
+ \alpha(\nu_k, x_{ij})
+" border="0"/>  gives the mean brain activity for voxel <img center src="http://latex.codecogs.com/gif.latex?
+\nu_k
+" border="0"/> and age <img center src="http://latex.codecogs.com/gif.latex?
+x_{ij}
+" border="0"/>, <img center src="http://latex.codecogs.com/gif.latex?
+ \beta(\nu, x)
+" border="0"/> is the brain activity slope surface, specifically, <img center src="http://latex.codecogs.com/gif.latex?
+ \beta(\nu_k, x_{ij})
+" border="0"/>  indicates the brain activity difference due to gender for voxel <img center src="http://latex.codecogs.com/gif.latex?
+\nu_k
+" border="0"/> and age <img center src="http://latex.codecogs.com/gif.latex?
+x_{ij}
+" border="0"/>.
+
+<br>
 Readers who are interested in the estimating procedures of the above model could discuss with me <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">via email</a>. If one is interested in learning more about functional data analysis, please refer to the following wonderful resources: <a href="http://www.springer.com/us/book/9780387400808">Ramsay (2006)</a> proivdes a broad overview of functional data analysis methods with applications to curve and image analysis; and <a href="http://www.stat.tamu.edu/~carroll/semiregbook/">Ruppert et al. (2003)</a> overviews functional data analysis in the semiparametric framwork in detail.
 
 <br> 
