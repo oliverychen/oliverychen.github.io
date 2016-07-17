@@ -224,7 +224,7 @@ To interpret the model, here <img center src="http://latex.codecogs.com/gif.late
 \nu_k
 " border="0"/> and age <img center src="http://latex.codecogs.com/gif.latex?
 x_{ij}
-" border="0"/>, <img center src="http://latex.codecogs.com/gif.latex?
+" border="0"/>; <img center src="http://latex.codecogs.com/gif.latex?
  \beta(\nu, x)
 " border="0"/> is the brain activity slope surface, specifically, <img center src="http://latex.codecogs.com/gif.latex?
  \beta(\nu_k, x_{ij})
@@ -258,9 +258,6 @@ Last updated: June 7, 2016
 
 <br> 
 Once we understand the data generation mechanism of fMRI data, and have become familiar with the parameters needed, we can proceed to simulate desired fMRI data. There are many wonderful articles providing examples and codes for simulating fMRI data (see, for example, <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>). For a list of software for medical image analysis, see <a href="https://cran.r-project.org/web/views/MedicalImaging.html">here</a>.
-
-
-
 
 <br> 
 Here I shall focus on visualization of simulated fMRI data, so as to examine the quality of the realizatio of the simulation, such as, if we are to simulate fMRI data for a regional brain lesion, do the simulated fMRI datasets accord with real world scenarios? Additionaly, I am interested in seeing the intensity of signal changes across time. This has real world implications. For example, visualizing <a href="http://www.sciencedirect.com/science/article/pii/S0959438807000396">the brain dynamic functional connectivity</a>; visualizing the growth of tumors; and etc. Let us consider a concrete example. Consider a patient with two brain regions associated with abnormal activities (e.g. the patient has two tumors); and we wish to simulate fMRI data in this scenario. Below, on the left we present dynamic 2-D intensity of simulated data for a slice (a cross-section) of the patient's brain during 100 scans (with TR = 2); and on the right we present the dynamic 3-D image of threshold activities for the first 20 scans. Notice the two regions with intensive signals. 
