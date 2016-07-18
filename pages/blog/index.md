@@ -235,7 +235,7 @@ x_{ij}
 " border="0"/>.
 
 <br> It would be relatively straightforward to implement computational wise if one's research focus is on ROIs (in other words, the number of voxels is reasonably small). When the number of voxels is large, we may run into computational problems, because we are essentially dealing with a huge surface of <img center src="http://latex.codecogs.com/gif.latex?
-N \time p
+N \times p
 " border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
 N
 " border="0"/> is the number of ages and <img center src="http://latex.codecogs.com/gif.latex?
