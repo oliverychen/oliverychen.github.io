@@ -177,7 +177,7 @@ where <img center src="http://latex.codecogs.com/gif.latex?
 \nu_k \in \mathcal{V}
 " border="0"/> indicates the <img center src="http://latex.codecogs.com/gif.latex?
 k^{\text{th}}
-" border="0"/> voxel, <img center src="http://latex.codecogs.com/gif.latex?
+" border="0"/> voxel (for simplicty, we could vecterize voxels in a 3-D brain to a long vector), <img center src="http://latex.codecogs.com/gif.latex?
 y_{ij}(\nu_k)
 " border="0"/> is the voxle-specific intensity, <img center src="http://latex.codecogs.com/gif.latex?
 x_{ij}
@@ -233,6 +233,14 @@ x_{ij}
 " border="0"/> and age <img center src="http://latex.codecogs.com/gif.latex?
 x_{ij}
 " border="0"/>.
+
+<br> It would be relatively straightforward to implement computational wise if one's research focus is on ROIs (in other words, the number of voxels is reasonably small). When the number of voxels is large, we may run into computational problems, because we are essentially dealing with a huge surface of <img center src="http://latex.codecogs.com/gif.latex?
+N \time p
+" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
+N
+" border="0"/> is the number of ages and <img center src="http://latex.codecogs.com/gif.latex?
+p
+" border="0"/> is the number of voxels. We may then consider dimension reduction or assume that the brain network is sparse. We shall not expatiate on this here; interesting readers could consider approaches such as SVD, fPCA, ridge regression, etc.  
 
 <br>
 Readers who are interested in the estimating procedures of the above model could discuss with me <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">via email</a>. If one is interested in learning more about functional data analysis, please refer to the following wonderful resources: <a href="http://www.springer.com/us/book/9780387400808">Ramsay (2006)</a> proivdes a broad overview of functional data analysis methods with applications to curve and image analysis; and <a href="http://www.stat.tamu.edu/~carroll/semiregbook/">Ruppert et al. (2003)</a> overviews functional data analysis in the semiparametric framwork in detail.
