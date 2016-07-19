@@ -226,7 +226,7 @@ The above equation translates as follow: intuition is based upon the data availa
 <span style="background-color: lightgrey">We believe, however, that to have an intuition in any area, one must have experience of that area or knowledge of it, to provide a conclusion or statement, whether correct or incorrect.</span>
 
 <br>
-Of course, intuition could change overtime, because our view (prior information) of the world changes. Hence, we could update our Bayesian intuition to one that is "dynamic", namely:
+Certainly, intuition could change overtime, because our view (prior information) of the world changes. Hence, we could update our Bayesian intuition to one that is "dynamic", namely:
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
 \mathcal{I}(\theta (t) \vert D) = \frac{ Pr(D \vert \theta (t) ) Pr (\theta (t)) } 
