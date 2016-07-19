@@ -421,56 +421,6 @@ This framework can be implemented to study age, gender, and age-gender effects o
 
 <hr />
 
-<!-- blog V -->
-<h2>Get Started with SPM in Ten Steps</h2>
-
-<p>Last updated: July 18, 2016</p>
-
-<div style="background-color:black; color:white; padding:20px;">
-
-<p>￼My dull brain was wrought. With things forgotten.</p>
-
-– William Shakespeare
-
-</div>
-
-<p><br />
-Many a friend of mine ask me about how to get started with Statistical Parametric Mapping (SPM) quickly. Being an R user primarily, I find myself incompetent to answer their question rigorously. However, as one of the most fundemental software in analyzing functional neuroimaging data, knowing how to use it - even moderately - has gained myself huge advantage in my research. Therefore, I present this post as a brief introductory guidance to readers who are new to SPM. Advanced readers may refer to <a href="http://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf">SPM manual</a>. Readers interested in knowning more about fMRI data analysis may also find the book <a href="http://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf">Principles of fMRI</a> and corresponding <a href="https://itunes.apple.com/us/book/statistical-analysis-fmri/id966384033?mt=13&amp;utm_medium=email&amp;utm_source=other&amp;utm_campaign=notifications.auto.faSP0XZhEeW75woKNsXkzw ">vedio lectures</a> by Professors Lindquist and Wager, and <a href="https://www.amazon.com/Handbook-Functional-MRI-Data-Analysis/dp/0521517664">Handbook of Functional MRI Data Analysis</a> by Professor Poldrack et al, helpful.</p>
-
-<p><br />
-Certainly, my experience with SPM is very limited; and likely I may present errors or omit important features of SPM in ten steps. I will update the following procedures regularly; if you have any suggestions, or criticisms, please <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">send me an email</a> to help me improve them.</p>
-
-<p><br />
-<b>Step 1:</b> Download <a href="http://www.mathworks.com/products/matlab/">Matlab</a>;
-<br />
-<b>Step 2:</b> Download <a href="http://www.fil.ion.ucl.ac.uk/spm/software/spm12/">SPM 12</a>;
-<br /> 
-<b>Step 3:</b> Open SPM in Matlab by entering <code>spm</code> in the command window. Based upon the data set you have (PET, EEG, or fMRI), click the corresponding icon (see Figure 1). Here, we choose fMRI, for example;</p>
-<center>
-<div id="top">
-    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
-        <img src="/images/SPM_1.png" alt="HTML5 Icon" style="width:300px;" />
-    </a>
-    <img src="/images/SPM_2.png" alt="HTML5 Icon" style="width:300px;" />
-</div>
-</center>
-<p><br />
-<b>Step 4 (Display an image):</b> First, download desired datasets, which are usually stored in <code> NIfTi</code> (Neuroimaging Informatics Technology Initiative) files, saved in one <code>*.nii</code> file or a <code>*.hdr</code> and an <code>*.img</code> file. Functional images are saved as <code>fM*.image</code>; and structual images are saved as <code>sM*.image</code>. To display, click <code>Display &gt; file_location &gt; *.nii &gt; Done </code>. We see the display of a structual image (see Figure 2). 
-<br />
-<b>Step 5 (Preprocessing):</b> Preprocessing includes: motion correction; slice-time correction; coregistration; segmentation; normalization; and smoothing. These icons are in the top of the SPM menu (See the red frame in Figure 3). Let us take motion correction for example: <code> Realign &gt; Realign (Est &amp; Reg) &gt; Double click <i> Data &lt;- X </i> &gt; Double click <i> Session &lt;- X </i> </code>
-<code> &gt; in the pop-up window choose desired file to be motion corrected &gt; Done &gt; click the green bottom </code> (See Figure 4). If inputing files are <code>sM*.image</code> (similar for functional images), resulting files are located in the original filepath as <code>meansM*.image</code> and <code>rsM*.image</code>. Similarily, for slice-timing, the input image is <code>rsM*.img</code> and the output image is <code>arsM*.img</code>; for coregistration, the input images are reference image <code>meansM*.img</code> and source image <code>sM*.img</code>, while the output image is updated “source image”; for segmentation, input image is <code>sM*.img</code> and the output images are <code>c1sMM*.img</code>, <code>c2sMM*.img</code>, and <code>sM*_seg_sn.img</code>; for normalization, the input images are <code>sM*.img</code> and <code>arsM*.img</code>, and the output image is <code>warsM*.img</code>; and finally, for smoothing, the input images are <code>warsM*.img</code> and <code>swarsM*.img</code>.</p>
-
-<center>
-<div id="top">
-    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
-        <img src="/images/SPM_3.png" alt="HTML5 Icon" style="width:300px;" />
-    </a>
-    <img src="/images/SPM_4.png" alt="HTML5 Icon" style="width:300px;" />
-</div>
-</center>
-
-<hr />
-
 <!-- blog IV -->
 <h2>On Generating Artificial Functional Magnetic Resonance Imaging (fMRI) Data (II): Dynamic 3D Visualization</h2>
 
@@ -654,6 +604,56 @@ field, and (3) a Gamma random field.</li>
     </a>
     <img src="/images/fMRI_2.gif" alt="HTML5 Icon" style="width:128px;height:128px;" />
     <figcaption>Fig 1. Left: Raw fMRI; Right: Smoothed fMRI</figcaption>
+</div>
+</center>
+
+<hr />
+
+<!-- blog V -->
+<h2>Get Started with SPM in Ten Steps</h2>
+
+<p>Last updated: July 18, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼My dull brain was wrought. With things forgotten.</p>
+
+– William Shakespeare
+
+</div>
+
+<p><br />
+Many a friend of mine ask me about how to get started with Statistical Parametric Mapping (SPM) quickly. Being an R user primarily, I find myself incompetent to answer their question rigorously. However, as one of the most fundemental software in analyzing functional neuroimaging data, knowing how to use it - even moderately - has gained myself huge advantage in my research. Therefore, I present this post as a brief introductory guidance to readers who are new to SPM. Advanced readers may refer to <a href="http://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf">SPM manual</a>. Readers interested in knowning more about fMRI data analysis may also find the book <a href="http://www.fil.ion.ucl.ac.uk/spm/doc/manual.pdf">Principles of fMRI</a> and corresponding <a href="https://itunes.apple.com/us/book/statistical-analysis-fmri/id966384033?mt=13&amp;utm_medium=email&amp;utm_source=other&amp;utm_campaign=notifications.auto.faSP0XZhEeW75woKNsXkzw ">vedio lectures</a> by Professors Lindquist and Wager, and <a href="https://www.amazon.com/Handbook-Functional-MRI-Data-Analysis/dp/0521517664">Handbook of Functional MRI Data Analysis</a> by Professor Poldrack et al, helpful.</p>
+
+<p><br />
+Certainly, my experience with SPM is very limited; and likely I may present errors or omit important features of SPM in ten steps. I will update the following procedures regularly; if you have any suggestions, or criticisms, please <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">send me an email</a> to help me improve them.</p>
+
+<p><br />
+<b>Step 1:</b> Download <a href="http://www.mathworks.com/products/matlab/">Matlab</a>;
+<br />
+<b>Step 2:</b> Download <a href="http://www.fil.ion.ucl.ac.uk/spm/software/spm12/">SPM 12</a>;
+<br /> 
+<b>Step 3:</b> Open SPM in Matlab by entering <code>spm</code> in the command window. Based upon the data set you have (PET, EEG, or fMRI), click the corresponding icon (see Figure 1). Here, we choose fMRI, for example;</p>
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/SPM_1.png" alt="HTML5 Icon" style="width:300px;" />
+    </a>
+    <img src="/images/SPM_2.png" alt="HTML5 Icon" style="width:300px;" />
+</div>
+</center>
+<p><br />
+<b>Step 4 (Display an image):</b> First, download desired datasets, which are usually stored in <code> NIfTi</code> (Neuroimaging Informatics Technology Initiative) files, saved in one <code>*.nii</code> file or a <code>*.hdr</code> and an <code>*.img</code> file. Functional images are saved as <code>fM*.image</code>; and structual images are saved as <code>sM*.image</code>. To display, click <code>Display &gt; file_location &gt; *.nii &gt; Done </code>. We see the display of a structual image (see Figure 2). 
+<br />
+<b>Step 5 (Preprocessing):</b> Preprocessing includes: motion correction; slice-time correction; coregistration; segmentation; normalization; and smoothing. These icons are in the top of the SPM menu (See the red frame in Figure 3). Let us take motion correction for example: <code> Realign &gt; Realign (Est &amp; Reg) &gt; Double click <i> Data &lt;- X </i> &gt; Double click <i> Session &lt;- X </i> </code>
+<code> &gt; in the pop-up window choose desired file to be motion corrected &gt; Done &gt; click the green bottom </code> (See Figure 4). If inputing files are <code>sM*.image</code> (similar for functional images), resulting files are located in the original filepath as <code>meansM*.image</code> and <code>rsM*.image</code>. Similarily, for slice-timing, the input image is <code>rsM*.img</code> and the output image is <code>arsM*.img</code>; for coregistration, the input images are reference image <code>meansM*.img</code> and source image <code>sM*.img</code>, while the output image is updated “source image”; for segmentation, input image is <code>sM*.img</code> and the output images are <code>c1sMM*.img</code>, <code>c2sMM*.img</code>, and <code>sM*_seg_sn.img</code>; for normalization, the input images are <code>sM*.img</code> and <code>arsM*.img</code>, and the output image is <code>warsM*.img</code>; and finally, for smoothing, the input images are <code>warsM*.img</code> and <code>swarsM*.img</code>.</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/SPM_3.png" alt="HTML5 Icon" style="width:300px;" />
+    </a>
+    <img src="/images/SPM_4.png" alt="HTML5 Icon" style="width:300px;" />
 </div>
 </center>
 
