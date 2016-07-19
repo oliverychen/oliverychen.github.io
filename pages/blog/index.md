@@ -237,6 +237,12 @@ Of course, intuition could change overtime, because our view (prior information)
 <br>
 This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interesting readers could refer to corresponding papers.
 
+<br>
+<b>Other interpretations</b> 
+
+<br>
+Biologically, intuition could be explained by early brain signals preceding decisions (see  <a href="http://www.ncbi.nlm.nih.gov/pubmed/6640273">Benjamin Libet</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/10333013">Haggard and Eimer</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/18408715">Soon et all</a>, and <a href="http://www.pnas.org/content/113/4/1080.full.pdf">Schultze-Kraft</a>).
+
 <hr>
 
 
