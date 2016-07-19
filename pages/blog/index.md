@@ -141,6 +141,105 @@ Heavy-tailed Time Series;
 
 -->
 
+<!-- blog VII -->
+<h2>Intuition: A Bayesian View </h2>
+
+Last updated: July 19, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼An intuition is an unconscious logical brain process with an outcome or conclusion in the form of a  statement or proposition. But whether the outcome of the intuitive process is "right" or "wrong", or "correct" or "incorrect",  can only be determined by a conscious logical process.</p>
+
+– Mikhail Filippov, Varun Prasad and Semir Zeki
+
+</div>
+
+<br>
+We propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
+
+<br>
+First, for simplicity, define an event as <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>. Here, <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/> is a random variable, a random quantity whose value is subject to variations due to chance. For example, looking into the mirror, you think your height (<img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>) is 72 inches. However, your visual judegement may not always be correct, or that the mirror may not be perfect. Hence, we could put a probability measure <img center src="http://latex.codecogs.com/gif.latex?
+Pr
+" border="0"/> on <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>. If you strongly believe in your judegement, then the probability density <img center src="http://latex.codecogs.com/gif.latex?
+Pr(\theta)
+" border="0"/> is rather spiky, for example, it covers the height from 71-73. On the other hand, we may have less confidence when a visually-impaired person claimed that he thinks he is 72 inches. In that case, the probability density is rather flat, for example, it covers the height from 61-83. We call <img center src="http://latex.codecogs.com/gif.latex?
+Pr(\theta)
+" border="0"/> the <b>prior</b>. Another wonderful example of <img center src="http://latex.codecogs.com/gif.latex?
+\theta 
+" border="0"/> is the location of where a tennis ball lands in a match ( <a href="http://www.nature.com/nature/journal/v427/n6971/abs/nature02169.html">Körding and Wolpert, 2003</a>).
+
+<br>
+Next, we define the data observed from experiments as <img center src="http://latex.codecogs.com/gif.latex?
+D 
+" border="0"/>. For example, the measured height. Measured heights have errors, too. Furthermore, the measurement error for a child (<img center src="http://latex.codecogs.com/gif.latex?
+\theta = 50
+" border="0"/>) is in general smaller than it for a basketball player (e.g. Dwight Howard at <img center src="http://latex.codecogs.com/gif.latex?
+\theta = 83
+" border="0"/>). Therefore, at (conditioning on) every <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>, we define the <b>likelihood measure<b> as <img center src="http://latex.codecogs.com/gif.latex?
+Pr (D \vert \theta)
+" border="0"/>.
+
+<br>
+Finally, we define the <b>intuition of an event given experimental data </b> (<img center src="http://latex.codecogs.com/gif.latex?
+D
+" border="0"/> ) as
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta \vert D)
+" border="0"/>. 
+
+<br>
+By Bayes rule, we have: 
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta \vert D) = \frac{ Pr(D \vert \theta) Pr (\theta) } 
+{\int_{\Theta} Pr(D \vert \theta) Pr(\theta) }
+" border="0"/>
+</center>
+
+<br>
+It follows, <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta \vert D) \propto  Pr(D \vert \theta) Pr (\theta)
+" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
+\propto 
+" border="0"/> stands for <i> proportional to </i>. Let us use the height example to explain this: <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta = 72 \vert D = d) \propto  Pr(D = d  \vert \theta = 72) Pr (\theta = 72)
+" border="0"/>, which indicates that, our intuition about one's height being 72 inches, given observed height (<img center src="http://latex.codecogs.com/gif.latex?
+D = d
+" border="0"/>) depends on how well we measure our height, and how strongly our prior information of the height being 72 is. If our previous experience leads us to strongly believe the height is 72 (i.e. <img center src="http://latex.codecogs.com/gif.latex?
+Pr (\theta = 72)
+" border="0"/> is large), our intuition that the height is 72 would be strong.
+
+<br>
+The above equation translates as follow: intuition is based upon the data available and the prior experience information. This conclusion echoes the statement that Professors Mikhail Filippov, Varun Prasad and Semir Zeki made:
+
+<br>
+<span style="background-color: lightgrey">We believe, however, that to have an intuition in any area, one must have experience of that area or knowledge of it, to provide a conclusion or statement, whether correct or incorrect.</span>
+
+<br>
+Of course, intuition could change overtime, because our view (prior information) of the world changes. Hence, we could update our Bayesian intuition to one that is "dynamic", namely:
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta (t) \vert D) = \frac{ Pr(D \vert \theta (t) ) Pr (\theta (t)) } 
+{\int_{\Theta } Pr(D \vert \theta (t)) Pr(\theta (t)) }
+" border="0"/>
+</center>
+
+<br>
+This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interesting readers could refer to corresponding papers.
+
+<hr>
+
+
 
 <!-- blog VI -->
 <h2>On Task-based <i>Age</i> and <i>Gender</i> Effects on <i>Spatial</i> Brain Representations: with Applications to the Human Connectome Project </h2>
