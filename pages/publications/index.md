@@ -40,7 +40,7 @@ comments:
 ## ACADEMIC ESSAYS, HANDBOOKS, AND STUDY GUIDES
 
 - **Chén Y.** [A Handbook to Conquer Casella and Berger Book in Ten Days](/files/doc/CB.pdf).
-- **Chén Y.** [A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs](/files/doc/EB.pdf).
+- **Chén Y.** [A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs](/files/doc/ED.pdf).
 - **Chén Y.** [From Sir Fisher’s Classical Philosophy to the Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf). *Significance*. The Royal Statistical Society. Under the second round review.
 
 ## Others
