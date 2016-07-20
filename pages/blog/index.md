@@ -170,7 +170,7 @@ Pr
 \theta
 " border="0"/>. If you strongly believe in your judegement, then the probability density <img center src="http://latex.codecogs.com/gif.latex?
 Pr(\theta)
-" border="0"/> is rather spiky, for example, it covers the height from 71-73. On the other hand, we may have less confidence when a visually-impaired person claimed that he thinks he is 72 inches tall. In that case, the probability density is rather flat, for example, it covers the height from 61-83. We call <img center src="http://latex.codecogs.com/gif.latex?
+" border="0"/> is rather spiky, for example, it covers the height from 71-73. On the other hand, we may have less confidence when a visually-impaired person claims that he finds himself 72 inches tall. In that case, the probability density is rather flat, for example, it covers the height from 61-83. We call <img center src="http://latex.codecogs.com/gif.latex?
 Pr(\theta)
 " border="0"/> the <b>prior</b>. Another wonderful example of <img center src="http://latex.codecogs.com/gif.latex?
 \theta 
