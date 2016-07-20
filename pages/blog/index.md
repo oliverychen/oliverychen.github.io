@@ -141,30 +141,7 @@ Heavy-tailed Time Series;
 
 -->
 <!-- blog VII -->
-<h2>On Brain Fingerprint: Extensions </h2>
 
-Last updated: July 20, 2016
-
-<div style="background-color:black; color:white; padding:20px;">
-
-<p>￼The unique fingerprint of every individual defines our unique purpose and mission on earth.</p>
-
-– Lailah Gifty Akita
-</div>
-
-<br>
-In this post, we shall discuss the wonderful <a href="http://www.nature.com/neuro/journal/v18/n11/full/nn.4135.html">brain fingerprinting paper</a> on Nature Neuroscience by Finn et al.
-
-<br>
-First, let us briefly describe their technique procedures. 	
-
-
-
-
-
-
-
-<hr>
 
 
 
@@ -225,6 +202,14 @@ D
 \mathcal{I}(\theta \vert D)
 " border="0"/>. 
 
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Bayesian.png" alt="HTML5 Icon" style="width:200px;">
+    </a>
+</div>
+</center>
+
 <br>
 By Bayes rule, we have: 
 <center>
@@ -251,16 +236,7 @@ Pr (\theta = 72)
 The above equation translates as follow: intuition is based upon the data available and the prior experience information. This conclusion echoes with the statement that Professors Mikhail Filippov, Varun Prasad and Semir Zeki made:
 
 <br>
-<span style="background-color: lightgrey">We believe, however, that to have an intuition in any area, one must have experience of that area or knowledge of it, to provide a conclusion or statement, whether correct or incorrect.</span>
-
-<center>
-<div id="top">
-    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
-        <img src="{{ site.baseurl }}/images/Bayesian.png" alt="HTML5 Icon" style="width:300px;">
-    </a>
-</div>
-</center>
-
+<span style="background-color: lightgrey"> <i> We believe, however, that to have an intuition in any area, one must have experience of that area or knowledge of it, to provide a conclusion or statement, whether correct or incorrect. </i></span>
 
 <br>
 Certainly, intuition could change overtime, because our view (prior information) of the world changes. Hence, we could update our Bayesian intuition to one that is "dynamic", namely:
