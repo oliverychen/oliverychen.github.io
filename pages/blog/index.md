@@ -142,7 +142,7 @@ Heavy-tailed Time Series;
 -->
 
 <!-- blog VII -->
-<h2>Intuition: A Bayesian View </h2>
+<h2>On Intuition: A Bayesian View </h2>
 
 Last updated: July 19, 2016
 
