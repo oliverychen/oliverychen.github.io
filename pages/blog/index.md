@@ -288,7 +288,7 @@ Certaily, the same subjects would likely be accurately matched; nonetheless, it 
 
 <br>
 <b> 2. 5. Brain-Genome Fingerprinting </b>
-Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), it would interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence and brain <i>structure<i>, rather than brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
+Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), it would interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence and brain <i>structure</i>, rather than brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
 
 <br>
 <b> 2. 6. Fingerprinting Defining Matrix</b>
@@ -362,7 +362,7 @@ Y_1^T P Y_2  = V_1^2 V_2^2
 Y_1^T P Y_2 = D_1^T V_1 S_1^T (S_1 V_1 D_1 D_2^T V_2 S_2^T) S_2 V_2 D_2 = V_1^2 V_2^2
 " border="0"/>. However, <b>I do not have a proof</b> that the correlation matrix is the matching matrix that has the smallest matrix norm to achieve <img center src="http://latex.codecogs.com/gif.latex?
 Y_1^T X Y_2  = V_1^2 V_2^2
-" border="0"/>. It would be interesting if someone could prove this (or prove this claim is wrong). If the former, then we will have a mathematical interpretation for the correlation matrix to be a <i>fingerprinting matching matrix</i> that matches the data from two sessions to abtain the "product variance" from the two data sets.
+" border="0"/>. It would be interesting if someone could prove this (or disprove this). If the former, then we will have a mathematical interpretation for the correlation matrix to be a <i>fingerprinting matching matrix</i> that matches the data from two sessions to abtain the "product variance" from the two data sets.
 
 
 <br>
