@@ -212,7 +212,7 @@ Notice, the <img center src="http://latex.codecogs.com/gif.latex?
 <b>2. Extensions</b>
 
 <br>
-<b> 2. 1. Brain topology v.s. brain functional on identication accuracy </b>
+<b> 2. 1. Brain topology v.s. brain function on identication accuracy </b>
 
 <br>
 The paper claims that identification power came from true differences in functional connectivity rather than anatomic idiosyncrasies. To support the claim, the authors used kernel smoothing on connectivity matrices, and showed that, with larger smoothing kernels (under which the registration advantages for the same brain compared to different brains should be vastly reduced or eliminated), only a slight drop in identification power. One may argue that smoothing does not eliminate differences caused by topology fully. Let us take an extreme example: consider two subjects (S1 and S2) with significant anatomical difference in 100 adjacent nodes, where the brain measurements of S1 for these nodes during two sessions are nonzeros, and those of S2 for these nodes during two sessions are all zeros. In this case, for those 100 nodes, a large <a href="http://www.biostat.jhsph.edu/~ririzarr/Teaching/649/section-06.pdf">smoothing kernel</a> (unless an infinite bandwidth is chosen), will give S1 small but nonzero smoothed brain measurements whereas S2 has all zeros. Therefore, S1 in one image session would still match S1 in another session, and so is S2 - this could potentially argue against the functional connectivity claim.  
@@ -268,10 +268,27 @@ N
 <b> 2. 3. Age, gender, etc. effects on identification accuracy rate </b>
 
 <br>
-<b> 2. 4. Neurodegenerative Disease Association </b> 
+<b> 2. 4. Neurodegenerative Disease Similarities due to Brain Functions </b> 
+<br>
+One may be interested in seeing association between differentn neurodegenerative diseases due to functional similarities. For example, one may ask, amongst patients who develope Parkinson's (PD) , Alzheimer's (AD), and Huntington's (HD) diseases, are PD patients brain functions more similar to AD's, than to HD's?  
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Disease.png" alt="HTML5 Icon" style="width:600px;">
+    </a>
+</div>
+</center>
+
+<br>
+Let us take an example to describe the procedure. Consider two task-based imaging sessions: working memory and motor (we choose these two because AD and PD patients' brain functions may be correlated with respect to these two tasks). Now for subjects under the working memory task group, we could group them according their disease status. For those in the motor group, we could randomize the order of subjects (because our goal is to see how well we match patients in different disease groups). Next, we vectorize each correlation matrix; and calculate correlations between these vectors in two task groups. The results are stored in a <i>disease-specific (dis)similarity matrix<i> due to brain functions.
+
+<br>
+Certaily, the same subjects would likely be accurately matched; nonetheless, it would be interesting to see if the subjects in the same disease group are matched. The grouping is present in a disease-specific (dis)similarity matrix.
 
 <br>
 <b> 2. 5. Brain-Genome Fingerprinting </b>
+Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), it would interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence and brain <i>structure<i>, rather than brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
 
 <br>
 <b> 2. 6. Fingerprinting Defining Matrix</b>
@@ -349,7 +366,7 @@ Y_1^T X Y_2  = V_1^2 V_2^2
 
 
 <br>
-<b> 2. 7. Connecting Brain Fingerprinting with Kriegeskorte's RSA and Decoding Models</b>
+<b> 2. 7. Connecting Brain Fingerprinting with RSA and Decoding Models</b>
 
 
 <hr>
