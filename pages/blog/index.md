@@ -288,7 +288,7 @@ Certaily, the same subjects would likely be accurately matched; nonetheless, it 
 
 <br>
 <b> 2. 5. Brain-Genome Fingerprinting </b>
-Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), it would interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence and brain <i>structure</i>, rather than brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
+Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), to match subjects using brain functions along with genomic information during two sessions gains us little because genes for the same subject do not vary much during these sessions; adding brain measurements into gene information would even likely to reduce identification accuracy rate. Nevertheless, it would interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence with brain <i>structure</i>, rather than with brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
 
 <br>
 <b> 2. 6. Fingerprinting Defining Matrix</b>
