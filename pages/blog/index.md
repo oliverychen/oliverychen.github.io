@@ -310,7 +310,7 @@ j
 The <i>Fingerprinting Defining Matrix</i> <img center src="http://latex.codecogs.com/gif.latex?
 M
 " border="0"/> of dimension <img center src="http://latex.codecogs.com/gif.latex?
-n \time n
+n \times n
 " border="0"/> satisfies:
 
 <center>
