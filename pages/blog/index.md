@@ -234,7 +234,7 @@ T \rightarrow 0, NT >> 0
 <b> 2. 2. "Dynamic" brain fingerprinting </b> 
 
 <br>
-The study showed that "<i>longer time courses better preserved individual characteristics in connectivity profiles</i>". However, it would be interesting in examining if the identification accuracy rate changes across the time of the day. This question is driven by studies we did on physical activity data analysis, where our daily physical activity on average follows a "M" shape. It will be tremendously interesting if the identification accuracy rate across time somewhat matches the physical activity pattern (especially during task sessions) - which would indicate that stronger physical activity facilitate brain fingerprinting. See below.   
+The study showed that "<i>longer time courses better preserved individual characteristics in connectivity profiles</i>". However, it would be interesting in examining if the identification accuracy rate changes across the time of the day. This question is driven by studies we did on physical activity data analysis, where our daily physical activity on average follows a "M" shape. It will be tremendously interesting if the identification accuracy rate across time somewhat matches the physical activity pattern (especially during task sessions) - which would indicate that stronger physical activity could possibly facilitate brain fingerprinting. See below.   
 <center>
 <div id="top">
     <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
