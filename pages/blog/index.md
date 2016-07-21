@@ -218,7 +218,7 @@ Notice, the <img center src="http://latex.codecogs.com/gif.latex?
 The paper claims that identification power came from true differences in functional connectivity rather than anatomic idiosyncrasies. To support the claim, the authors used kernel smoothing on connectivity matrices, and showed that, with larger smoothing kernels (under which the registration advantages for the same brain compared to different brains should be vastly reduced or eliminated), only a slight drop in identification power. One may argue that smoothing does not eliminate differences caused by topology fully. Let us take an extreme example: consider two subjects (S1 and S2) with significant anatomical difference in 100 adjacent nodes, where the brain measurements of S1 for these nodes during two sessions are nonzeros, and those of S2 for these nodes during two sessions are all zeros. In this case, for those 100 nodes, a large <a href="http://www.biostat.jhsph.edu/~ririzarr/Teaching/649/section-06.pdf">smoothing kernel</a> (unless an infinite bandwidth is chosen), will give S1 small but nonzero smoothed brain measurements whereas S2 has all zeros. Therefore, S1 in one image session would still match S1 in another session, and so is S2 - this could potentially argue against the functional connectivity claim.  
 
 <br>
-To better eliminate anatomic idiosyncrasies, we need brains that are particular similar anatomically. One could start by looking at the HCP twin data, concerning that the brain topology between identical twins is almost the same. Using the HCP twin and non-twin data, we could the ask three questions: is brain fingerprinting (1) due to brain functions alone, (2) due to brain topology, or (3) due to a combination of (1) and (2). Let us call the identication accuracy rate for twins as <img center src="http://latex.codecogs.com/gif.latex?
+To better eliminate anatomic idiosyncrasies, we need brains that are particularly similar anatomically. One could start by looking at the HCP twin data, concerning that the brain topology between identical twins is almost the same. Using the HCP twin and non-twin data, we could the ask three questions: is brain fingerprinting (1) due to brain functions alone, (2) due to brain topology, or (3) due to a combination of (1) and (2). Let us call the identication accuracy rate for twins as <img center src="http://latex.codecogs.com/gif.latex?
 T
 " border="0"/> and it for non-twins as <img center src="http://latex.codecogs.com/gif.latex?
 NT
@@ -273,6 +273,83 @@ N
 <br>
 <b> 2. 5. Brain-Genome Fingerprinting </b>
 
+<br>
+<b> 2. 6. Fingerprinting Defining Matrix</b>
+
+<br>
+Consider <img center src="http://latex.codecogs.com/gif.latex?
+Y_1
+" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex?
+Y_2
+" border="0"/>, each of which is <img center src="http://latex.codecogs.com/gif.latex?
+n \times v
+" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
+n
+" border="0"/> is the number of subject and <img center src="http://latex.codecogs.com/gif.latex?
+v
+" border="0"/> is the number of vectorized nodes, as data from two sessions. In particular, for example, the first row of <img center src="http://latex.codecogs.com/gif.latex?
+Y_1
+" border="0"/> is the node-wise correlation matrix for subject 1 in session 1 vectorized.
+
+<br>
+We then define a <img center src="http://latex.codecogs.com/gif.latex?
+n \times n
+" border="0"/> (where <img center src="http://latex.codecogs.com/gif.latex?
+n
+" border="0"/> is the number of subjects) <i>Fingerprinting Defining Matrix</i>, where if (consider row-wise) the <img center src="http://latex.codecogs.com/gif.latex?
+(i,j)^{\text{th}}
+" border="0"/> entry is the largest among all entries in row <img center src="http://latex.codecogs.com/gif.latex?
+j
+" border="0"/>, we say subject <img center src="http://latex.codecogs.com/gif.latex?
+i
+" border="0"/> in session 1 matches subject <img center src="http://latex.codecogs.com/gif.latex?
+j
+" border="0"/> in session 2.
+
+<br>
+The <i>Fingerprinting Defining Matrix</i> <img center src="http://latex.codecogs.com/gif.latex?
+M
+" border="0"/> of dimension <img center src="http://latex.codecogs.com/gif.latex?
+n \time n
+" border="0"/> satisfies:
+
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+M = \arg\min_{ X } \{ \parallel X \parallel _{\mathcal{F}}: Y_1^T X Y_2  = V_1^2 V_2^2 \},
+" border="0"/>
+</center>
+
+<br>
+where <img center src="http://latex.codecogs.com/gif.latex?
+V_1
+" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex?
+V_2
+" border="0"/> are scaling matrices of <img center src="http://latex.codecogs.com/gif.latex?
+Y_1
+" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex?
+Y_2
+" border="0"/>, respectively.
+
+<br> In other words, there are a lot of matching matrices that allows <img center src="http://latex.codecogs.com/gif.latex?
+Y_1^T X Y_2  = V_1^2 V_2^2
+" border="0"/> (i.e. obtain the "product variance" of data from both sessions); but <img center src="http://latex.codecogs.com/gif.latex?
+M
+" border="0"/> is the matching matrix with the smallest matrix norm to achieve so.
+
+<br>
+Indeed, the correlation matrix <img center src="http://latex.codecogs.com/gif.latex?
+P = Y_1^T Y_2
+" border="0"/> achieves that <img center src="http://latex.codecogs.com/gif.latex?
+Y_1^T P Y_2  = V_1^2 V_2^2
+" border="0"/> because <img center src="http://latex.codecogs.com/gif.latex?
+Y_1^T P Y_2 = D_1^T V_1 S_1^T (S_1 V_1 D_1 D_2^T V_2 S_2^T) S_2 V_2 D_2 = V_1^2 V_2^2
+" border="0"/>. However, <b>I do not have a proof</b> that the correlation matrix is the matching matrix that has the smallest matrix norm to achieve <img center src="http://latex.codecogs.com/gif.latex?
+Y_1^T X Y_2  = V_1^2 V_2^2
+" border="0"/>. It would be interesting if someone could prove this (or prove this claim is wrong). If the former, then we will have a mathematical interpretation for the correlation matrix to be a <i>fingerprinting matching matrix</i> that matches the data from two sessions to abtain the "product variance" from the two data sets.
+
+
+<br>
+<b> 2. 7. Connecting Brain Fingerprinting with Kriegeskorte's RSA and Decoding Models</b>
 
 
 <hr>
