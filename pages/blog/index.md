@@ -140,7 +140,142 @@ Heavy-tailed Time Series;
 <hr>
 
 -->
+<!-- blog VII -->
+<h2>On Brain Fingerprint: Extensions </h2>
 
+Last updated: July 20, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼The unique fingerprint of every individual defines our unique purpose and mission on earth.</p>
+
+– Lailah Gifty Akita
+</div>
+
+<br>
+In this post, we shall discuss the wonderful <a href="http://www.nature.com/neuro/journal/v18/n11/full/nn.4135.html">brain fingerprinting paper</a> published on <i>Nature Neuroscience</i> by Finn et al, and present a few potential extensions. 
+
+<br>
+<b>1. Recap</b>
+
+<br>
+First, let us briefly describe the dataset and the <i>fingerprinting</i> procedures in <a href="http://www.nature.com/neuro/journal/v18/n11/full/nn.4135.html">Finn et al (2015)</a>. The study has 126 subjects, each subject has 268 nodes, each subject is measured at <img center src="http://latex.codecogs.com/gif.latex?
+T
+" border="0"/> time points (rigorously we should write <img center src="http://latex.codecogs.com/gif.latex?
+T_i, \forall 1 \leq i \leq 6
+" border="0"/> because the time points vary between sessions), and there are six image sessions: two resting sessions (rest 1 [on day 1], rest 2 [on day 2]) and four task sessions: working memory, emotion, motor and language (two on each day). Therefore, the dataset is 
+
+<center> <img center src="http://latex.codecogs.com/gif.latex?
+126 \times \underbrace{268 \times T}_{\text{compute} \hspace{2mm} 268 \times 268 \hspace{2mm} \text{node-wise correlation matrix}} \times 6.
+" border="0"/>
+</center>
+
+<br>
+For every subject at each image session, we could convert the <img center src="http://latex.codecogs.com/gif.latex?
+268 \times T
+" border="0"/> matrix into a <img center src="http://latex.codecogs.com/gif.latex?
+268 \times 268
+" border="0"/> node-wise correlation matrix. Therefore, at each session, we have 126 subject-specific node-wise correlation matrix. Next, we vectorize each node-wise correlation matrix. Finally, consider subject <img center src="http://latex.codecogs.com/gif.latex?
+i
+" border="0"/> from one image session (say Rest 1). To find a matching subject from another image session (say Rest 2), we take <img center src="http://latex.codecogs.com/gif.latex?
+\bold{v}_i ^{(1)}
+" border="0"/>, the vectorized node-wise correlation matrix for subject <img center src="http://latex.codecogs.com/gif.latex?
+i
+" border="0"/>, where the superscript indicates it is from the first image session, to each of vector in the Rest 2. The subject identified is the one who achieves
+<center> 
+<img center src="http://latex.codecogs.com/gif.latex?
+\rho_{i j*}^{(1,2)} = \arg\max_{1^* \leq k^* \leq 126^*} \rho_{i k^*}^{(1,2)}.
+" border="0"/>
+</center>
+
+<br>
+where <img center src="http://latex.codecogs.com/gif.latex?
+\rho_{i j*}^{(1,2)} = corr(\bold{v}_i^{(1)}, \bold{v}_{j^*}^{(2)}).
+" border="0"/>
+
+<br>
+Notice, the <img center src="http://latex.codecogs.com/gif.latex?
+*
+" border="0"/> indicates that subject <img center src="http://latex.codecogs.com/gif.latex?
+15^*
+" border="0"/> in Rest 2 may differ from subject 15 in Rest 1.
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Fingerprinting.png" alt="HTML5 Icon" style="width:500px;">
+    </a>
+</div>
+</center>
+
+<br>
+<b>2. Extensions</b>
+
+<br>
+<b> 2. 1. Brain topology v.s. brain functional on identication accuracy </b>
+
+<br>
+The paper claims that identification power came from true differences in functional connectivity rather than anatomic idiosyncrasies. To support the claim, the authors used kernel smoothing on connectivity matrices, and showed that, with larger smoothing kernels (under which the registration advantages for the same brain compared to different brains should be vastly reduced or eliminated), only a slight drop in identification power. One may argue that smoothing does not eliminate differences caused by topology fully. Let us take an extreme example: consider two subjects (S1 and S2) with significant anatomical difference in 100 adjacent nodes, where the brain measurements of S1 for these nodes during two sessions are nonzeros, and those of S2 for these nodes during two sessions are all zeros. In this case, for those 100 nodes, a large <a href="http://www.biostat.jhsph.edu/~ririzarr/Teaching/649/section-06.pdf">smoothing kernel</a> (unless an infinite bandwidth is chosen), will give S1 small but nonzero smoothed brain measurements whereas S2 has all zeros. Therefore, S1 in one image session would still match S1 in another session, and so is S2 - this could potentially argue against the functional connectivity claim.  
+
+<br>
+To better eliminate anatomic idiosyncrasies, we need brains that are particular similar anatomically. One could start by looking at the HCP twin data, concerning that the brain topology between identical twins is almost the same. Using the HCP twin and non-twin data, we could the ask three questions: is brain fingerprinting (1) due to brain functions alone, (2) due to brain topology, or (3) due to a combination of (1) and (2). Let us call the identication accuracy rate for twins as <img center src="http://latex.codecogs.com/gif.latex?
+T
+" border="0"/> and it for non-twins as <img center src="http://latex.codecogs.com/gif.latex?
+NT
+" border="0"/>, both of which are in percentage. If <img center src="http://latex.codecogs.com/gif.latex?
+T \sim NT 
+" border="0"/>, then we conclude that brain fingerprinting is not due to topoloty; if <img center src="http://latex.codecogs.com/gif.latex?
+0 << T < NT 
+" border="0"/> (i.e. we still achieve some accuracy using twin data, but not as good as if we use non-twin data) then we conclude that brain fingerprinting is due to a combination of brain function and topology; and if <img center src="http://latex.codecogs.com/gif.latex?
+T \rightarrow 0, NT >> 0
+" border="0"/> (i.e. we almost cannot fingerprint twins), then we conclude that brain fingerprinting is due merely to brain topology.
+
+<br>
+<b> 2. 2. "Dynamic" brain fingerprinting </b> 
+
+<br>
+The study showed that "<i>longer time courses better preserved individual characteristics in connectivity profiles</i>". However, it would be interesting in examining if the identification accuracy rate changes across the time of the day. This question is driven by studies we did on physical activity data analysis, where our daily physical activity on average follows a "M" shape. It will be tremendously interesting if the identification accuracy rate across time somewhat matches the physical activity pattern (especially during task sessions) - which would indicate that stronger physical activity facilitate brain fingerprinting. See below.   
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Fingerprinting_physical_avctivity.png" alt="HTML5 Icon" style="width:400px;">
+    </a>
+</div>
+</center>
+
+<br>
+Here, we present the brief procedure. First, divide the total time points in a time <img center src="http://latex.codecogs.com/gif.latex?
+T
+" border="0"/> into <img center src="http://latex.codecogs.com/gif.latex?
+N
+" border="0"/> periods, each with <img center src="http://latex.codecogs.com/gif.latex?
+t
+" border="0"/> time points, i.e. <img center src="http://latex.codecogs.com/gif.latex?
+T = N \times t
+" border="0"/>. For every <img center src="http://latex.codecogs.com/gif.latex?
+t
+" border="0"/> time points, we repeat the fingerprinting procedure discussed in the paper, and obtain <img center src="http://latex.codecogs.com/gif.latex?
+N
+" border="0"/> identification accuracy rates, and call them <img center src="http://latex.codecogs.com/gif.latex?
+R_1, \cdots, R_N
+" border="0"/>. Finally, we plot <img center src="http://latex.codecogs.com/gif.latex?
+R_1, \cdots, R_N
+" border="0"/> against <img center src="http://latex.codecogs.com/gif.latex?
+N
+" border="0"/> time points of the day.
+
+<br>
+<b> 2. 3. Age, gender, etc. effects on identification accuracy rate </b>
+
+<br>
+<b> 2. 4. Neurodegenerative Disease Association </b> 
+
+<br>
+<b> 2. 5. Brain-Genome Fingerprinting </b>
+
+
+
+<hr>
 
 
 
