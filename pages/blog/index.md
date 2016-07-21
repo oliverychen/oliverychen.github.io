@@ -228,7 +228,7 @@ T \sim NT
 0 << T < NT 
 " border="0"/> (i.e. we still achieve some accuracy using twin data, but not as good as if we use non-twin data) then we conclude that brain fingerprinting is due to a combination of brain function and topology; and if <img center src="http://latex.codecogs.com/gif.latex?
 T \rightarrow 0, NT >> 0
-" border="0"/> (i.e. we almost cannot fingerprint twins), then we conclude that brain fingerprinting is due merely to brain topology.
+" border="0"/> (i.e. we almost cannot fingerprint twins), then we conclude that brain fingerprinting is due merely to brain topology. It would be interesting to see how much identification accuracy is due to functional connectivity and how much due to anatomic idiosyncrasies, via proposing a <i>Functional/Anatomic Ratio Score</i>, by studying the twin and non-twin data.
 
 <br>
 <b> 2. 2. "Dynamic" brain fingerprinting </b> 
