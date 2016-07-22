@@ -155,8 +155,8 @@ Last updated: July 19, 2016
 </div>
 
 <br>
-To read more about the thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, please refer to <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html
-">**<font color="blue">Professor Semir Zeki's blog</font>**</a>.
+The thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, could be found on Professor Semir Zeki's <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html
+">**<font color="blue">blog</font>**</a>.
 
 <br> 
 Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
