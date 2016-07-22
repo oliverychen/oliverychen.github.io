@@ -159,7 +159,7 @@ To read more about the thought-provoking post on <i> intuition</i>, and other po
 ">**<font color="blue">Professor Semir Zeki's blog</font>**</a>.
 
 <br> 
-Further interested readers could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
+Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
 ">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191
 ">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html
 ">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453
