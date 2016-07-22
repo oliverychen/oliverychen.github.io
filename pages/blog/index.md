@@ -156,7 +156,7 @@ Last updated: July 19, 2016
 
 <br>
 To read more about the thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, please refer to <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html
-">**<font color="red">Professor Semir Zeki's blog</font>**</a>.
+">**<font color="blue">Professor Semir Zeki's blog</font>**</a>.
 
 <br> 
 Further interested readers could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
@@ -165,11 +165,9 @@ Further interested readers could refer to <a href="https://en.wikipedia.org/wiki
 ">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453
 ">Balthus ou la quête de l'essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html
 ">La bella e la bestia: arte e neuroscienze</a>.
-
 <hr>
 
-<br>
-We propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
+<b>W</b>e propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
 
 <br>
 First, for simplicity, define an event as <img center src="http://latex.codecogs.com/gif.latex?
@@ -257,7 +255,7 @@ Certainly, intuition could change overtime, because our view (prior information)
 </center>
 
 <br>
-This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interesting readers could refer to corresponding papers.
+This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interested readers could refer to corresponding papers.
 
 <br>
 <b>Other interpretations</b> 
@@ -642,7 +640,7 @@ N \times p
 N
 " border="0"/> is the number of ages and <img center src="http://latex.codecogs.com/gif.latex?
 p
-" border="0"/> is the number of voxels. We may then consider dimension reduction or assume that the brain network is sparse. We shall not expatiate on this here; interesting readers could consider approaches such as SVD, fPCA, ridge regression, etc.  
+" border="0"/> is the number of voxels. We may then consider dimension reduction or assume that the brain network is sparse. We shall not expatiate on this here; interested readers could consider approaches such as SVD, fPCA, ridge regression, etc.  
 
 <br>
 Readers who are interested in the estimating procedures of the above model could discuss with me <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">via email</a>. If one is interested in learning more about functional data analysis, please refer to the following wonderful resources: <a href="http://www.springer.com/us/book/9780387400808">Ramsay (2006)</a> proivdes a broad overview of functional data analysis methods with applications to curve and image analysis; and <a href="http://www.stat.tamu.edu/~carroll/semiregbook/">Ruppert et al. (2003)</a> overviews functional data analysis in the semiparametric framwork in detail.
@@ -721,7 +719,7 @@ Last updated: June 5, 2016
 
 
 <br> 
-A useful approach to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interesting readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. <a href="{{ site.baseurl }}/files/doc/fMRI_glossary.pdf">Here</a> is a useful reference of MRI glossary. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making "causal" claims, etc.
+A useful approach to develop one's skills in investigating human brain data is to understand incisively the data generation mechanism. At the low level, one may look at the <a href="https://en.wikipedia.org/wiki/Action_potential#Process_in_a_typical_neuron"> biophysical basis of action potential</a>, <a href="http://link.springer.com/referenceworkentry/10.1007/978-1-4614-7320-6_683-1"> spike-timing dependent plasticity</a>, <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0142435">neuronal dynamics</a>, etc. I have little knowledge in these areas; but interested readers can refer to <a href="http://www.ndcn.ox.ac.uk/team/rafal-bogacz">Bogacz</a>, <a href="http://learning.eng.cam.ac.uk/Public/Lengyel/WebHome">Lengyl</a>, <a href="https://www.ini.uzh.ch/~jpfister/">Pfister</a>, amongst other great scientists working in these fields. Here, I aim to discuss the data generating mechanism at the voxel level, mainly, fMRI data. I have learned a tremendous amount from two wonderful papers: (1) <a href="http://www.ncbi.nlm.nih.gov/pubmed/24586801">Eloya et al</a>; and (2) <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjf2c_TzJHNAhWKFj4KHbbYCzIQFggdMAA&url=https%3A%2F%2Fwww.jstatsoft.org%2Farticle%2Fview%2Fv044i10%2Fv44i10.pdf&usg=AFQjCNFBBPszyk5wZzmLI7HN_xC8EsrjpA">Welvaert et al</a>. The post serves as a self-learning guide, as I selectively walk through a few key steps. <a href="{{ site.baseurl }}/files/doc/fMRI_glossary.pdf">Here</a> is a useful reference of MRI glossary. I shall write another post in the near future discussing the importance of knowing the <i> exact </i> data generating mechanism on making "causal" claims, etc.
 <br/>
 
 
