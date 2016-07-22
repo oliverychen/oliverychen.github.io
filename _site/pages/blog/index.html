@@ -388,7 +388,7 @@ Heavy-tailed Time Series;
 To read more about the thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, please refer to <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html "><strong><font color="blue">Professor Semir Zeki's blog</font></strong></a>.</p>
 
 <p><br /> 
-Further interested readers could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>’s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain ">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191 ">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html ">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453 ">Balthus ou la quête de l’essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html ">La bella e la bestia: arte e neuroscienze</a>.</p>
+Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>’s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain ">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191 ">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html ">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453 ">Balthus ou la quête de l’essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html ">La bella e la bestia: arte e neuroscienze</a>.</p>
 <hr />
 
 <p><b>W</b>e propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki’s definition of intuition could be mathematically formulated in a Bayesian framework.</p>
@@ -599,7 +599,7 @@ The connectivity matrix approach used in <a href="http://www.nature.com/neuro/jo
 
 <center>
 <img center="" src="http://latex.codecogs.com/gif.latex?
-gF_k = \beta_0 X_k + \beta_1 + \epsilon_k,
+gF_k (X_k) = \beta_0 X_k + \beta_1 + \epsilon_k,
 " border="0" />
 </center>
 
@@ -608,7 +608,27 @@ where
 <img center="" src="http://latex.codecogs.com/gif.latex? X_k = \sum_{i,j} \stackrel{(k)}{\rho^{(+)}_{ij}} " border="0" /> is the positive <i>feature network strength</i> for subject <img center="" src="http://latex.codecogs.com/gif.latex? k " border="0" />, which sums up all significant (by thresholding) postive correlation <img center="" src="http://latex.codecogs.com/gif.latex? \rho_{ij} " border="0" />’s. The model for negative <i>feature network strength</i> could be Similarly defined.</p>
 
 <p><br />
-The prediction is well done. However, since the correlation between predicted and observed gF scores was r = 0.50 (P &lt; 10−9) for the positive-feature model and r = 0.26 (P = 0.005)</p>
+The prediction is well done. However, since the correlation between predicted and observed gF scores was <img center="" src="http://latex.codecogs.com/gif.latex? r = 0.50 (p&lt; 10^{-9}) " border="0" /> for the positive-feature model and <img center="" src="http://latex.codecogs.com/gif.latex? r = 0.26 (P = 0.005) " border="0" />, it would be interesting to see if there are things we could improve upon.</p>
+
+<p><br />
+First, we could check if a subregion of connectivity matrix (e.g. only take the part of the connectivity matrix whose nodes correspond to Broca’s and Wernicke’s areas) under specific tasks (e.g. language) would predict gF better. Second, since the authors used simple linear regression to train the data, we could investigate if there is a model that better fits the training data (and hence have a better leave-one-out prediction). For example, a non-linear model</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+gF_k(X_k) = f(X_k) \epsilon_k,
+" border="0" />
+</center>
+
+<p><br /> 
+where <img center="" src="http://latex.codecogs.com/gif.latex? f " border="0" /> is some non-linear mapping. Or a semiparametric model</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+gF_k(X_k) = f(X_k, \theta, \gamma) + \epsilon_k,
+" border="0" />
+</center>
+
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? \theta " border="0" /> is some finite-dimensional parameter of neurobiological interest, and <img center="" src="http://latex.codecogs.com/gif.latex? \gamma " border="0" /> is a nuisance parameter (such as the BOLD signal variance in each node).</p>
 
 <p><br />
 <b>3. Conclusion</b></p>

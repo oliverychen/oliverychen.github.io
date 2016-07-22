@@ -516,7 +516,7 @@ k
 
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
-gF_k = \beta_0 X_k + \beta_1 + \epsilon_k,
+gF_k (X_k) = \beta_0 X_k + \beta_1 + \epsilon_k,
 " border="0"/>
 </center>
 
@@ -531,7 +531,37 @@ k
 " border="0"/>'s. The model for negative <i>feature network strength</i> could be Similarly defined. 
 
 <br>
-The prediction is well done. However, since the correlation between predicted and observed gF scores was r = 0.50 (P < 10−9) for the positive-feature model and r = 0.26 (P = 0.005)
+The prediction is well done. However, since the correlation between predicted and observed gF scores was <img center src="http://latex.codecogs.com/gif.latex?
+r = 0.50 (p< 10^{-9})
+" border="0"/> for the positive-feature model and <img center src="http://latex.codecogs.com/gif.latex?
+r = 0.26 (P = 0.005)
+" border="0"/>, it would be interesting to see if there are things we could improve upon.
+
+<br>
+First, we could check if a subregion of connectivity matrix (e.g. only take the part of the connectivity matrix whose nodes correspond to Broca's and Wernicke's areas) under specific tasks (e.g. language) would predict gF better. Second, since the authors used simple linear regression to train the data, we could investigate if there is a model that better fits the training data (and hence have a better leave-one-out prediction). For example, a non-linear model
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+gF_k(X_k) = f(X_k) \epsilon_k,
+" border="0"/>
+</center>
+
+<br> 
+where <img center src="http://latex.codecogs.com/gif.latex?
+f
+" border="0"/> is some non-linear mapping. Or a semiparametric model
+
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+gF_k(X_k) = f(X_k, \theta, \gamma) + \epsilon_k,
+" border="0"/>
+</center>
+
+<br>
+where <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/> is some finite-dimensional parameter of neurobiological interest, and <img center src="http://latex.codecogs.com/gif.latex?
+\gamma
+" border="0"/> is a nuisance parameter (such as the BOLD signal variance in each node).
 
 <br>
 <b>3. Conclusion</b>
