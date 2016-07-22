@@ -520,7 +520,7 @@ k
 
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
-gF_k (X_k) = \beta_0 X_k + \beta_1 + \epsilon_k,
+gF_k (X_k) = \beta_0 +  \beta_1 X_k  + \epsilon_k,
 " border="0"/>
 </center>
 
