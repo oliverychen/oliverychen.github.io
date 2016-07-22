@@ -271,7 +271,7 @@ N
 <center>
 <div id="top">
     <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
-        <img src="{{ site.baseurl }}/images/Age_effect.png" alt="HTML5 Icon" style="width:400px;">
+        <img src="{{ site.baseurl }}/images/Age_effect.png" alt="HTML5 Icon" style="width:500px;">
     </a>
 </div>
 </center>
