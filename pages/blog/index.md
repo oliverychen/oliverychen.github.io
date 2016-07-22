@@ -266,6 +266,19 @@ N
 
 <br>
 <b> 2. 3. Age, gender, etc. effects on identification accuracy rate </b>
+<br> It would be interesting to investigate the age effect on identification accuracy rate. If there is a obvious difference identification accuracy rate between age groups, one may argue that this is due to functional difference related to age. Potentially, there could be six types of age effect trends (see below). Based on the trend, the age effect on identification accuracy rate would gain us neurobiological understanding of the brain functional similarity due to age: for example, the top left image below would indicate that the brain functions are the most stable (similar between two sessions) during one's adulthood while not so much during childhood (possibly in that kids' brain signals are super active one day and less so the second day or their state of mind has more variations - possibly not yet functionally matured), nor during ederly population (possibly due to lesions); the image to its right would indicate that age seems to not affect measured brain functions significantly. 
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Age_effect.png" alt="HTML5 Icon" style="width:400px;">
+    </a>
+</div>
+</center>
+
+<br>
+Similarly, one may look at the diffence of identification accuracy rate between male and female.
+
 
 <br>
 <b> 2. 4. Neurodegenerative Disease Similarities due to Brain Functions </b> 
@@ -288,7 +301,7 @@ Certaily, the same subjects would likely be accurately matched; nonetheless, it 
 
 <br>
 <b> 2. 5. Brain-Genome Fingerprinting </b>
-Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), to match subjects using brain functions along with genomic information during two sessions gains us little because genes for the same subject do not vary much during these sessions; adding brain measurements into gene information would even likely to reduce identification accuracy rate. Nevertheless, it would interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence with brain <i>structure</i>, rather than with brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
+Whilst genomic information may assist identify subjects alone (I have little knowledge about whether there are exisiting works on this), to match subjects using brain functions along with genomic information during two sessions gains us little because genes for the same subject do not vary much during these sessions; adding brain measurements into gene information would even likely to reduce identification accuracy rate. Nevertheless, it would be interesting to see if we could match one's brain functions with gene sequence, and <i>vice versa</i>. However, one may argue, if the matching is accurate, we are actually matching gene sequence with brain <i>structure</i>, rather than with brain <i>function</i>. I am not able to adress this, even with the twin data in (2.1), because identical twins are likely to have similar brain structures, and have the same DNA (assuming SNPs are ignorable). 
 
 <br>
 <b> 2. 6. Fingerprinting Defining Matrix</b>
