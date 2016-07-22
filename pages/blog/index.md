@@ -140,6 +140,134 @@ Heavy-tailed Time Series;
 <hr>
 
 -->
+
+<!-- blog VII -->
+<h2>On Intuition: A <i>Bayesian</i> View </h2>
+
+Last updated: July 19, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼An intuition is an unconscious logical brain process with an outcome or conclusion in the form of a  statement or proposition. But whether the outcome of the intuitive process is "right" or "wrong", or "correct" or "incorrect",  can only be determined by a conscious logical process.</p>
+
+– Mikhail Filippov, Varun Prasad and Semir Zeki
+
+</div>
+
+<br>
+To read more about the thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, please refer to <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html
+">**<font color="red">Professor Semir Zeki's blog</font>**</a>.
+
+<br> 
+Further interested readers could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
+">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191
+">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html
+">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453
+">Balthus ou la quête de l'essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html
+">La bella e la bestia: arte e neuroscienze</a>.
+
+<hr>
+
+<br>
+We propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
+
+<br>
+First, for simplicity, define an event as <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>. Here, <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/> is a random variable, a random quantity whose value is subject to variations due to chance. For example, looking into the mirror, you think your height (<img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>) is 72 inches. However, your visual judegement may not always be correct, or that the mirror may not be perfect. Hence, we could put a probability measure <img center src="http://latex.codecogs.com/gif.latex?
+Pr
+" border="0"/> on <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>. If you strongly believe in your judegement, then the probability density <img center src="http://latex.codecogs.com/gif.latex?
+Pr(\theta)
+" border="0"/> is rather spiky, for example, it covers the height from 71-73. On the other hand, we may have less confidence when a visually-impaired person claims that he finds himself 72 inches tall. In that case, the probability density is rather flat, for example, it covers the height from 61-83. We call <img center src="http://latex.codecogs.com/gif.latex?
+Pr(\theta)
+" border="0"/> the <b>prior</b>. Another wonderful example of <img center src="http://latex.codecogs.com/gif.latex?
+\theta 
+" border="0"/> is the location of where a tennis ball lands in a match ( <a href="http://www.nature.com/nature/journal/v427/n6971/abs/nature02169.html">Körding and Wolpert, 2003</a>).
+
+<br>
+Next, we define the data observed from experiments as <img center src="http://latex.codecogs.com/gif.latex?
+D 
+" border="0"/>. For example, the measured height. Measured heights have errors, too. Furthermore, the measurement error for a child (<img center src="http://latex.codecogs.com/gif.latex?
+\theta = 50
+" border="0"/>) is in general smaller than it for a basketball player (e.g. Dwight Howard at <img center src="http://latex.codecogs.com/gif.latex?
+\theta = 83
+" border="0"/>). Therefore, at (conditioning on) every <img center src="http://latex.codecogs.com/gif.latex?
+\theta
+" border="0"/>, we define the <b>likelihood measure<b> as <img center src="http://latex.codecogs.com/gif.latex?
+Pr (D \vert \theta)
+" border="0"/>.
+
+<br>
+Finally, we define the <b>intuition of an event given experimental data </b> (<img center src="http://latex.codecogs.com/gif.latex?
+D
+" border="0"/> ) as
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta \vert D)
+" border="0"/>. 
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Bayesian.png" alt="HTML5 Icon" style="width:200px;">
+    </a>
+</div>
+</center>
+
+<br>
+By Bayes rule, we have: 
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta \vert D) = \frac{ Pr(D \vert \theta) Pr (\theta) } 
+{\int_{\Theta} Pr(D \vert \theta) Pr(\theta) }
+" border="0"/>
+</center>
+
+<br>
+It follows, <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta \vert D) \propto  Pr(D \vert \theta) Pr (\theta)
+" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
+\propto 
+" border="0"/> stands for <i> proportional to </i>. Let us use the height example to explain this: <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta = 72 \vert D = d) \propto  Pr(D = d  \vert \theta = 72) Pr (\theta = 72)
+" border="0"/>, which indicates that, our intuition about one's height being 72 inches, given observed data (<img center src="http://latex.codecogs.com/gif.latex?
+D = d
+" border="0"/>) depends on how well the measurement is, and how strongly our prior information of the height being 72 is. If our previous experience leads us to strongly believe the height is 72 (i.e. <img center src="http://latex.codecogs.com/gif.latex?
+Pr (\theta = 72)
+" border="0"/> is large), our intuition that the height is 72 would be strong.
+
+<br>
+The above equation translates as follow: intuition is based upon the data available and the prior experience information. This conclusion echoes with the statement that Professors Mikhail Filippov, Varun Prasad and Semir Zeki made:
+
+<br>
+<span style="background-color: lightgrey"> <i> We believe, however, that to have an intuition in any area, one must have experience of that area or knowledge of it, to provide a conclusion or statement, whether correct or incorrect. </i></span>
+
+<br>
+Certainly, intuition could change overtime, because our view (prior information) of the world changes. Hence, we could update our Bayesian intuition to one that is "dynamic", namely:
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{I}(\theta (t) \vert D) = \frac{ Pr(D \vert \theta (t) ) Pr (\theta (t)) } 
+{\int_{\Theta } Pr(D \vert \theta (t)) Pr(\theta (t)) }
+" border="0"/>
+</center>
+
+<br>
+This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interesting readers could refer to corresponding papers.
+
+<br>
+<b>Other interpretations</b> 
+
+<br>
+Biologically, intuition could be explained by early brain signals preceding decisions (see  <a href="http://www.ncbi.nlm.nih.gov/pubmed/6640273">Benjamin Libet</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/10333013">Haggard and Eimer</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/18408715">Soon et all</a>, and <a href="http://www.pnas.org/content/113/4/1080.full.pdf">Schultze-Kraft</a>).
+
+<hr>
+
+
 <!-- blog VII -->
 <h2>On Brain Fingerprint: Extensions </h2>
 
@@ -379,127 +507,42 @@ Y_1^T X Y_2  = V_1^2 V_2^2
 
 
 <br>
-<b> 2. 7. Connecting Brain Fingerprinting with RSA and Decoding Models</b>
-
-
-<hr>
-
-
-
-
-<!-- blog VII -->
-<h2>On Intuition: A <i>Bayesian</i> View </h2>
-
-Last updated: July 19, 2016
-
-<div style="background-color:black; color:white; padding:20px;">
-
-<p>￼An intuition is an unconscious logical brain process with an outcome or conclusion in the form of a  statement or proposition. But whether the outcome of the intuitive process is "right" or "wrong", or "correct" or "incorrect",  can only be determined by a conscious logical process.</p>
-
-– Mikhail Filippov, Varun Prasad and Semir Zeki
-
-</div>
+<b> 2. 7. Connecting Brain Fingerprinting with Encoding models, RSA, and Decoding Models</b>
 
 <br>
-We propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
+The connectivity matrix approach used in <a href="http://www.nature.com/neuro/journal/v18/n11/full/nn.4135.html">Finn et al (2015)</a> is in essence identical to it used in <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2605405/pdf/fnsys-02-004.pdf ">RSA (Kriegeskorte et al, 2008)</a>. A few extensions could be made linking these approaches (I will write another post on this on a later date). Here, I would like to discuss the <i>behavioral prediction</i> discussed in the paper and potential extensions.
 
-<br>
-First, for simplicity, define an event as <img center src="http://latex.codecogs.com/gif.latex?
-\theta
-" border="0"/>. Here, <img center src="http://latex.codecogs.com/gif.latex?
-\theta
-" border="0"/> is a random variable, a random quantity whose value is subject to variations due to chance. For example, looking into the mirror, you think your height (<img center src="http://latex.codecogs.com/gif.latex?
-\theta
-" border="0"/>) is 72 inches. However, your visual judegement may not always be correct, or that the mirror may not be perfect. Hence, we could put a probability measure <img center src="http://latex.codecogs.com/gif.latex?
-Pr
-" border="0"/> on <img center src="http://latex.codecogs.com/gif.latex?
-\theta
-" border="0"/>. If you strongly believe in your judegement, then the probability density <img center src="http://latex.codecogs.com/gif.latex?
-Pr(\theta)
-" border="0"/> is rather spiky, for example, it covers the height from 71-73. On the other hand, we may have less confidence when a visually-impaired person claims that he finds himself 72 inches tall. In that case, the probability density is rather flat, for example, it covers the height from 61-83. We call <img center src="http://latex.codecogs.com/gif.latex?
-Pr(\theta)
-" border="0"/> the <b>prior</b>. Another wonderful example of <img center src="http://latex.codecogs.com/gif.latex?
-\theta 
-" border="0"/> is the location of where a tennis ball lands in a match ( <a href="http://www.nature.com/nature/journal/v427/n6971/abs/nature02169.html">Körding and Wolpert, 2003</a>).
-
-<br>
-Next, we define the data observed from experiments as <img center src="http://latex.codecogs.com/gif.latex?
-D 
-" border="0"/>. For example, the measured height. Measured heights have errors, too. Furthermore, the measurement error for a child (<img center src="http://latex.codecogs.com/gif.latex?
-\theta = 50
-" border="0"/>) is in general smaller than it for a basketball player (e.g. Dwight Howard at <img center src="http://latex.codecogs.com/gif.latex?
-\theta = 83
-" border="0"/>). Therefore, at (conditioning on) every <img center src="http://latex.codecogs.com/gif.latex?
-\theta
-" border="0"/>, we define the <b>likelihood measure<b> as <img center src="http://latex.codecogs.com/gif.latex?
-Pr (D \vert \theta)
-" border="0"/>.
-
-<br>
-Finally, we define the <b>intuition of an event given experimental data </b> (<img center src="http://latex.codecogs.com/gif.latex?
-D
-" border="0"/> ) as
-<img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{I}(\theta \vert D)
-" border="0"/>. 
+<br> The paper uses <i>feature network strength</i> to predict <i>gFscore (fluid intelligence)</i> score. For subject <img center src="http://latex.codecogs.com/gif.latex?
+k
+" border="0"/>
 
 <center>
-<div id="top">
-    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
-        <img src="{{ site.baseurl }}/images/Bayesian.png" alt="HTML5 Icon" style="width:200px;">
-    </a>
-</div>
-</center>
-
-<br>
-By Bayes rule, we have: 
-<center>
 <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{I}(\theta \vert D) = \frac{ Pr(D \vert \theta) Pr (\theta) } 
-{\int_{\Theta} Pr(D \vert \theta) Pr(\theta) }
+gF_k = \beta_0 X_k + \beta_1 + \epsilon_k,
 " border="0"/>
 </center>
 
 <br>
-It follows, <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{I}(\theta \vert D) \propto  Pr(D \vert \theta) Pr (\theta)
-" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
-\propto 
-" border="0"/> stands for <i> proportional to </i>. Let us use the height example to explain this: <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{I}(\theta = 72 \vert D = d) \propto  Pr(D = d  \vert \theta = 72) Pr (\theta = 72)
-" border="0"/>, which indicates that, our intuition about one's height being 72 inches, given observed data (<img center src="http://latex.codecogs.com/gif.latex?
-D = d
-" border="0"/>) depends on how well the measurement is, and how strongly our prior information of the height being 72 is. If our previous experience leads us to strongly believe the height is 72 (i.e. <img center src="http://latex.codecogs.com/gif.latex?
-Pr (\theta = 72)
-" border="0"/> is large), our intuition that the height is 72 would be strong.
-
-<br>
-The above equation translates as follow: intuition is based upon the data available and the prior experience information. This conclusion echoes with the statement that Professors Mikhail Filippov, Varun Prasad and Semir Zeki made:
-
-<br>
-<span style="background-color: lightgrey"> <i> We believe, however, that to have an intuition in any area, one must have experience of that area or knowledge of it, to provide a conclusion or statement, whether correct or incorrect. </i></span>
-
-<br>
-Certainly, intuition could change overtime, because our view (prior information) of the world changes. Hence, we could update our Bayesian intuition to one that is "dynamic", namely:
-<center>
+where
 <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{I}(\theta (t) \vert D) = \frac{ Pr(D \vert \theta (t) ) Pr (\theta (t)) } 
-{\int_{\Theta } Pr(D \vert \theta (t)) Pr(\theta (t)) }
-" border="0"/>
-</center>
+X_k = \sum_{i,j} \stackrel{(k)}{\rho^{(+)}_{ij}}
+" border="0"/> is the positive <i>feature network strength</i> for subject <img center src="http://latex.codecogs.com/gif.latex?
+k
+" border="0"/>, which sums up all significant (by thresholding) postive correlation <img center src="http://latex.codecogs.com/gif.latex?
+\rho_{ij}
+" border="0"/>'s. The model for negative <i>feature network strength</i> could be Similarly defined. 
 
 <br>
-This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interesting readers could refer to corresponding papers.
+The prediction is well done. However, since the correlation between predicted and observed gF scores was r = 0.50 (P < 10−9) for the positive-feature model and r = 0.26 (P = 0.005)
 
 <br>
-<b>Other interpretations</b> 
+<b>3. Conclusion</b>
 
-<br>
-Biologically, intuition could be explained by early brain signals preceding decisions (see  <a href="http://www.ncbi.nlm.nih.gov/pubmed/6640273">Benjamin Libet</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/10333013">Haggard and Eimer</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/18408715">Soon et all</a>, and <a href="http://www.pnas.org/content/113/4/1080.full.pdf">Schultze-Kraft</a>).
+<br> 
+In summary, <a href="http://www.nature.com/neuro/journal/v18/n11/full/nn.4135.html">Finn et al (2015)</a> is a tremendously interesting paper that demonstrated existing subject-specifi functions in the brain. I eagerly look forward to more exciting follow-up works from the group.
+
 
 <hr>
-
-
 
 <!-- blog VI -->
 <h2>On Task-based <i>Age</i> and <i>Gender</i> Effects on <i>Spatial</i> Brain Representations: with Applications to the Human Connectome Project </h2>
