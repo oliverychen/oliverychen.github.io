@@ -159,7 +159,7 @@ The thought-provoking post on <i> intuition</i>, and other posts regarding the i
 ">**<font color="blue">blog</font>**</a>.
 
 <br>
-We encourage discussion and comments. One question I would like to hear our readers' opnion is: in the following post, I interpret <i>intuition</i> as the <i>posterior</i> that is based upon data and <i>prior information</i> (the latter of which is based upon previous training or experience); however, one could argue <i>intuition</i> is indeed the <i>prior</i>, and with data, we update and form our <i>belief</i> (the <i>posterior</i>).
+We encourage discussion and comments. One question I would like to hear our readers' opnion is: in the following post, I interpret <i>intuition</i> as the <i>posterior</i> that is based upon data and <i>prior information</i> (the latter of which is based upon previous training or experience). However, one could argue that <i>intuition</i> is indeed the <i>prior</i>; and with data, we update and form our <i>belief</i> (the <i>posterior</i>).
 
 
 <br> 
