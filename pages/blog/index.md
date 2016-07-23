@@ -165,7 +165,7 @@ And with old prior new experiment my dear posterior's based.
 <center>
 
 <br>
-<b> To </b>
+<b> To the memory of the great statistician, philosopher and Presbyterian minister</b>
 <br>
 <b> THOMAS BAYES</b>
 
