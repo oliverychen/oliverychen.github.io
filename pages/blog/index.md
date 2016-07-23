@@ -158,7 +158,7 @@ I sigh the lack of many priors I sought,
 And with old prior new experiment my dear posterior's based.
 <br>
 <br>
-- Adapted from <i>Romeo and Juliet, Act III, sc. 2 </i>
+- Adapted from <i>Shakespeare's Sonnet XXX</i>
 </p>
 </div>
 
