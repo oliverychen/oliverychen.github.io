@@ -147,23 +147,35 @@ Heavy-tailed Time Series;
 Last updated: July 19, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
-
-<p>￼An intuition is an unconscious logical brain process with an outcome or conclusion in the form of a  statement or proposition. But whether the outcome of the intuitive process is "right" or "wrong", or "correct" or "incorrect", can only be determined by a conscious logical process.</p>
-
-– Mikhail Filippov, Varun Prasad and Semir Zeki
-
+<p>￼
+<br>
+When to the sessions of large data thought,
+<br>
+I summon up remembrance of things past, 
+<br>
+I sigh the lack of many priors I sought, 
+<br>
+And with old prior new experiment my dear posterior's based.
+<br>
+<br>
+- Adapted from <i>Romeo and Juliet, Act III, sc. 2 </i>
+</p>
 </div>
 
-<br>
-The thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, could be found on Professor Semir Zeki's <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html
-">**<font color="blue">blog</font>**</a>.
+<center>
 
 <br>
-We encourage discussion and comments. One question I would like to hear our readers' opInion is: in the following post, I interpret <i>intuition</i> as the <i>posterior</i> that is based upon data and <i>prior information</i> (the latter of which is based upon previous training or experience). However, one could argue that <i>intuition</i> is indeed the <i>prior</i>; and with data, we update and form our <i>belief</i> (the <i>posterior</i>).
+<b> To </b>
+<br>
+<b> THOMAS BAYES</b>
+
+</center>
 
 <hr>
+<b>W</b>E propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
 
-<b>W</b>e propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
+<br>
+<span style="background-color: lightgrey"> <i> An intuition is an unconscious logical brain process with an outcome or conclusion in the form of a  statement or proposition. But whether the outcome of the intuitive process is "right" or "wrong", or "correct" or "incorrect", can only be determined by a conscious logical process.</i></span>
 
 <br>
 First, for simplicity, define an event as <img center src="http://latex.codecogs.com/gif.latex?
@@ -261,6 +273,14 @@ Biologically, intuition could be explained by early brain signals preceding deci
 
 <br>
 <b>Further Reading</b> 
+
+<br>
+The thought-provoking post on <i> intuition</i>, and other posts regarding the implication of mathematical beauty on asynchronous brain operations, could be found on Professor Semir Zeki's <a href="http://profzeki.blogspot.co.uk/2016/07/unconscious-intuition-and-its-conscious.html
+">**<font color="blue">blog</font>**</a>.
+
+<br>
+We encourage discussion and comments. One question I would like to hear our readers' opInion is: in the following post, I interpret <i>intuition</i> as the <i>posterior</i> that is based upon data and <i>prior information</i> (the latter of which is based upon previous training or experience). However, one could argue that <i>intuition</i> is indeed the <i>prior</i>; and with data, we update and form our <i>belief</i> (the <i>posterior</i>).
+
 <br> 
 Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
 ">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191
