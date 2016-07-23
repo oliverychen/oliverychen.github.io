@@ -167,7 +167,7 @@ And with old prior new experiment my dear posterior's based.
 <br>
 <b> To</b>
 <br>
-<b> THOMAS BAYES</b>
+<b> THOMAS BAYES (c. 1701 – 1761)</b>
 
 </center>
 
