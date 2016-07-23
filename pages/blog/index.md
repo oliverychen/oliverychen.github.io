@@ -144,7 +144,7 @@ Heavy-tailed Time Series;
 <!-- blog VII -->
 <h2>On Intuition: A <i>Bayesian</i> View </h2>
 
-Last updated: July 19, 2016
+Last updated: July 22, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
 <p>￼
@@ -165,7 +165,7 @@ And with old prior new experiment my dear posterior's based.
 <center>
 
 <br>
-<b> To the memory of the great statistician, philosopher and Presbyterian minister</b>
+<b> To</b>
 <br>
 <b> THOMAS BAYES</b>
 
