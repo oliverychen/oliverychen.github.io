@@ -159,16 +159,8 @@ The thought-provoking post on <i> intuition</i>, and other posts regarding the i
 ">**<font color="blue">blog</font>**</a>.
 
 <br>
-We encourage discussion and comments. One question I would like to hear our readers' opnion is: in the following post, I interpret <i>intuition</i> as the <i>posterior</i> that is based upon data and <i>prior information</i> (the latter of which is based upon previous training or experience). However, one could argue that <i>intuition</i> is indeed the <i>prior</i>; and with data, we update and form our <i>belief</i> (the <i>posterior</i>).
+We encourage discussion and comments. One question I would like to hear our readers' opInion is: in the following post, I interpret <i>intuition</i> as the <i>posterior</i> that is based upon data and <i>prior information</i> (the latter of which is based upon previous training or experience). However, one could argue that <i>intuition</i> is indeed the <i>prior</i>; and with data, we update and form our <i>belief</i> (the <i>posterior</i>).
 
-
-<br> 
-Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
-">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191
-">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html
-">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453
-">Balthus ou la quête de l'essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html
-">La bella e la bestia: arte e neuroscienze</a>.
 <hr>
 
 <b>W</b>e propose that Professors Mikhail Filippov, Varun Prasad and Semir Zeki's definition of intuition could be mathematically formulated in a Bayesian framework. 
@@ -262,10 +254,21 @@ Certainly, intuition could change overtime, because our view (prior information)
 This may be studies with <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Dynamic Bayesian Network (DBN)</a> by Paul Dagum and <a href="https://en.wikipedia.org/wiki/Dynamic_Bayesian_network">Recursive Bayesian estimation (Bayes filter)</a>. I have little knowledge of this, interested readers could refer to corresponding papers.
 
 <br>
-<b>Other interpretations</b> 
+<b>Other Interpretations</b> 
 
 <br>
 Biologically, intuition could be explained by early brain signals preceding decisions (see  <a href="http://www.ncbi.nlm.nih.gov/pubmed/6640273">Benjamin Libet</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/10333013">Haggard and Eimer</a>, <a href="http://www.ncbi.nlm.nih.gov/pubmed/18408715">Soon et all</a>, and <a href="http://www.pnas.org/content/113/4/1080.full.pdf">Schultze-Kraft</a>).
+
+<br>
+<b>Further Reading</b> 
+<br> 
+Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>'s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain
+">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191
+">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html
+">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453
+">Balthus ou la quête de l'essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html
+">La bella e la bestia: arte e neuroscienze</a>.
+
 
 <hr>
 
