@@ -173,7 +173,7 @@ where <img center src="http://latex.codecogs.com/gif.latex?
  \rho_{ij}^{(k)}
 " border="0"/> is the <img center src="http://latex.codecogs.com/gif.latex?
 \{i,j\}^{\text{th}}
-" border="0"/> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation averaging out time); and <img center src="http://latex.codecogs.com/gif.latex?
+" border="0"/> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation between node-specific time series); and <img center src="http://latex.codecogs.com/gif.latex?
 I_{ijk} = 1
 " border="0"/> if <img center src="http://latex.codecogs.com/gif.latex?
  \rho_{ij}^{(k)}
