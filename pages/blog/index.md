@@ -173,7 +173,7 @@ where <img center src="http://latex.codecogs.com/gif.latex?
  \rho_{ij}^{(k)}
 " border="0"/> is the <img center src="http://latex.codecogs.com/gif.latex?
 \{i,j\}^{\text{th}}
-" border="0"/> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation over time); and <img center src="http://latex.codecogs.com/gif.latex?
+" border="0"/> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation averaging out time); and <img center src="http://latex.codecogs.com/gif.latex?
 I_{ijk} = 1
 " border="0"/> if <img center src="http://latex.codecogs.com/gif.latex?
  \rho_{ij}^{(k)}
@@ -212,6 +212,8 @@ x
 As you may have realised, the idea of <i>effective</i> network strength was inspired by <i>effective connectivity</i><a href="http://www.fil.ion.ucl.ac.uk/~karl/Functional%20and%20Effective%20Connectivity%20A%20Review.pdf
 "> (Friston (2011)</a> and <a href="https://www.researchgate.net/publication/239953112_Dynamics_of_activity_and_connectivity_in_physiological_neuronal_networks
 ">Aertsen and Preißl (1991)</a>). <i>Effective connectivity</i> regards the effect one neuron has on another and is time dependet, whereas <i>effective</i> network strength is time-independent as when taking the connectivity matrix, the time is averaged out.
+
+<!-- http://economics.mit.edu/files/32 -->
 
 <hr>
 
