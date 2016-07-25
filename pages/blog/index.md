@@ -141,7 +141,7 @@ Heavy-tailed Time Series;
 
 -->
 <!-- blog VII -->
-<h2>Defining <i>Effective</i> Network Strength</h2>
+<h2>From Network Strength to <i>Effective</i> Network Strength</h2>
 
 Last updated: July 24, 2016
 
@@ -158,7 +158,9 @@ You may say I'm a significant voxel, but I'm not the only one. I hope someday yo
 <br>
 <b>1. Network strength</b>
 
-<br> We formulate the defintion of <i>network strength</i> (<a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al, 2016</a>) as follows. Define <img center src="http://latex.codecogs.com/gif.latex?
+<br> <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> introduced a neuromarker based on intrinsic whole-brain functional connectivity, the degree to which brain activity in distinct neural regions is correlated over time, and showed that functional brain networks strength during a sustained attention task predicted individual differences in performance.
+
+<br> To characterize participant’s degree of connectivity, <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> defined <i>network strength</i>, a single summary statistic, which is equivalent to a weighted degree measure for each network. Formally, let us define <img center src="http://latex.codecogs.com/gif.latex?
 S_k
 " border="0"/>, as the <i>network strength</i> for subject <img center src="http://latex.codecogs.com/gif.latex?
 k
