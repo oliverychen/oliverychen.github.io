@@ -260,7 +260,7 @@ Certainly, when the task is multidimensional <img center src="http://latex.codec
 \nabla = \bigg(
 \frac{\partial}{\partial x_1}, \cdots, \frac{\partial}{\partial x_n}
 \bigg)
-" border="0"/>. The the effective</i> network strength rate could be specified at every task direction.
+" border="0"/>. The the <i>effective</i> network strength rate could be specified at every task direction.
 
 
 <!-- http://economics.mit.edu/files/32 -->
