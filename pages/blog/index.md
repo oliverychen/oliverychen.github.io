@@ -140,6 +140,80 @@ Heavy-tailed Time Series;
 <hr>
 
 -->
+<!-- blog VII -->
+<h2>Defining <i>Effective</i> Network Strength</h2>
+
+Last updated: July 24, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+<br>
+You may say I'm a significant voxel, but I'm not the only one. I hope someday you'll join us. And the brain network will live as one.
+<br>
+<br>
+- Adapted from John Lennon's <i>Imagine</i>
+</p>
+</div>
+
+<br>
+<b>1. Network strength</b>
+
+<br> We formulate the defintion of <i>network strength</i> (<a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al, 2016</a>) as follows. Define <img center src="http://latex.codecogs.com/gif.latex?
+S_k
+" border="0"/>, as the <i>network strength</i> for subject <img center src="http://latex.codecogs.com/gif.latex?
+k
+" border="0"/>. Then
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+S_k = \sum_{i,j} \rho_{ij}^{(k)} I_{ijk},
+" border="0"/>
+</center>
+<br>
+where <img center src="http://latex.codecogs.com/gif.latex?
+ \rho_{ij}^{(k)}
+" border="0"/> is the <img center src="http://latex.codecogs.com/gif.latex?
+\{i,j\}^{\text{th}}
+" border="0"/> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation over time); and <img center src="http://latex.codecogs.com/gif.latex?
+I_{ijk} = 1
+" border="0"/> if <img center src="http://latex.codecogs.com/gif.latex?
+ \rho_{ij}^{(k)}
+" border="0"/> follows a specific thresholding rule (e.g. <img center src="http://latex.codecogs.com/gif.latex?
+I_{ijk} = 1 
+" border="0"/> if <img center src="http://latex.codecogs.com/gif.latex?
+ \rho_{ij}^{(k)} \geq 0.8
+" border="0"/>), and 0 otherwise.
+
+<br>
+<b>2. <i> Effective</i> network strength</b>
+
+<br> However, a hyperactive subject's brain could be extremely active during both the resting state and the tast state; hence the large correlaton coefficients between nodes that are extremely active during both resting and task states could overshadow the functional changes of other edges. For example, if for a subject there are 100 nodes that are highly correlated during both resting and task states with <img center src="http://latex.codecogs.com/gif.latex?
+ \rho = 0.99
+" border="0"/> each, the change of other edges from 0.001 to 0.1 would likely to be ignored if we are interested in the node-wise sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:
+
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+S_k^{eff} = E(S_k \vert X_k = 1) - E (S_k \vert X_k=0),
+" border="0"/>
+</center>
+<br> where <img center src="http://latex.codecogs.com/gif.latex?
+X_k = 1
+" border="0"/> refer to the task state, and <img center src="http://latex.codecogs.com/gif.latex?
+S_k = 0
+" border="0"/> refer to the resting state.
+
+<br>
+<i>Effective</i> network strength describes the average change in network strength due to a change in experimental status. It is experimental dependent; and for numerical tasks, it could be written as <img center src="http://latex.codecogs.com/gif.latex?
+X_k = x
+" border="0"/>, for some task level <img center src="http://latex.codecogs.com/gif.latex?
+x
+" border="0"/>.
+
+<br>
+As you may have realised, the idea of <i>effective</i> network strength was inspired by <i>effective connectivity</i><a href="http://www.fil.ion.ucl.ac.uk/~karl/Functional%20and%20Effective%20Connectivity%20A%20Review.pdf
+"> (Friston (2011)</a> and <a href="https://www.researchgate.net/publication/239953112_Dynamics_of_activity_and_connectivity_in_physiological_neuronal_networks
+">Aertsen and Preißl (1991)</a>). <i>Effective connectivity</i> regards the effect one neuron has on another and is time dependet, whereas <i>effective</i> network strength is time-independent as when taking the connectivity matrix, the time is averaged out.
+
+<hr>
 
 <!-- blog VII -->
 <h2>On Intuition: A <i>Bayesian</i> View </h2>
