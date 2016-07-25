@@ -250,7 +250,7 @@ S(\text{treatment} = 1, \text{gender} = 1)
 <b>4. <i> Effective</i> network strength rate</b>
 
 <br>
-Once we have defined the <i>effective</i> network strength, it is natural to define the <i> effective</i> network strength rate: the increase of network strength per unit treatment increase.
+Once we have defined the <i>effective</i> network strength, it is natural to define the <i> effective</i> network strength rate: the change (note: could be decrease) of network strength per unit treatment increase.
 
 
 <center>
