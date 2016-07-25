@@ -194,7 +194,7 @@ I_{ijk} = 1
  \rho = 0.98
 " border="0"/> to <img center src="http://latex.codecogs.com/gif.latex?
  \rho = 0.99
-" border="0"/>), the change of other edges from 0.001 to 0.1 (despite statistically significant and plausiblly neurobiologically meaningful) would likely to be ignored if we are interested in the node-wise sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:
+" border="0"/>), the change of other edges from 0.001 to 0.1 (despite statistically significant and plausiblly neurobiologically meaningful) would likely to be ignored if we are interested in the node-wise (thresholding) sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:
 
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
