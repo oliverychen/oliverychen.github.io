@@ -255,7 +255,6 @@ Once we have defined the <i>effective</i> network strength, it is natural to def
 <br>
 Certainly, when the task is multidimensional <img center src="http://latex.codecogs.com/gif.latex?
 \boldsymbol{X} = \boldsymbol{x} = (x_1, \cdots, x_n)
-\bigg).
 " border="0"/>, we have
 <img center src="http://latex.codecogs.com/gif.latex?
 \nabla = \bigg(
