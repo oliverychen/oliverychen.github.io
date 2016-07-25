@@ -400,7 +400,7 @@ where <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} 
 <p><br />
 <b>2. <i> Effective</i> network strength</b></p>
 
-<p><br /> However, a hyperactive subject’s brain could be extremely active during both the resting state and the tast state; hence the large correlaton coefficients between nodes that are extremely active during both resting and task states could overshadow the functional changes of other edges. For example, if for a subject there are 100 nodes that are highly correlated during both resting and task states with <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.99 " border="0" /> each, the change of other edges from 0.001 to 0.1 would likely to be ignored if we are interested in the node-wise sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:</p>
+<p><br /> However, a hyperactive subject’s brain could be extremely active during both the resting state and the task state; hence the large correlaton coefficients between nodes that are extremely active during both resting and task states could overshadow the functional changes of other edges. For example, if for a subject there are 100 nodes that are highly correlated during both resting and task states with <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.99 " border="0" /> each, the change of other edges from 0.001 to 0.1 would likely to be ignored if we are interested in the node-wise sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:</p>
 
 <center>
 <img center="" src="http://latex.codecogs.com/gif.latex?
@@ -413,7 +413,39 @@ S_k^{eff} = E(S_k \vert X_k = 1) - E (S_k \vert X_k=0),
 <i>Effective</i> network strength describes the average change in network strength due to a change in experimental status. It is experimental dependent; and for numerical tasks, it could be written as <img center="" src="http://latex.codecogs.com/gif.latex? X_k = x " border="0" />, for some task level <img center="" src="http://latex.codecogs.com/gif.latex? x " border="0" />.</p>
 
 <p><br />
-As you may have realised, the idea of <i>effective</i> network strength was inspired by <i>effective connectivity</i><a href="http://www.fil.ion.ucl.ac.uk/~karl/Functional%20and%20Effective%20Connectivity%20A%20Review.pdf "> (Friston (2011)</a> and <a href="https://www.researchgate.net/publication/239953112_Dynamics_of_activity_and_connectivity_in_physiological_neuronal_networks ">Aertsen and Preißl (1991)</a>). <i>Effective connectivity</i> regards the effect one neuron has on another and is time dependet, whereas <i>effective</i> network strength is time-independent as when taking the connectivity matrix, the time is averaged out.</p>
+As you may have realised, the idea of <i>effective</i> network strength was inspired by <i>effective connectivity</i><a href="http://www.fil.ion.ucl.ac.uk/~karl/Functional%20and%20Effective%20Connectivity%20A%20Review.pdf "> (Friston (2011)</a> and <a href="https://www.researchgate.net/publication/239953112_Dynamics_of_activity_and_connectivity_in_physiological_neuronal_networks ">Aertsen and Preißl (1991)</a>). Nontheless, <i>effective connectivity</i> regards the effect one neuron has on another and is time dependet, whereas <i>effective</i> network strength is time-independent as when taking the connectivity matrix, the time is averaged out.</p>
+
+<p><br />
+<b>3. Network strength with multiple inputs </b></p>
+
+<p><br />
+What if we have more than one tasks? And what if are interested in <i>effective</i> network strength between male and female, or between different age groups? To address these interesting questions, we define the conditional network strength on different inputs.</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+S (\boldsymbol{x}) = S (X_1 = x_1, X_2 = x_2, \cdots, X_n = x_n)
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? X_i " border="0" />’s define tasks, and <img center="" src="http://latex.codecogs.com/gif.latex? x_i " border="0" /> is its realization.</p>
+
+<p><br /> For example, <img center="" src="http://latex.codecogs.com/gif.latex? S(\text{treatment} = 1, \text{gender} = 1) " border="0" /> defines network strength under a task for male (gender = 1); and 
+<img center="" src="http://latex.codecogs.com/gif.latex? \{S_{gender}^{eff} \vert \text{treatment} = 1 \} = E(S \vert \text{gender} = 1, \text{treatment} = 1) - E (S \vert \text{gender} = 0, \text{treatment} = 1), " border="0" /> defines the gender effect on <i>effective</i> network strength conditioning on treatment.</p>
+
+<p><br />
+<b>4. <i> Effective</i> network strength rate</b></p>
+
+<p><br />
+Once we have defined the <i>effective</i> network strength, it is natural to define the <i> effective</i> network strength rate: the increase of network strength per unit treatment increase.</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\nabla = \frac{\Delta S}{\Delta \boldsymbol{x}} = \frac{S(\boldsymbol{x} + \Delta \boldsymbol{x}) - S (\boldsymbol{x})}{\Delta \boldsymbol{x}} 
+" border="0" />
+</center>
+<p><br />
+Certainly, when the task is multidimensional <img center="" src="http://latex.codecogs.com/gif.latex? \boldsymbol{X} = \boldsymbol{x} = (x_1, \cdots, \x_n) \bigg). " border="0" />, we have
+<img center="" src="http://latex.codecogs.com/gif.latex? \nabla = \bigg( \frac{\partial}{\partial x_1}, \cdots, \frac{\partial}{\partial x_n} \bigg) " border="0" />.</p>
 
 <!-- http://economics.mit.edu/files/32 -->
 
