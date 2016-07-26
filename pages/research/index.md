@@ -12,7 +12,6 @@ comments: true
 <br />
 ---
 
-
 # Recent Presentation Slides
 
 **Please kindly forgive errors I made.**

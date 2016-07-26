@@ -156,6 +156,9 @@ You may say I'm a significant voxel, but I'm not the only one. I hope someday yo
 </div>
 
 <br>
+In this post, we shall propose a framework call the <i>effective</i> network strength, extending the definition of network strength introduced in the wonderful Nature Neuroscience paper by <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>.
+
+<br>
 <b>1. Network strength</b>
 
 <br> <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> introduced a neuromarker based on intrinsic whole-brain functional connectivity, the degree to which brain activity in distinct neural regions is correlated over time, and showed that functional brain networks strength during a sustained attention task predicted individual differences in performance.
