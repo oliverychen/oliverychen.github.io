@@ -12,6 +12,19 @@ comments: true
 <br />
 ---
 
+
+# Recent Presentation Slides
+
+**Please kindly forgive errors I made**
+
+ - [Functional Data Analysis_London_2015](/files/doc/LFDA_talk.pdf)
+ 
+ - [High-dimensional Brain Mediation_Oxford_2015](/files/doc/PDM_talk.pdf)
+
+ - [An Exciting Era of Neuroscience_Stanford_2016](/files/doc/Stanford.pdf)
+
+<hr>
+
 # High-dimensional Multivariate Mediation:
 
 # the Principal Direction of Mediation
