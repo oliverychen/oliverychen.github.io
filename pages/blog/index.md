@@ -156,7 +156,7 @@ You may say I'm a significant voxel, but I'm not the only one. I hope someday yo
 </div>
 
 <br>
-In this post, we shall propose a framework call the <i>effective</i> network strength, extending the definition of network strength introduced in the wonderful Nature Neuroscience paper by <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>.
+In this post, we shall propose a framework call the <i>effective</i> network strength, extending the definition of network strength introduced in the wonderful Nature Neuroscience paper by <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>. As a natural follow-up, we also define the <i>effective</i> network strength rate.
 
 <br>
 <b>1. Network strength</b>
