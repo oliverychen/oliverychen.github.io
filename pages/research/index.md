@@ -15,7 +15,7 @@ comments: true
 
 # Recent Presentation Slides
 
-**Please kindly forgive errors I made**
+**Please kindly forgive errors I made.**
 
  - [Functional Data Analysis_London_2015](/files/doc/LFDA_talk.pdf)
  
