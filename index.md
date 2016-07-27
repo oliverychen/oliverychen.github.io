@@ -27,7 +27,7 @@ I write a [**<font color="blue">blog</font>**](http://oliverychen.com/pages/blog
 My **<font color="blue">curriculum vitae</font>** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
 
 <br />
-**<font color="blue">News</font>**: I recently wrote an [article](/files/doc/Fisher.pdf) overviewing the contribution statistics makes to neuroscience. Under the second round revision for <i>Significance<i/>, the <i>Royal Statistical Society<i/>. 
+**<font color="blue">News</font>**: I recently wrote an [article](/files/doc/Fisher.pdf) overviewing the contribution statistics makes to neuroscience. It is under the second round revision for <i>Significance<i/>, the <i>Royal Statistical Society<i/>. 
 
 <!--[Here](/images/Tarren.JPEG) is a very generous and helpful comment from Brian Tarran, the editor of <i>Significance<i/>, the <i>Royal Statistical Society<i/>. -->
 
