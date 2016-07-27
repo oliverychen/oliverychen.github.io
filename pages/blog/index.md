@@ -771,7 +771,7 @@ r = 0.26 (P = 0.005)
 First, we could check if a subregion of connectivity matrix (e.g. only take the part of the connectivity matrix whose nodes correspond to Broca's and Wernicke's areas) under specific tasks (e.g. language) would predict gF better. Second, since the authors used simple linear regression to train the data, we could investigate if there is a model that better fits the training data (and hence have a better leave-one-out prediction). For example, a non-linear model
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
-gF_k(X_k) = f(X_k) \epsilon_k,
+gF_k(X_k) = f(X_k) + \epsilon_k,
 " border="0"/>
 </center>
 
