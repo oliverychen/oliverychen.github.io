@@ -189,7 +189,7 @@ I_{ij}
 \epsilon_i
 " border="0"/> is the bias of unit <img center src="http://latex.codecogs.com/gif.latex?
 i
-" border="0"/> in the global energy (this is not present in network strength - yet it should because data driven node-wise correlation is likely to have bias). 
+" border="0"/> in the global energy (this is not present in network strength - yet it could because data driven node-wise correlation is likely to have bias). 
 
 <center>
 <div id="top">
