@@ -497,7 +497,7 @@ Further interested readers on these topics could refer to <a href="https://en.wi
 
 
 <!-- blog VII -->
-<h2>On Brain Fingerprint: Extensions </h2>
+<h2>On Brain Fingerprinting: Extensions </h2>
 
 Last updated: July 20, 2016
 
