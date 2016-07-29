@@ -5,8 +5,11 @@
 - title: Home
   url: /pages/home/
 
-- title: CV
-  url: /pages/cv/
+- title: Brain Science Blog
+  url: /pages/blog/
+
+#- title: CV
+#  url: /pages/cv/
 
 - title: Research
   url: /pages/research/
@@ -14,11 +17,8 @@
 - title: Publications
   url: /pages/publications/
 
-- title: Teaching
-  url: /pages/teaching/
-
-- title: Blog
-  url: /pages/blog/
+# - title: Teaching
+#  url: /pages/teaching/
 
 - title: Personal
   url: /pages/personal/
