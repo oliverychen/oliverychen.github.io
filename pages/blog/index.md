@@ -10,7 +10,7 @@ comments:
 ![x](/images/data_speak.jpg)
 <br />
 
-# Welcome to the <span style="color:#1122CC">Data Whisper  </span> blog, where data whisper.
+# Welcome to the <span style="color:#1122CC">Brain Whispers</span> blog, where the brain whispers.
 <hr>
 
 
