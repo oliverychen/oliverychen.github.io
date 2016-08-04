@@ -141,6 +141,29 @@ Heavy-tailed Time Series;
 
 -->
 
+<!-- blog VIII -->
+<h2>Mediation Analysis on Animal Models</h2>
+
+Last updated: Aug 3, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+<br>
+The cat will mew and dog will have his day.
+<br>
+<br>
+- <i>Hamlet</i>: Act 5, Scene 1
+</p>
+</div>
+
+<br>
+XXX
+
+
+
+
+
+
 <!-- blog VII -->
 <h2>From Network Strength to <i>Effective</i> Network Strength</h2>
 
