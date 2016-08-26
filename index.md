@@ -27,7 +27,13 @@ I write a [**<font color="#1122CC">blog</font>**](http://oliverychen.com/pages/b
 My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
 
 <br />
-**<font color="#1122CC">News</font>**: I recently wrote an [article](/files/doc/Fisher.pdf) overviewing the contribution statistics makes to neuroscience. It is under minor revision for <i>Significance<i/>, the <i>Royal Statistical Society<i/>. 
+**<font color="#1122CC">News</font>**: 
+
+<br />
+I recently wrote an [article](/files/doc/Fisher.pdf) overviewing the contribution statistics makes to neuroscience. It is under minor revision for <i>Significance<i/>, the <i>Royal Statistical Society<i/>. 
+
+<br />
+Our [paper](/files/doc/HDMM.pdf) on high-dimensional brain mediation is updated. 
 
 <!--[Here](/images/Tarren.JPEG) is a very generous and helpful comment from Brian Tarran, the editor of <i>Significance<i/>, the <i>Royal Statistical Society<i/>. -->
 
