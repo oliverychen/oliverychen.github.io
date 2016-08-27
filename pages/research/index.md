@@ -16,6 +16,8 @@ comments: true
 
 **Please kindly forgive errors I made.**
 
+ - [Pokémon Go, Trump, and Pain_Berlin_2016](/files/doc/Bernstein.pdf)
+ 
  - [Functional Data Analysis_London_2015](/files/doc/LFDA_talk.pdf)
  
  - [High-dimensional Brain Mediation_Oxford_2015](/files/doc/PDM_talk.pdf)
