@@ -166,9 +166,36 @@ XXX
 
 -->
 
+<!-- blog VIII -->
+<h2>Some Imaging Process Techniques Useful in Neuroimaging  </h2>
 
+Last updated: August 28, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+If I paint a wild horse, you might not see the horse; but surely you will see the wildness.
+<br>
+<br>
+- Pablo Picasso
+</p>
+</div>
+
+<br>
+<b>Further Reading</b> 
+
+<br>
+[1] <a href="http://pippin.gimp.org/image_processing/">An Introduction to Pixel Molding (Øyvind Kolås) </a>: it includes useful image filters such as  <a href="http://pippin.gimp.org/image_processing/chap_point.html">point operations</a>, <a href="http://pippin.gimp.org/image_processing/chap_area.html">area operations</a>, <a href="http://pippin.gimp.org/image_processing/chapter-automaticadjustments.html">automatic color adjustments</a>, and so on; The notes are written in accordance with the <i>Gluas</i> app written in <i>Lua</i> scriptinglanguage; however, codes are provided so they can be easily modified to cope with <i>R</i>, <i>Matlab</i>, etc. 
+<br>
+[2] <a href="http://www.math.ucla.edu/~lvese/155.1.09w/PCMI_USS_2010/Lectures.pdf">An Introduction to Mathematical Image Processing (Luminita Vese, 2010) </a>.
+<br> 
+[3] <a href="http://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/">Image Programming Algorithms (Francis Loch) </a>.
+
+
+
+
+<hr>
 <!-- blog VII -->
-<!-- blog VII -->
+
 <h2>On Intuition: A <i>Bayesian</i> View </h2>
 
 Last updated: August 18, 2016

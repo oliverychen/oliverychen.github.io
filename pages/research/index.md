@@ -14,15 +14,15 @@ comments: true
 
 # Recent Presentation Slides
 
-**Please kindly forgive errors I made.**
+** Please accept my apologies for errors I made in the following slides.**
 
- - [Pokémon Go, Trump, and Pain_Berlin_2016](/files/doc/Bernstein_small.pdf)
+ - [Pokémon Go, Trump, and Pain (Berlin, 2016)](/files/doc/Bernstein_small.pdf)
  
- - [Functional Data Analysis_London_2015](/files/doc/LFDA_talk.pdf)
+ - [Functional Data Analysis (London, 2015)](/files/doc/LFDA_talk.pdf)
  
- - [High-dimensional Brain Mediation_Oxford_2015](/files/doc/PDM_talk.pdf)
+ - [High-dimensional Brain Mediation (Oxford, 2015)](/files/doc/PDM_talk.pdf)
 
- - [An Exciting Era of Neuroscience_Stanford_2016](/files/doc/Stanford.pdf)
+ - [An Exciting Era of Neuroscience (Stanford, 2016)](/files/doc/Stanford.pdf)
 
 <hr>
 
