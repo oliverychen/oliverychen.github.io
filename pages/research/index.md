@@ -14,7 +14,7 @@ comments: true
 
 # Recent Presentation Slides
 
-** Please accept my apologies for errors I made in the following slides.**
+**Please accept my apologies for errors I made in the slides.**
 
  - [Pokémon Go, Trump, and Pain (Berlin, 2016)](/files/doc/Bernstein_small.pdf)
  
