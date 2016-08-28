@@ -181,6 +181,9 @@ If I paint a wild horse, you might not see the horse; but surely you will see th
 </div>
 
 <br>
+Many of you may have heard of 
+
+<br>
 <b>Further Reading</b> 
 
 <br>
