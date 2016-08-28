@@ -16,7 +16,7 @@ comments: true
 
 **Please kindly forgive errors I made.**
 
- - [Pokémon Go, Trump, and Pain_Berlin_2016](/files/doc/Bernstein.pdf)
+ - [Pokémon Go, Trump, and Pain_Berlin_2016](/files/doc/Bernstein_small.pdf)
  
  - [Functional Data Analysis_London_2015](/files/doc/LFDA_talk.pdf)
  
