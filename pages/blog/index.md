@@ -184,7 +184,7 @@ If I paint a wild horse, you might not see the horse; but surely you will see th
 <b>Neural Painting</b> 
 
 <br>
-Many of you have used software (e.g. <a href="https://www.instagram.com/?hl=en">Instagram</a>, and a variety of <a href="https://itunes.apple.com/us/app/autopainter-3/id526292251?mt=8">apps</a> that converts photos into ones that resmeble different art styles such as watercolor and oil, or bear artistical styles such as impressionist paintings) to adjust or enhance your photoes; some of you may even heard of neural ainting that uses deep learning algorithms to convert any image to a painting that bears a particular painter's artistic style (see an illustration below), based on <a href="http://arxiv.org/pdf/1508.06576v1.pdf">(Gatys et al, 2015)</a>. There are yet released codes from the paper; we can, however, following the steps on <a href="http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/"> this site</a> (by Andre Infante) to creat such images ourselves; or by sending a source image and style image to <a href="https://twitter.com/DeepForger"> the Deep Forger bot</a> to get an transformed image. 
+Many of you have used software (e.g. <a href="https://www.instagram.com/?hl=en">Instagram</a>) to adjust or enhance your photoes, and a variety of <a href="https://itunes.apple.com/us/app/autopainter-3/id526292251?mt=8">apps</a> that converts photos into ones that resmeble different art styles such as watercolor and oil, or bear artistical styles such as impressionist paintings); some of you may even heard of neural ainting that uses deep learning algorithms to convert any image to a painting that bears a particular painter's artistic style (see an illustration below), based on <a href="http://arxiv.org/pdf/1508.06576v1.pdf">(Gatys et al, 2015)</a>. There are yet released codes from the paper; we can, however, following the steps on <a href="http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/"> this site</a> (by Andre Infante) to creat such images ourselves; or by sending a source image and style image to <a href="https://twitter.com/DeepForger"> the Deep Forger bot</a> to get an transformed image. 
 
 <center>
 <div id="top">
@@ -201,19 +201,42 @@ From left to right are: source image (Eiffel Tower), image of desired artistic s
 <br>
 <b>Imaging Process</b> 
 
+<br>
+A few of my friends asked me to write a post on imaging process. While I do not have much experience in this, I am extremely interested in exploring potentials of it, and have gathered some helpful resource (<i>further reading</i> section) that I would like to share with you. 
 
 <br>
-Some of my friends asked me to write a blog on imaging process. While I do not have much experience in this, I am extremely interested in this. So I decided to  including a few . Readers interested in the nitty-gritty could refer to technique notes in the <i>further reading</i> section below.
+In general, imaging process can be summarized in to the folowing procedures: (1) represent images in image formats (we could think of this as storing image as a cluster of pixels each of which has an intensity); (2) apply image filters (e.g. such as  <a href="http://pippin.gimp.org/image_processing/chap_point.html">point operations</a>, <a href="http://pippin.gimp.org/image_processing/chap_area.html">area operations</a>, and <a href="http://pippin.gimp.org/image_processing/chapter-automaticadjustments.html">automatic color adjustments</a>) (we could think of this as using a variety of transformations to adjust orientation, contrast, brightness, etc); (3) other cosmatic procedures (such as denoise and "dark frame" subtraction, namely to fix bad pixels), and (4) conduct <a href="https://en.wikipedia.org/wiki/Image_analysis">image analysis</a> (such as object recognition, segmentation, motion detection, and video tracking). 
+
+<br>
+Here, let us consider an example in 2D to delineate a simple case. 
+
+<br> First, let us script an image from <a href="http://www.estherhonig.com/">Esther Honig</a>, a journalist who did a famous study to present how standards of beauty differ across various cultures.
+
+
+<br>
+Here is the codes. 
+
+<br>
 
 <br>
 <b>Further Reading</b> 
 
 <br>
-[1] <a href="http://pippin.gimp.org/image_processing/">An Introduction to Pixel Molding (Øyvind Kolås) </a>: it includes useful image filters such as  <a href="http://pippin.gimp.org/image_processing/chap_point.html">point operations</a>, <a href="http://pippin.gimp.org/image_processing/chap_area.html">area operations</a>, <a href="http://pippin.gimp.org/image_processing/chapter-automaticadjustments.html">automatic color adjustments</a>, and so on; The notes are written in accordance with the <i>Gluas</i> app written in <i>Lua</i> scriptinglanguage; however, codes are provided so they can be easily modified to cope with <i>R</i>, <i>Matlab</i>, etc. 
+Readers interested in the nitty-gritties could refer to resouces below.
+
 <br>
-[2] <a href="http://www.math.ucla.edu/~lvese/155.1.09w/PCMI_USS_2010/Lectures.pdf">An Introduction to Mathematical Image Processing (Luminita Vese, 2010) </a>.
+[1] <a href="http://pippin.gimp.org/image_processing/">An Introduction to Pixel Molding (Øyvind Kolås) </a>. The notes are written in accordance with the <i>Gluas</i> app written in <i>Lua</i> scriptinglanguage; however, codes are provided so they can be easily modified to cope with <i>R</i>, <i>Matlab</i>, etc. 
 <br> 
-[3] <a href="http://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/">Image Programming Algorithms (Francis Loch) </a>.
+[2]<a href="https://archive.org/details/Lectures_on_Image_Processing
+">Lectures on Image Processing (Alan Peters, 2016) </a>.
+<br>
+[3] <a href="http://www.disi.unige.it/person/RovettaS/rad/image-processing-wikipedia-book.pdf">Image Process</a>.
+<br>
+[4] <a href="http://www.math.ucla.edu/~lvese/155.1.09w/PCMI_USS_2010/Lectures.pdf">An Introduction to Mathematical Image Processing (Luminita Vese, 2010) </a>.
+<br> 
+[5] <a href="http://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/">Image Programming Algorithms (Francis Loch) </a>.
+<br> 
+[6] <a href="http://www.ipol.im/">Journal of Image Processing Online </a>.
 
 
 
