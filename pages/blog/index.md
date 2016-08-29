@@ -167,7 +167,7 @@ XXX
 -->
 
 <!-- blog VIII -->
-<h2>Some Imaging Process Techniques Useful in Neuroimaging  </h2>
+<h2>Imaging Process Techniques in Neuroimaging </h2>
 
 Last updated: August 28, 2016
 
@@ -181,7 +181,29 @@ If I paint a wild horse, you might not see the horse; but surely you will see th
 </div>
 
 <br>
-Many of you may have heard of 
+<b>Neural Painting</b> 
+
+<br>
+Many of you have used software (e.g. <a href="https://www.instagram.com/?hl=en">Instagram</a>, and a variety of <a href="https://itunes.apple.com/us/app/autopainter-3/id526292251?mt=8">apps</a> that converts photos into ones that resmeble different art styles such as watercolor and oil, or bear artistical styles such as impressionist paintings) to adjust or enhance your photoes; some of you may even heard of neural ainting that uses deep learning algorithms to convert any image to a painting that bears a particular painter's artistic style (see an illustration below), based on <a href="http://arxiv.org/pdf/1508.06576v1.pdf">(Gatys et al, 2015)</a>. There are yet released codes from the paper; we can, however, following the steps on <a href="http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/"> this site</a> (by Andre Infante) to creat such images ourselves; or by sending a source image and style image to <a href="https://twitter.com/DeepForger"> the Deep Forger bot</a> to get an transformed image. 
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Eiffel.jpg" alt="HTML5 Icon" style="width:750px;">
+        <br>
+        
+    </a>
+</div>
+</center>
+From left to right are: source image (Eiffel Tower), image of desired artistic style (<i>Starry Night Over the Rhone</i> (aka the other Starry Night) by van Gogh, 1888, oil on canvas), and the output image. (Image credit: <a href="http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/">Andre Infante</a>)
+
+
+<br>
+<b>Imaging Process</b> 
+
+
+<br>
+Some of my friends asked me to write a blog on imaging process. While I do not have much experience in this, I am extremely interested in this. So I decided to  including a few . Readers interested in the nitty-gritty could refer to technique notes in the <i>further reading</i> section below.
 
 <br>
 <b>Further Reading</b> 
