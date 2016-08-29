@@ -202,7 +202,7 @@ From left to right are: source image (Eiffel Tower), image of desired artistic s
 <b>Imaging Process</b> 
 
 <br>
-A few of my friends asked me to write a post on imaging process. While I do not have much experience in this, I am extremely interested in exploring potentials of it, and have gathered some helpful resource (<i>further reading</i> section) that I would like to share with you. 
+A few of my friends asked me to write a post on imaging process. While I do not have much experience in this, I am extremely interested in exploring potentials of it, and have gathered some helpful resource (please refer to the <i>further reading</i> section below) that I would like to share with you. 
 
 <br>
 In general, imaging process can be summarized in to the folowing procedures: (1) represent images in image formats (we could think of this as storing image as a cluster of pixels each of which has an intensity); (2) apply image filters (e.g. such as  <a href="http://pippin.gimp.org/image_processing/chap_point.html">point operations</a>, <a href="http://pippin.gimp.org/image_processing/chap_area.html">area operations</a>, and <a href="http://pippin.gimp.org/image_processing/chapter-automaticadjustments.html">automatic color adjustments</a>) (we could think of this as using a variety of transformations to adjust orientation, contrast, brightness, etc); (3) other cosmatic procedures (such as denoise and "dark frame" subtraction, namely to fix bad pixels), and (4) conduct <a href="https://en.wikipedia.org/wiki/Image_analysis">image analysis</a> (such as object recognition, segmentation, motion detection, and video tracking). 
@@ -210,11 +210,24 @@ In general, imaging process can be summarized in to the folowing procedures: (1)
 <br>
 Here, let us consider an example in 2D to delineate a simple case. 
 
-<br> First, let us script an image from <a href="http://www.estherhonig.com/">Esther Honig</a>, a journalist who did a famous study to present how standards of beauty differ across various cultures.
-
+<br> First, let us script an image from <a href="http://www.estherhonig.com/">Esther Honig</a>, a journalist who did a famous <a href="https://www.buzzfeed.com/ashleyperez/global-beauty-standards?utm_term=.uaoA6LR7kE#.gnNa7BY415">study</a> to present how standards of beauty differ across various cultures. <a href="https://img.buzzfeed.com/buzzfeed-static/static/2014-06/25/13/enhanced/webdr07/original-27318-1403716130-3.jpg?no-auto">This</a> is the image we consider here. Second, we add <img center src="http://latex.codecogs.com/gif.latex?
+n \times m
+" border="0"/> <img center src="http://latex.codecogs.com/gif.latex?
+N(5,2)
+" border="0"/> noise to pixels (see image in the left below). Finally, we apply wavelet transform to obtain the process image (see image in the right below).
 
 <br>
-Here is the codes. 
+<a href="{{ site.baseurl }}/files/doc/Face.R">**<font color="blue">Here</font>**</a> is the R code. 
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Fig_1.jpeg" alt="HTML5 Icon" style="width:300px;">
+    </a>
+    <img src="{{ site.baseurl }}/images/Fig_2.jpeg" alt="HTML5 Icon" style="width:300px;">
+    <figcaption>Fig 1. Left: Noisy Image; Right: Processed image</figcaption>
+</div>
+</center>
 
 <br>
 
@@ -225,7 +238,7 @@ Here is the codes.
 Readers interested in the nitty-gritties could refer to resouces below.
 
 <br>
-[1] <a href="http://pippin.gimp.org/image_processing/">An Introduction to Pixel Molding (Øyvind Kolås) </a>. The notes are written in accordance with the <i>Gluas</i> app written in <i>Lua</i> scriptinglanguage; however, codes are provided so they can be easily modified to cope with <i>R</i>, <i>Matlab</i>, etc. 
+[1] <a href="http://pippin.gimp.org/image_processing/">An Introduction to Pixel Molding (Øyvind Kolås) </a>. The notes are written in accordance with the <i>Gluas</i> app written in <i>Lua</i> scripting language; codes, however, are provided so they can be easily modified to cope with <i>R</i>, <i>Matlab</i>, etc. 
 <br> 
 [2]<a href="https://archive.org/details/Lectures_on_Image_Processing
 ">Lectures on Image Processing (Alan Peters, 2016) </a>.
