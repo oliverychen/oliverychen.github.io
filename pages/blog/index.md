@@ -187,7 +187,7 @@ Only two things are infinite, the universe and human stupidity, and I'm not sure
 <b>A Discussion over the Proposed Chinese Circular Electron Positron Collider (CEPC) Project</b> 
 
 <br>
-Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chinese_Original.pdf">Chinese original</a>, <a href="{{ site.baseurl }}/files/doc/Translate_Yang_Yau.pdf">Google English translation</a>) between Nobel laureate Chen-Ning Yang and Fields medalist Shing-Tung Yau regarding buiding the <a href="https://en.wikipedia.org/wiki/Circular_Electron_Positron_Collider">Circular Electron Positron Collider (CEPC)</a>.
+Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chinese_Original.pdf">Chinese original</a>, <a href="{{ site.baseurl }}/files/doc/Translate_Yang_Yau.pdf">Google English translation</a>) between Nobel laureate Chen-Ning Yang and Fields medalist Shing-Tung Yau regarding building the <a href="https://en.wikipedia.org/wiki/Circular_Electron_Positron_Collider">Circular Electron Positron Collider (CEPC)</a>.
 
 
 
