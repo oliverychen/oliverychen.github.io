@@ -14,15 +14,17 @@ comments:
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](/files/doc/HDMM.pdf). [Supplemental Materials](/files/doc/HDMM_Supplemental_Materials.pdf) `Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.`
 
+- - **Chén Y.** [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf). *Significance*. The Royal Statistical Society. Under minor revision.
+
 - **Chén Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) [A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change](/files/doc/LFDA.pdf). `With an invited talk at the 8th International Conference of the ERCIM WG on Computational and Methodological Statistics.` 
   
+- **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen_Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
+
 - **Chén Y.**, Di J., and Xiao L. (In progress 2015 -) [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
 	
 - **Chén Y.**, Di J., Cohen J., Nebel M.B., and Lindquist M. (In progress 2015-) A Numerical Comparison of Reliability of Different Imaging Methods in Brain Parcellation and Node Identification: with an Application to the Human Connectome Project Data.
 
 - **Chén Y.**, A Generalized and Drifting Time Corrected Approach Using Wiener-Granger Causality and VAR(p) Process for Detecting High-Dimensional Directed Functional Communication between Brain Regions and Predicting Behavior.
-	
-- **Chén Y.**, and Jacroux, M. (2014) [On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs](/files/doc/Chen_Jacroux.pdf). *Communications in Statistics - Theory and Methods*.
 	
 - Gershman S., **Chén Y.**, Konkle T. (In preparation 2015 -) The Generative Representational Similarity Analysis. `Joint work at Harvard University the Center for Brain Science and Department of Psychology.`
 
@@ -37,14 +39,14 @@ comments:
 - Dasgupta, N., **Chén Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184.
 
 
-## ACADEMIC ESSAYS, HANDBOOKS, AND STUDY GUIDES
+## Unpublished Academic Essays, Handbooks, and Notes
 
 - **Chén Y.** [A Handbook to Conquer Casella and Berger Book in Ten Days](/files/doc/CB.pdf).
 - **Chén Y.** [A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs](/files/doc/ED.pdf).
-- **Chén Y.** [From Sir Fisher’s Classical Philosophy to the Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf). *Significance*. The Royal Statistical Society. Under the second round review.
+- **Chén Y.** [Notes for Time Series Data Analysis](/files/doc/TS.pdf). 
 
 ## Others
 
-- For more information, see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
+- For more information, please see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
   
 
