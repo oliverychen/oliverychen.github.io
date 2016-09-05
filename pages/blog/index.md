@@ -177,7 +177,6 @@ Only two things are infinite, the universe and human stupidity, and I'm not sure
 <br>
 <br>
 - Albert Einstein
-</p>
 </div>
 
 <br>
