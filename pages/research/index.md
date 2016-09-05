@@ -16,16 +16,18 @@ comments: true
 
 **Please accept my apologies for errors I made in the slides.**
 
- - [Pokémon Go, Trump, and Pain (Berlin, 2016)](/files/doc/Bernstein_small.pdf)
- 
- - [Functional Data Analysis (London, 2015)](/files/doc/LFDA_talk.pdf)
  
  - [High-dimensional Brain Mediation (Oxford, 2015)](/files/doc/PDM_talk.pdf)
 
+ - [Functional Data Analysis (London, 2015)](/files/doc/LFDA_talk.pdf)
+
  - [An Exciting Era of Neuroscience (Stanford, 2016)](/files/doc/Stanford.pdf)
+
+ - [Pokémon Go, Trump, and Pain (Berlin, 2016)](/files/doc/Bernstein_small.pdf)
 
 <hr>
 
+<!--
 # High-dimensional Multivariate Mediation:
 
 # the Principal Direction of Mediation
@@ -80,10 +82,6 @@ The same map using the top 5% most extreme values.
 <br />
 The maps are consistent with regions typically considered active in pain research; including cerebellum, ventral medial prefrontal cortex, dorsal posterior insula, and secondary somatosensory cortex.
 
-<br />
-**Prior to official prints, please obtain permission from my advisor first to review results of negative first PDM, and higher order PDMs.**
-
-<br />
 <br />
 
 
@@ -163,3 +161,4 @@ help(PDM_2)
 
 <br />
 
+-->
