@@ -166,18 +166,98 @@ XXX
 
 -->
 
+<!-- blog X -->
+
+<h2>The Crisis of Big Science</h2>
+
+Last updated: September 5, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+<br>
+<br>
+- Albert Einstein
+</p>
+</div>
+
+<br>
+**Disclaimer:**
+<br>
+<br>
+I do not know anything about Physics; but the discussion below is interesting and could generate helpful discussion with regards to general Science.
+
+
+<br>
+<b>A Discussion over the Proposed Chinese Circular Electron Positron Collider (CEPC) Project</b> 
+
+<br>
+Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chinese_Original.pdf">Chinese original</a>, <a href="{{ site.baseurl }}/files/doc/Translate_Yang_Yau.pdf">Google English translation</a>) regarding buiding <a href="https://en.wikipedia.org/wiki/Circular_Electron_Positron_Collider">Circular Electron Positron Collider (CEPC)</a> between Nobel laureate Chen-Ning Yang and Fields medalist Shing-Tung Yau.
+
+
+
+<br>
+<b>A Discussion over the Cancelled American Superconducting Super Collider (SSC) Project</b> 
+
+<br>
+<a href="http://www.nybooks.com/articles/2012/05/10/crisis-big-science/
+">Here</a>is an article (2012) titled <i>The Crisis of Big Science</i> by Nobel laureate Steven Weinberg regarding a simlar, yet cancelled, project, Superconducting Super Collider (SSC) project.
+
+
+<hr>
+
+
+
+
+
+
+<!-- blog VIII -->
+<!--
+<h2>Multidimensional Scaling</h2>
+
+Last updated: September 5, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+There is, it seems to us,
+<br> 
+At best, only a limited value
+<br>
+In the knowledge derived from experience.
+<br>
+The knowledge imposes a pattern, and falsifies,
+<br>
+For the pattern is new in every moment
+<br>
+And every moment is a new and shocking
+<br>
+
+Valuation of all we have been. 
+<br>
+<br>
+- T.S. Eliot, <i>East Coker</i>, <i>The Four Quartets</i>
+</p>
+</div>
+
+<br>
+<b>Multidimensional scaling (MDS)</b> 
+
+<br>
+The idea of MDS is not new. I am revisiting it; and thought it would be fun to share my two cents. 
+
+
+<hr>
+-->
+
+
 <!-- blog VIII -->
 <h2>Imaging Process Techniques in Neuroimaging </h2>
 
 Last updated: August 28, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
-<p>￼
 If I paint a wild horse, you might not see the horse; but surely you will see the wildness.
 <br>
 <br>
 - Pablo Picasso
-</p>
 </div>
 
 <br>
