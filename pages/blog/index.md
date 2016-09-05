@@ -180,10 +180,7 @@ Only two things are infinite, the universe and human stupidity, and I'm not sure
 </div>
 
 <br>
-**Disclaimer:**
-<br>
-<br>
-I do not know anything about Physics; but the discussion below is interesting and could generate helpful discussion with regards to general Science.
+**Disclaimer:** I do not know anything about Physics; but the discussion below is interesting and could generate helpful discussion with regards to general Science.
 
 
 <br>
