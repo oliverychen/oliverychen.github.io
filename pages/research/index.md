@@ -25,8 +25,6 @@ comments: true
 
  - [Pokémon Go, Trump, and Pain (Berlin, 2016)](/files/doc/Bernstein_small.pdf)
 
-<hr>
-
 <!--
 # High-dimensional Multivariate Mediation:
 

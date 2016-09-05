@@ -14,7 +14,7 @@ comments:
 
 - **Chén Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) [High-dimensional Multivariate Mediation: the Principal Direction of Mediation](/files/doc/HDMM.pdf). [Supplemental Materials](/files/doc/HDMM_Supplemental_Materials.pdf) `Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.`
 
-- - **Chén Y.** [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf). *Significance*. The Royal Statistical Society. Under minor revision.
+- **Chén Y.** [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf). *Significance*. The Royal Statistical Society. Under minor revision.
 
 - **Chén Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) [A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change](/files/doc/LFDA.pdf). `With an invited talk at the 8th International Conference of the ERCIM WG on Computational and Methodological Statistics.` 
   
