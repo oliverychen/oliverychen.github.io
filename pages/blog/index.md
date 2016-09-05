@@ -196,7 +196,7 @@ Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chi
 
 <br>
 <a href="http://www.nybooks.com/articles/2012/05/10/crisis-big-science/
-">Here</a> is an article (2012) titled <i>The Crisis of Big Science</i> by Nobel laureate Steven Weinberg regarding a simlar, yet cancelled, project, Superconducting Super Collider (SSC) project.
+">Here</a> is an article (2012) titled <i>The Crisis of Big Science</i> by Nobel laureate Steven Weinberg regarding a similar, yet cancelled, project, Superconducting Super Collider (SSC) project.
 
 
 <hr>
