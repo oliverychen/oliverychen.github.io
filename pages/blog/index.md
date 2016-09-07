@@ -299,7 +299,7 @@ We use the <i>stress</i> to measure the goodness of fit
 <center>
 <img center src="http://latex.codecogs.com/gif.latex?
 S:= \sqrt{
-    \fract{\sum_{i<j} (d_{ij} - \delta_{ij})^2}
+    \frac{\sum_{i<j} (d_{ij} - \delta_{ij})^2}
     {\sum_{i<j}d_{ij}^2}
 }
 " border="0"/>,
