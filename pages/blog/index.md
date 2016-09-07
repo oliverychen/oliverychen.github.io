@@ -292,6 +292,27 @@ D = \{ d_{ik} \} {1 \leq i \leq n, 1 \leq k \leq K}
 " border="0"/>.
 </center>
 
+<br> **Goodness of fit**
+
+<br>
+We use the <i>stress</i> to measure the goodness of fit
+
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+S:= \sqrt{
+    \fract{\sum_{i<j} (d_{ij} - \delta_{ij})^2}
+    {\sum_{i<j}d_{ij}^2}
+}
+" border="0"/>,
+</center>
+<br>
+where, if <img center src="http://latex.codecogs.com/gif.latex?
+S
+" border="0"/> is close to 0 indicates values of MDS (<img center src="http://latex.codecogs.com/gif.latex?
+\delta_{ij}
+" border="0"/>) are fitting well to the original distances (<img center src="http://latex.codecogs.com/gif.latex?
+d_{ij}
+" border="0"/>). 
 
 <br>
 References:
