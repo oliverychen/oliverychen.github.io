@@ -187,7 +187,7 @@ Only two things are infinite, the universe and human stupidity, and I'm not sure
 <b>A Discussion over the Proposed Chinese Circular Electron Positron Collider (CEPC) Project</b> 
 
 <br>
-Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chinese_Original.pdf">Chinese original</a>, <a href="{{ site.baseurl }}/files/doc/Translate_Yang_Yau.pdf">Google English translation</a>) between Nobel laureate Chen-Ning Yang and Fields medalist Shing-Tung Yau regarding building the <a href="https://en.wikipedia.org/wiki/Circular_Electron_Positron_Collider">Circular Electron Positron Collider (CEPC)</a>.
+Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chinese_Original.pdf"><font color="blue">Chinese original</font></a>, <a href="{{ site.baseurl }}/files/doc/Translate_Yang_Yau.pdf"><font color="blue">Google English translation</font></a>) between Nobel laureate Chen-Ning Yang and Fields medalist Shing-Tung Yau regarding building the <a href="https://en.wikipedia.org/wiki/Circular_Electron_Positron_Collider">Circular Electron Positron Collider (CEPC)</a>.
 
 
 
@@ -196,8 +196,7 @@ Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chi
 
 <br>
 <a href="http://www.nybooks.com/articles/2012/05/10/crisis-big-science/
-">Here</a> is an article (2012) titled <i>The Crisis of Big Science</i> by Nobel laureate Steven Weinberg regarding a similar, yet cancelled, project, Superconducting Super Collider (SSC) project.
-
+"><font color="blue">Here</font></a> is an article (2012) titled <i>The Crisis of Big Science</i> by Nobel laureate Steven Weinberg regarding a similar, yet cancelled, project, <a href="https://en.wikipedia.org/wiki/Superconducting_Super_Collider">Superconducting Super Collider (SSC) project</a>.
 
 <hr>
 
@@ -207,7 +206,7 @@ Currently, there is a warm discussion (<a href="{{ site.baseurl }}/files/doc/Chi
 
 
 <!-- blog VIII -->
-<!--
+
 <h2>Multidimensional Scaling</h2>
 
 Last updated: September 5, 2016
@@ -233,15 +232,89 @@ Valuation of all we have been.
 </p>
 </div>
 
-<br>
-<b>Multidimensional scaling (MDS)</b> 
 
 <br>
-The idea of MDS is not new. I am revisiting it; and thought it would be fun to share my two cents. 
+The idea of multidimensional scaling (MDS) is not new. I am revisiting it; and thought it would be fun to summarize it. 
+
+<br> **MDS in a one sentence**
+<br>
+<br>
+Given a <img center src="http://latex.codecogs.com/gif.latex?
+n \times p
+" border="0"/> data matrix with <img center src="http://latex.codecogs.com/gif.latex?
+n \times n
+" border="0"/> distance (similarity or disimilarity) matrix, we aim to find a <img center src="http://latex.codecogs.com/gif.latex?
+n \times k
+" border="0"/> (where <img center src="http://latex.codecogs.com/gif.latex?
+k
+" border="0"/> can be 2, 3, etc.) map matrix that preserves nearly the same distance information as the distance matrix. 
+
+<br> **MDS in a nutshell**
+
+<br>
+We here focus on the MDS in the <i>classical</i> sense, where the distance on the MDS map is of the same metric as the original distance (similarity) matrix. Alternatively, MDS could be ordinal or non-metric (see references below for more detail).
+
+<br>
+One role statistics has is to allow data reduction to make convenient and succinct inference and conclusion in face of large quantity of data. An convenient and succinct approach to describe how similar or (dissimilar) two objects are is to define a distance (e.g. Euclidean) between them; when we have more than two objects, we can store these distances in a similar (or dissimilar) matrix. A natural follow-up question is why is an object more similar (or dissimilar) to one object than another? For objects with obvious distance metrics (e.g. cities with certain distance from one another), we can plot the distance on a distance map (e.g. in 2D case we could have the x-axis revealing west-east orientation while the y-axis indicating north-south information). What, however, about human faces, that have few descriptive distances (quantitative features) available? This is when the MDS becomes powerful. It transforms the similar (or dissimilar) matrix into a new feature matrix where each dimension (though possibly indescribable) presents an underlying feature. 
+
+<br> **Caveats**
+
+<br>
+The term "multi" in MDS indicates that the feature dimension could be more than two or three (though it would be hard to plot when the dimension is greater than 3). The feature could be ambiguous. It allows us to choose how many underlying features we want; and allows us to choose a small numbwer of features that represent the distances well.
+
+<br> 
+Formally, let <img center src="http://latex.codecogs.com/gif.latex?
+X
+" border="0"/> of <img center src="http://latex.codecogs.com/gif.latex?
+n \times p
+" border="0"/> be the input data with <img center src="http://latex.codecogs.com/gif.latex?
+n
+" border="0"/> subject and <img center src="http://latex.codecogs.com/gif.latex?
+p 
+" border="0"/> variables; then one can compute a similarity (or disimilarity) matrix <img center src="http://latex.codecogs.com/gif.latex?
+\Delta = \{ \delta_{ij} \} {1 \leq i, j \leq n}
+" border="0"/>; Finally, the MDS matrix of <img center src="http://latex.codecogs.com/gif.latex?
+D = \{ d_{ik} \} {1 \leq i \leq n, 1 \leq k \leq K}
+" border="0"/> such that
+<img center src="http://latex.codecogs.com/gif.latex?
+\parallel d_i - d_j
+\parallel \approximate \delta_{ij}
+" border="0"/>, for <img center src="http://latex.codecogs.com/gif.latex?
+1 \leq i, j \leq I 
+" border="0"/>. Practically, we find
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+\hat{d}_1, \ldot, \hat{d}_I = \arg\min _{d_1, \ldot, d_I} \bigg (
+\parallel d_i - d_j
+\parallel  
+- \delta_{ij}
+\bigg)^2 
+" border="0"/>.
+</center>
 
 
+<br>
+References:
+<br>
+<br>
+[0] <font color="blue">Theory</font>: Jan de Leeuw and Willem Heiser (1982) <a href="{{ site.baseurl }}/files/doc/MDS_Tech.pdf">Theory of Multidimensional Scaling </a>.
+<br>
+[1] <font color="blue">Review</font>: Kruskal, J.B. and M. Wish. 1978. <a href="{{ site.baseurl }}/files/doc/MDS_Theory.pdf">A Review of Multidimensional Scaling (MDS)
+and its Utility in Various Psychological Domains</a>.
+<br>
+[2] <font color="blue">Introduction</font>: Florian Wickelmaier. 2003. <a href="{{ site.baseurl }}/files/doc/MDS_Intro.pdf">An Introduction to MDS</a>.
+<br>
+[3] <font color="blue">Application (a)</font>: Moore, Rod 1990. "Ethnographic assessment of pain coping perceptions." Psychosomatic Medicine 52:171-181.
+<br>
+[4] <font color="blue">Application (b)</font>: Blank & Mattes "Sugar and Spice: Similarities and Sensory Attributes" Nursing Research 39(5):290-293.
+<br>
+[5] <font color="blue">Application (c)</font>: Wexler & Romney. 1972. "Individual Variations in cognitive structures." in Romney, Shepard & Nerlove eds. Multidimensional Scaling: Theory and Applications in the behavioral sciences, Vol II. Seminar Press.
+<br>
+[6] <font color="blue">Codes</font>: <a href="http://www.statmethods.net/advstats/mds.html">Quick R</a>.
 <hr>
--->
+
+
+
 
 
 <!-- blog VIII -->
