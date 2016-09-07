@@ -229,7 +229,6 @@ Valuation of all we have been.
 <br>
 <br>
 - T.S. Eliot, <i>East Coker</i>, <i>The Four Quartets</i>
-</p>
 </div>
 
 
