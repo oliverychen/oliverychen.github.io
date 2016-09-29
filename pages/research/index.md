@@ -16,14 +16,16 @@ comments: true
 
 **Please accept my apologies for errors I made in the slides.**
 
- 
- - [High-dimensional Brain Mediation (Oxford, 2015)](/files/doc/PDM_talk.pdf)
 
- - [Functional Data Analysis (London, 2015)](/files/doc/LFDA_talk.pdf)
+ - [High-dimensional Brain Mediation (University of Oxford, 2015)](/files/doc/PDM_talk.pdf)
 
- - [An Exciting Era of Neuroscience (Stanford, 2016)](/files/doc/Stanford.pdf)
+ - [Functional Data Analysis (London, UK, 2015)](/files/doc/LFDA_talk.pdf)
 
- - [Pokémon Go, Trump, and Pain (Berlin, 2016)](/files/doc/Bernstein_small.pdf)
+ - [An Exciting Era of Neuroscience (Stanford University, 2016)](/files/doc/Stanford.pdf)
+
+ - [Pokémon Go, Trump, and Pain (Berlin, Germany, 2016)](/files/doc/Bernstein_small.pdf)
+
+ - [The History of the Future of Neuro-ophthalmology Imaging in China (Shen-Yang, China, 2016)](/files/doc/Neuro-ophthalmology.pdf)
 
 <!--
 # High-dimensional Multivariate Mediation:
