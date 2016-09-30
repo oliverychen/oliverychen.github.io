@@ -31,7 +31,7 @@ My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Che
 **<font color="#1122CC">News</font>**: 
 
 <br />
-My slides on <i>The History of the Future of Neuro-ophthalmology Imaging in China (Shen-Yang, China, 2016)<i/> is <u>[here](/files/doc/Neuro-ophthalmology.pdf)</u>.
+My slides on <i>The History of the Future of Neuro-ophthalmology Imaging in China (Shen-Yang, China, 2016)<i/> is [<u>here</u>](/files/doc/Neuro-ophthalmology.pdf).
 
 <br />
 I recently wrote an [article](/files/doc/Fisher.pdf) overviewing the contribution statistics makes to neuroscience. 
