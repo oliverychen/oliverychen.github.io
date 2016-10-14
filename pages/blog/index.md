@@ -18,25 +18,23 @@ comments:
 
 
 <!-- blog IV -->
-<!--
-<h2>Neural Time Series, Causality, and Forecasting 
+
+<h2> Predictive Functional Connectivity 
 </h2>
 
-Last updated: June 10, 2016
+Last updated: Oct 13, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
 
 <p>￼An unsophisticated forecaster uses statistics as a drunken man uses lamp-posts - for support rather than for illumination.</p>
 
-– Andrew Lang
+– Andrew Lang <br>
+<br>
+
+<p>What is creative is the seeking of perfection - and not attaining it.</p>
+
+- Semir Zeki 
 </div> 
-
-
-<h4>Part 1: Overview</h4>
-
-To begin, let us review some common time series satisfying dependence conditions.
-
-<h5>1.0 Dependence Condition</h5>
 
 
 <h5>1.1 Vector Autoregressive(VAR) Process</h5>
@@ -119,28 +117,33 @@ i \geq 1
 <h5>1.4 Physical Dependence</h5>
 
 
+<h5>1.5 Stochastic Matrix</h5>
+
+
+
+
+
 **Reference**
-
-[1] Granger, C. W. J. (1969), Investigating causal relations by econometric models and cross-spectral methods, Econometrica, 37: 424-438.
-
-[2] Hafner, C. M. and Herwartz, H. (2009) Testing for linear vector autoregressive dynamics under multivariate generalized autoregressive heteroskedasticity, Statistica Neerlandica, 63: 294-323
-
-[3] Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton.
-
-[4] Lütkepohl, H. (2006), New Introduction to Multiple Time Series Analysis, Springer, New York.
-
-[5] Andersen, T. G. (2009), Handbook of Financial Time Series. Springer.
-
-[6] Qiu H. (2014), Robust Portfolio Optimization under High Dimensional
-Heavy-tailed Time Series;
-
-[7] Qiu H. (2015), Robust Estimation of High Dimensional Heavy-tailed Vector Autoregressive Processes.
+<br>
+<br>
+[1] Hafner, C. M. and Herwartz, H. (2009) Testing for linear vector autoregressive dynamics under multivariate generalized autoregressive heteroskedasticity, Statistica Neerlandica, 63: 294-323
+<br>
+[2] Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton.
+<br>
+[3] Lütkepohl, H. (2006), New Introduction to Multiple Time Series Analysis, Springer, New York.
+<br>
+[4] Andersen, T. G. (2009), Handbook of Financial Time Series. Springer.
+<br>
+[5] Qiu H. (2015), Robust Estimation of Transition Matrices in High Dimensional Heavy-tailed Vector Autoregressive Processes.
 
 
 <hr>
 
+<!--
+<br>
+[5] Qiu H. (2014), Robust Portfolio Optimization under High Dimensional
+Heavy-tailed Time Series;
 -->
-
 
 <!-- blog VIII -->
 
