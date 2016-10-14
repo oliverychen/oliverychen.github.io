@@ -237,7 +237,83 @@
 
 <!-- blog Top -->
 
-<!-- blog IV -->
+<!-- blog XII -->
+
+<h2> Derivation of the Free Energy Principle
+</h2>
+
+<p>Last updated: Oct 14, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼Now go we in content
+<br />
+To liberty, and not to banishment.</p>
+
+- <i>As You Like It</i>: Act 1, Scene 3
+</div>
+
+<p><br />
+Below is a brief derivation of the Free Energy Principle (which shows that Eq (2) in  <a href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf ">Friston et al (2006) </a>) has a minor typo); excuse my ignorance, though, if this is simply my mistake.
+<br />
+<br />
+Let us begin by recalling the free energy as:</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+F(y, \lambda) = - \int q(v; \lambda) \ln \frac{p(y,v)}{q(v;\lambda)} dv
+" border="0" />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex?
+ = - \int q(v; \lambda) p(y,v) dv + \int q(v; \lambda) q(y,v) dv,   
+" border="0" />
+</center>
+<p><br />
+which gives Eq (1) in <a href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf ">Friston et al (2006) </a>).
+<br />
+<br />
+Keeping writing, we have</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\bigg\{ 
+- \int q(v; \lambda) \ln p(v|y)p(y) dv + 
+\int q(v; \lambda) \ln q(v;\lambda) dv
+\bigg \}
+" border="0" />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex?
+ = \bigg\{
+- \int q(v; \lambda) \ln p(v|y) dv 
+- \int q(v; \lambda) \ln p(y) dv 
+ \bigg \}
+ + \int q (v;\lambda) \ln q(v;\lambda) dv  
+" border="0" />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex?
+ = \bigg\{
+- \int q(v; \lambda) \ln p(v|y) dv 
+- \int q(v; \lambda) \ln p(y) dv 
+ \bigg \}
+ + D \bigg(
+q(v;\lambda) \parallel p(v|y)
+ \bigg)  
+ + \int q(v; \lambda) \ln p(v|y) dv
+" border="0" />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex?
+ =
+- \int q(v; \lambda) \ln p(y) dv 
+ 
+ + D \bigg(
+q(v;\lambda) \parallel p(v|y)
+ \bigg),
+" border="0" />
+</center>
+<p><br />
+which gives Eq (2) in <a href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf ">Friston et al (2006) </a>), wherein the first term slightly differ.</p>
+
+<hr />
+
+<!-- blog XI -->
 
 <h2> Predictive Functional Connectivity 
 </h2>
