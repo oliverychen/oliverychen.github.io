@@ -67,7 +67,14 @@ Oil on canvas, approx. 8 by 12 in.
 
 ## Classical Music
 
-I played *trombone*, *trumpet*, and *Chinese Sornā*; my favorite composer is Debussy, my favorite pianist is Horowitz, and my favorite piece is *Nr. 7, Träumerei* in Schumann's *Kinderszenen, Op.15*, performed by Horowitz at the Moscow Conservatory in 1986.
+I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy; my favorite pianist is Horowitz. Below are a few pieces I find delightful. 
+<br>
+<br>
+[1] <i>Nr. 7, Träumerei in Kinderszenen, Op.15.</i> Robert Schumann. The piece performed by Horowitz at the Moscow Conservatory in 1986 was a classic.
+<br>
+[2] <i>Allegro maestoso</i> of <i>Concerto No. 1 in E Minor op. 11. </i> Frédéric Chopin.
+<br> 
+[3] <i>Nocturne in E-flat major, Op. 9, No. 2. </i> Frédéric Chopin.
 <br />
 <br />
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
