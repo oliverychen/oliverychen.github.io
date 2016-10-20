@@ -78,6 +78,8 @@ I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy;
 <br />
 [4] <i>Étude Op. 10, No. 3, in E major</i> Frédéric Chopin.
 <br />
+[5] <i>Swan Lake Op. 20, Act II: No. 10. Scène: Moderato]</i> Pyotr Tchaikovsky.
+<br />
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
 <br />
 ---
