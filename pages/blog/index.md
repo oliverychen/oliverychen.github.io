@@ -26,7 +26,6 @@ Last updated: Oct 26, 2016
 <div style="background-color:black; color:white; padding:20px;">
 
 <p>￼
-<br>
 Success consists of going from failure to failure without loss of enthusiasm.</p>
 
 - Sir Winston Leonard Spencer-Churchill
