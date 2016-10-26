@@ -16,6 +16,37 @@ comments:
 
 <!-- blog Top -->
 
+<!-- blog XIII -->
+
+<h2> On Rejections
+</h2>
+
+Last updated: Oct 26, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼Now go we in content
+<br>
+Success consists of going from failure to failure without loss of enthusiasm.</p>
+
+- Sir Winston Leonard Spencer-Churchill
+<br>
+
+</div> 
+
+<br>
+ 
+Here are two fascinating resouces regarding rejections. <a href="http://bulletin.imstat.org/2013/08/1562/">Rejection Pursuit</a>) (1) is an article written by Xiao-Li MENG, Dean of Art of Science at Harvard, regarding a paper (now published) that had been rejected for a decade; and (2) <a href="http://bsc.harvard.edu/files/bsc/files/bsc_pub_-_reflections_on_rejections_2nd_edition.pdf">Reflections on Rejections</a>) include short stories told by now established leaders in art, science, medicine, and law about their rejections - which have now been gathered into a course on rejections. All these remind me of countless rejections that I had received (and surely do foresee, now with a thankful heart, to have more).
+<br>
+I hope these will help you, too. And
+<br>
+<span style="background-color: lightgrey"> <i>Never give in, never give in, never, never, never, never.
+<br>
+<br>
+- Sir Winston Leonard Spencer-Churchill </i></span>
+
+<hr>
+
 
 <!-- blog XII -->
 
