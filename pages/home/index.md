@@ -8,13 +8,11 @@ excerpt:
 
 ![x](/images/Einstein.jpg)
 
-<!--<br>
-I am a Graduate Fellow student of the [Department of Biostatistics](http://www.jhsph.edu/departments/biostatistics/) at the [Johns Hopkins University](http://www.jhsph.edu/) Bloomberg School of Public Health under Professor Dr. [Martin Lindquist](http://www.biostat.jhsph.edu/~mlindqui/).
-<br />
--->
+
+I am a Research Associate Fellow at the [Yale University](http://www.yale.edu).
 
 <br>
-I work on research in the multidisciplinary area between statistics, computer science, and neuroscience. I am passionate about developing my knowledge to understand the unknowns of the human brain and its pathology. I am especially interested in being an advocate to raise society’s awareness of diseases caused by the human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
+I work on research in the multidisciplinary area between statistics, computer science, and neuroscience. I am passionate about developing my knowledge to understand the unknowns of the human brain and its pathology. I am especially interested in being an advocate to raise society’s awareness of diseases caused by the human brain; and making scientific progress on diagnoses, treatments, cures and management of these diseases in some way in my life, even if the contribution turns out to be a minor one.
 <!--
 I work on research in the multidisciplinary area between statistics, computer science, and neuroscience. I am passionate about developing and implementing statistical theory, methods, and computer algorithms to understand the unknowns of the human brain and its pathology. I am especially interested in being an advocate to raise society’s awareness of diseases caused by human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
 -->
