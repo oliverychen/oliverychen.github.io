@@ -10,7 +10,7 @@ excerpt:
 
 
 <br>
-I am a Research Associate Fellow in the [Department of Psychology](http://psychology.yale.edu) at [Yale University](http://www.yale.edu).
+I am a Research Associate Fellow in the <a href="http://psychology.yale.edu">Department of Psychology</a> at <a href="http://www.yale.edu">Yale University</a>.
 
 <br>
 I work on research in the multidisciplinary area between statistics, computer science, and
