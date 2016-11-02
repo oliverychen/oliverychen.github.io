@@ -23,14 +23,11 @@ Last updated: Nov 2, 2016
 
 <div style="background-color:black; color:white; padding:20px;">
 
-<p>￼
-What's in a name? that which we call a rose
+<p>￼What's in a name? that which we call a rose
 <br>
 By any other name would smell as sweet.</p>
 
-- <i>Romeo and Juliet (II, ii, 1-2)</i> 
-<br>
-
+- <i>Romeo and Juliet</i>: II, ii, 1-2
 </div> 
 
 <br>
@@ -38,10 +35,11 @@ By any other name would smell as sweet.</p>
 <iframe src="http://docs.google.com/gview?url=http://www.brainmapping.org/NITP/images/Summer2011Slides/2011_UCLA_GroupICA.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 <br>
 
+<br>
 **Further Reading**
 <br>
 <br>
-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651152/">A review of group ICA for fMRI data and ICA for joint inference of imaging, genetic, and ERP data</a>
+Calhoun et al (2009). <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651152/">A review of group ICA for fMRI data and ICA for joint inference of imaging, genetic, and ERP data</a>
 <br>
 
 <hr>
