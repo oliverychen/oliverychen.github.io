@@ -16,7 +16,7 @@ comments:
 
 <!-- blog Top -->
 
-<h2> Good Readings for Group ICA for fMRI Data
+<h2> An ICA by Any Other Name Would Smell as Sweet: Group ICA
 </h2>
 
 Last updated: Nov 2, 2016
@@ -24,9 +24,11 @@ Last updated: Nov 2, 2016
 <div style="background-color:black; color:white; padding:20px;">
 
 <p>￼
-Success consists of going from failure to failure without loss of enthusiasm.</p>
+What's in a name? that which we call a rose
+<br>
+By any other name would smell as sweet.</p>
 
-- Sir Winston Leonard Spencer-Churchill
+- <i>Romeo and Juliet (II, ii, 1-2)</i> 
 <br>
 
 </div> 
@@ -36,10 +38,13 @@ Success consists of going from failure to failure without loss of enthusiasm.</p
 <iframe src="http://docs.google.com/gview?url=http://www.brainmapping.org/NITP/images/Summer2011Slides/2011_UCLA_GroupICA.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 <br>
 
+**Further Reading**
+<br>
+<br>
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651152/">A review of group ICA for fMRI data and ICA for joint inference of imaging, genetic, and ERP data</a>
+<br>
 
 <hr>
-
-
 
 
 <h2> On Rejections
