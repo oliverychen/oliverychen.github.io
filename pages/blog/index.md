@@ -110,7 +110,7 @@ Y_i \in \{1, 2, \ldots, k \}, i = 1, 2, \ldots
 " border="0"/>. In other words, <img center src="http://latex.codecogs.com/gif.latex?
 \phi (\cdot) = \phi_{\bold{X}, \bold{Y}} (\cdot).
 " border="0"/> In the case of simple linear regression, <img center src="http://latex.codecogs.com/gif.latex?
-\phi_{\bold{X}, \bold{Y}} = \hat{\beta} (\bold{X}, \bold{Y}) = (\bold{X}^{\prime}\bold{X})^{-1}\bold{Y}.
+\phi_{\bold{X}, \bold{Y}} = \hat{\beta} (\bold{X}, \bold{Y}) = (\bold{X}^{\prime}\bold{X})^{-1}\bold{X}^{\prime}\bold{Y}.
 " border="0"/>
 <br>
 <br>
