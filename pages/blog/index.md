@@ -16,6 +16,180 @@ comments:
 
 <!-- blog Top -->
 
+<h2> Trouver la Lumière Dans L'obscurité
+</h2>
+
+Last updated: Dec 11, 2016
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Louis_XIV_of_France.jpg" alt="HTML5 Icon" style="width:250px;">
+        <br>
+        Louis XIV of France (1638 – 1715)
+        <br>
+        by Hyacinthe Rigaud (1701)
+        <br>
+        
+    </a>
+</div>
+</center>
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+The light shines in the darkness, and the darkness has not overcome it.</p>
+
+- <i>John 1:5</i> (English Standard Version)
+<br>
+
+</div> 
+<br>
+I am going to write about clustering analysis in analysing brain data: grouping observations (brain measurements) into different clusters (e.g. observation 1 belongs to Cluster A, observation 2 belongs to Cluster B, etc.) based upon their (intrinsic) characteristics or features. But why do I quote <i>John 1:5</i>, include a photo of Louis XIV, and talk about light and darkness?
+
+<br>
+Because clustering analysis and the challenge thereof remind us of two things. One is that clustering analysis, or any unsupervised learning approach, is to search in darkness for light, as we do not know the true groups, while, very likely, there are true clusters (light) to which they belong, where the member of one group share more similar intrinsic features than non-members; the other is <i>John 1:5</i> (cited above, thanks to Professor Semir Zeki's reminder), that indeed there is true group information underlying, yet we, living in the darkness, have not found a reliable algorithm (candles that are affordable and durable) to uncover the turth, or have unfortunately found one that miscasts the truth. The first descibes the goal of clustering analysis, and the second summarizes one of its difficulties.
+
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Paris.png" alt="HTML5 Icon" style="width:500px;">
+        <br>
+        Source: <i>How Paris Became Paris: The Invention of the Modern City</i> (p.136)
+        <br>
+        by Joan Elizabeth DeJean
+        <br>
+        
+    </a>
+</div>
+</center>
+
+<h5>I. Prologue: La Ville–Lumière</h5>
+Today, the city of Paris is referred to as <i>la Ville Lumière</i> (the City of Light) because of its role during <i>le Siècle des Lumières</i> (lit. the Century of Light, or the Age of Enlightenment). But it literally refers to, according to Wikipedia, the fact that Paris was one of the first European cities to adopt gas street lighting in the 1860s.
+
+<br>
+However, after some further digging, the street lighting in Paris started with candles, rather than gas, dated back to as early as 1666, as according to the Oct. 29 issue of Gazette (by Charles Robinet), it said that "it is now as bright as night as at high noon." Large candles, "designed to burn for eight to ten hours" putting in 2,736 lanterns composed of glass panels were used. This was initiated by Gabriel Nicolas de la Reynie and supported by Jean-Baptiste Colbert, minister to the King, and the King, Louis XIV, upon whose death in 1715 (or soon after, 1620s) began the Age of Enlightenment. The introduction of street lighting turned Paris evening from darkness to brightness, and entailed (partially) the Enlightenment. It reminds me of clustering analysis, where the groups of observations are living in the darkness and are awaiting to be unvealed via fast and effective algorithms (affordable and durable candles). 
+
+<br>
+Hence, I shamelessly adopt the above as my prologue. 
+
+
+<h5>II. Definitions</h5>
+
+<img center src="http://latex.codecogs.com/gif.latex?
+\bold{X} = (X_1, X_2, \ldots, X_n) 
+" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
+X_i, i = 1, 2, \ldots 
+" border="0"/> can be multidimensional, defines <b>data</b> on which a clustering analysis are to be implemented: For example, <img center src="http://latex.codecogs.com/gif.latex?
+X_i
+" border="0"/> can be vectorized connectivity matrix for subject <img center src="http://latex.codecogs.com/gif.latex?
+i
+" border="0"/>.
+<br>
+<br>
+<img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{A}_k
+" border="0"/> is a (clustering) algorithm that is applied on <img center src="http://latex.codecogs.com/gif.latex?
+\bold{X} 
+" border="0"/> and that renders <img center src="http://latex.codecogs.com/gif.latex?
+k
+" border="0"/> groups (clusters) <img center src="http://latex.codecogs.com/gif.latex?
+\bold{Y} = (Y_1, Y_2, \ldots, Y_n) 
+" border="0"/>, where <img center src="http://latex.codecogs.com/gif.latex?
+Y_i \in \{1, 2, \ldots, k \}, i = 1, 2, \ldots 
+" border="0"/> Technically, <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{A}_k
+" border="0"/> is a map such that <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{A}_k: Y = \mathcal{A}_k (\bold{X}).
+" border="0"/>
+<br>
+<br>
+<img center src="http://latex.codecogs.com/gif.latex?
+\phi
+" border="0"/> is a classifier baded upon the above operation engendering <img center src="http://latex.codecogs.com/gif.latex?
+(\bold{X}, \bold{Y})
+" border="0"/>. In other words, <img center src="http://latex.codecogs.com/gif.latex?
+\phi (\cdot) = \phi_{\bold{X}, \bold{Y}} (\cdot).
+" border="0"/> In the case of simple linear regression, <img center src="http://latex.codecogs.com/gif.latex?
+\phi_{\bold{X}, \bold{Y}} = \hat{\beta} (\bold{X}, \bold{Y}) = (\bold{X}^{\prime}\bold{X})^{-1}\bold{Y}.
+" border="0"/>
+<br>
+<br>
+The classifier <img center src="http://latex.codecogs.com/gif.latex?
+\phi
+" border="0"/> appllied to a new dataset <img center src="http://latex.codecogs.com/gif.latex?
+\bold{X}^{\prime}
+" border="0"/>  will render clustering of <img center src="http://latex.codecogs.com/gif.latex?
+\bold{X}^{\prime}
+" border="0"/> <b>based upon <img center src="http://latex.codecogs.com/gif.latex?
+(\bold{X}, \bold{Y})
+" border="0"/> </b>. The algorithm <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{A}_k
+" border="0"/> appllied to <img center src="http://latex.codecogs.com/gif.latex?
+\bold{X}^{\prime}
+" border="0"/> will generate clustering of <img center src="http://latex.codecogs.com/gif.latex?
+\bold{X}^{\prime}
+" border="0"/> (namely <img center src="http://latex.codecogs.com/gif.latex?
+\bold{Y}^{\prime} = \mathcal{A}_k (\bold{X}^{\prime})
+" border="0"/>) <b>based upon <img center src="http://latex.codecogs.com/gif.latex?
+\bold{X}^{\prime} " border="0"/></b>. <img center src="http://latex.codecogs.com/gif.latex?
+\phi(\bold{X}^{\prime})
+" border="0"/> and <img center src="http://latex.codecogs.com/gif.latex?
+\mathcal{A}_k (\bold{X}^{\prime})
+" border="0"/> could be different. 
+<br>
+<br>
+Hence, we define the normalized Hamming distance to describe such a discrepancy:
+<img center src="http://latex.codecogs.com/gif.latex?
+d(\phi(\bold{X}^{\prime}), \mathcal{A}_k (\bold{X}^{\prime})) := 
+\dfrac{1}{n}\sum_{i=1}^{n} 1_{\{ \phi(X_i^{\prime}) \neq \mathcal{A}_k (X_i^{\prime})\}}
+" border="0"/>.
+<br>
+<br>
+But, incorrect discrepancy may be introduced as follows: for <img center src="http://latex.codecogs.com/gif.latex?
+k=2
+" border="0"/>, if one algorithm groups the first part all 1's and the second part all 2's, and another algorithm clusters the first part all 2's and the second all 1's, the two algorithms generate essentially the same result. To avoid this, define (see J. DeJean (2014))
+<center>
+<img center src="http://latex.codecogs.com/gif.latex?
+d_{\mathcal{G}_k} (\phi(\bold{X}^{\prime}), \mathcal{A}_k (\bold{X}^{\prime})) := 
+\min_{\pi \in {\mathcal{G}_k}} 
+\dfrac{1}{n}
+\sum_{i=1}^{n} 1_{
+\bigg\{ \pi \big(\phi(X_i^{\prime})\big) \neq \mathcal{A}_k (X_i^{\prime}) 
+\bigg \}
+}
+" border="0"/>,
+</center>
+where <img center src="http://latex.codecogs.com/gif.latex?
+\pi
+" border="0"/> is a permutation operation.
+
+
+
+<h5>III. Stability Procedure of Clustering Analysis</h5>
+
+<center>
+<div id="top">
+    <a id="logo" href="<?php echo SITE_URL?>" target="_blank">
+        <img src="{{ site.baseurl }}/images/Procedure.jpg" alt="HTML5 Icon" style="width:500px;">
+        <br>
+        Adapted from Table 1. of T. Lange et al (2004)
+    </a>
+</div>
+</center>
+
+<h5>References:</h5>
+[1] J. DeJean (2014) How Paris Became Paris: The Invention of the Modern City;
+<br>
+[2] T. Lange et al (2004) Stability-based validation of clustering solutions.
+
+
+
+<hr>
+
+
+<!-- Break -->
+
+
 <h2> An ICA by Any Other Name Would Smell as Sweet: Group ICA
 </h2>
 
