@@ -69,7 +69,7 @@ My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Che
 **<font color="#1122CC">News</font>**: 
 
 <br />
-Zeki and Chén (2016) <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b>*The Bayesian-Laplacian Brain*</b><br>
+Zeki and Chén <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b>*The Bayesian-Laplacian Brain*</b><br>
 
 <br />
 [The History of the Future of Neuro-ophthalmology Imaging in China](/files/doc/Neuro-ophthalmology.pdf).
@@ -78,7 +78,7 @@ Zeki and Chén (2016) <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="tex
 I recently wrote [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf) discussing the contribution statistics makes to neuroscience. 
 
 <br />
-Chén et al (2016) <i>High-dimensional Brain Mediation</i> [Preprint](/files/doc/HDMM.pdf)
+Chén et al. <i>High-dimensional Brain Mediation</i> [Preprint](/files/doc/HDMM.pdf)
 
 <body onload="blink()">
 
