@@ -25,11 +25,11 @@ Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
 Technique: Gong-bi (工筆)
 <br />
 <br />
-Li Bai (705 – 762), courtesy name Tài-bái ( literally meaning Venus ), also known as Li Po, and his friend Dù Fu (712 – 770), were the two most prominent poets in the mid-Táng Dynasty that is often called the "Golden Age of China”. His poetry was introduced to Europe circa18th-century by Jean Joseph Marie Amiot in his Portraits des Célèbres Chinois. Further translations were published by Marquis d'Hervey de Saint-Denys in his 1862 Poésies de l'Époque des Thang. The painting delineates a story, probably apocryphal, of Li Bai, during his service at the Royal Hàn-Lín Academy. Once, while drunk, Li Bai (front left) ordered Gāo Lì-Shì (front right), Duke of Qí, the most politically powerful eunuch in the palace, to remove his shoes; and he asked Yáng Guó-Zhōng (second to the right), a cousin of the favorite Imperial Consort Yáng Yü-Huán (back left), and the Chancellor in the reign of Emperor Xuān-Zōng of Táng Dynasty, to grind ink. They took offense, and along with Consort Yáng, persuaded Emperor Xuān-Zōng to send Li Bai away from the royal court.
+Li Bai (705 – 762), courtesy name Tài-bái (lit. Venus), and his friend Dù Fu (712 – 770), were the two most prominent poets in the mid-Táng Dynasty, which is often called the "Golden Age of China”. This painting tells a (potentially) apocryphal story of Li Bai during his service at the Royal Hàn-Lín Academy. Once, while drunk, Li Bai (front left) ordered Gāo Lì-Shì (front right), Duke of Qí, the most politically powerful eunuch in the palace, to remove his shoes. Meanwhile, he asked Yáng Guó-Zhōng (second to the right), the Chancellor in the reign of Emperor Xuān-Zōng of Táng Dynasty (also a cousin of the favorite Imperial Consort Yáng Yü-Huán (back left)), to grind ink. After this incident, they retaliated by persuading Emperor Xuān-Zōng to send Li Bai away from the royal court.
 
 <br />
 
-The painting was painted à la Gōng-bi (工筆) on xüān paper (宣紙, made of Pteroceltis tatarinowii tree bark et al).
+The painting was painted à la Gōng-bi (工筆) on xüān paper (宣紙, which is made of Pteroceltis tatarinowii tree bark).
 <br />
 <br />
   
