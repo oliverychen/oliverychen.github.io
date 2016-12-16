@@ -165,6 +165,42 @@
 
 <p><img src="/images/Einstein.jpg" alt="x" /></p>
 
+<!--
+<script type="text/javascript">
+var col = new String();
+var x=1;var y;
+
+function blink()
+{
+ if(x%2) 
+ {
+  col = "rgb(255,0,0)";
+ }else{
+  col = "rgb(255,255,255)";
+ }
+
+ aF.style.color=col;x++;if(x>2){x=1};setTimeout("blink()",500);
+}
+</script>
+-->
+
+<script type="text/javascript">
+var col = new String();
+var x=1;var y;
+
+function blink()
+{
+ if(x%2) 
+ {
+  col = "rgb(0,0,0)";
+ }else{
+  col = "rgb(255,255,255)";
+ }
+
+ aF.style.color=col;x++;if(x>2){x=1};setTimeout("blink()",500);
+}
+</script>
+
 <p><br />
 I am a Research Associate Fellow in the Department of Psychology at Yale University.</p>
 
@@ -189,7 +225,7 @@ My <strong><font color="#1122CC">curriculum vitae</font></strong> is <a href="/f
 <strong><font color="#1122CC">News</font></strong>:</p>
 
 <p><br />
-Zeki and Chén (2016) <a href="/files/doc/Bayesian_brain.pdf">The Bayesian-Laplacian Brain</a></p>
+Zeki and Chén (2016) <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b><em>The Bayesian-Laplacian Brain</em></b><br /></a></p>
 
 <p><br />
 <a href="/files/doc/Neuro-ophthalmology.pdf">The History of the Future of Neuro-ophthalmology Imaging in China</a>.</p>
@@ -199,6 +235,10 @@ I recently wrote <a href="/files/doc/Fisher.pdf">The Role of Statistics in Conte
 
 <p><br />
 Chén et al (2016) <i>High-dimensional Brain Mediation</i> <a href="/files/doc/HDMM.pdf">Preprint</a></p>
+
+<body onload="blink()">
+
+
 
 <!--[Here](/images/Tarren.JPEG) is a very generous and helpful comment from Brian Tarran, the editor of <i>Significance<i/>, the <i>Royal Statistical Society<i/>. -->
 
@@ -239,6 +279,7 @@ I am interested in the following scientific areas
 
 <!--Previously, I had worked on projects relating to partial correlation estimation and smoothing, semiparametric regression, and cross-over experimental design.
 -->
+</body>
 
       
         <hr />

@@ -1929,3 +1929,4 @@ I have been long thinking about writing a blog that puts in order a few resource
 <li> <a href="{{ site.baseurl }}/files/doc/The_sound_and_the_fury.pdf">The Sound and the Fury</a>, by William Faulkner</li>
 <br/>
 
+Beautiful fonts can be found <a href="http://studiokayama.com/5-fonts-that-add-credibility-and-professionalism-to-scientific-research/">here</a>.

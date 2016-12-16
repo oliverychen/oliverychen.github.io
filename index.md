@@ -8,6 +8,42 @@ excerpt:
 
 ![x](/images/Einstein.jpg)
 
+<!--
+<script type="text/javascript">
+var col = new String();
+var x=1;var y;
+
+function blink()
+{
+ if(x%2) 
+ {
+  col = "rgb(255,0,0)";
+ }else{
+  col = "rgb(255,255,255)";
+ }
+
+ aF.style.color=col;x++;if(x>2){x=1};setTimeout("blink()",500);
+}
+</script>
+-->
+
+<script type="text/javascript">
+var col = new String();
+var x=1;var y;
+
+function blink()
+{
+ if(x%2) 
+ {
+  col = "rgb(0,0,0)";
+ }else{
+  col = "rgb(255,255,255)";
+ }
+
+ aF.style.color=col;x++;if(x>2){x=1};setTimeout("blink()",500);
+}
+</script>
+
 
 <br>
 I am a Research Associate Fellow in the Department of Psychology at Yale University.
@@ -33,7 +69,7 @@ My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Che
 **<font color="#1122CC">News</font>**: 
 
 <br />
-Zeki and Chén (2016) [The Bayesian-Laplacian Brain](/files/doc/Bayesian_brain.pdf)
+Zeki and Chén (2016) <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b>*The Bayesian-Laplacian Brain*</b><br>
 
 <br />
 [The History of the Future of Neuro-ophthalmology Imaging in China](/files/doc/Neuro-ophthalmology.pdf).
@@ -43,6 +79,10 @@ I recently wrote [The Role of Statistics in Contemporary Brain Science](/files/d
 
 <br />
 Chén et al (2016) <i>High-dimensional Brain Mediation</i> [Preprint](/files/doc/HDMM.pdf)
+
+<body onload="blink()">
+
+
 
 <!--[Here](/images/Tarren.JPEG) is a very generous and helpful comment from Brian Tarran, the editor of <i>Significance<i/>, the <i>Royal Statistical Society<i/>. -->
 
