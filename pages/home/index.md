@@ -33,13 +33,16 @@ My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Che
 **<font color="#1122CC">News</font>**: 
 
 <br />
-My slides on <i>The History of the Future of Neuro-ophthalmology Imaging in China (Shen-Yang, China, 2016)</i> is [here](/files/doc/Neuro-ophthalmology.pdf).
+Zeki and Chén (2016) [The Bayesian-Laplacian Brain](/files/doc/Bayesian_brain.pdf)
+
+<br />
+[The History of the Future of Neuro-ophthalmology Imaging in China](/files/doc/Neuro-ophthalmology.pdf).
 
 <br />
 I recently wrote [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf) discussing the contribution statistics makes to neuroscience. 
 
 <br />
-Our [paper](/files/doc/HDMM.pdf) on high-dimensional brain mediation is updated. 
+Chén et al (2016) <i>High-dimensional Brain Mediation</i> [Preprint](/files/doc/HDMM.pdf)
 
 <!--[Here](/images/Tarren.JPEG) is a very generous and helpful comment from Brian Tarran, the editor of <i>Significance<i/>, the <i>Royal Statistical Society<i/>. -->
 
