@@ -69,7 +69,10 @@ My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Che
 **<font color="#1122CC">News</font>**: 
 
 <br />
+<!--
 Zeki and Chén <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b>*The Bayesian-Laplacian Brain*</b><br>
+-->
+Zeki and Chén [The Bayesian-Laplacian Brain](/files/doc/Bayesian_brain.pdf).
 
 <br />
 [The History of the Future of Neuro-ophthalmology Imaging in China](/files/doc/Neuro-ophthalmology.pdf).
