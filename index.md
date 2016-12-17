@@ -73,10 +73,10 @@ My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Che
 Zeki and Chén <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b>*The Bayesian-Laplacian Brain*</b><br>
 -->
 Zeki and Chén [The Bayesian-Laplacian Brain](/files/doc/Bayesian_brain.pdf).
-
+<!--
 <br />
 [The History of the Future of Neuro-ophthalmology Imaging in China](/files/doc/Neuro-ophthalmology.pdf).
-
+-->
 <br />
 I recently wrote [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf) discussing the contribution statistics makes to neuroscience. 
 
