@@ -45,8 +45,10 @@ comments:
 - **Chén Y.** [A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs](/files/doc/ED.pdf).
 - **Chén Y.** [Notes for Time Series Data Analysis](/files/doc/TS.pdf). 
 
+<!--
 ## Others
 
 - For more information, please see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
+-->
   
 

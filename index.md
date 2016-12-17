@@ -61,10 +61,10 @@ I work on research in the multidisciplinary area between statistics, computer sc
 <br>
 I write a [**<font color="#1122CC">blog</font>**](http://oliverychen.com/pages/blog/) about brain data science. 
 <br/>
-
+<!--
 <br />
 My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
-
+-->
 <br />
 **<font color="#1122CC">News</font>**: 
 
