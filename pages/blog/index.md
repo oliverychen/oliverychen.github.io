@@ -217,7 +217,7 @@ G_j,
 " border="0"/>.
 <br> 
 <br>
-The pictorial presentaton simplifies and visualizes (most) critical steps from Hartigan and Wong (1979),for N = 2 and K = 4.  
+The pictorial presentaton simplifies and visualizes (most) critical steps from Hartigan and Wong (1979), for N = 2 and K = 4.  
 
 <center>
 <div id="top">
