@@ -5,14 +5,14 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Blog &#8211; </title>
+<title></title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive">
 
 
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Blog">
+<meta name="twitter:title" content="">
 
 
 
@@ -23,9 +23,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Blog">
+<meta property="og:title" content="">
 
-<meta property="og:url" content="http://oliverychen.github.io/pages/blog/index_back_up_July_28.html">
+<meta property="og:url" content="http://oliverychen.github.io/pages/blog/index_back_up_Jan_3_2017.html">
 <meta property="og:site_name" content="">
 
 <meta property="og:image" content="http://oliverychen.github.io/images/default-thumb.png">
@@ -35,7 +35,7 @@
 
 
 
-<link rel="canonical" href="http://oliverychen.github.io/pages/blog/index_back_up_July_28.html">
+<link rel="canonical" href="http://oliverychen.github.io/pages/blog/index_back_up_Jan_3_2017.html">
 <link href="http://oliverychen.github.io/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
 
 <!-- http://t.co/dKP3o1e -->
@@ -155,16 +155,16 @@
 
   </div>
   <article class="page">
-    <h1>Blog</h1>
+    <h1></h1>
     <div class="article-wrap">
       <meta charset="utf-8" />
 
-<title>Blog &#8211; </title>
+<title></title>
 
 <meta name="keywords" content="about, Jekyll, theme, responsive" />
 
 <!-- Twitter Cards -->
-<meta name="twitter:title" content="Blog" />
+<meta name="twitter:title" content="" />
 
 <meta name="twitter:card" content="summary" />
 
@@ -175,15 +175,15 @@
 
 <meta property="og:type" content="article" />
 
-<meta property="og:title" content="Blog" />
+<meta property="og:title" content="" />
 
-<meta property="og:url" content="http://oliverychen.github.io/pages/blog/index_back_up_July_28.html" />
+<meta property="og:url" content="http://oliverychen.github.io/pages/blog/index_back_up_Jan_3_2017.html" />
 
 <meta property="og:site_name" content="" />
 
 <meta property="og:image" content="http://oliverychen.github.io/images/default-thumb.png" />
 
-<link rel="canonical" href="http://oliverychen.github.io/pages/blog/index_back_up_July_28.html" />
+<link rel="canonical" href="http://oliverychen.github.io/pages/blog/index_back_up_Jan_3_2017.html" />
 
 <link href="http://oliverychen.github.io/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed" />
 
@@ -232,271 +232,619 @@
 <p><img src="/images/data_speak.jpg" alt="x" />
 <br /></p>
 
-<h1 id="welcome-to-the-span-stylecolor1122ccdata-whisper--span-blog-where-data-whisper">Welcome to the <span style="color:#1122CC">Data Whisper  </span> blog, where data whisper.</h1>
+<h1 id="welcome-to-the-span-stylecolor1122ccbrain-whispersspan-blog-where-the-brain-whispers">Welcome to the <span style="color:#1122CC">Brain Whispers</span> blog, where the brain whispers.</h1>
 <hr />
 
 <!-- blog Top -->
 
-<!-- blog IV -->
-<!--
-<h2>Neural Time Series, Causality, and Forecasting 
+<h2> Trouver la Lumière Dans L'obscurité
 </h2>
 
-Last updated: June 10, 2016
-
-<div style="background-color:black; color:white; padding:20px;">
-
-<p>￼An unsophisticated forecaster uses statistics as a drunken man uses lamp-posts - for support rather than for illumination.</p>
-
-– Andrew Lang
-</div> 
-
-
-<h4>Part 1: Overview</h4>
-
-To begin, let us review some common time series satisfying dependence conditions.
-
-<h5>1.0 Dependence Condition</h5>
-
-
-<h5>1.1 Vector Autoregressive(VAR) Process</h5>
-
-Consider <img center src="http://latex.codecogs.com/gif.latex?
-\{ \mathbf{X}_i \in \mathbb{R}^d
-\}_{i \in \mathbb{Z}}
-" border="0"/> as a stationalry process satisfying the VAR model:
-
-<center>
-<img center src="http://latex.codecogs.com/gif.latex?
-\mathbf{X}_i = \mathbf{A} \mathbf{X}_{i-1} + \mathbf{\epsilon}_i, \forall i \in \mathbb{R},
-" border="0"/>
-</center>
-<br>
-where <img center src="http://latex.codecogs.com/gif.latex?
-\{ \mathbf{\epsilon}_i \in \mathbb{R}^d
-\}_{i \in \mathbb{Z}}
-" border="0"/> is a sequence of i.i.d. random vectors. 
-
-<h5>1.2 <img center src="http://latex.codecogs.com/gif.latex?
-\alpha
-" border="0"/>-mixing Process</h5>
-
-Definition (Richard C. Bradley (2015s)). Let <img center src="http://latex.codecogs.com/gif.latex?
-(\Omega, \mathcal{F}, \mathbb{P})
-" border="0"/> be a <i>probability space</i> and <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{A}, \mathcal{B}
-" border="0"/> be two <img center src="http://latex.codecogs.com/gif.latex?
-\sigma
-" border="0"/>-fields. The <img center src="http://latex.codecogs.com/gif.latex?
-\alpha
-" border="0"/> dependency measure is defined as follows.
-
-<center>
-<img center src="http://latex.codecogs.com/gif.latex?
-\alpha(\mathcal{A}, \mathcal{B}): = \sup _{A \in \mathcal{A}, B \in \mathcal{B}}
-\left\vert
-\mathbb{P} (A \cap B) - \mathbb{P}(A) \mathbb{P}(B)
-\right \vert
-" border="0"/>
-    </center>
-
-Let <img center src="http://latex.codecogs.com/gif.latex?
-\{ \mathbf{X}_i \} _{i \in \mathbb{Z}}
-" border="0"/> be a <i>stochastic process</i>. For <img center src="http://latex.codecogs.com/gif.latex?
--\infty \leq M \leq N \leq \infty
-" border="0"/>, define <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{F}_
-" border="0"/>, define <img center src="http://latex.codecogs.com/gif.latex?
-\mathcal{F}_M^N := \sigma \{
- \mathbf{X}_i: N \leq i \leq M, i \in \mathbb{R}   
-\}
-" border="0"/> as a sigma-field generated by <img center src="http://latex.codecogs.com/gif.latex?
-\{\mathbf{X}_i: N \leq i \leq M, i \in \mathbb{R} \}
-" border="0"/>. For any <img center src="http://latex.codecogs.com/gif.latex?
-i \geq 1
-" border="0"/>, we define the <img center src="http://latex.codecogs.com/gif.latex?
-\alpha
-" border="0"/>-mixing coefficients as 
-<center>
-<img center src="http://latex.codecogs.com/gif.latex?
-\alpha(i) := \sup_{m \in \mathbb{Z}} \alpha \big( \mathcal{F}_{-\infty}^m, \mathcal{F}_{m+i}^\infty \big).
-" border="0"/>
-</center>
-
-<br> The process <img center src="http://latex.codecogs.com/gif.latex?
-\{ \mathbf{X}_i \} _{i \in \mathbb{Z}}
-" border="0"/> is <img center src="http://latex.codecogs.com/gif.latex?
-\alpha
-" border="0"/>-mixing <i>if and only if </i> <img center src="http://latex.codecogs.com/gif.latex?
-\lim_{i \rightarrow \infty} \alpha(i) = 0
-" border="0"/>.
-
-
-
-<h5>1.3 Weak Dependence</h5>
-
-
-<h5>1.4 Physical Dependence</h5>
-
-
-**Reference**
-
-[1] Granger, C. W. J. (1969), Investigating causal relations by econometric models and cross-spectral methods, Econometrica, 37: 424-438.
-
-[2] Hafner, C. M. and Herwartz, H. (2009) Testing for linear vector autoregressive dynamics under multivariate generalized autoregressive heteroskedasticity, Statistica Neerlandica, 63: 294-323
-
-[3] Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton.
-
-[4] Lütkepohl, H. (2006), New Introduction to Multiple Time Series Analysis, Springer, New York.
-
-[5] Andersen, T. G. (2009), Handbook of Financial Time Series. Springer.
-
-[6] Qiu H. (2014), Robust Portfolio Optimization under High Dimensional
-Heavy-tailed Time Series;
-
-[7] Qiu H. (2015), Robust Estimation of High Dimensional Heavy-tailed Vector Autoregressive Processes.
-
-
-<hr>
-
--->
-
-<!-- blog VII -->
-<h2>Network Strength in a <i>Boltzmann</i> Machine Global Energy Sense</h2>
-
-<p>Last updated: July 27, 2016</p>
-
+<p>Last updated: Jan 3, 2017</p>
 <div style="background-color:black; color:white; padding:20px;">
 <p>￼
+The light shines in the darkness, and the darkness has not overcome it.</p>
+
+- <i>John 1:5</i> (English Standard Version)
 <br />
-The energy of the mind is the essence of life.
-<br />
-<br />
-- Aristotle
-</p>
+
 </div>
 
-<p><br />
-The network strength in the wonderful Nature Neuroscience paper by <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> reminds us of the global energy function in a Boltzmann machine (c.f. Hopfield network).</p>
-
-<p><br />
-The global energy in a Boltzmann machine, <img center="" src="http://latex.codecogs.com/gif.latex? E " border="0" />, is defined as follows:</p>
-<center>
-<img center="" src="http://latex.codecogs.com/gif.latex?
-E = - \bigg (
- \sum_{ij} \rho_{ij} s_i s_j + \sum_i \epsilon_i s_i
-\bigg )
-" border="0" />
-</center>
-<p><br />
-where <img center="" src="http://latex.codecogs.com/gif.latex? \rho_{ij} " border="0" /> is the connection strength between unit <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> and unit <img center="" src="http://latex.codecogs.com/gif.latex? j  " border="0" /> (comparing with node-wise correlation in network strength), <img center="" src="http://latex.codecogs.com/gif.latex? s_i \in \{0, 1\} " border="0" /> is the state for unit <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> (comparing <img center="" src="http://latex.codecogs.com/gif.latex? s_i s_j " border="0" /> with <img center="" src="http://latex.codecogs.com/gif.latex? I_{ij} " border="0" /> in network strength), and <img center="" src="http://latex.codecogs.com/gif.latex? \epsilon_i " border="0" /> is the bias of unit <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> in the global energy (this is not present in network strength - yet it could because data driven node-wise correlation is likely to have bias).</p>
+<p><br /></p>
 
 <center>
 <div id="top">
     <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
-        <img src="/images/Energy_landscape.png" alt="HTML5 Icon" style="width:500px;" />
+        <img src="/images/Louis_XIV_of_France.jpg" alt="HTML5 Icon" style="width:250px;" />
         <br />
-        Energy Landscape of a Boltzmann (Hopfield) Network 
-        <br />(Image source: Wikipedia)
+        Louis XIV of France (1638 – 1715)
+        <br />
+        by Hyacinthe Rigaud (1701)
+        <br />
+        
     </a>
 </div>
 </center>
 
 <p><br />
-Due to the properties of Boltzmann energy function and its similarity with network strength function, at resting state (and possibly at task state), when the node-wise correlation could be updated, it will be interesting to show that the network strength function (1) is a Lyapunov function, and (2) has Markov property. (1) indicates that the network strength will eventually converge to a state which is a local minimum; and (2) tells us that we could impose probability measure on network strength.</p>
+I am going to write about stability analysis regarding clustering algorithms (which are commonly used investigating brain data): grouping observations (brain measurements) into different clusters (e.g. observation 1 belongs to Cluster A, observation 2 belongs to Cluster B, etc.) based upon their (intrinsic) characteristics or features. But why do I quote <i>John 1:5</i>, include a photo of Louis XIV, and talk about light and darkness?</p>
+
+<p><br />
+Because clustering analysis and the challenge thereof remind us of two things. One is that clustering analysis, or any unsupervised learning approach, is to search in darkness for light, as we do not know the true groups, while, very likely, there are true clusters (light) to which they belong, where the member of one group share more similar intrinsic features than non-members; the other is <i>John 1:5</i> (see above-quoted; thanks to Professor Semir Zeki’s reminder), that indeed there is true group information underlying, yet we, living in the darkness, have not found a reliable algorithm (candles that are affordable and durable) to uncover the turth, or have unfortunately found one that miscasts the truth. The first descibes the goal of clustering analysis, and the second summarizes one of its difficulties.</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/Paris.png" alt="HTML5 Icon" style="width:500px;" />
+        <br />
+        Source: <i>How Paris Became Paris: The Invention of the Modern City</i> (p.136)
+        <br />
+        by Joan Elizabeth DeJean
+        <br />
+        
+    </a>
+</div>
+</center>
+
+<h5>I. Prologue: La Ville Lumière</h5>
+<p>Today, the city of Paris is referred to as <i>la Ville Lumière</i> (the City of Light) because of its role during <i>le Siècle des Lumières</i> (lit. the Century of Light, or the Age of Enlightenment). But it literally refers to, according to Wikipedia, the fact that Paris was one of the first European cities to adopt gas street lighting in the 1860s.</p>
+
+<p><br />
+However, after some further digging, the street lighting in Paris started with candles, rather than gas, dated back to as early as 1666, as according to the Oct. 29 issue of Gazette (by Charles Robinet), it said that “it is now as bright as night as at high noon.” Large candles, “designed to burn for eight to ten hours” putting in 2,736 lanterns composed of glass panels were used. This was initiated by Gabriel Nicolas de la Reynie and supported by Jean-Baptiste Colbert, minister to the King, and the King, Louis XIV, upon whose death in 1715 began the Age of Enlightenment. The introduction of street lighting turned Paris evening from darkness to brightness, and entailed (partially) the Enlightenment. It reminds me of clustering analysis, where the groups of observations are living in the darkness and are awaiting to be unvealed via fast and effective algorithms (affordable and durable candles).</p>
+
+<p><br />
+Hence, I shamelessly adopt the above as my prologue.</p>
+
+<h5>II. Definitions</h5>
+
+<p><img center="" src="http://latex.codecogs.com/gif.latex? \bold{X} = (X_1, X_2, \ldots, X_n)  " border="0" />, where <img center="" src="http://latex.codecogs.com/gif.latex? X_i, i = 1, 2, \ldots  " border="0" /> can be multidimensional, defines <b>data</b> on which a clustering analysis are to be implemented: For example, <img center="" src="http://latex.codecogs.com/gif.latex? X_i " border="0" /> can be vectorized connectivity matrix for subject <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" />.
+<br />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k " border="0" /> is a (clustering) algorithm that is applied on <img center="" src="http://latex.codecogs.com/gif.latex? \bold{X}  " border="0" /> and that renders <img center="" src="http://latex.codecogs.com/gif.latex? k " border="0" /> groups (clusters) <img center="" src="http://latex.codecogs.com/gif.latex? \bold{Y} = (Y_1, Y_2, \ldots, Y_n)  " border="0" />, where <img center="" src="http://latex.codecogs.com/gif.latex? Y_i \in \{1, 2, \ldots, k \}, i = 1, 2, \ldots  " border="0" /> Technically, <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k " border="0" /> is a map such that <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k: Y = \mathcal{A}_k (\bold{X}). " border="0" />
+<br />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex? \phi " border="0" /> is a classifier baded upon the above operation engendering <img center="" src="http://latex.codecogs.com/gif.latex? (\bold{X}, \bold{Y}) " border="0" />. In other words, <img center="" src="http://latex.codecogs.com/gif.latex? \phi (\cdot) = \phi_{\bold{X}, \bold{Y}} (\cdot). " border="0" /> In the case of simple linear regression, <img center="" src="http://latex.codecogs.com/gif.latex? \phi_{\bold{X}, \bold{Y}} = \hat{\beta} (\bold{X}, \bold{Y}) = (\bold{X}^{\prime}\bold{X})^{-1}\bold{X}^{\prime}\bold{Y}. " border="0" />
+<br />
+<br />
+The classifier <img center="" src="http://latex.codecogs.com/gif.latex? \phi " border="0" /> appllied to a new dataset <img center="" src="http://latex.codecogs.com/gif.latex? \bold{X}^{\prime} " border="0" />  will render clustering of <img center="" src="http://latex.codecogs.com/gif.latex? \bold{X}^{\prime} " border="0" /> <b>based upon <img center="" src="http://latex.codecogs.com/gif.latex? (\bold{X}, \bold{Y}) " border="0" /> </b>. The algorithm <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k " border="0" /> appllied to <img center="" src="http://latex.codecogs.com/gif.latex? \bold{X}^{\prime} " border="0" /> will generate clustering of <img center="" src="http://latex.codecogs.com/gif.latex? \bold{X}^{\prime} " border="0" /> (namely <img center="" src="http://latex.codecogs.com/gif.latex? \bold{Y}^{\prime} = \mathcal{A}_k (\bold{X}^{\prime}) " border="0" />) <b>based upon <img center="" src="http://latex.codecogs.com/gif.latex? \bold{X}^{\prime} " border="0" /></b>. <img center="" src="http://latex.codecogs.com/gif.latex? \phi(\bold{X}^{\prime}) " border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k (\bold{X}^{\prime}) " border="0" /> could be different. 
+<br />
+<br />
+Hence, we define the normalized Hamming distance to describe such a discrepancy:
+<img center="" src="http://latex.codecogs.com/gif.latex? d(\phi(\bold{X}^{\prime}), \mathcal{A}_k (\bold{X}^{\prime})) :=  \dfrac{1}{n}\sum_{i=1}^{n} 1_{\{ \phi(X_i^{\prime}) \neq \mathcal{A}_k (X_i^{\prime})\}} " border="0" />.
+<br />
+<br />
+But, incorrect discrepancy may be introduced as follows: for <img center="" src="http://latex.codecogs.com/gif.latex? k=2 " border="0" />, if one algorithm groups the first part all 1’s and the second part all 2’s, and another algorithm clusters the first part all 2’s and the second all 1’s, the two algorithms generate essentially the same result. To avoid this, define (see J. DeJean (2014))</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+d_{\mathcal{G}_k} (\phi(\bold{X}^{\prime}), \mathcal{A}_k (\bold{X}^{\prime})) := 
+\min_{\pi \in {\mathcal{G}_k}} 
+\dfrac{1}{n}
+\sum_{i=1}^{n} 1_{
+\bigg\{ \pi \big(\phi(X_i^{\prime})\big) \neq \mathcal{A}_k (X_i^{\prime}) 
+\bigg \}
+}
+" border="0" />,
+</center>
+<p>where <img center="" src="http://latex.codecogs.com/gif.latex? \pi " border="0" /> is a permutation operation.</p>
+
+<h5>III. Clustering Analysis</h5>
+
+<p>Clustering analysis, by definition, is to cluster observation (potentially of multiple dimensions) into groups, where the within-cluster members are more <i>similar</i> (in terms of distance, for example) than between-cluster members.
+<br />
+<br />
+There are many types of clustering algorithms (see <a href="https://arxiv.org/pdf/1205.1117v1.pdf"> Madhulatha (2012) </a>for a review, for example). Note that, in the high-dimensional cases, many algorithms are likely to fail due to the curse of dimensionality, and <a href="https://en.wikipedia.org/wiki/Clustering_high-dimensional_data">subspace clustering, correlation clustering and projected clustering</a> are alternatively considered.
+<br /> 
+<br />
+Here, we will take the k-means approach as an example. We use it because we like to visualize the steps (which is, in my opinion, helpful to gain a deeper understanding of equations and algorithms) and k-means is less cumbersome for us to delineate them pictorially step by step. 
+<br /> 
+<br />
+Hartigan (1975) introduced the k-means algorithm in detail. Four years later, the journal <i>Journal of the Royal Statistical Society (Series C)</i> published a number of useful and poweful statistical algorithms and included <a href="https://www.jstor.org/stable/2346830?seq=1#page_scan_tab_contents">Hartigan and Wong (1979)</a> as Algorithm 136. 
+<br /> 
+<br />
+To begin, we note that, in general, the k-means algorithm requires input of an <img center="" src="http://latex.codecogs.com/gif.latex? M \times N  " border="0" /> matrix, where M indicates M subjects and N indicates N variables. For example, in functional connectivity analysis, where, for each subject we have a connectivity matrix. Before data input, we, for instance, vectorize (the upper or lower triangular part of) the connectivity matrix into a vector of length N. Hence, we obtain the suitable input data matrix.
+<br /> 
+<br />
+The simple goal is to find a map <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k " border="0" /> so that the resulting partition <img center="" src="http://latex.codecogs.com/gif.latex?  Y = \mathcal{A}_k (\bold{X}) " border="0" />, where <img center="" src="http://latex.codecogs.com/gif.latex?  Y = \{1, 2, \cdots, K} " border="0" /> have K values. It is equivalent to say that Y corresponds to K partitions of the input data (<img center="" src="http://latex.codecogs.com/gif.latex?  \{G_1, G_2, \cdots, G_k} " border="0" />), where <img center="" src="http://latex.codecogs.com/gif.latex?  X_i  " border="0" /> (data from the 
+<img center="" src="http://latex.codecogs.com/gif.latex?  i^{th} " border="0" /> 
+subject) belongs to one of the <img center="" src="http://latex.codecogs.com/gif.latex?  G_j, " border="0" />’s (for <img center="" src="http://latex.codecogs.com/gif.latex?  j = 1, 2, \cdots, K " border="0" />). We further define <img center="" src="http://latex.codecogs.com/gif.latex?  N_j " border="0" /> as the number of points in <img center="" src="http://latex.codecogs.com/gif.latex?  G_j, " border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex?  d(X_i, G_j " border="0" /> as the (Euclidean) distance between data point (potentially multidimentional) <img center="" src="http://latex.codecogs.com/gif.latex?  X_i " border="0" /> and center of <img center="" src="http://latex.codecogs.com/gif.latex?  G_j, " border="0" />.
+<br /> 
+<br />
+The pictorial presentaton simplifies and visualizes (most) critical steps from Hartigan and Wong (1979),for N = 2 and K = 4.</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/k_means.jpg" alt="HTML5 Icon" style="width:500px;" />
+        <br />
+        Figure 1: Main Steps of the K-means Algorithm
+        <br />
+        Adapted from Hartigan and Wong (1979)
+    </a>
+</div>
+</center>
+
+<h5>IV. Stability Procedure of Clustering Analysis</h5>
+
+<p>Here, we outline the stability analysis procedure proposed by T. Lange et al (2004). See also <a href="https://en.wikipedia.org/wiki/Silhouette_(clustering)"><i>Silhouette</i></a> by Rousseeuw (1987).</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/Procedure.jpg" alt="HTML5 Icon" style="width:500px;" />
+        <br />
+        Figure 2: Main Steps of Stability Procedure
+        <br />
+        Adapted from Table 1. of T. Lange et al (2004)
+    </a>
+</div>
+</center>
+
+<h5>References:</h5>
+<p>[1] J. DeJean (2014) How Paris Became Paris: The Invention of the Modern City;
+<br />
+[2] T. Lange et al (2004) Stability-based validation of clustering solutions.
+<br />
+[3] P. J. Rousseeuw (1987). Silhouettes: a Graphical Aid to the Interpretation and Validation of Cluster Analysis. Computational and Applied Mathematics. 20: 53–65
+<br />
+[4] J. A. Hartigan. Clustering algorithms. 1975.
+<br />
+[5] J. A. Hartigan and M. A. Wong. 1979.</p>
 
 <hr />
 
-<!-- blog VII -->
-<h2>From Network Strength to <i>Effective</i> Network Strength</h2>
+<!-- Break -->
 
-<p>Last updated: July 24, 2016</p>
+<h2> An ICA by Any Other Name Would Smell as Sweet: Group ICA
+</h2>
+
+<p>Last updated: Nov 2, 2016</p>
 
 <div style="background-color:black; color:white; padding:20px;">
-<p>￼
+
+<p>￼What's in a name? that which we call a rose
 <br />
-You may say I'm a significant voxel, but I'm not the only one. I hope someday you'll join us. And the brain network will live as one.
-<br />
-<br />
-- Adapted from John Lennon's <i>Imagine</i>
-</p>
+By any other name would smell as sweet.</p>
+
+- <i>Romeo and Juliet</i>: II, ii, 1-2
 </div>
 
 <p><br />
-In this post, we shall propose a framework called the <i>effective</i> network strength, extending the definition of network strength introduced in the wonderful Nature Neuroscience paper by <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>. As a natural follow-up, we also define the <i>effective</i> network strength rate.</p>
+Please refresh your browser if you have trouble viewing the slides; alternatively, please view it <a href="http://www.brainmapping.org/NITP/images/Summer2011Slides/2011_UCLA_GroupICA.pdf">here</a>.</p>
+<center>
+<iframe src="http://docs.google.com/gview?url=http://www.brainmapping.org/NITP/images/Summer2011Slides/2011_UCLA_GroupICA.pdf&amp;embedded=true" style="width:500px; height:400px;" frameborder="0"></iframe>
+</center>
+<p><br /></p>
 
 <p><br />
-<b>1. Network strength</b></p>
+<strong>Further Reading</strong>
+<br />
+<br />
+Calhoun et al (2009). <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2651152/">A review of group ICA for fMRI data and ICA for joint inference of imaging, genetic, and ERP data</a>
+<br /></p>
 
-<p><br /> <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> introduced a neuromarker based on intrinsic whole-brain functional connectivity, the degree to which brain activity in distinct neural regions is correlated over time, and showed that functional brain networks strength during a sustained attention task predicted individual differences in performance.</p>
+<hr />
 
-<p><br /> To characterize participant’s degree of connectivity, <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> defined <i>network strength</i>, a single summary statistic, which is equivalent to a weighted degree measure for each network. Formally, let us define <img center="" src="http://latex.codecogs.com/gif.latex? S_k " border="0" />, as the <i>network strength</i> for subject <img center="" src="http://latex.codecogs.com/gif.latex? k " border="0" />. Then</p>
+<h2> On Rejections
+</h2>
+
+<p>Last updated: Oct 26, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼
+Success consists of going from failure to failure without loss of enthusiasm.</p>
+
+- Sir Winston Leonard Spencer-Churchill
+<br />
+
+</div>
+
+<p><br />
+Here are two fascinating resouces regarding rejections. <a href="http://bulletin.imstat.org/2013/08/1562/">Rejection Pursuit</a> is an article written by Xiao-Li MENG, Dean of Art of Science at Harvard, regarding a paper (now published) that had been rejected for a decade; and <a href="http://bsc.harvard.edu/files/bsc/files/bsc_pub_-_reflections_on_rejections_2nd_edition.pdf">Reflections on Rejections</a> includes short stories told by now established leaders in art, science, medicine, and law about their rejections - which have now been gathered into a course on rejections. All these remind me of countless rejections that I had received (and surely do foresee, now with a thankful heart, to have more).
+<br />
+<br />
+The readings have helped me a great deal; I hope they could help you, too. And
+<br />
+<br />
+<span style="background-color: lightgrey"> <i>Never give in, never give in, never, never, never, never.
+<br />
+<br />
+- Sir Winston Leonard Spencer-Churchill </i></span></p>
+
+<hr />
+
+<!-- blog XII -->
+
+<h2> Derivation of the Free Energy Principle
+</h2>
+
+<p>Last updated: Oct 14, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼Now go we in content
+<br />
+To liberty, and not to banishment.</p>
+
+- <i>As You Like It</i>: Act 1, Scene 3
+</div>
+
+<p><br />
+Below is a brief derivation of the Free Energy Principle (which shows that Eq (2) in  <a href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf ">Friston et al (2006) </a>) has a minor typo); excuse my ignorance, though, if this is simply my mistake.
+<br />
+<br />
+Let us begin by recalling the free energy as:</p>
 <center>
 <img center="" src="http://latex.codecogs.com/gif.latex?
-S_k = \sum_{i,j} \rho_{ij}^{(k)} I_{ijk},
+F(y, \lambda) = - \int q(v; \lambda) \ln \frac{p(y,v)}{q(v;\lambda)} dv
+" border="0" />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex?
+ = - \int q(v; \lambda) p(y,v) dv + \int q(v; \lambda) q(y,v) dv,   
 " border="0" />
 </center>
 <p><br />
-where <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} " border="0" /> is the <img center="" src="http://latex.codecogs.com/gif.latex? \{i,j\}^{\text{th}} " border="0" /> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation between node-specific time series); and <img center="" src="http://latex.codecogs.com/gif.latex? I_{ijk} = 1 " border="0" /> if <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} " border="0" /> follows a specific thresholding rule (e.g. <img center="" src="http://latex.codecogs.com/gif.latex? I_{ijk} = 1  " border="0" /> if <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} \geq 0.8 " border="0" />), and 0 otherwise.</p>
-
-<p><br />
-<b>2. <i> Effective</i> network strength</b></p>
-
-<p><br /> However, a hyperactive subject’s brain could be extremely active during both the resting state and the task state; hence the large correlaton coefficients between nodes that are extremely active during both resting and task states could overshadow the functional changes of other edges. For example, if for a subject there are 100 nodes that are highly correlated during both resting and task states with <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.99 " border="0" /> each (or without significant changes, say from <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.98 " border="0" /> to <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.99 " border="0" />), the change of other edges from 0.001 to 0.1 (despite statistically significant and plausiblly neurobiologically meaningful) would likely to be ignored if we are interested in the node-wise (thresholding) sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:</p>
-
+which gives Eq (1) in <a href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf ">Friston et al (2006) </a>).
+<br />
+<br />
+Keeping writing, we have</p>
 <center>
 <img center="" src="http://latex.codecogs.com/gif.latex?
-S_k^{eff} = E(S_k \vert X_k = 1) - E (S_k \vert X_k=0),
+\bigg\{ 
+- \int q(v; \lambda) \ln p(v|y)p(y) dv + 
+\int q(v; \lambda) \ln q(v;\lambda) dv
+\bigg \}
 " border="0" />
-</center>
-<p><br /> where <img center="" src="http://latex.codecogs.com/gif.latex? X_k = 1 " border="0" /> refer to the task state, and <img center="" src="http://latex.codecogs.com/gif.latex? S_k = 0 " border="0" /> refer to the resting state.</p>
-
-<p><br />
-<i>Effective</i> network strength describes the average change in network strength due to a change in experimental status. It is experimental dependent; and for numerical tasks, it could be written as <img center="" src="http://latex.codecogs.com/gif.latex? X_k = x " border="0" />, for some task level <img center="" src="http://latex.codecogs.com/gif.latex? x " border="0" />.</p>
-
-<p><br />
-As you may have realised, the idea of <i>effective</i> network strength was inspired by <i>effective connectivity</i><a href="http://www.fil.ion.ucl.ac.uk/~karl/Functional%20and%20Effective%20Connectivity%20A%20Review.pdf "> (Friston (2011)</a> and <a href="https://www.researchgate.net/publication/239953112_Dynamics_of_activity_and_connectivity_in_physiological_neuronal_networks ">Aertsen and Preißl (1991)</a>). Nonetheless, <i>effective connectivity</i> regards the effect one neuron has on another and is time dependet, whereas <i>effective</i> network strength is time-independent as when taking the connectivity matrix, the time is averaged out.</p>
-
-<p><br />
-<b>3. Network strength with multiple inputs </b></p>
-
-<p><br />
-What if we have more than one tasks? And what if are interested in <i>effective</i> network strength between male and female, or between different age groups? To address these interesting questions, we define the conditional network strength on different inputs.</p>
-
-<center>
+<br />
 <img center="" src="http://latex.codecogs.com/gif.latex?
-S (\boldsymbol{x}) = S (X_1 = x_1, X_2 = x_2, \cdots, X_n = x_n)
+ = \bigg\{
+- \int q(v; \lambda) \ln p(v|y) dv 
+- \int q(v; \lambda) \ln p(y) dv 
+ \bigg \}
+ + \int q (v;\lambda) \ln q(v;\lambda) dv  
 " border="0" />
-</center>
-<p><br />
-where <img center="" src="http://latex.codecogs.com/gif.latex? X_i " border="0" />’s define tasks, and <img center="" src="http://latex.codecogs.com/gif.latex? x_i " border="0" /> is its realization.</p>
-
-<p><br /> For example, <img center="" src="http://latex.codecogs.com/gif.latex? S(\text{treatment} = 1, \text{gender} = 1) " border="0" /> defines network strength under a task for male (gender = 1); and 
-<img center="" src="http://latex.codecogs.com/gif.latex? \{S_{gender}^{eff} \vert \text{treatment} = 1 \} = E(S \vert \text{gender} = 1, \text{treatment} = 1) - E (S \vert \text{gender} = 0, \text{treatment} = 1), " border="0" /> defines the gender effect on <i>effective</i> network strength conditioning on treatment.</p>
-
-<p><br />
-<b>4. <i> Effective</i> network strength rate</b></p>
-
-<p><br />
-Once we have defined the <i>effective</i> network strength, it is natural to define the <i> effective</i> network strength rate: the change (note: could be decrease) of network strength per unit treatment increase.</p>
-
-<center>
+<br />
 <img center="" src="http://latex.codecogs.com/gif.latex?
-\nabla = \frac{\Delta S}{\Delta \boldsymbol{x}} = \frac{S(\boldsymbol{x} + \Delta \boldsymbol{x}) - S (\boldsymbol{x})}{\Delta \boldsymbol{x}} 
+ = \bigg\{
+- \int q(v; \lambda) \ln p(v|y) dv 
+- \int q(v; \lambda) \ln p(y) dv 
+ \bigg \}
+ + D \bigg(
+q(v;\lambda) \parallel p(v|y)
+ \bigg)  
+ + \int q(v; \lambda) \ln p(v|y) dv
+" border="0" />
+<br />
+<img center="" src="http://latex.codecogs.com/gif.latex?
+ =
+- \int q(v; \lambda) \ln p(y) dv 
+ 
+ + D \bigg(
+q(v;\lambda) \parallel p(v|y)
+ \bigg),
 " border="0" />
 </center>
 <p><br />
-Certainly, when the task is multidimensional <img center="" src="http://latex.codecogs.com/gif.latex? \boldsymbol{X} = \boldsymbol{x} = (x_1, \cdots, x_n) " border="0" />, the <i>effective</i> network strength rate could be specified at every task direction, namely
-<img center="" src="http://latex.codecogs.com/gif.latex? \nabla = \bigg( \frac{\partial}{\partial x_1}, \cdots, \frac{\partial}{\partial x_n} \bigg) " border="0" />.</p>
+which gives Eq (2) in <a href="http://www.fil.ion.ucl.ac.uk/~karl/A%20free%20energy%20principle%20for%20the%20brain.pdf ">Friston et al (2006) </a>), wherein the first term slightly differ.</p>
 
-<!-- http://economics.mit.edu/files/32 -->
+<hr />
+
+<!-- blog XI -->
+
+<h2> Predictive Functional Connectivity 
+</h2>
+
+<p>Last updated: Oct 13, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+
+<p>￼An unsophisticated forecaster uses statistics as a drunken man uses lamp-posts - for support rather than for illumination.</p>
+
+– Andrew Lang <br />
+<br />
+
+<p>What is creative is the seeking of perfection - and not attaining it.</p>
+
+- Semir Zeki 
+</div>
+
+<h5>1.1 Vector Autoregressive(VAR) Process</h5>
+
+<p>Consider <img center="" src="http://latex.codecogs.com/gif.latex? \{ \mathbf{X}_i \in \mathbb{R}^d \}_{i \in \mathbb{Z}} " border="0" /> as a stationalry process satisfying the VAR model:</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\mathbf{X}_i = \mathbf{A} \mathbf{X}_{i-1} + \mathbf{\epsilon}_i, \forall i \in \mathbb{R},
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? \{ \mathbf{\epsilon}_i \in \mathbb{R}^d \}_{i \in \mathbb{Z}} " border="0" /> is a sequence of i.i.d. random vectors.</p>
+
+<h5>1.2 <img center="" src="http://latex.codecogs.com/gif.latex?
+\alpha
+" border="0" />-mixing Process</h5>
+
+<p>Definition (Richard C. Bradley (2015s)). Let <img center="" src="http://latex.codecogs.com/gif.latex? (\Omega, \mathcal{F}, \mathbb{P}) " border="0" /> be a <i>probability space</i> and <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}, \mathcal{B} " border="0" /> be two <img center="" src="http://latex.codecogs.com/gif.latex? \sigma " border="0" />-fields. The <img center="" src="http://latex.codecogs.com/gif.latex? \alpha " border="0" /> dependency measure is defined as follows.</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\alpha(\mathcal{A}, \mathcal{B}): = \sup _{A \in \mathcal{A}, B \in \mathcal{B}}
+\left\vert
+\mathbb{P} (A \cap B) - \mathbb{P}(A) \mathbb{P}(B)
+\right \vert
+" border="0" />
+    </center>
+
+<p>Let <img center="" src="http://latex.codecogs.com/gif.latex? \{ \mathbf{X}_i \} _{i \in \mathbb{Z}} " border="0" /> be a <i>stochastic process</i>. For <img center="" src="http://latex.codecogs.com/gif.latex? -\infty \leq M \leq N \leq \infty " border="0" />, define <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{F}_ " border="0" />, define <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{F}_M^N := \sigma \{  \mathbf{X}_i: N \leq i \leq M, i \in \mathbb{R}    \} " border="0" /> as a sigma-field generated by <img center="" src="http://latex.codecogs.com/gif.latex? \{\mathbf{X}_i: N \leq i \leq M, i \in \mathbb{R} \} " border="0" />. For any <img center="" src="http://latex.codecogs.com/gif.latex? i \geq 1 " border="0" />, we define the <img center="" src="http://latex.codecogs.com/gif.latex? \alpha " border="0" />-mixing coefficients as</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\alpha(i) := \sup_{m \in \mathbb{Z}} \alpha \big( \mathcal{F}_{-\infty}^m, \mathcal{F}_{m+i}^\infty \big).
+" border="0" />
+</center>
+
+<p><br /> The process <img center="" src="http://latex.codecogs.com/gif.latex? \{ \mathbf{X}_i \} _{i \in \mathbb{Z}} " border="0" /> is <img center="" src="http://latex.codecogs.com/gif.latex? \alpha " border="0" />-mixing <i>if and only if </i> <img center="" src="http://latex.codecogs.com/gif.latex? \lim_{i \rightarrow \infty} \alpha(i) = 0 " border="0" />.</p>
+
+<h5>1.3 Weak Dependence</h5>
+
+<h5>1.4 Physical Dependence</h5>
+
+<h5>1.5 Stochastic Matrix</h5>
+
+<p><strong>Reference</strong>
+<br />
+<br />
+[1] Hafner, C. M. and Herwartz, H. (2009) Testing for linear vector autoregressive dynamics under multivariate generalized autoregressive heteroskedasticity, Statistica Neerlandica, 63: 294-323
+<br />
+[2] Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton.
+<br />
+[3] Lütkepohl, H. (2006), New Introduction to Multiple Time Series Analysis, Springer, New York.
+<br />
+[4] Andersen, T. G. (2009), Handbook of Financial Time Series. Springer.
+<br />
+[5] Qiu H. (2015), Robust Estimation of Transition Matrices in High Dimensional Heavy-tailed Vector Autoregressive Processes.</p>
+
+<hr />
+
+<!--
+<br>
+[5] Qiu H. (2014), Robust Portfolio Optimization under High Dimensional
+Heavy-tailed Time Series;
+-->
+
+<!-- blog VIII -->
+
+<!--
+<h2>Mediation Analysis on Animal Models</h2>
+
+Last updated: Aug 3, 2016
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+<br>
+The cat will mew and dog will have his day.
+<br>
+<br>
+- <i>Hamlet</i>: Act 5, Scene 1
+</p>
+</div>
+
+<br>
+XXX
+
+<hr>
+
+-->
+
+<!-- blog X -->
+
+<h2>The Crisis of Big Science</h2>
+
+<p>Last updated: September 5, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+<br />
+<br />
+- Albert Einstein
+</div>
+
+<p><br />
+<strong>Disclaimer:</strong> I do not know anything about Physics; but the discussion below is interesting and could generate helpful discussion with regards to general Science.</p>
+
+<p><br />
+<b>A Discussion over the Proposed Chinese Circular Electron Positron Collider (CEPC) Project</b></p>
+
+<p><br />
+Currently, there is a warm discussion (<a href="/files/doc/Chinese_Original.pdf"><font color="blue">Chinese original</font></a>, <a href="/files/doc/Translate_Yang_Yau.pdf"><font color="blue">Google English translation</font></a>) between Nobel laureate Chen-Ning Yang and Fields medalist Shing-Tung Yau regarding building the <a href="https://en.wikipedia.org/wiki/Circular_Electron_Positron_Collider">Circular Electron Positron Collider (CEPC)</a>.</p>
+
+<p><br />
+<b>A Discussion over the Cancelled American Superconducting Super Collider (SSC) Project</b></p>
+
+<p><br />
+<a href="http://www.nybooks.com/articles/2012/05/10/crisis-big-science/ "><font color="blue">Here</font></a> is an article (2012) titled <i>The Crisis of Big Science</i> by Nobel laureate Steven Weinberg regarding a similar, yet cancelled, project, <a href="https://en.wikipedia.org/wiki/Superconducting_Super_Collider">Superconducting Super Collider (SSC) project</a>.</p>
+
+<hr />
+
+<!-- blog VIII -->
+
+<h2>Multidimensional Scaling</h2>
+
+<p>Last updated: September 5, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+There is, it seems to us,
+<br /> 
+At best, only a limited value
+<br />
+In the knowledge derived from experience.
+<br />
+The knowledge imposes a pattern, and falsifies,
+<br />
+For the pattern is new in every moment
+<br />
+And every moment is a new and shocking
+<br />
+
+Valuation of all we have been. 
+<br />
+<br />
+- T.S. Eliot, <i>East Coker</i>, <i>The Four Quartets</i>
+</div>
+
+<p><br />
+The idea of multidimensional scaling (MDS) is not new. I am revisiting it; and thought it would be fun to summarize it.</p>
+
+<p><br /> <strong>MDS in a one sentence</strong>
+<br />
+<br />
+Given a <img center="" src="http://latex.codecogs.com/gif.latex? n \times p " border="0" /> data matrix with <img center="" src="http://latex.codecogs.com/gif.latex? n \times n " border="0" /> distance (similarity or disimilarity) matrix, we aim to find a <img center="" src="http://latex.codecogs.com/gif.latex? n \times k " border="0" /> (where <img center="" src="http://latex.codecogs.com/gif.latex? k " border="0" /> can be 2, 3, etc.) map matrix that preserves nearly the same distance information as the distance matrix.</p>
+
+<p><br /> <strong>MDS in a nutshell</strong></p>
+
+<p><br />
+We here focus on the MDS in the <i>classical</i> sense, where the distance on the MDS map is of the same metric as the original distance (similarity) matrix. Alternatively, MDS could be ordinal or non-metric (see references below for more detail).</p>
+
+<p><br />
+One role statistics has is to allow data reduction to make convenient and succinct inference and conclusion in face of large quantity of data. An convenient and succinct approach to describe how similar or (dissimilar) two objects are is to define a distance (e.g. Euclidean) between them; when we have more than two objects, we can store these distances in a similar (or dissimilar) matrix. A natural follow-up question is why is an object more similar (or dissimilar) to one object than another? For objects with obvious distance metrics (e.g. cities with certain distance from one another), we can plot the distance on a distance map (e.g. in 2D case we could have the x-axis revealing west-east orientation while the y-axis indicating north-south information). What, however, about human faces, that have few descriptive distances (quantitative features) available? This is when the MDS becomes powerful. It transforms the similar (or dissimilar) matrix into a new feature matrix where each dimension (though possibly indescribable) presents an underlying feature.</p>
+
+<p><br /> <strong>Caveats</strong></p>
+
+<p><br />
+The term “multi” in MDS indicates that the feature dimension could be more than two or three (though it would be hard to plot when the dimension is greater than 3). The feature could be ambiguous. It allows us to choose how many underlying features we want; and allows us to choose a small numbwer of features that represent the distances well.</p>
+
+<p><br /> 
+Formally, let <img center="" src="http://latex.codecogs.com/gif.latex? X " border="0" /> of <img center="" src="http://latex.codecogs.com/gif.latex? n \times p " border="0" /> be the input data with <img center="" src="http://latex.codecogs.com/gif.latex? n " border="0" /> subject and <img center="" src="http://latex.codecogs.com/gif.latex? p  " border="0" /> variables; then one can compute a similarity (or disimilarity) matrix <img center="" src="http://latex.codecogs.com/gif.latex? \Delta = \{ \delta_{ij} \} {1 \leq i, j \leq n} " border="0" />; Finally, the MDS matrix of <img center="" src="http://latex.codecogs.com/gif.latex? D = \{ d_{ik} \} {1 \leq i \leq n, 1 \leq k \leq K} " border="0" /> such that
+<img center="" src="http://latex.codecogs.com/gif.latex? \parallel d_i - d_j \parallel \approximate \delta_{ij} " border="0" />, for <img center="" src="http://latex.codecogs.com/gif.latex? 1 \leq i, j \leq I  " border="0" />. Practically, we find</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\hat{d}_1, \ldot, \hat{d}_I = \arg\min _{d_1, \ldot, d_I} \bigg (
+\parallel d_i - d_j
+\parallel  
+- \delta_{ij}
+\bigg)^2 
+" border="0" />.
+</center>
+
+<p><br /> <strong>Goodness of fit</strong></p>
+
+<p><br />
+We use the <i>stress</i> to measure the goodness of fit</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+S:= \sqrt{
+    \frac{\sum_{i&lt;j} (d_{ij} - \delta_{ij})^2}
+    {\sum_{i&lt;j}d_{ij}^2}
+}
+" border="0" />,
+</center>
+<p><br />
+where, if <img center="" src="http://latex.codecogs.com/gif.latex? S " border="0" /> is close to 0 indicates values of MDS (<img center="" src="http://latex.codecogs.com/gif.latex? \delta_{ij} " border="0" />) are fitting well to the original distances (<img center="" src="http://latex.codecogs.com/gif.latex? d_{ij} " border="0" />).</p>
+
+<p><br />
+References:
+<br />
+<br />
+[0] <font color="blue">Theory</font>: Jan de Leeuw and Willem Heiser (1982) <a href="/files/doc/MDS_Tech.pdf">Theory of Multidimensional Scaling </a>.
+<br />
+[1] <font color="blue">Review</font>: Kruskal, J.B. and M. Wish. 1978. <a href="/files/doc/MDS_Theory.pdf">A Review of Multidimensional Scaling (MDS)
+and its Utility in Various Psychological Domains</a>.
+<br />
+[2] <font color="blue">Introduction</font>: Florian Wickelmaier. 2003. <a href="/files/doc/MDS_Intro.pdf">An Introduction to MDS</a>.
+<br />
+[3] <font color="blue">Application (a)</font>: Moore, Rod 1990. “Ethnographic assessment of pain coping perceptions.” Psychosomatic Medicine 52:171-181.
+<br />
+[4] <font color="blue">Application (b)</font>: Blank &amp; Mattes “Sugar and Spice: Similarities and Sensory Attributes” Nursing Research 39(5):290-293.
+<br />
+[5] <font color="blue">Application (c)</font>: Wexler &amp; Romney. 1972. “Individual Variations in cognitive structures.” in Romney, Shepard &amp; Nerlove eds. Multidimensional Scaling: Theory and Applications in the behavioral sciences, Vol II. Seminar Press.
+<br />
+[6] <font color="blue">Codes</font>: <a href="http://www.statmethods.net/advstats/mds.html">Quick R</a>.</p>
+<hr />
+
+<!-- blog VIII -->
+<h2>Imaging Process Techniques in Neuroimaging </h2>
+
+<p>Last updated: August 28, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+If I paint a wild horse, you might not see the horse; but surely you will see the wildness.
+<br />
+<br />
+- Pablo Picasso
+</div>
+
+<p><br />
+<b>Neural Painting</b></p>
+
+<p><br />
+Many of you have used software (e.g. <a href="https://www.instagram.com/?hl=en">Instagram</a>) to adjust or enhance your photoes, and a variety of <a href="https://itunes.apple.com/us/app/autopainter-3/id526292251?mt=8">apps</a> that converts photos into ones that resmeble different art styles such as watercolor and oil, or bear artistical styles such as impressionist paintings); some of you may even heard of neural painting that uses deep learning algorithms to convert any image to a painting that bears a particular painter’s artistic style (see an illustration below), based on <a href="http://arxiv.org/pdf/1508.06576v1.pdf">(Gatys et al, 2015)</a>. There are yet released codes from the paper; we can, however, following the steps on <a href="http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/"> this site</a> (by Andre Infante) to creat such images ourselves; or by sending a source image and style image to <a href="https://twitter.com/DeepForger"> the Deep Forger bot</a> to get an transformed image.</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/Eiffel.jpg" alt="HTML5 Icon" style="width:750px;" />
+        <br />
+        
+    </a>
+</div>
+</center>
+<p>From left to right are: source image (Eiffel Tower), image of desired artistic style (<i>Starry Night Over the Rhone</i> (aka the other Starry Night) by van Gogh, 1888, oil on canvas), and the output image. (Image credit: <a href="http://www.makeuseof.com/tag/create-neural-paintings-deepstyle-ubuntu/">Andre Infante</a>)</p>
+
+<p><br />
+<b>Imaging Process</b></p>
+
+<p><br />
+While I do not have much experience in this, I am extremely interested in exploring potentials of it, and have gathered some helpful resource (please refer to the <i>further reading</i> section below) that I would like to share with readers interested in this.</p>
+
+<p><br />
+In general, imaging process can be summarized in to the folowing procedures: (1) represent images in image formats (we could think of this as storing image as a cluster of pixels each of which has an intensity); (2) apply image filters (e.g. such as  <a href="http://pippin.gimp.org/image_processing/chap_point.html">point operations</a>, <a href="http://pippin.gimp.org/image_processing/chap_area.html">area operations</a>, and <a href="http://pippin.gimp.org/image_processing/chapter-automaticadjustments.html">automatic color adjustments</a>) (we could think of this as using a variety of transformations to adjust orientation, contrast, brightness, etc); (3) other cosmatic procedures (such as denoise and “dark frame” subtraction, namely to fix bad pixels), and (4) conduct <a href="https://en.wikipedia.org/wiki/Image_analysis">image analysis</a> (such as object recognition, segmentation, motion detection, and video tracking).</p>
+
+<p><br />
+Here, let us consider an example in 2D to delineate a simple case.</p>
+
+<p><br /> First, let us script an image from <a href="http://www.estherhonig.com/">Esther Honig</a>, a journalist who did a famous <a href="https://www.buzzfeed.com/ashleyperez/global-beauty-standards?utm_term=.uaoA6LR7kE#.gnNa7BY415">study</a> to present how standards of beauty differ across various cultures. <a href="https://img.buzzfeed.com/buzzfeed-static/static/2014-06/25/13/enhanced/webdr07/original-27318-1403716130-3.jpg?no-auto">This</a> is the image we consider here. Second, we add <img center="" src="http://latex.codecogs.com/gif.latex? n \times m " border="0" /> <img center="" src="http://latex.codecogs.com/gif.latex? N(5,2) " border="0" /> noise to pixels (see image in the left below). Finally, we apply wavelet transform to obtain the process image (see image in the right below).</p>
+
+<p><br />
+<a href="/files/doc/Face.R"><strong><font color="blue">Here</font></strong></a> is the R code.</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/Fig_1.jpeg" alt="HTML5 Icon" style="width:300px;" />
+    </a>
+    <img src="/images/Fig_2.jpeg" alt="HTML5 Icon" style="width:300px;" />
+    <figcaption>Fig 1. Left: Noisy Image; Right: Processed image</figcaption>
+</div>
+</center>
+
+<p><br /></p>
+
+<p><br />
+<b>Further Reading</b></p>
+
+<p><br />
+Readers interested in the nitty-gritties could refer to resouces below.</p>
+
+<p><br />
+[1] <a href="http://pippin.gimp.org/image_processing/">An Introduction to Pixel Molding (Øyvind Kolås) </a>. The notes are written in accordance with the <i>Gluas</i> app written in <i>Lua</i> scripting language; codes, however, are provided so they can be easily modified to cope with <i>R</i>, <i>Matlab</i>, etc. 
+<br /> 
+[2]<a href="https://archive.org/details/Lectures_on_Image_Processing ">Lectures on Image Processing (Alan Peters, 2016) </a>.
+<br />
+[3] <a href="http://www.disi.unige.it/person/RovettaS/rad/image-processing-wikipedia-book.pdf">Image Process</a>.
+<br />
+[4] <a href="http://www.math.ucla.edu/~lvese/155.1.09w/PCMI_USS_2010/Lectures.pdf">An Introduction to Mathematical Image Processing (Luminita Vese, 2010) </a>.
+<br /> 
+[5] <a href="http://www.dfstudios.co.uk/articles/programming/image-programming-algorithms/">Image Programming Algorithms (Francis Loch) </a>.
+<br /> 
+[6] <a href="http://www.ipol.im/">Journal of Image Processing Online </a>.</p>
 
 <hr />
 
 <!-- blog VII -->
+
 <h2>On Intuition: A <i>Bayesian</i> View </h2>
 
-<p>Last updated: July 22, 2016</p>
+<p>Last updated: August 18, 2016</p>
 
 <div style="background-color:black; color:white; padding:20px;">
 <p>￼
@@ -595,6 +943,183 @@ Professor Zeki and I would like to encourage discussion and comments. One questi
 
 <p><br /> 
 Further interested readers on these topics could refer to <a href="https://en.wikipedia.org/wiki/Semir_Zeki">Professor Semir Zeki</a>’s books: <a href="http://www.goodreads.com/book/show/1120066.A_Vision_of_the_Brain ">A Vision of the Brain</a>, <a href="https://www.amazon.com/Inner-Vision-Exploration-Art-Brain/dp/0198505191 ">Inner Vision: an exploration of art and the brain</a>, <a href="http://www.wiley.com/WileyCDA/WileyTitle/productCd-1405185589.html ">Splendors and Miseries of the Brain</a>, and <a href="https://www.amazon.fr/Balthus-Qu%C3%AAte-lessentiel-Entretiens-S%C3%A9mir/dp/2251440453 ">Balthus ou la quête de l’essentiel</a>, and <a href="http://www.ibs.it/code/9788842093909/lumer-ludovica/bella-bestia:-arte.html ">La bella e la bestia: arte e neuroscienze</a>.</p>
+
+<hr />
+
+<h2>Time Series Analysis in Neuroscience</h2>
+
+<p>Last updated: August 10, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+<br />
+If you can look into the seeds of time
+
+<br />
+And say which grain will grow and which will not,
+
+<br />
+Speak, then, to me, who neither beg nor fear
+
+<br />
+Your favors nor your hate.
+<br />
+<br />
+- <i>Macbeth</i> act 1, sc. 3
+</p>
+</div>
+
+<p><br />
+I have spent the past two weeks on the road and air, with intermittent internet access. While having not had the opportunity to keep up what is happening around the world, I had the fortune to re-read Professor <a href="http://www.stat.columbia.edu/~rdavis/">Richard Davis</a>’s wonderful book on <a href="http://www.shsu.edu/sms049/Introduction%20Time%20Series%20and%20Forecasting_Brockwell&amp;Davis.pdf">time series and forecasting</a> on the go. While the book is quite long (400+ pages), I have started to summarize and organize a few (subjective) key elements from the book for future reference. If you are starting to learn time series, I <i>personally</i> think the note might give you a succinct summary of the models used. You can find them <a href="/files/doc/TS.pdf"><strong><font color="blue">here</font></strong></a>. (I will update it regularly). Certainly, the more times I read a book, the more unknowns I found. If you have any recommendation or critism regarding the note, or want the latex file so you can edit it yourself, <a href="mailto:olivery.chen@yahoo.com?Subject=fMRI%20code" target="_top">please let me know</a>.</p>
+
+<p><br /> 
+The reason I started to re-read the book was (besides having no internet on the go) that time series analysis is very useful in studying brain data on the time and spectral domain. <a href="http://hombao.ics.uci.edu/Day1-Overview.pdf ">Here</a> is an overview by Professor Hernando Ombao; and Professor Tohru Ozaki has a book called <a href="https://www.crcpress.com/Time-Series-Modeling-of-Neuroscience-Data/Ozaki/p/book/9781420094602">Time series modeling of neuroscience data</a>.</p>
+
+<p><br />
+My friend Huitong has written two very beautiful papers (see [6] and [7] below) on high dimensional heavy-tailed time series (which I have little knowledge of, but we had some discussion upon this topic and the potential of extending them in studying “causality” between different brain regions). I have the papers and some interesting references listed below.</p>
+
+<p><br />
+[1] Granger, C. W. J. (1969), Investigating causal relations by econometric models and cross-spectral methods, Econometrica, 37: 424-438.</p>
+
+<p><br />
+[2] Hafner, C. M. and Herwartz, H. (2009) Testing for linear vector autoregressive dynamics under multivariate generalized autoregressive heteroskedasticity, Statistica Neerlandica, 63: 294-323</p>
+
+<p><br />
+[3] Hamilton, J. (1994), Time Series Analysis, Princeton University Press, Princeton.</p>
+
+<p><br />
+[4] Lütkepohl, H. (2006), New Introduction to Multiple Time Series Analysis, Springer, New York.</p>
+
+<p><br />
+[5] Andersen, T. G. (2009), Handbook of Financial Time Series. Springer.</p>
+
+<p><br />
+[6] Qiu H. (2014), Robust Portfolio Optimization under High Dimensional
+Heavy-tailed Time Series;</p>
+
+<p><br />
+[7] Qiu H. (2015), Robust Estimation of High Dimensional Heavy-tailed Vector Autoregressive Processes.</p>
+
+<hr />
+
+<!-- blog VII -->
+<h2>From Network Strength to <i>Effective</i> Network Strength</h2>
+
+<p>Last updated: July 28, 2016</p>
+
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+<br />
+You may say I'm a significant voxel, but I'm not the only one. I hope someday you'll join us. And the brain network will live as one.
+<br />
+<br />
+- Adapted from John Lennon's <i>Imagine</i>
+</p>
+</div>
+
+<p><br />
+In this post, we shall propose a framework called the <i>effective</i> network strength, extending the definition of network strength introduced in the wonderful Nature Neuroscience paper by <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>. As a natural follow-up, we also define the <i>effective</i> network strength rate.</p>
+
+<p><br />
+<b>1. Network strength</b></p>
+
+<p><br /> <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> introduced a neuromarker based on intrinsic whole-brain functional connectivity, the degree to which brain activity in distinct neural regions is correlated over time, and showed that functional brain networks strength during a sustained attention task predicted individual differences in performance.</p>
+
+<p><br /> To characterize participant’s degree of connectivity, <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a> defined <i>network strength</i>, a single summary statistic, which is equivalent to a weighted degree measure for each network. Formally, let us define <img center="" src="http://latex.codecogs.com/gif.latex? S_k " border="0" />, as the <i>network strength</i> for subject <img center="" src="http://latex.codecogs.com/gif.latex? k " border="0" />. Then</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+S_k = \sum_{i,j} \rho_{ij}^{(k)} I_{ijk},
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} " border="0" /> is the <img center="" src="http://latex.codecogs.com/gif.latex? \{i,j\}^{\text{th}} " border="0" /> entry of the connectivity matrix (here the connectivity matrix is computed by taking the node-wise correlation between node-specific time series); and <img center="" src="http://latex.codecogs.com/gif.latex? I_{ijk} = 1 " border="0" /> if <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} " border="0" /> follows a specific thresholding rule (e.g. <img center="" src="http://latex.codecogs.com/gif.latex? I_{ijk} = 1  " border="0" /> if <img center="" src="http://latex.codecogs.com/gif.latex?  \rho_{ij}^{(k)} \geq 0.8 " border="0" />), and 0 otherwise.</p>
+
+<p><br />
+<b>2. <i> Effective</i> network strength</b></p>
+
+<p><br /> However, a hyperactive subject’s brain could be extremely active during both the resting state and the task state; hence the large correlaton coefficients between nodes that are extremely active during both resting and task states could overshadow the functional changes of other edges. For example, if for a subject there are 100 nodes that are highly correlated during both resting and task states with <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.99 " border="0" /> each (or without significant changes, say from <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.98 " border="0" /> to <img center="" src="http://latex.codecogs.com/gif.latex?  \rho = 0.99 " border="0" />), the change of other edges from 0.001 to 0.1 (despite statistically significant and plausiblly neurobiologically meaningful) would likely to be ignored if we are interested in the node-wise (thresholding) sum (as in <a href="http://www.nature.com/doifinder/10.1038/nn.4179">Rosenberg et al (2016)</a>). Therefore, we propose the definition of <i>effective</i> network strength as follows:</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+S_k^{eff} = E(S_k \vert X_k = 1) - E (S_k \vert X_k=0),
+" border="0" />
+</center>
+<p><br /> where <img center="" src="http://latex.codecogs.com/gif.latex? X_k = 1 " border="0" /> refer to the task state, and <img center="" src="http://latex.codecogs.com/gif.latex? S_k = 0 " border="0" /> refer to the resting state.</p>
+
+<p><br />
+<i>Effective</i> network strength describes the average change in network strength due to a change in experimental status. It is experimental dependent; and for numerical tasks, it could be written as <img center="" src="http://latex.codecogs.com/gif.latex? X_k = x " border="0" />, for some task level <img center="" src="http://latex.codecogs.com/gif.latex? x " border="0" />.</p>
+
+<p><br />
+As you may have realised, the idea of <i>effective</i> network strength was inspired by <i>effective connectivity</i><a href="http://www.fil.ion.ucl.ac.uk/~karl/Functional%20and%20Effective%20Connectivity%20A%20Review.pdf "> (Friston (2011)</a> and <a href="https://www.researchgate.net/publication/239953112_Dynamics_of_activity_and_connectivity_in_physiological_neuronal_networks ">Aertsen and Preißl (1991)</a>). Nonetheless, <i>effective connectivity</i> regards the effect one neuron has on another and is time dependet, whereas <i>effective</i> network strength is time-independent as when taking the connectivity matrix, the time is averaged out.</p>
+
+<p><br />
+<b>3. Network strength with multiple inputs </b></p>
+
+<p><br />
+What if we have more than one tasks? And what if are interested in <i>effective</i> network strength between male and female, or between different age groups? To address these interesting questions, we define the conditional network strength on different inputs.</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+S (\boldsymbol{x}) = S (X_1 = x_1, X_2 = x_2, \cdots, X_n = x_n)
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? X_i " border="0" />’s define tasks, and <img center="" src="http://latex.codecogs.com/gif.latex? x_i " border="0" /> is its realization.</p>
+
+<p><br /> For example, <img center="" src="http://latex.codecogs.com/gif.latex? S(\text{treatment} = 1, \text{gender} = 1) " border="0" /> defines network strength under a task for male (gender = 1); and 
+<img center="" src="http://latex.codecogs.com/gif.latex? \{S_{gender}^{eff} \vert \text{treatment} = 1 \} = E(S \vert \text{gender} = 1, \text{treatment} = 1) - E (S \vert \text{gender} = 0, \text{treatment} = 1), " border="0" /> defines the gender effect on <i>effective</i> network strength conditioning on treatment.</p>
+
+<p><br />
+<b>4. <i> Effective</i> network strength rate</b></p>
+
+<p><br />
+Once we have defined the <i>effective</i> network strength, it is natural to define the <i> effective</i> network strength rate: the change (note: could be decrease) of network strength per unit treatment increase.</p>
+
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+\nabla = \frac{\Delta S}{\Delta \boldsymbol{x}} = \frac{S(\boldsymbol{x} + \Delta \boldsymbol{x}) - S (\boldsymbol{x})}{\Delta \boldsymbol{x}} 
+" border="0" />
+</center>
+<p><br />
+Certainly, when the task is multidimensional <img center="" src="http://latex.codecogs.com/gif.latex? \boldsymbol{X} = \boldsymbol{x} = (x_1, \cdots, x_n) " border="0" />, the <i>effective</i> network strength rate could be specified at every task direction, namely
+<img center="" src="http://latex.codecogs.com/gif.latex? \nabla = \bigg( \frac{\partial}{\partial x_1}, \cdots, \frac{\partial}{\partial x_n} \bigg) " border="0" />.</p>
+
+<p><br /> 
+<b>5. Network Strength in a <i>Boltzmann</i> Machine Global Energy Sense</b></p>
+
+<p><br />
+<span style="background-color: lightgrey"> <i>The energy of the mind is the essence of life. 
+<br />
+<br />
+- Aristotle </i></span></p>
+
+<p><br />
+The global energy in a Boltzmann machine, <img center="" src="http://latex.codecogs.com/gif.latex? E " border="0" />, is defined as follows:</p>
+<center>
+<img center="" src="http://latex.codecogs.com/gif.latex?
+E = - \bigg (
+ \sum_{ij} \rho_{ij} s_i s_j + \sum_i \epsilon_i s_i
+\bigg )
+" border="0" />
+</center>
+<p><br />
+where <img center="" src="http://latex.codecogs.com/gif.latex? \rho_{ij} " border="0" /> is the connection strength between unit <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> and unit <img center="" src="http://latex.codecogs.com/gif.latex? j  " border="0" /> (comparing with node-wise correlation in network strength), <img center="" src="http://latex.codecogs.com/gif.latex? s_i \in \{0, 1\} " border="0" /> is the state for unit <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> (comparing <img center="" src="http://latex.codecogs.com/gif.latex? s_i s_j " border="0" /> with <img center="" src="http://latex.codecogs.com/gif.latex? I_{ij} " border="0" /> in network strength), and <img center="" src="http://latex.codecogs.com/gif.latex? \epsilon_i " border="0" /> is the bias of unit <img center="" src="http://latex.codecogs.com/gif.latex? i " border="0" /> in the global energy (this is not present in network strength - yet it could because data driven node-wise correlation is likely to have bias).</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/Energy_landscape.png" alt="HTML5 Icon" style="width:500px;" />
+        <br />
+        Energy Landscape of a Boltzmann (Hopfield) Network 
+        <br />(Image source: Wikipedia)
+    </a>
+</div>
+</center>
+
+<p><br />
+Due to the properties of Boltzmann energy function and its similarity with network strength function, at resting state (and possibly at task state), when the node-wise correlation could be updated, it will be interesting to show that the network strength function (1) is a Lyapunov function, and (2) has Markov property. (1) indicates that the network strength will eventually converge to a state which is a local minimum; and (2) tells us that we could impose probability measure on network strength.</p>
+
+<!-- http://economics.mit.edu/files/32 -->
 
 <hr />
 
@@ -1173,6 +1698,7 @@ I have been long thinking about writing a blog that puts in order a few resource
 <li> <a href="/files/doc/The_sound_and_the_fury.pdf">The Sound and the Fury</a>, by William Faulkner</li>
 <p><br /></p>
 
+<p>Beautiful fonts can be found <a href="http://studiokayama.com/5-fonts-that-add-credibility-and-professionalism-to-scientific-research/">here</a>.</p>
 
       
         <hr />

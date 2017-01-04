@@ -240,7 +240,18 @@
 <h2> Trouver la Lumière Dans L'obscurité
 </h2>
 
-<p>Last updated: Dec 11, 2016</p>
+<p>Last updated: Jan 3, 2017</p>
+<div style="background-color:black; color:white; padding:20px;">
+<p>￼
+The light shines in the darkness, and the darkness has not overcome it.</p>
+
+- <i>John 1:5</i> (English Standard Version)
+<br />
+
+</div>
+
+<p><br /></p>
+
 <center>
 <div id="top">
     <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
@@ -255,14 +266,6 @@
 </div>
 </center>
 
-<div style="background-color:black; color:white; padding:20px;">
-<p>￼
-The light shines in the darkness, and the darkness has not overcome it.</p>
-
-- <i>John 1:5</i> (English Standard Version)
-<br />
-
-</div>
 <p><br />
 I am going to write about stability analysis regarding clustering algorithms (which are commonly used investigating brain data): grouping observations (brain measurements) into different clusters (e.g. observation 1 belongs to Cluster A, observation 2 belongs to Cluster B, etc.) based upon their (intrinsic) characteristics or features. But why do I quote <i>John 1:5</i>, include a photo of Louis XIV, and talk about light and darkness?</p>
 
@@ -324,12 +327,52 @@ d_{\mathcal{G}_k} (\phi(\bold{X}^{\prime}), \mathcal{A}_k (\bold{X}^{\prime})) :
 </center>
 <p>where <img center="" src="http://latex.codecogs.com/gif.latex? \pi " border="0" /> is a permutation operation.</p>
 
-<h5>III. Stability Procedure of Clustering Analysis</h5>
+<h5>III. Clustering Analysis</h5>
+
+<p>Clustering analysis, by definition, is to cluster observation (potentially of multiple dimensions) into groups, where the within-cluster members are more <i>similar</i> (in terms of distance, for example) than between-cluster members.
+<br />
+<br />
+There are many types of clustering algorithms (see <a href="https://arxiv.org/pdf/1205.1117v1.pdf"> Madhulatha (2012) </a>for a review, for example). Note that, in the high-dimensional cases, many algorithms are likely to fail due to the curse of dimensionality, and <a href="https://en.wikipedia.org/wiki/Clustering_high-dimensional_data">subspace clustering, correlation clustering and projected clustering</a> are alternatively considered.
+<br /> 
+<br />
+Here, we will take the k-means approach as an example. We use it because we like to visualize the steps (which is, in my opinion, helpful to gain a deeper understanding of equations and algorithms) and k-means is less cumbersome for us to delineate them pictorially step by step. 
+<br /> 
+<br />
+Hartigan (1975) introduced the k-means algorithm in detail. Four years later, the journal <i>Journal of the Royal Statistical Society (Series C)</i> published a number of useful and poweful statistical algorithms and included <a href="https://www.jstor.org/stable/2346830?seq=1#page_scan_tab_contents">Hartigan and Wong (1979)</a> as Algorithm 136. 
+<br /> 
+<br />
+To begin, we note that, in general, the k-means algorithm requires input of an <img center="" src="http://latex.codecogs.com/gif.latex? M \times N  " border="0" /> matrix, where M indicates M subjects and N indicates N variables. For example, in functional connectivity analysis, where, for each subject we have a connectivity matrix. Before data input, we, for instance, vectorize (the upper or lower triangular part of) the connectivity matrix into a vector of length N. Hence, we obtain the suitable input data matrix.
+<br /> 
+<br />
+The simple goal is to find a map <img center="" src="http://latex.codecogs.com/gif.latex? \mathcal{A}_k " border="0" /> so that the resulting partition <img center="" src="http://latex.codecogs.com/gif.latex?  Y = \mathcal{A}_k (\bold{X}) " border="0" />, where <img center="" src="http://latex.codecogs.com/gif.latex?  Y = \{1, 2, \cdots, K} " border="0" /> have K values. It is equivalent to say that Y corresponds to K partitions of the input data (<img center="" src="http://latex.codecogs.com/gif.latex?  \{G_1, G_2, \cdots, G_k} " border="0" />), where <img center="" src="http://latex.codecogs.com/gif.latex?  X_i  " border="0" /> (data from the 
+<img center="" src="http://latex.codecogs.com/gif.latex?  i^{th} " border="0" /> 
+subject) belongs to one of the <img center="" src="http://latex.codecogs.com/gif.latex?  G_j, " border="0" />’s (for <img center="" src="http://latex.codecogs.com/gif.latex?  j = 1, 2, \cdots, K " border="0" />). We further define <img center="" src="http://latex.codecogs.com/gif.latex?  N_j " border="0" /> as the number of points in <img center="" src="http://latex.codecogs.com/gif.latex?  G_j, " border="0" /> and <img center="" src="http://latex.codecogs.com/gif.latex?  d(X_i, G_j " border="0" /> as the (Euclidean) distance between data point (potentially multidimentional) <img center="" src="http://latex.codecogs.com/gif.latex?  X_i " border="0" /> and center of <img center="" src="http://latex.codecogs.com/gif.latex?  G_j, " border="0" />.
+<br /> 
+<br />
+The pictorial presentaton simplifies and visualizes (most) critical steps from Hartigan and Wong (1979),for N = 2 and K = 4.</p>
+
+<center>
+<div id="top">
+    <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
+        <img src="/images/k_means.jpg" alt="HTML5 Icon" style="width:500px;" />
+        <br />
+        Figure 1: Main Steps of the K-means Algorithm
+        <br />
+        Adapted from Hartigan and Wong (1979)
+    </a>
+</div>
+</center>
+
+<h5>IV. Stability Procedure of Clustering Analysis</h5>
+
+<p>Here, we outline the stability analysis procedure proposed by T. Lange et al (2004). See also <a href="https://en.wikipedia.org/wiki/Silhouette_(clustering)"><i>Silhouette</i></a> by Rousseeuw (1987).</p>
 
 <center>
 <div id="top">
     <a id="logo" href="&lt;?php echo SITE_URL?&gt;" target="_blank">
         <img src="/images/Procedure.jpg" alt="HTML5 Icon" style="width:500px;" />
+        <br />
+        Figure 2: Main Steps of Stability Procedure
         <br />
         Adapted from Table 1. of T. Lange et al (2004)
     </a>
@@ -339,7 +382,13 @@ d_{\mathcal{G}_k} (\phi(\bold{X}^{\prime}), \mathcal{A}_k (\bold{X}^{\prime})) :
 <h5>References:</h5>
 <p>[1] J. DeJean (2014) How Paris Became Paris: The Invention of the Modern City;
 <br />
-[2] T. Lange et al (2004) Stability-based validation of clustering solutions.</p>
+[2] T. Lange et al (2004) Stability-based validation of clustering solutions.
+<br />
+[3] P. J. Rousseeuw (1987). Silhouettes: a Graphical Aid to the Interpretation and Validation of Cluster Analysis. Computational and Applied Mathematics. 20: 53–65
+<br />
+[4] J. A. Hartigan. Clustering algorithms. 1975.
+<br />
+[5] J. A. Hartigan and M. A. Wong. 1979.</p>
 
 <hr />
 
@@ -1665,7 +1714,7 @@ I have been long thinking about writing a blog that puts in order a few resource
     
 
 <!-- 
-<span>&copy; 2016 Oliver Y. Chén. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+<span>&copy; 2017 Oliver Y. Chén. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
 -->
   </footer>
 </div><!-- /.footer-wrap -->
