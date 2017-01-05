@@ -30,9 +30,9 @@ comments:
 	
 - Gershman S., **Chén O. Y.**, Konkle T. (In preparation) The Generative Representational Similarity Analysis. 
 
-- Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics*.
+- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics*.
 	
-- Dasgupta, N., **Chén Y.**, Basu, R., and Daoud S.S. (2012) Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute.
+- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. (2012) Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute.
 	
 
 ## Books and Book Chapters
@@ -42,9 +42,11 @@ comments:
 
 ## Unpublished Academic Essays, Handbooks, and Notes
 
-- **Chén O. Y.** [A Handbook to Conquer Casella and Berger Book in Ten Days](/files/doc/CB.pdf).
-- **Chén O. Y.** [A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs](/files/doc/ED.pdf).
-- **Chén O. Y.** [Notes for Time Series Data Analysis](/files/doc/TS.pdf). 
+- **Chén O. Y.** A Handbook to Conquer Casella and Berger Book in Ten Days. <a href="{{ site.baseurl }}/files/doc/CB.pdf"><font color="#1122CC">[Link]</font></a>
+
+- **Chén O. Y.** A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs. <a href="{{ site.baseurl }}/files/doc/ED.pdf"><font color="#1122CC">[Link]</font></a>
+
+- **Chén O. Y.** Notes for Time Series Data Analysis. <a href="{{ site.baseurl }}/files/doc/TS.pdf"><font color="#1122CC">[Link]</font></a>
 
 <!--
 ## Others
