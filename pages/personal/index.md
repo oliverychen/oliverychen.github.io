@@ -13,7 +13,7 @@ comments:
 
 I paint *Gōng-Bi* (工筆) style *watercolor* (aquarelle); I also enjoy *oil painting*. Here are some of my paintings.
 
-#### Drunk Li-Bai
+#### Tai Bai
 
 ![x](/images/Taibai.jpg)
 
@@ -24,14 +24,14 @@ Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
 <br />
 Technique: Gong-bi (工筆)
 <br />
-<br />
-Li Bai (705 – 762), courtesy name Tài-bái (lit. Venus), and his friend Dù Fu (712 – 770), were the two most prominent poets in the mid-Táng Dynasty, which is often called the "Golden Age of China”. This painting tells a (potentially) apocryphal story of Li Bai during his service at the Royal Hàn-Lín Academy. Once, while drunk, Li Bai (front left) ordered Gāo Lì-Shì (front right), Duke of Qí, the most politically powerful eunuch in the palace, to remove his shoes. Meanwhile, he asked Yáng Guó-Zhōng (second to the right), the Chancellor in the reign of Emperor Xuān-Zōng of Táng Dynasty (also a cousin of the favorite Imperial Consort Yáng Yü-Huán (back left)), to grind ink. After this incident, they retaliated by persuading Emperor Xuān-Zōng to send Li Bai away from the royal court.
 
+![x](/images/Taibai_2.png)
+
+Media Appearance
+<br />
 <br />
 
-The painting was painted à la Gōng-bi (工筆) on xüān paper (宣紙, which is made of Pteroceltis tatarinowii tree bark).
-<br />
-<br />
+
   
 #### Pondering the Imponderables
 
@@ -55,6 +55,15 @@ Technique: Gong-bi (工筆)
 Date painted: 2014
 <br />
 Watercolor and acrylic on canvas
+<br />
+<br />
+
+![x](/images/Baltimore_2.jpg)
+
+<br />
+On Exhibition: Baltimore, MD. (2015) Sponsored by the NAP (National Arts Program) 
+<br />
+<br />
 
 #### Ristorante Trattoria Sempione 
 ![x](/images/Venice.JPG)
