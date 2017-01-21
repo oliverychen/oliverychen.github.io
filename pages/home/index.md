@@ -49,43 +49,44 @@ function blink()
 I am a Research Associate Fellow in the Department of Psychology at Yale University.
 
 <br>
-I work on research in the multidisciplinary area between statistics, computer science, and
-neuroscience. I am passionate about developing my knowledge to understand the unknowns
+I work on research in the multidisciplinary areas in statistics, computer science, and neuroscience, and write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog, engaging in discussions that are, in one way or another, related to brain data science. 
+
+<!--I am passionate about developing my knowledge to understand the unknowns
 of the human brain and its pathology. I am especially interested in being an advocate to
 raise society’s awareness of diseases caused by the human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
+-->
 <!--
 I work on research in the multidisciplinary area between statistics, computer science, and neuroscience. I am passionate about developing and implementing statistical theory, methods, and computer algorithms to understand the unknowns of the human brain and its pathology. I am especially interested in being an advocate to raise society’s awareness of diseases caused by human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
 -->
-<br/>
 
-<br>
-I write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog about brain data science. 
-<br/>
 <!--
 <br />
 My **<font color="#1122CC">curriculum vitae</font>** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
 -->
+<!--
 <br />
 **<font color="#1122CC">News</font>**: 
 
 <br />
+-->
 <!--
 Zeki and Chén <a id="aF" href="/files/doc/Bayesian_brain.pdf" style="text-decoration: none"><b>*The Bayesian-Laplacian Brain*</b><br>
 -->
-Zeki and Chén [The Bayesian-Laplacian Brain](/files/doc/Bayesian_brain.pdf).
+<!--Zeki and Chén [The Bayesian-Laplacian Brain](/files/doc/Bayesian_brain.pdf).-->
 <!--
 <br />
 [The History of the Future of Neuro-ophthalmology Imaging in China](/files/doc/Neuro-ophthalmology.pdf).
 -->
-
+<!--
 <br />
 I recently wrote [The Role of Statistics in Contemporary Brain Science](/files/doc/Fisher.pdf) discussing the contribution statistics makes to neuroscience. 
-
+-->
+<!--
 <br />
 Chén et al. <i>High-dimensional Brain Mediation</i> [Preprint](/files/doc/HDMM.pdf)
 
 <body onload="blink()">
-
+-->
 
 
 <!--[Here](/images/Tarren.JPEG) is a very generous and helpful comment from Brian Tarran, the editor of <i>Significance<i/>, the <i>Royal Statistical Society<i/>. -->
