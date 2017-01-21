@@ -51,6 +51,9 @@ I am a Research Associate Fellow in the Department of Psychology at Yale Univers
 <br>
 I work on research in the multidisciplinary areas in statistics, computer science, and neuroscience, and write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog, engaging in discussions that are, in one way or another, related to brain data science. 
 
+<br>
+In another life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 
+
 <!--I am passionate about developing my knowledge to understand the unknowns
 of the human brain and its pathology. I am especially interested in being an advocate to
 raise society’s awareness of diseases caused by the human brain and to help make scientific progress on diagnoses, treatments, cures and management of these diseases.
