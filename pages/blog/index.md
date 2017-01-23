@@ -684,7 +684,7 @@ The pictorial presentaton simplifies and visualizes (most) critical steps from H
 
 <h5>IV. Stability Procedure of Clustering Analysis</h5>
 
-Here, we outline the stability analysis procedure proposed by T. Lange et al (2004). See also <a href="https://en.wikipedia.org/wiki/Silhouette_(clustering)"><i>Silhouette</i></a> by Rousseeuw (1987).
+Here, we outline the stability analysis procedure proposed by T. Lange et al (2004), some pseudp codes, and a toy example. See also <a href="https://en.wikipedia.org/wiki/Silhouette_(clustering)"><i>Silhouette</i></a> by Rousseeuw (1987).
 
 <center>
 <div id="top">
@@ -697,6 +697,14 @@ Here, we outline the stability analysis procedure proposed by T. Lange et al (20
     </a>
 </div>
 </center>
+
+<br>
+Psuedo Codes (based upon T. Lange et al (2004)) and A Toy Example
+<center>
+<iframe src="{{ site.baseurl }}/files/doc/Pseudo_codes.pdf" style="width:500px; height:400px;" frameborder="0"></iframe>  
+</center>
+
+
 
 <h5>References:</h5>
 [1] J. DeJean (2014) How Paris Became Paris: The Invention of the Modern City;
