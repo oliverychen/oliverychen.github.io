@@ -29,7 +29,7 @@ owner:
   name: Oliver Y. Chén
   avatar: OLIVER.JPG
   bio: ""
-  email: olivery.chen@gmail.com
+  email: #olivery.chen@gmail.com
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,8 +40,8 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: oliverychen
-  skype: oliverchan1988
+  github: #oliverychen
+  skype: #oliverchan1988
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   xing: #username
