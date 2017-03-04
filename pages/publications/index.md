@@ -51,7 +51,10 @@ comments:
 - Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184.
 
 
-## Unpublished Academic Essays, Handbooks, and Notes
+## Unpublished Reviews, Essays, Handbooks, and Notes
+
+- **Chén O. Y.** Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
+(Pfister and Gerstner, 2006). <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Link]</font></a>
 
 - **Chén O. Y.** A Handbook to Conquer Casella and Berger Book in Ten Days. <a href="{{ site.baseurl }}/files/doc/CB.pdf"><font color="#1122CC">[Link]</font></a>
 
