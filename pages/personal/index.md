@@ -87,7 +87,7 @@ Oil on canvas, approx. 8 by 12 in.
 
 ## Classical Music
 
-I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy; my favorite pianist is Horowitz. Below are a few pieces I find delightful; I confess that they are rather subjective. 
+I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy; my favorite pianist is Horowitz. Below are a few pieces I find delightful (I put here for my personal convenient access, and would be pleased if you find some of them beautiful); I confess that they are rather subjective. 
 <br>
 <br>
 - <i>Nr. 7, Träumerei in Kinderszenen, Op.15.</i> Robert Schumann. The piece performed by Horowitz at the Moscow Conservatory in 1986 was a classic.
@@ -106,7 +106,13 @@ I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy;
 <br />
 - <i>Étude Op. 10, No. 3, in E major</i> Frédéric Chopin.
 <br />
+- <i> Libiamo ne' lieti calici </i>, from <i>La traviata</i> (based on La Dame aux Camélias (Alexandre Dumas, fils, 1852)) by Giuseppe Verdi
+<br/>
+Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met with applause and cheering at the end; but in the second act, the audience began to turn against the performance, especially after the singing of the baritone Felice Varesi and the tenor Lodovico Graziani. The next day, Verdi wrote to his friend Emanuele Muzio in what has now become perhaps his most famous letter: "La traviata last night a failure. Was the fault mine or the singers'? Time will tell."[
 <br />
+- <i> La donna è mobile </i>, from Act 3 <i>Rigoletto/i> by Giuseppe Verdi
+<br/>
+<br/>
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
 <br />
 ---
