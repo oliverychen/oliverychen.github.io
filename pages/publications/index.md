@@ -31,7 +31,7 @@ comments:
 - **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2016) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Link]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Supp Material]</font></a> Under major revision. 
 
-- **Chén O. Y.**, Xiao L., Lindquist, M., Schrack J., Ferrucci L, and Crainiceanu C. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Link]</font></a>
   
 - **Chén O. Y.**, and Jacroux, M. (2014) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Link]</font></a>
 
