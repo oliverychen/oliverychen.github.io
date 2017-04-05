@@ -114,7 +114,7 @@ Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met 
 <br />
 - <i> La donna è mobile </i>, from Act 3 <i>Rigoletto/i> by Giuseppe Verdi
 <br/>
-- <i> ’O sole mio </i> (my sunshine), by Composer: Eduardo di Capua
+- <i> ’O sole mio </i> (my sunshine), by Eduardo di Capua
 Lyricist: Giovanni Capurro
 <br/>
 <br/>
