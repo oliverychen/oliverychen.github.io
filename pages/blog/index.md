@@ -805,10 +805,12 @@ Here are two fascinating resouces regarding rejections. <a href="http://bulletin
 The readings have helped me a great deal; I hope they could help you, too. And
 <br>
 <br>
-<span style="background-color: lightgrey"> <i>Never give in, never give in, never, never, never, never.
+<span style="background-color: lightgrey"> <i> Never give in, never give in, never, never, never, never.
 <br>
 <br>
-- Sir Winston Leonard Spencer-Churchill </i></span>
+- Sir Winston Leonard Spencer-Churchill
+</i></span>
+
 
 <hr>
 
