@@ -56,10 +56,15 @@ function blink()
 </script>
 
 <br>
-I am a Research Associate Fellow in the Department of Psychology at Yale University.
+I read Biomedical Engineering at the University of Oxford.
 
 <br>
-I work on research in the multidisciplinary areas in statistics, computer science, and neuroscience, and write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog, engaging in discussions that are, in one way or another, related to brain data science. 
+I work on research in statistics, computer science, and neuroscience. I write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog, engaging in discussions that are, in one way or another, related to brain data science. 
+
+<br>
+My previous postgraduate education and training were in Cell and Development Biology (Visiting
+Lecturer, UCL), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics
+(Northwestern), and Mathematical Statistics (Washington).
 
 <br>
 In another life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 

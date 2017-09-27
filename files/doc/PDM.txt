@@ -1,0 +1,6 @@
+library(devtools)
+install_github("oliverychen/PDM")
+library(PDM)
+help(PDM)
+help(PDM_1)
+help(PDM_2)
