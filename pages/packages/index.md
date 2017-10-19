@@ -23,7 +23,11 @@ comments: true
 </script>
 
 **Click to view download and use instructions.**
+<!--
+- [Brain Network Predication of Dichotomos Outcomes via Logistic Regression and Elasticnet](/files/doc/network_logistic_elasticnet.R)
+-->
 
+- [Generalized Populaton Value Decomposition (gPVD)](/files/doc/gPVD.R)
 
 - [Behavior Predication via Brain Networks](/files/doc/network_predication.txt)
 
