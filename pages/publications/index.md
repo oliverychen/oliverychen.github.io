@@ -23,7 +23,7 @@ comments:
 
 ## Recent Work
 
-- **Chén O. Y.** (2017) The Role of Statistics in Contemporary Brain Science. *Significance*. The Royal Statistical Society. To appear. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** The Role of Statistics in Contemporary Brain Science. To appear. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Link]</font></a>
 
 - Zeki S., and **Chén O. Y.** (2016) The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
 
