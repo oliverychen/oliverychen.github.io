@@ -56,7 +56,7 @@ function blink()
 </script>
 
 <br>
-I read Biomedical Engineering at the University of Oxford.
+I read Engineering Science at the University of Oxford.
 
 <br>
 I work on research in statistics, computer science, and neuroscience. I write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog, engaging in discussions that are, in one way or another, related to brain data science. 
