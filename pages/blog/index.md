@@ -33,7 +33,7 @@ Last updated: Sep 25, 2017
 <br>
 We would like you to participate in this quick (3 mins maximum) and extremely interesting survey. 
 <center>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCYkkmuY3EqGgfYme_Km9pjqNL80jA17D_pKdxqF623kmfcA/viewform?embedded=true" width="500" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCYkkmuY3EqGgfYme_Km9pjqNL80jA17D_pKdxqF623kmfcA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 </center>
 Also available <a href="https://goo.gl/forms/EqQeHweqAsZkZVaf2">here</a>
 <br>
