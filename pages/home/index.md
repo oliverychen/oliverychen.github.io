@@ -26,6 +26,13 @@ function blink()
 }
 </script>
 -->
+<style>
+mark { 
+    background-color: #D40000;
+    color: white;
+}
+</style>
+
 
 <script type="text/javascript">
 var col = new String();
@@ -59,7 +66,8 @@ function blink()
 I read Engineering Science at the University of Oxford.
 
 <br>
-I work on research in statistics, computer science, and neuroscience. I write the [**<font color="#1122CC">Brain Whispers</font>**](http://oliverychen.com/pages/blog/) blog, engaging in discussions that are, in one way or another, related to brain data science. 
+I work on research in statistics, computer science, and neuroscience. I write <br />
+[<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, offering some humble opinions that are, in one way or another, related to brain data science. 
 
 <br>
 My previous postgraduate education and training were in Cell and Development Biology (Visiting
