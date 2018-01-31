@@ -21,6 +21,9 @@ comments:
 
 </script>
 
+
+<hr>
+
 <!-- blog Top -->
 <h2> A Beauty Rating Survey
 </h2>
