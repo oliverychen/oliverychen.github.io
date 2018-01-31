@@ -21,6 +21,11 @@ comments:
 
 </script>
 
+
+# Welcome to the <span style="color:#1122CC">Brain Whispers</span> blog, where the brain whispers.
+<hr>
+
+
 <!-- blog Top -->
 <h2> A Beauty Rating Survey
 </h2>
