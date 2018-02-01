@@ -66,8 +66,8 @@ function blink()
 I read Engineering Science at the University of Oxford.
 
 <br>
-I work on research in statistics, computer science, and neuroscience. I write <br />
-[<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, offering some humble opinions that are, in one way or another, related to brain data science. 
+I work on research in statistics, computer science, and neuroscience. <br />
+I write [<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, offering some humble opinions that are, in one way or another, related to brain data science. 
 
 <br>
 My previous postgraduate education and training were in Cell and Development Biology (Visiting
