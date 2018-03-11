@@ -28,7 +28,7 @@ comments:
 <h2> A Beauty Rating Survey
 </h2>
 
-Last updated: Sep 25, 2017
+Last updated: Mar 4, 2018
 
 <br>
 We would like you to participate in this quick (3 mins maximum) and extremely interesting survey. 
