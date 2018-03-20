@@ -32,7 +32,7 @@ that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ sit
 
 - Zeki and **Chén** (2016) The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
 
-- **Chén** and Jacroux. (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén** and Jacroux (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Link]</font></a>
 
 - **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. *Biostatistics*. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Link]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Supp Material]</font></a> 
