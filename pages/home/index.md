@@ -33,7 +33,6 @@ mark {
 }
 </style>
 
-
 <script type="text/javascript">
 var col = new String();
 var x=1;var y;
