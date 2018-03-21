@@ -33,6 +33,7 @@ mark {
 }
 </style>
 
+
 <script type="text/javascript">
 var col = new String();
 var x=1;var y;
@@ -69,7 +70,7 @@ I work on research in statistics, computer science, and neuroscience. <br />
 I write [<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, offering some humble opinions that are, in one way or another, related to brain data science. 
 
 <br>
-My previous postgraduate education and training were in Cell and Development Biology (Visiting
+My previous postgraduate education and training were in Anatomy and Developmental Biology (Visiting
 Lecturer, UCL), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics
 (Northwestern), and Mathematical Statistics (Washington).
 
