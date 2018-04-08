@@ -30,6 +30,10 @@ Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic ne
 that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Link]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp Material]</font></a>
 
+-  Phan, Andreotti, Cooray, **Ch\'en**, and De Vos. (2018)  DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. *IEEE*
+
+-  Phan, Andreotti, Cooray, **Ch\'en**, and De Vos. (2018)  Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. *IEEE*
+
 - Zeki and **Chén** (2016) The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
 
 - **Chén** and Jacroux (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Link]</font></a>
