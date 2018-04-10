@@ -87,7 +87,7 @@ Oil on canvas, approx. 8 by 12 in.
 
 ## Classical Music
 
-I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy; my favorite pianist is Horowitz. Below are a few pieces I find delightful (I put here for my personal convenient access, and would be pleased if you find some of them beautiful); I confess that they are rather subjective. 
+I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy; my favorite pianist is Horowitz. Below are a few pieces I find delightful. I would be pleased if you find some of them beautiful; however, I confess that they are rather subjective. 
 <br>
 <br>
 - <i>Nr. 7, Träumerei in Kinderszenen, Op.15.</i> Robert Schumann. The piece performed by Horowitz at the Moscow Conservatory in 1986 was a classic.
