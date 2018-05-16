@@ -25,6 +25,9 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Link]</font></a>
 
+- Gou and **Chén**. Critical boundary refinement for clinical trials. *ICSA Book Series in Statistics* (Under review). 
+
+
 - Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J.,
 Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic network architecture
 that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Link]</font></a>
