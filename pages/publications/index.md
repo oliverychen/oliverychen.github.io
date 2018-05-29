@@ -27,23 +27,23 @@ comments:
 
 - Gou and **Chén**. Critical boundary refinement for clinical trials. *ICSA Book Series in Statistics* (Under review). 
 
+- Zeki and **Chén** (2016) The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
+
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[arxiv]</font></a>
 
 - Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J.,
 Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic network architecture
 that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Link]</font></a>
-<a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp Material]</font></a>
+<a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. *IEEE*.
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. *IEEE*.
 
-- Zeki and **Chén** (2016) The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
-
 - **Chén** and Jacroux (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Link]</font></a>
 
 - **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. *Biostatistics*. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Link]</font></a>
-<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Supp Material]</font></a> 
+<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Supp. Material]</font></a> 
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
 
