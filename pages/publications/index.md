@@ -27,7 +27,7 @@ comments:
 
 - Gou and **Chén**. Critical boundary refinement for clinical trials. *ICSA Book Series in Statistics* (Under review). 
 
-- Zeki and **Chén** (2016) The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
+- Zeki and **Chén** The Bayesian-Laplacian Brain. <a href="http://biorxiv.org/content/early/2016/12/19/094516"><font color="#1122CC">[bioRxiv]</font></a>
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[arxiv]</font></a>
 
