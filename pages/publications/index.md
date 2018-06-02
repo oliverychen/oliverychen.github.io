@@ -25,9 +25,16 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Link]</font></a>
 
-- Gou and **Chén**. Critical boundary refinement for clinical trials. *ICSA Book Series in Statistics* (Under review). 
+- Gou and **Chén**. Critical boundary refinement for clinical trials. *ICSA Book Series in Statistics*. Under review. 
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[bioRxiv]</font></a>
+
+- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. Under review.
+
+-  Phan, Andreotti, Cooray, **Chén**, De Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
+
+- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. Under review.
+
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[arxiv]</font></a>
 
@@ -44,12 +51,6 @@ that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ sit
 
 - **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. *Biostatistics*. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Link]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Supp. Material]</font></a> 
-
-- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. (Under review) Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.
-
--  Phan, Andreotti, Cooray, **Chén**, De Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
-
-- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. (Under review) Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.
 
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Link]</font></a>
