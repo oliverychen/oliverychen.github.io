@@ -36,10 +36,9 @@ comments:
 
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. Under review.
 
--  Phan, Andreotti, Cooray, **Chén**, De Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
+-  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. *IEEE*.
 
 - Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. Under review.
-
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[arxiv]</font></a>
 
@@ -48,10 +47,9 @@ Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic ne
 that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Link]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
--  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. *IEEE*.
-
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. *IEEE*.
 
+-  Phan, Andreotti, Cooray, **Chén**, De Vos (2018). Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Link]</font></a>
 
