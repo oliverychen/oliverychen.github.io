@@ -48,9 +48,10 @@ that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ sit
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. *IEEE*.
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018) DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. *IEEE*.
--  Phan, Andreotti, Cooray, **Chén**, De Vos (2018) Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Link]</font></a>
+
+-  Phan, Andreotti, Cooray, **Chén**, De Vos (2018) Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
 
 - **Chén** and Di.(In preparation) [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
 	
