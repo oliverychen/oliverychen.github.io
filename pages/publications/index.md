@@ -59,14 +59,14 @@ that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ sit
 	
 - Gershman S., **Chén O. Y.**, Konkle T. (In preparation) The Generative Representational Similarity Analysis. 
 
-- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics*.
+- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. (2013) Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics* 33 (1), 63.
 	
 - Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. (2012) Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute.
 	
 
-## Books and Book Chapters
+## Book Chapters
 
-- Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Asian Books, Ch 9 (1): 170-184. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+- Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Chapter 9 (1): 170-184. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
 ## Unpublished Reviews, Essays, Handbooks, and Notes
