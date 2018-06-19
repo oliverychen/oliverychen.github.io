@@ -71,8 +71,7 @@ I write [<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) bl
 
 <br>
 My previous postgraduate education and training were in Anatomy and Developmental Biology (Visiting
-Lecturer, UCL), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics
-(Northwestern), and Mathematical Statistics (Washington).
+Lecturer, University College London), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics (Northwestern), and Mathematical Statistics (Washington).
 
 <br>
 In another life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 
