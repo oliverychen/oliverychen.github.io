@@ -66,7 +66,7 @@ function blink()
 I read Engineering Science at the University of Oxford.
 
 <br>
-I hope to understand some problems in statistics and neuroscience. <br />
+I work on a few problems in statistics and neuroscience with a hope we could understand them better someday. <br />
 During my spare time, I write [<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, sharing some humble opinions that are, in one way or another, related to brain data science. 
 
 <br>
