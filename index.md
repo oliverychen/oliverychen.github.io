@@ -67,7 +67,7 @@ I read Engineering Science at the University of Oxford.
 
 <br>
 I hope to understand some problems in statistics and neuroscience. <br />
-In my spare time, I write [<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, sharing some humble opinions that are, in one way or another, related to brain data science. 
+During my spare time, I write [<mark>The Brain Whispers</mark>](http://oliverychen.com/pages/blog/) blog, sharing some humble opinions that are, in one way or another, related to brain data science. 
 
 <br>
 My previous postgraduate education and training were in Anatomy and Developmental Biology (Visiting
