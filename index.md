@@ -67,7 +67,7 @@ I read Engineering Science at the University of Oxford.
 
 <br>
 I work on research in statistics and neuroscience. <br />
-During my spare time, I write [*The Brain Whispers*](http://oliverychen.com/pages/blog/) blog, sharing some humble opinions that are, in one way or another, related to brain data science. 
+During spare time, I write [*The Brain Whispers*](http://oliverychen.com/pages/blog/) blog, sharing some humble opinions related to brain data science. 
 
 <br>
 My previous postgraduate training was in Anatomy and Developmental Biology (Visiting
