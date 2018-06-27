@@ -29,7 +29,7 @@ comments:
 <h2> Hidden Markovian Dynamic Connectivity
 </h2>
 
-Submitted: January 20, 2017. Last updated: June 26, 2018
+First online: January 20, 2017. Last updated: June 26, 2018
 
 <div style="background-color:black; color:white; padding:20px;">
 <p>￼But yet, I say,
