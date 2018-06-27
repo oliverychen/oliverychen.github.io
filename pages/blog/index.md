@@ -25,26 +25,11 @@ comments:
 <hr>
 
 <!-- blog Top -->
-<h2> A Beauty Rating Survey
-</h2>
-
-Last updated: Mar 4, 2018
-
-<br>
-We would like you to participate in this quick (3 mins maximum) and extremely interesting survey. 
-<center>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCYkkmuY3EqGgfYme_Km9pjqNL80jA17D_pKdxqF623kmfcA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-</center>
-Also available <a href="https://goo.gl/forms/EqQeHweqAsZkZVaf2">here</a>
-<br>
-<hr>
-
-<!-- Break -->
 
 <h2> Hidden Markovian Dynamic Connectivity
 </h2>
 
-Last updated: Jan 20, 2017
+Last updated: June 26, 2018
 
 <div style="background-color:black; color:white; padding:20px;">
 <p>￼But yet, I say,
@@ -484,11 +469,25 @@ Finally, inference could be made based upon estimated paramters of interests <im
 <!-- Break -->
 
 
+<h2> A Beauty Rating Survey
+</h2>
+
+Last updated: Mar 4, 2018
+
+<br>
+We would like you to participate in this quick (3 mins maximum) and extremely interesting survey. 
+<center>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfCYkkmuY3EqGgfYme_Km9pjqNL80jA17D_pKdxqF623kmfcA/viewform?embedded=true" width="600" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+</center>
+Also available <a href="https://goo.gl/forms/EqQeHweqAsZkZVaf2">here</a>
+<br>
+<hr>
 
 
 
 
 
+<!-- Break -->
 
 
 
