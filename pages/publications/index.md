@@ -25,18 +25,18 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Gou and **Chén**. Critical boundary refinement for clinical trials. *ICSA Book Series in Statistics*. Under review. 
+- Gou and **Chén**. Critical boundary refinement for clinical trials. **ICSA Book Series in Statistics**. Under review. 
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J.,
 Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic network architecture
-that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
+that is disrupted in psychotic illness. **Nature Communications**. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
-- **Chén** and Jacroux (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. *Communications in Statistics - Theory and Methods*. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén** and Jacroux (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. *Biostatistics*. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. **Biostatistics**. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
 
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. Under review.
@@ -45,13 +45,13 @@ that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ sit
 
 - Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. Under review.
 
--  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. *IEEE*.
+-  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE**.
 
--  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018) DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. *IEEE*.
+-  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018) DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. **IEEE**.
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. (2015) A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
--  Phan, Andreotti, Cooray, **Chén**, De Vos (2018) Towards Better Practice of Deep Learning for Automatic Sleep Staging. *IEEE*.
+-  Phan, Andreotti, Cooray, **Chén**, De Vos (2018) Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**.
 
 - **Chén** and Di.(In preparation) [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
 	
@@ -66,7 +66,7 @@ that is disrupted in psychotic illness. *Nature Communications*. <a href="{{ sit
 
 ## Book Chapters
 
-- Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. *Contemporary Topics in Mathematics and Statistics with Applications*, Chapter 9 (1): 170-184. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+- Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. (2013) An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
 ## Unpublished Reviews, Essays, Handbooks, and Notes
