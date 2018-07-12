@@ -39,6 +39,8 @@ that is disrupted in psychotic illness. **Nature Communications**. <a href="{{ s
 - **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. (2015) High-dimensional Multivariate Mediation with Application to Neuroimaging Data. **Biostatistics**. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
 
+- Zeki, **Chén**, and Romaya (2018) The Biological Basis of Mathematical Beauty. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
+
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. Under review.
 
 -  Phan, Andreotti, Cooray, **Chén**, De Vos. (2018)  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
