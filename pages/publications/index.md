@@ -34,7 +34,7 @@ Holmes A. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font col
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
 
-- Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications** Under revision. Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. 
+- Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications.** Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Under revision. 
 
 - On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. **Chén** and Jacroux. 2015. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
 
