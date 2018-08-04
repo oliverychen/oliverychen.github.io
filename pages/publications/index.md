@@ -25,13 +25,12 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Gou and **Chén** (2018). Critical boundary refinement for clinical trials. **ICSA Book Series in Statistics**. **Springer**
+- Gou and **Chén** (2018). Critical boundary refinement for clinical trials. **ICSA Book Series in Statistics**. **Springer.**
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J.,
-Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic network architecture
-that is disrupted in psychotic illness. **Nature Communications**. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
+Holmes A. (2018) The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. **Nature Communications**. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
 - **Chén** and Jacroux (2015) On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
