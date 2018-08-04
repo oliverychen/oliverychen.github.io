@@ -25,7 +25,7 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Gou and **Chén**. Critical boundary refinement for clinical trials. **ICSA Book Series in Statistics**. Under review. 
+- Gou and **Chén** (2018). Critical boundary refinement for clinical trials. **ICSA Book Series in Statistics**. **Springer**
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
