@@ -45,7 +45,7 @@ Holmes A. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font col
 
 -  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. Phan, Andreotti, Cooray, **Chén**, De Vos. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. Under revision. **Schizophrenia Bulletin**. Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. 
+- Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. 
 
 - Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE**. Phan, Andreotti, Cooray, **Chén**, De Vos. 2018.
 
