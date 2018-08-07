@@ -68,6 +68,8 @@ Holmes A. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font col
 
 ## Book Chapters
 
+- Critical boundary renement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint. **ICSA Book Series in Statistics**. **Springer.** Gou and **Chén**. 2018. 
+
 - An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. 2013. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
