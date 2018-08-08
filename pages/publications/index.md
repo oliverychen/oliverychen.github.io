@@ -21,11 +21,18 @@ comments:
 
 </script>
 
-## Recent Work
+
+## Book chapters
+
+- Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint. **ICSA Book Series in Statistics**. **Springer.** Gou and **Chén**. 2018. 
+
+- An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. 2013. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+
+
+## Recent papers
 
 - The Role of Statistics in Contemporary Brain Science. **Chén**. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Critical boundary refinement for clinical trials. **ICSA Book Series in Statistics**. **Springer.** Gou and **Chén**. 2018. 
 
 - The Bayesian-Laplacian Brain. Zeki and **Chén**. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
@@ -64,13 +71,6 @@ Holmes A. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font col
 - Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics* 33 (1), 63. Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. 2013.
 	
 - Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. 2012.
-	
-
-## Book Chapters
-
-- Critical boundary renement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint. **ICSA Book Series in Statistics**. **Springer.** Gou and **Chén**. 2018. 
-
-- An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. 2013. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
 ## Unpublished Reviews, Essays, Handbooks, and Notes
