@@ -27,9 +27,9 @@ comments: true
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Generalized Populaton Value Decomposition (gPVD)**. 
 
-<p> 
-<br />The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case.
-</p>
+<div class="c">
+<p> The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case. </p>
+</div>
 
 <br />
 Package source (click to download):
