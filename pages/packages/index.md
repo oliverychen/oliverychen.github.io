@@ -32,18 +32,19 @@ comments: true
 <br />
 Package source (click to download):
 
-<br />
 <font color="#1122CC">
 gPVD.R: [gPVD.R](href="{{ site.baseurl }}/files/doc/gPVD.R)
 </font>
 
 <br />
-- **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**. The package employs positive and negative brain network to predicate behavior via feature selection and leave-one-out cross-validation (LOOCV). 
+- **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
+
+<br />
+The package employs positive and negative brain network to predicate behavior via feature selection and leave-one-out cross-validation (LOOCV). 
 
 <br />
 R execution and help functions:
 
-<br />
 <font color="#1122CC">
 library(devtools)
 <br />
@@ -55,13 +56,15 @@ help(network.predication)
 </font>
 
 <br />
--**Chén O.Y.** (Author and Maintainer). **GIFTS: Generalized Iterative Feature Training and Selection**. The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
+- **Chén O.Y.** (Author and Maintainer). 
+
+<br />
+**GIFTS: Generalized Iterative Feature Training and Selection**. The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
 observed (potentially sparse) data using their first moments, then conducts two-step feature selection on the first moments, model building (via LOOCV), and out-sample prediction.
 
 <br />
 R execution and help functions:
 
-<br />
 <font color="#1122CC">
 library(GIFTS)
 <br />
@@ -71,12 +74,14 @@ help(GIFTS_mean)
 </font>
 
 <br />
-- **Chén O.Y.** (Author and Maintainer). **PDM (Principal Direction of Mediation)**. The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
+- **Chén O.Y.** (Author and Maintainer). **PDM (Principal Direction of Mediation)**. 
+
+<br />
+The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
 <br />
 R execution and help functions:
 
-<br />
 <font color="#1122CC">
 library(devtools)
 <br />
@@ -94,7 +99,6 @@ help(PDM_2)
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
 
-<br />
 <font color="#1122CC">
 Server: [server.R](href="{{ site.baseurl }}/files/doc/server.R)
 <br />
