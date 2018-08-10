@@ -27,12 +27,15 @@ comments: true
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Generalized Populaton Value Decomposition (gPVD)**. 
 
+<p> 
 <br />The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case.
+</p>
 
 <br />
 Package source (click to download):
 
-<a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">gPVD.R</font></a>
+<br />
+<a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
 
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
@@ -99,9 +102,9 @@ help(PDM_2)
 
 <font color="#1122CC">
 
-<a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">server.R</font></a>
+<a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
 <br />
-<a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">ui.R</font></a>
+<a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
 </font>
 
 <br />
