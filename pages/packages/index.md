@@ -25,7 +25,6 @@ comments: true
 
 <style> .indented { padding-left: 80pt; padding-right: 80pt; } </style>
 
-Read more: https://html.com/paragraphs/#ixzz5Nju0XpG4
 
 
 ## Packages
@@ -34,7 +33,7 @@ Read more: https://html.com/paragraphs/#ixzz5Nju0XpG4
 - **Chén O.Y.** (Author and Maintainer). **Generalized Populaton Value Decomposition (gPVD)**. 
 
 <p class="indented">
-The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case. </p>
+The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case. 
 
 <br />
 Package source (click to download):
@@ -42,6 +41,7 @@ Package source (click to download):
 <br />
 <a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
 
+</p>
 
 <hr>
 
@@ -50,10 +50,11 @@ Package source (click to download):
 
 
 
-
+<p class="indented">
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
 
+<p class="indented">
 <br />
 The package employs positive and negative brain network to predicate behavior via feature selection and leave-one-out cross-validation (LOOCV). 
 
@@ -69,12 +70,19 @@ library(network.predication)
 <br />
 help(network.predication)
 </font>
+</p>
+
+<hr>
+
+
+
+
+<p class="indented">
+<br />
+- **Chén O.Y.** (Author and Maintainer). **GIFTS: Generalized Iterative Feature Training and Selection**.
 
 <br />
-- **Chén O.Y.** (Author and Maintainer). 
-
-<br />
-**GIFTS: Generalized Iterative Feature Training and Selection**. The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
+The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
 observed (potentially sparse) data using their first moments, then conducts two-step feature selection on the first moments, model building (via LOOCV), and out-sample prediction.
 
 <br />
@@ -87,7 +95,16 @@ help(GIFTS_fpca)
 <br />
 help(GIFTS_mean)
 </font>
+</p>
 
+<hr>
+
+
+
+
+
+
+<p class="indented">
 <br />
 - **Chén O.Y.** (Author and Maintainer). **PDM (Principal Direction of Mediation)**. 
 
@@ -110,7 +127,13 @@ help(PDM_1)
 <br />
 help(PDM_2)
 </font>
+</p>
 
+<hr>
+
+
+
+<p class="indented">
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
 
@@ -120,11 +143,16 @@ help(PDM_2)
 <br />
 <a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
 </font>
+</p>
 
+<hr>
+
+
+<p class="indented">
 <br />
 - **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
 
-
+<hr>
 
 <!--
 # High-dimensional Multivariate Mediation:
