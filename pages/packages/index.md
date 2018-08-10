@@ -49,11 +49,10 @@ Package source (click to download):
 
 
 
-
-<p class="indented">
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
 
+<p class="indented">
 <p class="indented">
 <br />
 The package employs positive and negative brain network to predicate behavior via feature selection and leave-one-out cross-validation (LOOCV). 
@@ -77,10 +76,10 @@ help(network.predication)
 
 
 
-<p class="indented">
 <br />
 - **Chén O.Y.** (Author and Maintainer). **GIFTS: Generalized Iterative Feature Training and Selection**.
 
+<p class="indented">
 <br />
 The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
 observed (potentially sparse) data using their first moments, then conducts two-step feature selection on the first moments, model building (via LOOCV), and out-sample prediction.
@@ -104,10 +103,11 @@ help(GIFTS_mean)
 
 
 
-<p class="indented">
+
 <br />
 - **Chén O.Y.** (Author and Maintainer). **PDM (Principal Direction of Mediation)**. 
 
+<p class="indented">
 <br />
 The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
@@ -133,10 +133,11 @@ help(PDM_2)
 
 
 
-<p class="indented">
+
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
 
+<p class="indented">
 <font color="#1122CC">
 
 <a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
@@ -148,7 +149,7 @@ help(PDM_2)
 <hr>
 
 
-<p class="indented">
+
 <br />
 - **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
 
