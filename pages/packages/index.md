@@ -23,21 +23,23 @@ comments: true
 </script>
 
 
-<style> .indented { padding-left: 80pt; padding-right: 80pt; } </style>
+<style> .indented { padding-left: 60pt; padding-right: 60pt; } </style>
 
 
 
 ## Packages
 
-<br />
+
 - **Chén O.Y.** (Author and Maintainer). **Generalized Populaton Value Decomposition (gPVD)**. 
 
 <p class="indented">
 The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case. 
 
 <br />
-Package source (click to download):
+<br />
+<font color="#1122CC">Package source (click to download):</font>
 
+<br />
 <br />
 <a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
 
@@ -48,19 +50,19 @@ Package source (click to download):
 
 
 
-
-<br />
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
 
-<p class="indented">
 <p class="indented">
 <br />
 The package employs positive and negative brain network to predicate behavior via feature selection and leave-one-out cross-validation (LOOCV). 
 
-<br />
-R execution and help functions:
 
 <font color="#1122CC">
+<br />
+<br />
+R execution and help functions:	
+<br />
+<br />
 library(devtools)
 <br />
 install_github("oliverychen/network.predication")
@@ -69,25 +71,27 @@ library(network.predication)
 <br />
 help(network.predication)
 </font>
+
 </p>
 
 <hr>
 
 
 
-
-<br />
 - **Chén O.Y.** (Author and Maintainer). **GIFTS: Generalized Iterative Feature Training and Selection**.
 
 <p class="indented">
 <br />
-The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
-observed (potentially sparse) data using their first moments, then conducts two-step feature selection on the first moments, model building (via LOOCV), and out-sample prediction.
+The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via cross-validation), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
+observed (potentially sparse) data using their first moments, then conducts two-step feature selection on the first moments, model building (via cross-validation), and out-sample prediction.
 
-<br />
-R execution and help functions:
 
 <font color="#1122CC">
+<br />
+<br />
+R execution and help functions:
+<br />
+<br />
 library(GIFTS)
 <br />
 help(GIFTS_fpca)
@@ -102,19 +106,20 @@ help(GIFTS_mean)
 
 
 
-
-
-<br />
 - **Chén O.Y.** (Author and Maintainer). **PDM (Principal Direction of Mediation)**. 
 
 <p class="indented">
 <br />
 The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
-<br />
-R execution and help functions:
+
 
 <font color="#1122CC">
+<br />
+<br />
+R execution and help functions:
+<br />
+<br />
 library(devtools)
 <br />
 install_github("oliverychen/PDM")
@@ -134,12 +139,12 @@ help(PDM_2)
 
 
 
-<br />
 - **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
+
 
 <p class="indented">
 <font color="#1122CC">
-
+<br />
 <a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
 <br />
 <a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
@@ -149,11 +154,8 @@ help(PDM_2)
 <hr>
 
 
-
-<br />
 - **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
 
-<hr>
 
 <!--
 # High-dimensional Multivariate Mediation:
