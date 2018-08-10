@@ -32,7 +32,7 @@ Package source (click to download):
 
 <br />
 <font color="#1122CC">
-gPVD.R: [gPVD.R](/files/doc/gPVD.R)
+gPVD.R: [gPVD.R](href="{{ site.baseurl }}/files/doc/gPVD.R)
 </font>
 
 <br />
@@ -44,8 +44,11 @@ R execution and help functions:
 <br />
 <font color="#1122CC">
 library(devtools)
+<br />
 install_github("oliverychen/network.predication")
-library(network.predication).
+<br />
+library(network.predication)
+<br />
 help(network.predication)
 </font>
 
@@ -59,7 +62,9 @@ R execution and help functions:
 <br />
 <font color="#1122CC">
 library(GIFTS)
+<br />
 help(GIFTS_fpca)
+<br />
 help(GIFTS_mean)
 </font>
 
@@ -72,24 +77,30 @@ R execution and help functions:
 <br />
 <font color="#1122CC">
 library(devtools)
+<br />
 install_github("oliverychen/PDM")
+<br />
 library(PDM)
+<br />
 help(PDM)
+<br />
 help(PDM_1)
+<br />
 help(PDM_2)
 </font>
 
 <br />
-5. **Chén O.Y.** (Author and Maintainer). *Spike Timing-Dependent Plasticity**. 
+5. **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
 
 <br />
 <font color="#1122CC">
-Server: [server.R](/files/doc/server.R)
-User interface: [ui.R](/files/doc/ui.R)
+Server: [server.R](href="{{ site.baseurl }}/files/doc/server.R)
+<br />
+User interface: [ui.R](href="{{ site.baseurl }}/files/doc/ui.R)
 </font>
 
 <br />
-6. **Chén O.Y.** (Co-author). *Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
+6. **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
 
 
 
