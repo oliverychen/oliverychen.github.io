@@ -23,7 +23,7 @@ comments: true
 </script>
 
 
-<style> .indented { padding-left: 50pt; padding-right: 50pt; } </style>
+<style> .indented { padding-left: 80pt; padding-right: 80pt; } </style>
 
 Read more: https://html.com/paragraphs/#ixzz5Nju0XpG4
 
@@ -41,6 +41,15 @@ Package source (click to download):
 
 <br />
 <a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
+
+
+<hr>
+
+
+
+
+
+
 
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
