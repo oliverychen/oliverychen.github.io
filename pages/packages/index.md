@@ -32,9 +32,7 @@ comments: true
 <br />
 Package source (click to download):
 
-<font color="#1122CC">
-gPVD.R: [gPVD.R](href="{{ site.baseurl }}/files/doc/gPVD.R)
-</font>
+<a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">gPVD.R</font></a>
 
 <br />
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
@@ -100,9 +98,10 @@ help(PDM_2)
 - **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
 
 <font color="#1122CC">
-Server: [server.R](href="{{ site.baseurl }}/files/doc/server.R)
+
+<a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">server.R</font></a>
 <br />
-User interface: [ui.R](href="{{ site.baseurl }}/files/doc/ui.R)
+<a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">ui.R</font></a>
 </font>
 
 <br />
