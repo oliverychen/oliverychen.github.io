@@ -7,4 +7,4 @@ excerpt:
 {% include _scripts.html %}
 
 
-Oliver's **curriculum vitae** is [here](/files/doc/CV_Chen_Feb_2015.pdf).
+Oliver's **curriculum vitae** is [here](/files/doc/stay_humble.pdf).
