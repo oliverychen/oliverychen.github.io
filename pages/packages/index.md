@@ -22,16 +22,66 @@ comments: true
 
 </script>
 
-**Click to view download and use instructions.**
+## Packages
 
-- [Generalized Populaton Value Decomposition (gPVD)](/files/doc/gPVD.R)
+- **Chén O.Y.** (Author and Maintainer). **Generalized Populaton Value Decomposition (gPVD)**. The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case.
 
-- [Behavior Predication via Brain Networks](/files/doc/network_predication.txt)
+Package source (click to download):
 
-- [High-dimensional Brain Mediation](/files/doc/PDM.txt)
+<font color="#1122CC">
+gPVD.R: [gPVD.R](/files/doc/gPVD.R)
+</font>
 
-- Spike Timing-Dependent Plasticity: [Server](/files/doc/server.R); [User interface](/files/doc/ui.R)
- 
+
+- **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**. The package employs positive and negative brain network to predicate behavior via feature selection and leave-one-out cross-validation (LOOCV). 
+
+R execution and help functions:
+
+<font color="#1122CC">
+library(devtools)
+install_github("oliverychen/network.predication")
+library(network.predication).
+help(network.predication)
+</font>
+
+
+- **Chén O.Y.** (Author and Maintainer). **GIFTS: Generalized Iterative Feature Training and Selection**. The package serves two purposes: (a) The GIFTS_fpca function first extract dense features from longitudinally observed (potentially sparse) data using functional principal component analysis (fPCA), then conducts two-step feature selection on the principal component scores, model building (via LOOCV), and out-sample prediction; (b) The GIFTS_mean function first extract dense features from longitudinally
+observed (potentially sparse) data using their first moments, then conducts two-step feature selection on the first moments, model building (via LOOCV), and out-sample prediction.
+
+R execution and help functions:
+
+<font color="#1122CC">
+library(GIFTS)
+help(GIFTS_fpca)
+help(GIFTS_mean)
+</font>
+
+
+- **Chén O.Y.** (Author and Maintainer). **PDM (Principal Direction of Mediation)**. The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
+
+R execution and help functions:
+
+<font color="#1122CC">
+library(devtools)
+install_github("oliverychen/PDM")
+library(PDM)
+help(PDM)
+help(PDM_1)
+help(PDM_2)
+</font>
+
+
+- **Chén O.Y.** (Author and Maintainer). *Spike Timing-Dependent Plasticity**. 
+
+<font color="#1122CC">
+Server: [server.R](/files/doc/server.R)
+User interface: [ui.R](/files/doc/ui.R)
+</font>
+
+
+- **Chén O.Y.** (Co-author). *Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
+
+
 
 <!--
 # High-dimensional Multivariate Mediation:
