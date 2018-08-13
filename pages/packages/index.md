@@ -65,6 +65,7 @@ runGitHub("oliverychen/pfister")
 </font>
 
 <br />
+<br />
 Additional software:
 
 <br />
@@ -138,7 +139,7 @@ The package provides functions that calculate the estimates of the Principal Dir
 <font color="#1122CC">
 <br />
 <br />
-R execution and help functions:
+Execution and help functions:
 <br />
 <br />
 library(devtools)
