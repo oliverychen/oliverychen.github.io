@@ -36,12 +36,11 @@ comments:
 
 - The Bayesian-Laplacian Brain. Zeki and **Chén**. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
+- Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. 2018
+
 - The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. **Nature Communications**. Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J.,
 Holmes A. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
-
-
-- Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Under revision. 
 
 - On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. **Chén** and Jacroux. 2015. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
 

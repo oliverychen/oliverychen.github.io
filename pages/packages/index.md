@@ -48,6 +48,35 @@ The package provides a general method for simultaneous dimensionality reduction 
 <hr>
 
 
+- **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
+
+The software studies the visual and quantitative properties of different interactions and STDP (Spike Timing-Dependent Plasticity) learning window (see Software section of the <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Document]</font></a> for more information).
+
+<font color="#1122CC">
+<br />
+<br />
+Package:	
+<br />
+<br />
+library(shiny)
+<br />
+runGitHub("oliverychen/pfister")
+</font>
+
+<br />
+Additional software:
+
+<br />
+<p class="indented">
+<font color="#1122CC">
+<br />
+<a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
+<br />
+<a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
+</font>
+</p>
+
+<hr>
 
 
 - **Chén O.Y.** (Author and Maintainer). **Behavior Predication via Brain Networks**.
@@ -60,7 +89,7 @@ The package employs positive and negative brain network to predicate behavior vi
 <font color="#1122CC">
 <br />
 <br />
-R execution and help functions:	
+Execution and help functions:	
 <br />
 <br />
 library(devtools)
@@ -83,7 +112,7 @@ help(network.predication)
 <p class="indented">
 
 <font color="#1122CC">
-R execution and help functions:
+Execution and help functions:
 <br />
 <br />
 library(GIFTS)
@@ -95,8 +124,6 @@ help(GIFTS_mean)
 </p>
 
 <hr>
-
-
 
 
 
@@ -130,22 +157,6 @@ help(PDM_2)
 
 <hr>
 
-
-
-
-- **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
-
-
-<p class="indented">
-<font color="#1122CC">
-<br />
-<a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
-<br />
-<a href="{{ site.baseurl }}/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
-</font>
-</p>
-
-<hr>
 
 
 - **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
