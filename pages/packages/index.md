@@ -50,6 +50,7 @@ The package provides a general method for simultaneous dimensionality reduction 
 
 - **Chén O.Y.** (Author and Maintainer). **Spike Timing-Dependent Plasticity**. 
 
+<p class="indented">
 The software studies the visual and quantitative properties of different interactions and STDP (Spike Timing-Dependent Plasticity) learning window (see Software section of the <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Document]</font></a> for more information).
 
 <font color="#1122CC">
@@ -67,7 +68,6 @@ runGitHub("oliverychen/pfister")
 Additional software:
 
 <br />
-<p class="indented">
 <font color="#1122CC">
 <br />
 <a href="{{ site.baseurl }}/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
