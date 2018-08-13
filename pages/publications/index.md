@@ -24,66 +24,64 @@ comments:
 
 ## Book chapters
 
-- Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint. **ICSA Book Series in Statistics**. **Springer.** Gou and **Chén**. 2018. <a href="{{ site.baseurl }}/files/doc/gouchen_icsa2017book_final.pdf"><font color="#1122CC">[Chapter]</font></a>
+- Gou and **Chén**. Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint. **ICSA Book Series in Statistics**. **Springer.** 2018. <a href="{{ site.baseurl }}/files/doc/gouchen_icsa2017book_final.pdf"><font color="#1122CC">[Chapter]</font></a>
 
-- An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. 2013. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+- Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. 2013. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
 ## Recent papers
 
-- The Role of Statistics in Contemporary Brain Science. **Chén**. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
+- **Chén O. Y.**, Cao H, Reinen J, Qian T, Gou J, Cannon TD. Resting-state brain information flow predicts cognitive flexibility in humans.  
 
-- The Bayesian-Laplacian Brain. Zeki and **Chén**. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
+- Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Resting-state brain information flow predicts cognitive flexibility in humans. **Chén O. Y.**, Cao H, Reinen J, Qian T, Gou J, Cannon TD. Under review.
+- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. 2018
 
-- Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. 2018
-
-- The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. **Nature Communications**. Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J.,
-Holmes A. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
+- Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Anderson K., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J., Holmes A. The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. **Nature Communications**. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
-- On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. **Chén** and Jacroux. 2015. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén** and Jacroux. On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. 2015. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- High-dimensional Multivariate Mediation with Application to Neuroimaging Data. **Biostatistics**. **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. 2015. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. High-dimensional Multivariate Mediation with Application to Neuroimaging Data. **Biostatistics**. 2015. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
 
-- The Biological Basis of Mathematical Beauty. Zeki, **Chén**, and Romaya. 2018. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
+- **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
--  Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. Phan, Andreotti, Cooray, **Chén**, De Vos. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
+- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. 2018. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
 
-- Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. 2018.
+- Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE**. Phan, Andreotti, Cooray, **Chén**, De Vos. 2018.
+- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. 2018.
 
--  DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. **IEEE**. Phan, Andreotti, Cooray, **Chén**, De Vos. 2018.
+- Phan, Andreotti, Cooray, **Chén**, De Vos. Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE**. 2018.
 
-- A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, De Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. **IEEE**. 2018.
 
--  Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**. Phan, Andreotti, Cooray, **Chén**, De Vos. 2018.
+- Phan, Andreotti, Cooray, **Chén**, De Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**. 2018.
 
-- [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ). **Chén** and Di. In preparation.
+- **Chén** and Di. [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
 	
-- A Generalized and Drifting Time Corrected Approach Using Wiener-Granger Causality and VAR(p) Process for Detecting High-Dimensional Directed Functional Communication between Brain Regions and Predicting Behavior. **Chén**.
+- **Chén**. A Generalized and Drifting Time Corrected Approach Using Wiener-Granger Causality and VAR(p) Process for Detecting High-Dimensional Directed Functional Communication between Brain Regions and Predicting Behavior. 
 	
 - The Generative Representational Similarity Analysis. Gershman S., **Chén O. Y.**, Konkle T. In preparation.
 
-- Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics* 33 (1), 63. Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. 2013.
+- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics* 33 (1), 63. 2013.
 	
-- Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. 2012.
+- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. 2012.
 
 
 ## Unpublished Reviews, Essays, Handbooks, and Notes
 
-- Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
-(Pfister and Gerstner, 2006). **Chén O. Y.**  <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
+(Pfister and Gerstner, 2006).  <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Link]</font></a>
 
-- A Handbook to Conquer Casella and Berger Book in Ten Days. **Chén O. Y.** <a href="{{ site.baseurl }}/files/doc/CB.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** A Handbook to Conquer Casella and Berger Book in Ten Days. <a href="{{ site.baseurl }}/files/doc/CB.pdf"><font color="#1122CC">[Link]</font></a>
 
-- A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs. **Chén O. Y.** <a href="{{ site.baseurl }}/files/doc/ED.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs. <a href="{{ site.baseurl }}/files/doc/ED.pdf"><font color="#1122CC">[Link]</font></a>
 
-- Notes for Time Series Data Analysis. **Chén O. Y.** <a href="{{ site.baseurl }}/files/doc/TS.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** Notes for Time Series Data Analysis. <a href="{{ site.baseurl }}/files/doc/TS.pdf"><font color="#1122CC">[Link]</font></a>
 
 <!--
 ## Others
