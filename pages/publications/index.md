@@ -35,7 +35,7 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén O. Y.**<sup>*</sup>, Cao H, Reinen J, Qian T, Gou J, Cannon TD. Resting-state brain information flow predicts cognitive flexibility in humans.  
+- **Chén O. Y.**<sup>*</sup>, Cao H.<sup>*</sup>, Reinen J., Qian T., Gou J., Cannon T.<sup>*</sup> Resting-state brain information flow predicts cognitive flexibility in humans.  
 
 - Zeki<sup>*</sup> and **Chén**<sup>*</sup>. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
