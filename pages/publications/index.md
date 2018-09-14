@@ -31,13 +31,12 @@ comments:
 
 ## Recent papers
 
-<sup>*</sup>: corresponding author(s).
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén O. Y.**<sup>*</sup>, Cao H.<sup>*</sup>, Reinen J., Qian T., Gou J., Cannon T.<sup>*</sup> Resting-state brain information flow predicts cognitive flexibility in humans.  
+- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. 
 
-- Zeki<sup>*</sup> and **Chén**<sup>*</sup>. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
+- Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. 2018
 
@@ -51,7 +50,7 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Zeki<sup>*</sup>, **Chén**<sup>*</sup>, and Romaya. The Biological Basis of Mathematical Beauty. 2018. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
+- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. 2018. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
