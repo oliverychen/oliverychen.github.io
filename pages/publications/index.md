@@ -38,7 +38,8 @@ comments:
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. 2018
+- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
+<a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
 
 - Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Anderson K., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J., Holmes A. The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. **Nature Communications**. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Material]</font></a>
@@ -54,7 +55,7 @@ comments:
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. 2018.
+- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_et al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE**. 2018.
 
