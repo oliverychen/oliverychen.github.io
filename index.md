@@ -70,7 +70,7 @@ I work on research in statistics and neuroscience. With equal passion I write [*
 
 <br>
 My previous training was in Anatomy and Developmental Biology (Visiting
-Lecturer, UCL), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics (Northwestern), and Mathematical Statistics (Washington). Before that, I studied very basic Economics and Finance in university.
+Lecturer, UCL), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics (Northwestern), and Mathematical Statistics (Washington). Before that, I studied economics and finance in university.
 
 <br>
 In another life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 
