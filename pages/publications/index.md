@@ -36,7 +36,7 @@ comments:
 
 - **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. 
 
-- **Chén O. Y.**, Phan H., Qian T., and De Vos M. Studying the Causal Effect of Priming.
+- **Chén O. Y.**, Phan H., Qian T., and De Vos M. The Causal Effect of Priming.
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
