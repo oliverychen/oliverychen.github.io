@@ -57,7 +57,7 @@ comments:
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. **IEEE Transactions on Biomedical Engineering**. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
 
