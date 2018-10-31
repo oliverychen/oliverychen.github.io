@@ -55,6 +55,8 @@ comments:
 
 - Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. 2018. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
 
+- Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018
+
 - Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. **IEEE Transactions on Biomedical Engineering**. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
