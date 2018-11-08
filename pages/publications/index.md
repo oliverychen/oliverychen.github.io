@@ -53,9 +53,11 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. 2018. <a href="https://www.biorxiv.org/content/biorxiv/early/2018/07/11/367185.full.pdf"><font color="#1122CC">[Paper]</font></a> 
+- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. 2018. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
 
-- Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018
+- Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. 2018. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
+
+- Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018. <a href="https://www.groundai.com/project/beyond-equal-length-snippets-how-long-is-sufficient-to-recognize-an-audio-scene/"><font color="#1122CC">[Paper]</font></a>  
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a>
 
