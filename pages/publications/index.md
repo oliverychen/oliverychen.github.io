@@ -67,7 +67,7 @@ comments:
 
 - Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. Automatic Sleep Stage Classification: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE**. 2018.
+- Phan, Andreotti, Cooray, **Chén**, De Vos. Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE Engineering in Medicine and Biology Society**. 2018.
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. **IEEE**. 2018.
 
@@ -82,6 +82,65 @@ comments:
 - Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics* 33 (1), 63. 2013.
 	
 - Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. 2012.
+
+
+## Lectures and talks
+
+**I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
+
+
+- Roche Innovation Center. Assessing Parkinson’s Disease Using Smartphones. Basel, Switzerland. September,
+2018
+
+- Mathematical Institute, University of Oxford. Building Functional Biomarkers. Oxford, UK. February,
+2018
+
+- University of Oxford. Institute of Biomedical Engineering. Oxford, UK. February, 2018
+
+- Yale University. Cognitive Neuroscience Laboratory. New Haven. CT. June, 2017
+
+- Bernstein Center for Computational Neuroscience. Berlin, Germany. August, 2016.
+
+- Yale University. Department of Psychology, New Haven, CT. July, 2016.
+
+- Si-Shui Lecture. He University and He Eye Hospital. Shen-Yang, China. September, 2016.
+
+- Stanford University. Department of Psychology, Serra Mall, Stanford, CA. January, 2016.
+
+- University of Oxford. MRC Brain Network Dynamics Unit, Oxford, United Kingdom. December,
+2015.
+
+- University of Cambridge. Engineering Department, Cambridge, United Kingdom. December, 2015.
+
+- The 8th International Conference of the ERCIM WG on Computational and Methodological Statistics,
+London, United Kingdom. December, 2015.
+
+- Spiegelman Student Finalist Speaker. The 142nd Annual Meeting and Exposition of the American Public
+Health Association, Chicago, IL. October, 2015.
+
+- ETH Zürich and University of Zürich. Institut für Neuroinformatik, Zürich, Switzerland, August,
+2015.
+
+- Washington State University. Mathematics Colloquium, Department of Mathematics and Statistics,
+Pullman,WA. August, 2015.
+
+
+## Honors an awards 
+
+- Si-Shui Lecture. 
+
+- Joseph Zeger Award.
+
+- Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.
+
+- Fritz Hoffmann-La Roche Scholarship.
+
+- Statistical and Applied Mathematical Sciences Institute Fund.
+
+- Award of Excellence for Outstanding Performance and Lasting Contributions as a Teaching Assistant.
+
+- First Place. Student Research Competition, the Applied Public Health Statistics Section, the American
+Public Health Association.
 
 
 ## Unpublished Reviews, Essays, Handbooks, and Notes
