@@ -89,11 +89,9 @@ comments:
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 
 
-- Roche Innovation Center. Assessing Parkinson’s Disease Using Smartphones. Basel, Switzerland. September,
-2018
+- Roche Innovation Center. Basel, Switzerland. September, 2018
 
-- Mathematical Institute, University of Oxford. Building Functional Biomarkers. Oxford, UK. February,
-2018
+- Mathematical Institute, University of Oxford. Oxford, UK. February, 2018
 
 - University of Oxford. Institute of Biomedical Engineering. Oxford, UK. February, 2018
 
