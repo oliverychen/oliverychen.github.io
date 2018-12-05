@@ -123,7 +123,7 @@ Health Association, Chicago, IL. October, 2015.
 Pullman,WA. August, 2015.
 
 
-## Honors an awards 
+## Honors and awards 
 
 - Si-Shui Lecture. 
 
