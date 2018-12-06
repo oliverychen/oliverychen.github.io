@@ -133,6 +133,8 @@ Pullman,WA. August, 2015.
 
 - Fritz Hoffmann-La Roche Scholarship.
 
+- Univeristy College London Visiting Lectureship.
+
 - Yale University Research Fellowship.
 
 - Johns Hopkins University Bloomberg School of Public Health Full Scholarship.
