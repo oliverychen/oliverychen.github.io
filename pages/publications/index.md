@@ -133,6 +133,12 @@ Pullman,WA. August, 2015.
 
 - Fritz Hoffmann-La Roche Scholarship.
 
+- Yale University Research Fellowship.
+
+- Johns Hopkins University Bloomberg School of Public Health Full Scholarship.
+
+- Northwestern University Full Scholarship.
+
 - Statistical and Applied Mathematical Sciences Institute Fund.
 
 - Award of Excellence for Outstanding Performance and Lasting Contributions as a Teaching Assistant.
