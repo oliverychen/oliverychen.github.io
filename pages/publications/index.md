@@ -131,17 +131,11 @@ Pullman,WA. August, 2015.
 
 - Louis I. and Thomas D. Dublin Award for the Advancement of Epidemiology and Biostatistics.
 
-- Fritz Hoffmann-La Roche Scholarship.
-
 - Univeristy College London Visiting Lectureship.
 
-- Yale University Research Fellowship.
+- Fritz Hoffmann-La Roche Award.
 
-- Johns Hopkins University Bloomberg School of Public Health Full Scholarship.
-
-- Northwestern University Full Scholarship.
-
-- Statistical and Applied Mathematical Sciences Institute Fund.
+- Statistical and Applied Mathematical Sciences Institute Award.
 
 - Award of Excellence for Outstanding Performance and Lasting Contributions as a Teaching Assistant.
 
