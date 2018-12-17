@@ -42,6 +42,8 @@ comments:
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
+- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. **Frontiers in Human Neuroscience**. 2018. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
+
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a><a href="https://scitechdaily.com/yale-scientists-detect-early-warning-sign-of-psychosis"><font color="#1122CC">[News]</font></a><a href="https://reliawire.com/psychosis-neural-signature/"><font color="#1122CC">[Blog]</font></a> 
 
@@ -54,8 +56,6 @@ comments:
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
-
-- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. **Frontiers in Human Neuroscience**. 2018. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
 
 - Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. 2018. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
 
