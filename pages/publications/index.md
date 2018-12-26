@@ -89,7 +89,7 @@ comments:
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 
 
-- John von Neumann Institute. HCMC, Vietnam. December, 2018
+- John von Neumann Institute. Ho Chi Minh City, Vietnam. December, 2018
 
 - Roche Innovation Center. Basel, Switzerland. September, 2018
 
