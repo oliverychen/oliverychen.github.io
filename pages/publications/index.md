@@ -34,7 +34,7 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019.
+- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., De Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019.
 
 - **Chén O. Y.**, Phan H., Qian T., and De Vos M. The Causal Effect of Priming.
 
