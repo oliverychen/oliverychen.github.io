@@ -32,13 +32,13 @@ comments:
 ## Recent papers
 
 
-- **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
-
 - **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., De Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019.
+
+- **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - **Chén O. Y.**, Phan H., Qian T., and De Vos M. The Causal Effect of Priming.
 
-- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Lindemann M., Gossens C., and De Vos M. Assessing and Monitoring Parkinson’s Disease Using Smartphones.
+- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and De Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
