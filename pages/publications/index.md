@@ -57,9 +57,11 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. 2018. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
+- Phan, **Chén**, Koch, Mertins, and De Vos. (2019) Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. **EMBC (IEEE Engineering in Medicine and Biology Society)**.
 
-- Phan H., **Chén**, Kochy, Phamz, McLoughlinz, Mertinsy, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
+- Phan, **Chén**, Koch, Phamz, McLoughlinz, Mertins, and De Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. 2018. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
+
+- Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a>
 
