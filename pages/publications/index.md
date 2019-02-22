@@ -29,6 +29,11 @@ comments:
 - Dasgupta, N., **Chén O. Y.** Basu, R., and Daoud S.S. An Application of Unsupervised Learning Methods to Proteomic Data from Colon Cancer. **Contemporary Topics in Mathematics and Statistics with Applications**, Chapter 9 (1): 170-184. 2013. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
+## Book review
+
+- Book review of <i>Big Data in Omics and Imaging: Integrated Analysis and Causal Inference</i> by M. Xiong. **The Journal of the American Statistical Association**.
+
+
 ## Recent papers
 
 
