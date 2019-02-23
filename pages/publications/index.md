@@ -31,7 +31,7 @@ comments:
 
 ## Book review
 
-- Book review of <i>Big Data in Omics and Imaging: Integrated Analysis and Causal Inference</i> by M. Xiong. **The Journal of the American Statistical Association** (2019 +).
+- Book review of <i>Big Data in Omics and Imaging: Integrated Analysis and Causal Inference</i> by M. Xiong. Invited by **The Journal of the American Statistical Association** (2019 +).
 
 
 ## Recent papers
