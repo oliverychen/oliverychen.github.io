@@ -806,7 +806,8 @@ The readings have helped me a great deal; I hope they could help you, too. And
 <br>
 <br>
 - Sir Winston Leonard Spencer-Churchill
-</i></span>
+</i>
+</span>
 
 
 <hr>
