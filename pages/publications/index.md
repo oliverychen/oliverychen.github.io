@@ -37,7 +37,7 @@ comments:
 ## Recent papers
 
 
-- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., De Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019.
+- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., De Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
@@ -72,7 +72,7 @@ comments:
 
 - Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
 
 - Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. **IEEE Transactions on Biomedical Engineering**. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
