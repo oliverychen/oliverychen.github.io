@@ -41,6 +41,8 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
+- **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and De Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
+
 - **Chén O. Y.**, Phan H., Qian T., and De Vos M. The Causal Effect of Priming.
 
 - **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and De Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
