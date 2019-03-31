@@ -64,6 +64,8 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
+- Phan, **Chén**, Pham, Koch, De Vos, McLoughlin, and Mertins. (2019) Spatial-Temporal Attention Pooling for Audio Scene Classification. **Interspeech**.
+
 - Phan, **Chén**, Koch, Mertins, and De Vos. (2019) Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. **EUSIPCO (IEEE European Association for Signal Processing)**.
 
 - Phan, **Chén**, Koch, Mertins, and De Vos. (2019) Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. **EMBC (IEEE Engineering in Medicine and Biology Society)**.
