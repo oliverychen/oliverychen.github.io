@@ -108,7 +108,7 @@ I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy;
 <br />
 - <i> Suite No.1 in G Major</i> (BWV 1007) Johann Sebastian Bach
 <br />
-- <i> Libiamo ne' lieti calici </i>, from <i>La traviata</i> (based on La Dame aux Camélias (Alexandre Dumas, fils, 1852)) by Giuseppe Verdi
+- <i> Libiamo ne' lieti calici</i>, from <i>La traviata</i> (based on La Dame aux Camélias (Alexandre Dumas, fils, 1852)) by Giuseppe Verdi
 <br/>
 Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met with applause and cheering at the end; but in the second act, the audience began to turn against the performance, especially after the singing of the baritone Felice Varesi and the tenor Lodovico Graziani. The next day, Verdi wrote to his friend Emanuele Muzio in what has now become perhaps his most famous letter: "La traviata last night a failure. Was the fault mine or the singers'? Time will tell."
 <br />
