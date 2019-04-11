@@ -116,8 +116,8 @@ Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met 
 <br/>
 - <i> ’O sole mio </i> (my sunshine), composed by Eduardo di Capua and Alfredo Mazzucchi (Lyricist: Giovanni Capurro)
 <br/>
-<br/>
 - <i> Mariage d'amour </i>, by Paul de Senneville.
+<br/>
 <br/>
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
 <br />
