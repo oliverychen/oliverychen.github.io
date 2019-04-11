@@ -112,7 +112,7 @@ I played *trombone*, *trumpet*, and *Chinese Sornā*; I love Chopin and Debussy;
 <br/>
 Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met with applause and cheering at the end; but in the second act, the audience began to turn against the performance, especially after the singing of the baritone Felice Varesi and the tenor Lodovico Graziani. The next day, Verdi wrote to his friend Emanuele Muzio in what has now become perhaps his most famous letter: "La traviata last night a failure. Was the fault mine or the singers'? Time will tell."
 <br />
-- <i> La donna è mobile </i>, from Act 3 <i>Rigoletto/i> by Giuseppe Verdi
+- <i> La donna è mobile </i>, from Act 3 <i>Rigoletto </i> by Giuseppe Verdi
 <br/>
 - <i> ’O sole mio </i> (my sunshine), composed by Eduardo di Capua and Alfredo Mazzucchi (Lyricist: Giovanni Capurro)
 <br/>
