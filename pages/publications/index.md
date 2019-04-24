@@ -31,7 +31,7 @@ comments:
 
 ## Book review
 
-- **Chén**. Book review of <i>Big Data in Omics and Imaging: Integrated Analysis and Causal Inference</i> by M. Xiong. Invited by **The Journal of the American Statistical Association** (2019 +).
+- **Chén**. The Rise of Big-data Statistical Science. Book review of <i>Big Data in Omics and Imaging: Integrated Analysis and Causal Inference</i> by M. Xiong. Invited by **The Journal of the American Statistical Association** (2019 +).
 
 
 ## Recent papers
