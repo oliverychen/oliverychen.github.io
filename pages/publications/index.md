@@ -64,6 +64,8 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
+- Phan, **Chén**, Koch, Lu, McLoughlin, Mertins, De Vos. Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning. Under review.
+
 
 - Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
 
