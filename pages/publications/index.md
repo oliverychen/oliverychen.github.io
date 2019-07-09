@@ -37,15 +37,15 @@ comments:
 ## Recent papers
 
 
-- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., De Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., de Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. **Scientific Reports**. 2019. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and De Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
+- **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and de Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
 
-- **Chén O. Y.**, Phan H., Qian T., and De Vos M. The Causal Effect of Priming.
+- **Chén O. Y.**, Phan H., Qian T., and de Vos M. The Causal Effect of Priming.
 
-- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and De Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
+- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
@@ -64,33 +64,33 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan, **Chén**, Koch, Lu, McLoughlin, Mertins, De Vos. Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning. Under review.
+- Phan, **Chén**, Koch, Lu, McLoughlin, Mertins, and de Vos. Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning. Under review.
 
 
 - Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
 
 
-- Phan, **Chén**, Pham, Koch, De Vos, McLoughlin, and Mertins. (2019) Spatial-Temporal Attention Pooling for Audio Scene Classification. **Interspeech**.
+- Phan, **Chén**, Pham, Koch, de Vos, McLoughlin, and Mertins. (2019) Spatial-Temporal Attention Pooling for Audio Scene Classification. **Interspeech**.
 
-- Phan, **Chén**, Koch, Mertins, and De Vos. (2019) Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. **EUSIPCO (IEEE European Association for Signal Processing)**.
+- Phan, **Chén**, Koch, Mertins, and de Vos. (2019) Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. **EUSIPCO (IEEE European Association for Signal Processing)**.
 
-- Phan, **Chén**, Koch, Mertins, and De Vos. (2019) Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. **EMBC (IEEE Engineering in Medicine and Biology Society)**.
+- Phan, **Chén**, Koch, Mertins, and de Vos. (2019) Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. **EMBC (IEEE Engineering in Medicine and Biology Society)**.
 
-- Phan, **Chén**, Koch, Phamz, McLoughlinz, Mertins, and De Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. 2018. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
+- Phan, **Chén**, Koch, Phamz, McLoughlinz, Mertins, and de Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. 2018. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
 
-- Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and De Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
+- Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and de Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? 2018. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. 2018. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. **IEEE Transactions on Biomedical Engineering**. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. **IEEE Transactions on Biomedical Engineering**. 2018. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. **Schizophrenia Bulletin**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE Engineering in Medicine and Biology Society**. 2018.
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks. **IEEE Engineering in Medicine and Biology Society**. 2018.
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. **IEEE**. 2018.
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. **IEEE**. 2018.
 
-- Phan, Andreotti, Cooray, **Chén**, De Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**. 2018.
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**. 2018.
 
 - **Chén** and Di. [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
 	
