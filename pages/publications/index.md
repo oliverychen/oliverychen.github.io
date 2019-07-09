@@ -64,6 +64,10 @@ comments:
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
+
+- Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
+
+
 - Phan, **Chén**, Pham, Koch, De Vos, McLoughlin, and Mertins. (2019) Spatial-Temporal Attention Pooling for Audio Scene Classification. **Interspeech**.
 
 - Phan, **Chén**, Koch, Mertins, and De Vos. (2019) Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. **EUSIPCO (IEEE European Association for Signal Processing)**.
