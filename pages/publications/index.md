@@ -43,21 +43,21 @@ comments:
 
 - **Chén**. The Role of Statistics in Contemporary Brain Science. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and de Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
-
-- **Chén O. Y.**, Phan H., Qian T., and de Vos M. The Causal Effect of Priming.
-
-- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
-
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. **Nature Communications**. 2018. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a><a href="https://scitechdaily.com/yale-scientists-detect-early-warning-sign-of-psychosis"><font color="#1122CC">[News]</font></a><a href="https://reliawire.com/psychosis-neural-signature/"><font color="#1122CC">[Blog]</font></a> 
 
 - Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Anderson K., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J., Holmes A. The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. **Nature Communications**. 2018. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a>
 
-- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. **Frontiers in Human Neuroscience**. 2018. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
-
 - **Chén** and Jacroux. On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. **Communications in Statistics - Theory and Methods**. 2015. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
+
+- **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and de Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
+
+- **Chén O. Y.**, Phan H., Qian T., and de Vos M. The Causal Effect of Priming.
+
+- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
+
+- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. **Frontiers in Human Neuroscience**. 2018. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
 
 - **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. High-dimensional Multivariate Mediation with Application to Neuroimaging Data. **Biostatistics**. 2015. <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
@@ -66,9 +66,7 @@ comments:
 
 - Phan, **Chén**, Koch, Lu, McLoughlin, Mertins, and de Vos. Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning. Under review.
 
-
 - Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
-
 
 - Phan, **Chén**, Pham, Koch, de Vos, McLoughlin, and Mertins. (2019) Spatial-Temporal Attention Pooling for Audio Scene Classification. **Interspeech**.
 
