@@ -32,7 +32,7 @@ comments:
 
 - Gou and **Chén**. Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint. In <i>ICSA Book Series in Statistics</i>. **Springer**: Berlin, Germany, **2018**. <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf"><font color="#1122CC">[Chapter]</font></a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook"><font color="#1122CC">[Book]</font></a>
 
-- Dasgupta, **Chén**, Basu, and Daoud. Unsupervised Learning Methods to Proteomic Data from Colon Cancer. In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. **2013**. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+- Dasgupta, **Chén**, Basu, and Daoud. Unsupervised Learning Methods to Proteomic Data from Colon Cancer. In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, **2013**. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
 ## Papers
