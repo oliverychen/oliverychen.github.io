@@ -24,23 +24,23 @@ comments:
 
 ## Reviews
 
-- **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.<i> **2019**, 9, 194. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.</i> **2019**, 9, 194. <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- **Chén. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association<i> **2019**.
+- **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**.
 
 ## Book chapters
 
-- Gou and **Chén**. Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint. In <i>ICSA Book Series in Statistics<i>. **Springer**: Berlin, Germany, **2018**. <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf"><font color="#1122CC">[Chapter]</font></a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook"><font color="#1122CC">[Book]</font></a>
+- Gou and **Chén**. Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint. In <i>ICSA Book Series in Statistics</i>. **Springer**: Berlin, Germany, **2018**. <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf"><font color="#1122CC">[Chapter]</font></a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook"><font color="#1122CC">[Book]</font></a>
 
-- Dasgupta, **Chén**, Basu, and Daoud. Unsupervised Learning Methods to Proteomic Data from Colon Cancer. In <i>Contemporary Topics in Mathematics and Statistics with Applications<i>. **2013**. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+- Dasgupta, **Chén**, Basu, and Daoud. Unsupervised Learning Methods to Proteomic Data from Colon Cancer. In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. **2013**. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
 ## Papers
 
 
-- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., de Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. <i>Scientific Reports<i> **2019**, 9, 3879. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., de Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. <i>Scientific Reports</i> **2019**, 9, 3879. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience<i> **2019**. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
+- Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and de Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
 
@@ -48,17 +48,17 @@ comments:
 
 - **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
 
-- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. <i>Nature Communications<i> **2018**, 9, 3836. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
+- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. <i>Nature Communications</i>**2018**, 9, 3836. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a><a href="https://scitechdaily.com/yale-scientists-detect-early-warning-sign-of-psychosis"><font color="#1122CC">[News]</font></a><a href="https://reliawire.com/psychosis-neural-signature/"><font color="#1122CC">[Blog]</font></a> 
 
-- Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Anderson K., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J., Holmes A. The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. <i>Nature Communications<i> **2018**, 9, 1157. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
+- Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Anderson K., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J., Holmes A. The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. <i>Nature Communications</i> **2018**, 9, 1157. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a>
 
-- **Chén** and Jacroux. On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. <i>Communications in Statistics - Theory and Methods<i> **2015**, 44, 2473-2506. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén** and Jacroux. On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. <i>Communications in Statistics - Theory and Methods</i> **2015**, 44, 2473-2506. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. <i>Frontiers in Human Neuroscience<i> **2018**, 12, 467. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
+- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. <i>Frontiers in Human Neuroscience</i> **2018**, 12, 467. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
 
-- **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. High-dimensional Multivariate Mediation with Application to Neuroimaging Data. <i>Biostatistics<i> **2015**, 19, 121–136 <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
+- **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. High-dimensional Multivariate Mediation with Application to Neuroimaging Data. <i>Biostatistics</i> **2015**, 19, 121–136 <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
@@ -67,25 +67,25 @@ comments:
 
 - Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering<i> **2018**, 27, 400-410. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> **2018**, 27, 400-410. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <i>IEEE Transactions on Biomedical Engineering<i> 2018, 66, 1285-1296. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <i>IEEE Transactions on Biomedical Engineering</i> 2018, 66, 1285-1296. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan, **Chén**, Pham, Koch, de Vos, McLoughlin, and Mertins. Spatial-Temporal Attention Pooling for Audio Scene Classification. <i>Interspeech<i> **2019**.
+- Phan, **Chén**, Pham, Koch, de Vos, McLoughlin, and Mertins. Spatial-Temporal Attention Pooling for Audio Scene Classification. <i>Interspeech</i> **2019**.
 
-- Phan, **Chén**, Koch, Mertins, and de Vos. Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. <i>EUSIPCO (IEEE European Association for Signal Processing<i>, **2019**.
+- Phan, **Chén**, Koch, Mertins, and de Vos. Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. <i>EUSIPCO (IEEE European Association for Signal Processing</i>, **2019**.
 
-- Phan, **Chén**, Koch, Mertins, and de Vos. Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. <i>IEEE Engineering in Medicine and Biology Society<i> **2019**
+- Phan, **Chén**, Koch, Mertins, and de Vos. Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. <i>IEEE Engineering in Medicine and Biology Society</i> **2019**
 
-- Phan, **Chén**, Koch, Phamz, McLoughlinz, Mertins, and de Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. In <i>ICASSP<i> 2018, 51-55. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
+- Phan, **Chén**, Koch, Phamz, McLoughlinz, Mertins, and de Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. In <i>ICASSP</i> 2018, 51-55. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
 
 - Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and de Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? **2018**. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
 
-- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. <i>Schizophrenia Bulletin<i> **2018**, 45, 924-933. <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
+- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. <i>Schizophrenia Bulletin</i> **2018**, 45, 924-933. <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks. In <I>IEEE Engineering in Medicine and Biology Society (EMBC)<I>. **2018**, 1452-1455.
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks. In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>. **2018**, 1452-1455.
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. <I>IEEE Engineering in Medicine and Biology Society (EMBC)<I>. **2018**, 453-456.
+- Phan, Andreotti, Cooray, **Chén**, and de Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>. **2018**, 453-456.
 
 - Phan, Andreotti, Cooray, **Chén**, and de Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**. **2018**.
 
