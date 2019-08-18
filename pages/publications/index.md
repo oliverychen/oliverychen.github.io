@@ -28,8 +28,7 @@ comments:
 
 - **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**.
 
-- Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="http://discovery.ucl.ac.uk/1557750/1/Zeki_The%20Bayesian-Laplacian%20Brain.pdf"><font color="#1122CC">[Paper]</font></a>
-
+- Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="{{ site.baseurl }}/files/doc/BB.pdf"><font color="#1122CC">[Paper]</font></a>
 
 ## Book chapters
 
