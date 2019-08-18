@@ -73,7 +73,7 @@ My training was in Cell and Developmental Biology (Visiting
 Lecturer, University College London), Psychology and Neuroscience (Yale), Biostatistics (Johns Hopkins), Theoretical Statistics (Northwestern), and Mathematical Statistics (Washington). I studied economics and finance in university.
 
 <br>
-In another life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 
+In another rather amatuer life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 
 
 <!--I am passionate about developing my knowledge to understand the unknowns
 of the human brain and its pathology. I am especially interested in being an advocate to
