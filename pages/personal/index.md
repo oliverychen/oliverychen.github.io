@@ -37,7 +37,7 @@ Watercolor and acrylic on canvas
 ![x](/images/Baltimore_2.jpg)
 
 <br />
-**L'horizon du port intérieur de Baltimore**
+**L'horizon du Port Intérieur de Baltimore**
 <br>
 Watercolor and acrylic on canvas, 2014. 
 <br />
@@ -49,7 +49,7 @@ Baltimore.
 <br />
 <br />
 
-
+<br />
 ![x](/images/Venice.JPG)
 
 <br />
@@ -63,6 +63,7 @@ Bowie.
 <br />
 <br />
 
+<br />
 ![x](/images/Taibai.jpg)
 
 <br />
@@ -85,7 +86,7 @@ Media Appearance
 -->
 
   
-
+<br />
 ![x](/images/Pondering_the_Imponderables.jpg)
 
 <br />
