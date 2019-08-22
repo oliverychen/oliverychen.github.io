@@ -38,7 +38,7 @@ Watercolor and acrylic on canvas
 
 <br />
 **L'horizon du port intérieur de Baltimore**
-<br />
+
 2014. Watercolor and acrylic on canvas,
 <br />
 45.72 x 60.96 cm.
@@ -47,34 +47,35 @@ National Arts Program,
 <br />
 Baltimore.
 <br />
-
+<br />
 
 
 ![x](/images/Venice.JPG)
 
 <br />
 **Ristorante Trattoria Sempione**
-<br />
+
+
 2015 -. Oil on canvas,
 <br />
 45.72 x 60.96 cm.
 <br />
 Bowie.
 <br />
-
+<br />
 
 ![x](/images/Taibai.jpg)
 
 <br />
 **Tai Bai**
-<br />
+
 2006. Ink on raw Xuan paper,
 <br />
 100 x 100 cm.
 <br />
 With private collector.
 <br />
-
+<br />
 <!--
 ![x](/images/Taibai_2.png)
 
@@ -89,14 +90,14 @@ Media Appearance
 
 <br />
 **Pondering the Imponderables**
-<br />
+
 2006. Ink on raw Xuan paper,
 <br />
 100 x 100 cm
 <br />
 With private collector.
 <br />
-
+<br />
 
 <!--
 
@@ -136,5 +137,6 @@ Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met 
 <br/>
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
 <br />
--->
+
 ---
+-->
