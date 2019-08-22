@@ -37,7 +37,7 @@ Watercolor and acrylic on canvas
 ![x](/images/Baltimore_2.jpg)
 
 <br />
-**L'horizon du Port Intérieur de Baltimore**
+**L'horizon du port intérieur de Baltimore**
 <br>
 Watercolor and acrylic on canvas, 2014. 
 <br />
