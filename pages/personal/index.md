@@ -47,7 +47,6 @@ National Arts Program,
 <br />
 Baltimore.
 <br />
-<br />
 
 
 
@@ -62,7 +61,6 @@ Baltimore.
 <br />
 Bowie.
 <br />
-<br />
 
 
 ![x](/images/Taibai.jpg)
@@ -75,7 +73,6 @@ Bowie.
 100 x 100 cm.
 <br />
 With private collector.
-<br />
 <br />
 
 <!--
@@ -98,7 +95,6 @@ Media Appearance
 100 x 100 cm
 <br />
 With private collector.
-<br />
 <br />
 
 
