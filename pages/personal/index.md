@@ -92,7 +92,7 @@ Media Appearance
 <br />
 **Pondering the Imponderables**
 <br>
-Ink on raw Xuan paper. 2006.
+Ink on raw Xuan paper, 2006.
 <br />
 100 x 100 cm
 <br />
