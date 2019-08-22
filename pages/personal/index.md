@@ -33,6 +33,7 @@ Watercolor and acrylic on canvas
 <br />
 -->
 
+
 ![x](/images/Baltimore_2.jpg)
 
 <br />
