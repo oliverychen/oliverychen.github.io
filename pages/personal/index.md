@@ -20,46 +20,9 @@ comments:
 
 </script>
 
-## Painting
+## Paintings
 
-I paint *Gōng-Bi* (工筆) style *watercolor* (aquarelle); I also enjoy *oil painting*. Here are some of my paintings.
-
-#### Tai Bai
-
-![x](/images/Taibai.jpg)
-
-<br />
-Date painted: 2006
-<br />
-Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
-<br />
-Technique: Gong-bi (工筆)
-<br />
-
-![x](/images/Taibai_2.png)
-
-Media Appearance
-<br />
-<br />
-
-
-  
-#### Pondering the Imponderables
-
-
-![x](/images/Pondering_the_Imponderables.jpg)
-
-<br />
-Date painted: 2006
-<br />
-Ink on raw Xuan paper (宣紙), approx. 100 x 100 cm
-<br />
-Technique: Gong-bi (工筆)
-<br />
-<br />
-
-#### L'horizon du port intérieur de Baltimore
-
+<!--
 ![x](/images/Baltimore.jpg)
 
 <br />
@@ -68,22 +31,77 @@ Date painted: 2014
 Watercolor and acrylic on canvas
 <br />
 <br />
+-->
 
 ![x](/images/Baltimore_2.jpg)
 
 <br />
-On Exhibition: Baltimore, MD. (2015) Sponsored by the NAP (National Arts Program) 
+**L'horizon du port intérieur de Baltimore**
+<br />
+2014. Watercolor and acrylic on canvas,
+<br />
+45.72 x 60.96 cm.
+<br />
+National Arts Program,
+<br />
+Baltimore.
 <br />
 <br />
 
-#### Ristorante Trattoria Sempione 
+
+
 ![x](/images/Venice.JPG)
-<br />
-<br />
-Date painted: In progress
-<br />
-Oil on canvas, approx. 8 by 12 in.
 
+<br />
+**Ristorante Trattoria Sempione**
+<br />
+2015 -. Oil on canvas,
+<br />
+45.72 x 60.96 cm.
+<br />
+Bowie.
+<br />
+<br />
+
+
+![x](/images/Taibai.jpg)
+
+<br />
+**Tai Bai**
+<br />
+2006. Ink on raw Xuan paper,
+<br />
+100 x 100 cm.
+<br />
+With private collector.
+<br />
+<br />
+
+<!--
+![x](/images/Taibai_2.png)
+
+Media Appearance
+<br />
+<br />
+-->
+
+  
+
+![x](/images/Pondering_the_Imponderables.jpg)
+
+<br />
+**Pondering the Imponderables**
+<br />
+2006. Ink on raw Xuan paper,
+<br />
+100 x 100 cm
+<br />
+With private collector.
+<br />
+<br />
+
+
+<!--
 
 ## Classical Music
 
@@ -121,4 +139,5 @@ Historical note (from Wikipedia): The first act (of <i>La traviata</i>) was met 
 <br/>
 [![x](/images/Horowitz.png)](https://www.youtube.com/watch?v=XU_ccvjxq6o "Kinderszenen")
 <br />
+-->
 ---
