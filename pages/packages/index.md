@@ -33,16 +33,17 @@ comments: true
 - **Chén O.Y.** (Author and Maintainer). **Generalized Populaton Value Decomposition (gPVD)**. 
 
 <p class="indented">
-The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The package contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The codes are based upon the generalized population value decomposition (gPVD) developed in by Chén et al. (see <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>), which extends the population value decomposition (PVD) methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case. 
+The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The package contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The codes are based upon the generalized population value decomposition (gPVD) developed in by Chén et al. (see <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>), which was inspired by and extended the population value decomposition (PVD) method (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790). 
 
 <br />
 <br />
-<font color="#1122CC">Package source (click to download):</font>
+<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
 
 <br />
 <br />
+<!--
 <a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
-
+-->
 </p>
 
 <hr>
@@ -90,6 +91,9 @@ The package employs positive and negative brain network to predicate behavior vi
 <font color="#1122CC">
 <br />
 <br />
+<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
+
+<!--
 Execution and help functions:	
 <br />
 <br />
@@ -101,6 +105,7 @@ library(network.predication)
 <br />
 help(network.predication)
 </font>
+-->
 
 </p>
 
@@ -112,6 +117,11 @@ help(network.predication)
 
 <p class="indented">
 
+<br />
+<br />
+<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
+
+<!--
 <font color="#1122CC">
 Execution and help functions:
 <br />
@@ -123,6 +133,7 @@ help(GIFTS_fpca)
 help(GIFTS_mean)
 </font>
 </p>
+-->
 
 <hr>
 
@@ -135,7 +146,11 @@ help(GIFTS_mean)
 The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
 
+<br />
+<br />
+<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
 
+<!--
 <font color="#1122CC">
 <br />
 <br />
@@ -154,13 +169,14 @@ help(PDM_1)
 <br />
 help(PDM_2)
 </font>
+-->
 </p>
 
 <hr>
 
 
 
-- **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.
+- **Chén O.Y.** (Co-author). **Refund**. I contributed functions that (1) perform parameter estimation for bivariate functions; and (2) conduct covariance estimation and smoothing.
 
 
 <!--
