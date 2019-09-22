@@ -37,12 +37,12 @@ The package provides a general method for simultaneous dimensionality reduction 
 
 <br />
 <br />
-<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
 
 <br />
 <br />
 <!--
-<a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
+<a href="{{ site.baseurl }}/files/doc/gPVD.R"><font color="#1122CC">GPVD package [gPVD.R]</font></a>
 -->
 </p>
 
@@ -91,7 +91,7 @@ The package employs positive and negative brain network to predicate behavior vi
 <font color="#1122CC">
 <br />
 <br />
-<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
 
 <!--
 Execution and help functions:	
@@ -119,7 +119,7 @@ help(network.predication)
 <p class="indented">
 
 <br />
-<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
 
 <!--
 <font color="#1122CC">
@@ -149,7 +149,7 @@ The package provides functions that calculate the estimates of the Principal Dir
 
 <br />
 <br />
-<font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
 
 <!--
 <font color="#1122CC">
