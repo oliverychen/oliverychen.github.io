@@ -119,7 +119,6 @@ help(network.predication)
 <p class="indented">
 
 <br />
-<br />
 <font color="#1122CC">Please send me an email if you would like a copy of the pacakge.</font>
 
 <!--
@@ -170,9 +169,8 @@ help(PDM)
 help(PDM_1)
 <br />
 help(PDM_2)
--->
 </font>
-
+-->
 </p>
 
 <hr>
