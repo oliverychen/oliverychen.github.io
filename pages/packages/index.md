@@ -104,8 +104,9 @@ install_github("oliverychen/network.predication")
 library(network.predication)
 <br />
 help(network.predication)
-</font>
 -->
+</font>
+
 
 </p>
 
@@ -132,8 +133,9 @@ help(GIFTS_fpca)
 <br />
 help(GIFTS_mean)
 </font>
-</p>
 -->
+</p>
+
 
 <hr>
 
@@ -168,8 +170,9 @@ help(PDM)
 help(PDM_1)
 <br />
 help(PDM_2)
-</font>
 -->
+</font>
+
 </p>
 
 <hr>
