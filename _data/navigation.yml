@@ -5,14 +5,16 @@
 - title: Home
   url: /pages/home/
 
-- title: The Brain Whispers
-  url: /pages/blog/
-
-- title: Software
-  url: /pages/packages/
-
-- title: Publications
+- title: Papers
   url: /pages/publications/
 
 - title: Personal
   url: /pages/personal/
+
+
+#
+#- title: The Brain Whispers
+#  url: /pages/blog/
+
+#- title: Software
+#  url: /pages/packages/
