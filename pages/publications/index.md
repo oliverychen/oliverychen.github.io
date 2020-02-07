@@ -26,7 +26,7 @@ comments:
 
 - **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.</i> **2019**, 9, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a> 
 
-- **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**.
+- **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1721249"><font color="#1122CC">[Book]</font></a>
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="{{ site.baseurl }}/files/doc/BB.pdf"><font color="#1122CC">[Paper]</font></a>
 
@@ -66,6 +66,10 @@ comments:
 - Phan, **Chén**, Koch, Lu, McLoughlin, Mertins, and de Vos. Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning. Under review.
 
 - Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
+
+- Phan H., McLoughlin I., Pham L., **Chén O. Y.**, Koch P., de Vos M., and Mertins A. Improving GANs for Speech Enhancement. 2020. <a href="https://arxiv.org/pdf/2001.05532.pdf"><font color="#1122CC">[Paper]</font></a>
+
+- Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and de Vos. Revisiting Convolutional Neural Networks for Automated Sleep Staging. <i>EMBC</i>. 2020.
 
 - Phan, Andreotti, Cooray, **Chén**, and de Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> **2018**, 27, 400-410. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
 
