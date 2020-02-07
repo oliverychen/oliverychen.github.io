@@ -26,7 +26,7 @@ comments:
 
 - **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.</i> **2019**, 9, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a> 
 
-- **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1721249"><font color="#1122CC">[Book]</font></a>
+- **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1721249"><font color="#1122CC">[Paper]</font></a>
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="{{ site.baseurl }}/files/doc/BB.pdf"><font color="#1122CC">[Paper]</font></a>
 
