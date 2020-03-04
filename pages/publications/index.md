@@ -24,9 +24,11 @@ comments:
 
 ## Reviews
 
-- **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.</i> **2019**, 9, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a> 
+- **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.</i> **2019**, 9, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a> <a href="https://www.researchgate.net/publication/339688059_Erratum_Chen_The_Roles_of_Statistics_in_Human_Neuroscience_Brain_Sci_2019_9_8_194"><font color="#1122CC">[Erratum]</font></a>
 
 - **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**. <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2020.1721249"><font color="#1122CC">[Paper]</font></a>
+
+- **Chén**, Saraiva, Nagels, Phan, Schwantje, Cao, Gou, Reinen, Xiong, and de Vos. Thou Shalt Not Reject the <i>P</i>-value. <i>arXiv</i> **2020**. <a href="https://www.researchgate.net/publication/339353587_Thou_Shalt_Not_Reject_the_P-value"><font color="#1122CC">[Paper]</font></a>
 
 - Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="{{ site.baseurl }}/files/doc/BB.pdf"><font color="#1122CC">[Paper]</font></a>
 
