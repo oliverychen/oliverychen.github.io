@@ -22,25 +22,25 @@ comments:
 </script>
 
 
-## <font color="#CC300">Reviews</font></a>
+## <font color="#CC300">Reviews</font>
 
-- <font color="#0099FF">The Roles of Statistics in Human Neuroscience.</font></a> <i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]
+- <font color="#006699">The Roles of Statistics in Human Neuroscience.</font><i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]
 
-- <font color="#0099FF">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font></a> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]
+- <font color="#006699">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]
 
-- <font color="#0099FF">Thou Shalt Not Reject the <i>P</i>-value.</font></a>. <i>arXiv</i> 2020. **2002.07270** <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper] (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos).
+- <font color="#006699">Thou Shalt Not Reject the <i>P</i>-value.</font>. <i>arXiv</i> 2020. **2002.07270** <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper] (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos).
 
-- <font color="#0099FF">The Bayesian-Laplacian Brain.</font></a> <i>European Journal of Neuroscience</i> 2019. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper] (with S. Zeki).
-
-
-## <font color="#CC300">Book chapters</font></a>
-
-- Gou and **Chén**. Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint. In <i>ICSA Book Series in Statistics</i>. **Springer**: Berlin, Germany, **2018**. <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf"><font color="#1122CC">[Chapter]</font></a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook"><font color="#1122CC">[Book]</font></a>
-
-- Dasgupta, **Chén**, Basu, and Daoud. Unsupervised Learning Methods to Proteomic Data from Colon Cancer. In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, **2013**. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
+- <font color="#006699">The Bayesian-Laplacian Brain.</font> <i>European Journal of Neuroscience</i> 2019. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper] (with S. Zeki).
 
 
-## <font color="#CC300">Papers</font></a>
+## <font color="#CC300">Book chapters</font>
+
+- <font color="#006699">Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint.</font> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany. 2018 (with J. Gou). <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter] <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book] 
+
+- <font color="#006699">Unsupervised Learning Methods to Proteomic Data from Colon Cancer.</font> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, 2013 (with N. Dasgupta, R. Basu, and S.S. Daoud). <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]
+
+
+## <font color="#CC300">Papers</font>
 
 
 - **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
@@ -107,7 +107,7 @@ comments:
 - Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. 2012.
 
 
-## <font color="#CC300">Lectures and talks</font></a>
+## <font color="#CC300">Lectures and talks</font>
 
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 
@@ -148,7 +148,7 @@ Health Association, Chicago, IL. October, 2015.
 Pullman,WA. August, 2015.
 
 
-## <font color="#CC300">Honors and awards</font></a> 
+## <font color="#CC300">Honors and awards</font> 
 
 - Si-Shui Lecture. 
 
@@ -168,7 +168,7 @@ Pullman,WA. August, 2015.
 Public Health Association.
 
 
-## <font color="#CC300">Unpublished Reviews, Essays, Handbooks, and Notes</font></a>
+## <font color="#CC300">Unpublished Reviews, Essays, Handbooks, and Notes</font>
 
 - **Chén O. Y.** Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
 (Pfister and Gerstner, 2006).  <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Link]</font></a>
