@@ -24,26 +24,26 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <font color="#006699">The Roles of Statistics in Human Neuroscience.</font><i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]
+- <font color="#006699">The Roles of Statistics in Human Neuroscience.</font> <i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>
 
-- <font color="#006699">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]
+- <font color="#006699">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>
 
-- <font color="#006699">Thou Shalt Not Reject the <i>P</i>-value.</font>. <i>arXiv</i> 2020. **2002.07270** <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper] (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos).
+- <font color="#006699">Thou Shalt Not Reject the <i>P</i>-value.</font> <i>arXiv</i> **2002.07270**, 2020.  <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a> (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos).
 
-- <font color="#006699">The Bayesian-Laplacian Brain.</font> <i>European Journal of Neuroscience</i> 2019. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper] (with S. Zeki).
+- <font color="#006699">The Bayesian-Laplacian Brain.</font> <i>European Journal of Neuroscience</i> 2019. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a> (with S. Zeki).
 
 
 ## <font color="#CC300">Book chapters</font>
 
-- <font color="#006699">Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint.</font> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany. 2018 (with J. Gou). <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter] <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book] 
+- <font color="#006699">Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint.</font> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany. 2018 (with J. Gou). <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>
 
-- <font color="#006699">Unsupervised Learning Methods to Proteomic Data from Colon Cancer.</font> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, 2013 (with N. Dasgupta, R. Basu, and S.S. Daoud). <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]
+- <font color="#006699">Unsupervised Learning Methods to Proteomic Data from Colon Cancer.</font> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, 2013 (with N. Dasgupta, R. Basu, and S.S. Daoud). <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>
 
 
 ## <font color="#CC300">Papers</font>
 
 
-- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
+- <font color="#006699">Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.</font> <i>IEEE Transactions on Biomedical Engineering</i>, 2020 (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos).
 
 - **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., de Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. <i>Scientific Reports</i> **2019**, 9, 3879. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
 
