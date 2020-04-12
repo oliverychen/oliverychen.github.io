@@ -171,13 +171,13 @@ Public Health Association.
 ## <font color="#CC300">Unpublished Reviews, Essays, Handbooks, and Notes</font>
 
 - **Chén O. Y.** Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
-(Pfister and Gerstner, 2006).  <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Link]</font></a>
+(Pfister and Gerstner, 2006).  <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><span style="color:#006699;">[Link]</span></a>
 
-- **Chén O. Y.** A Handbook to Conquer Casella and Berger Book in Ten Days. <a href="{{ site.baseurl }}/files/doc/CB.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** A Handbook to Conquer Casella and Berger Book in Ten Days. <a href="{{ site.baseurl }}/files/doc/CB.pdf"><span style="color:#006699;">[Link]</span></a>
 
-- **Chén O. Y.** A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs. <a href="{{ site.baseurl }}/files/doc/ED.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs. <a href="{{ site.baseurl }}/files/doc/ED.pdf"><span style="color:#006699;">[Link]</span></a>
 
-- **Chén O. Y.** Notes for Time Series Data Analysis. <a href="{{ site.baseurl }}/files/doc/TS.pdf"><font color="#1122CC">[Link]</font></a>
+- **Chén O. Y.** Notes for Time Series Data Analysis. <a href="{{ site.baseurl }}/files/doc/TS.pdf"><span style="color:#006699;">[Link]</span></a>
 
 <!--
 ## Others
