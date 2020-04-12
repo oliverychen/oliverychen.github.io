@@ -24,13 +24,13 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <font color="#006699">The Roles of Statistics in Human Neuroscience.</font> <i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>
+- <nobr><font color="#006699">The Roles of Statistics in Human Neuroscience.</font></nobr><i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>
 
 - <font color="#006699">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>
 
-- <font color="#006699">Thou Shalt Not Reject the <i>P</i>-value.</font> <i>arXiv</i> **2002.07270**, 2020.  <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a> (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos).
+- <font color="#006699">Thou Shalt Not Reject the <i>P</i>-value.</font> <i>arXiv</i> **2002.07270**, 2020 (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos). <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>
 
-- <font color="#006699">The Bayesian-Laplacian Brain.</font> <i>European Journal of Neuroscience</i> 2019. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a> (with S. Zeki).
+- <font color="#006699">The Bayesian-Laplacian Brain.</font> <i>European Journal of Neuroscience</i> 2019 (with S. Zeki). <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>
 
 
 ## <font color="#CC300">Book chapters</font>
@@ -45,9 +45,9 @@ comments:
 
 - <font color="#006699">Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.</font> <i>IEEE Transactions on Biomedical Engineering</i>, 2020 (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos).
 
-- **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., de Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. <i>Scientific Reports</i> **2019**, 9, 3879. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
+- <font color="#006699">Resting-state brain information flow predicts cognitive flexibility in humans.</font> <i>Scientific Reports</i> 2019, **9**, 3879 (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>
 
-- **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and de Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
+- <font color="#006699">High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.</font> 2019 (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Rrince, T. Cannon T, and de Vos M.)
 
 - **Chén O. Y.**, Phan H., Qian T., and de Vos M. The Causal Effect of Priming.
 
