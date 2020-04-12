@@ -54,8 +54,8 @@ comments:
 
 - <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao H, Y. Chung Y, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, BA Cornblatt, DM Olvet, DH Mathalon, TH McGlashan, DO Perkins, A Belger, LJ Seidman, H Thermenos, MT Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
-- The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
-<a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a>
+- <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
+<a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>
 
 - <span style="color:#006699;">On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) (with M.A. Jacroux) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>
 
