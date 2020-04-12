@@ -46,65 +46,65 @@ comments:
 
 - <span style="color:#006699;">Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos).
 
-- <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>
+- <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.</span> (2019) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Rrince, T. Cannon T, and de Vos M.)
+- <span style="color:#006699;">High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.</span> (2019) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos).
 
 - <span style="color:#006699;">The Causal Effect of Priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 
 - <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao H, Y. Chung Y, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, BA Cornblatt, DM Olvet, DH Mathalon, TH McGlashan, DO Perkins, A Belger, LJ Seidman, H Thermenos, MT Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
-<a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>
+<a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>.
 
-- <span style="color:#006699;">On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) (with M.A. Jacroux) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>
+- <span style="color:#006699;">On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) (with M.A. Jacroux) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">The Biological Basis of Mathematical Beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) (with S. Zeki and J. Romaya) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a> 
+- <span style="color:#006699;">The Biological Basis of Mathematical Beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) (with S. Zeki and J. Romaya) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a>.
 
 - <span style="color:#006699;">High-dimensional Multivariate Mediation with Application to Neuroimaging Data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) (with E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
-<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a> 
+<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
 
-- **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
+- <span style="color:#006699;">SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>
 
-- Phan, **Chén**, Koch, Lu, McLoughlin, Mertins, and de Vos. Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning. Under review.
+- <span style="color:#006699;">Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
 
-- Cao H., **Chén O. Y.**, McEwen S., Forsyth J., Dylan G., Bearden C., Addington J., Goodyear B., Cadenhead K., Mirzakhanian H., Cornblatt B., Carrión R., Mathalon D., McGlashan T., Perkins D., Belger A., Thermenos H., Tsuang M., van Erp T., Walker E., Hamann S., Anticevic A., Wood S., Cannon T. Cross-paradigm connectivity: reliabiltiy, stability, and utility. Under review.
+- <span style="color:#006699;">A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change.</span> (2015) (with L Xiao, J. Schrack, L. Ferrucci, and C. Crainiceanu) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
 
-- Phan H., McLoughlin I., Pham L., **Chén O. Y.**, Koch P., de Vos M., and Mertins A. Improving GANs for Speech Enhancement. 2020. <a href="https://arxiv.org/pdf/2001.05532.pdf"><font color="#1122CC">[Paper]</font></a>
+- <span style="color:#006699;">Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512480"><font color="#1122CC">[Paper]</font></a>. 
 
-- Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and de Vos. Revisiting Convolutional Neural Networks for Automated Sleep Staging. <i>EMBC</i>. 2020.
+- <span style="color:#006699;">Towards More Accurate Automatic Sleep Staging via Deep Transfer Learning.</span> <i>arXiv</i> <b>1907.13177</b> (2019) (with H. Phan, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/abs/1907.13177">[Paper]</a>.
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging. <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> **2018**, 27, 400-410. <a href="https://arxiv.org/pdf/1809.10932.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf"><font color="#1122CC">[Journal Cover]</font></a>
+- <span style="color:#006699;">Cross-paradigm connectivity: reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020) (with H. Cao, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon).
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification. <i>IEEE Transactions on Biomedical Engineering</i> 2018, 66, 1285-1296. <a href="https://arxiv.org/pdf/1805.06546.pdf"><font color="#1122CC">[Paper]</font></a>
+- <span style="color:#006699;">Improving GANs for Speech Enhancement.</span> <i>arXiv</i>, <b>2001.05532</b> (2020) (with H. Phan, I. McLoughlin, L. Pham, P. Koch, M. de Vos, and A. Mertins) <a href="https://arxiv.org/pdf/2001.05532.pdf">[Paper]</a>
 
-- Phan, **Chén**, Pham, Koch, de Vos, McLoughlin, and Mertins. Spatial-Temporal Attention Pooling for Audio Scene Classification. <i>Interspeech</i> **2019**.
+- <span style="color:#006699;">Revisiting Convolutional Neural Networks for Automated Sleep Staging.</span> <i>EMBC</i> (2020) (wiht H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos).
 
-- Phan, **Chén**, Koch, Mertins, and de Vos. Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch. <i>EUSIPCO (IEEE European Association for Signal Processing</i>, **2019**.
+- <span style="color:#006699;">Spatial-Temporal Attention Pooling for Audio Scene Classification.</span> <i>Interspeech</i> (2019) (with H. Phan, L. Pham, P. Koch, M. de Vos, I. McLoughlin, and A. Mertins) <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3040.pdf">[Paper]</a>.
 
-- Phan, **Chén**, Koch, Mertins, and de Vos. Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging. <i>IEEE Engineering in Medicine and Biology Society</i> **2019**
+- <span style="color:#006699;">Deep Transfer Learning for Single-Channel Automatic Sleep Staging with Channel Mismatch.</span> <i>EUSIPCO (IEEE European Association for Signal Processing</i> (2019) (with H. Phan, P. Koch, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1904.05945.pdf">[Paper]</a>.
 
-- Phan, **Chén**, Koch, Phamz, McLoughlinz, Mertins, and de Vos. Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks. In <i>ICASSP</i> 2018, 51-55. <a href="https://arxiv.org/pdf/1811.01092.pdf"><font color="#1122CC">[Paper]</font></a>  
+- <span style="color:#006699;">Fusion of End-to-End Deep Learning Models for Sequence-to-Sequence Sleep Staging.</span> <i>IEEE Engineering in Medicine and Biology Society</i> (2019) (with H. Phan, P. Koch, A. Mertins, and M. de Vos) <a href="https://www.isip.uni-luebeck.de/fileadmin/files/publications/phan2019c.pdf">[Paper]</a>.
 
-- Phan, **Chén**, Koch, Pham, McLoughlin, Mertins, and de Vos. Beyond equal-length snippets: how long is sufficient to recognize an audio scene? **2018**. <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>  
+- <span style="color:#006699;">Unifying Isolated and Overlapping Audio Event Detection with Multi-Label Multi-Task Convolutional Recurrent Neural Networks.</span> In <i>ICASSP</i> 51-55 (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlinz, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01092.pdf">[Paper]</a>.
 
-- Cao H, McEwen SC, Chung Y, **Chén O. Y.**, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk. <i>Schizophrenia Bulletin</i> **2018**, 45, 924-933. <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf"><font color="#1122CC">[Paper]</font></a>
+- <span style="color:#006699;">Beyond equal-length snippets: how long is sufficient to recognize an audio scene?</span> (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>.
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. Automatic Sleep Stage Classification Using Single-Channel EEG: Learning Sequential Features with Attention-Based Recurrent Neural Networks. In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>. **2018**, 1452-1455.
+- <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) (with H. Cao H, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification. <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>. **2018**, 453-456.
+- <span style="color:#006699;">DNN Filter Bank Improves 1-Max Pooling CNN for Automatic Sleep Stage Classification.</span> <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 453-456 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512286"><font color="#1122CC">[Paper]</font></a>.
 
-- Phan, Andreotti, Cooray, **Chén**, and de Vos. Towards Better Practice of Deep Learning for Automatic Sleep Staging. **IEEE**. **2018**.
+- <span style="color:#006699;">Towards Better Practice of Deep Learning for Automatic Sleep Staging.</span> IEEE (2018) (with Phan, Andreotti, Cooray, **Chén**, and de Vos) <a href="https://arxiv.org/pdf/1907.13177.pdf"><font color="#1122CC">[Paper]</font></a>.
 
-- **Chén** and Di. [Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation](/files/doc/Pi_SPaCE.pdf ).
+- <span style="color:#006699;">Penalised Iterative Sparse Partial Correlation Estimation (Π-SPaCE) - with an application to whole-brain graph estimation.</span> (2015) (with J. Di).
 	
-- **Chén**. A Generalized and Drifting Time Corrected Approach Using Wiener-Granger Causality and VAR(p) Process for Detecting High-Dimensional Directed Functional Communication between Brain Regions and Predicting Behavior. 
+- <span style="color:#006699;">A Generalized and Drifting Time Corrected Approach Using Wiener-Granger Causality and VAR(p) Process for Detecting High-Dimensional Directed Functional Communication between Brain Regions and Predicting Behavior.</span>
 	
-- The Generative Representational Similarity Analysis. Gershman S., **Chén O. Y.**, Konkle T. In preparation.
+- <span style="color:#006699;">The Generative Representational Similarity Analysis.</span>
 
-- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Clustering Algorithms: an Example with Proteomic Data. *Advances and Applications in Statistics* 33 (1), 63. 2013.
+- <span style="color:#006699;">Comparison of Clustering Algorithms: an Example with Proteomic Data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud).
 	
-- Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. 2012.
+- <span style="color:#006699;">Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations.</span> <i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
 
 
 ## <font color="#CC300">Lectures and talks</font>
