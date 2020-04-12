@@ -22,34 +22,34 @@ comments:
 </script>
 
 
-## Reviews
+## <font color="#CC300">Reviews</font></a>
 
-- **Chén**. The Roles of Statistics in Human Neuroscience. <i>Brain Sci.</i> **2019**, 9, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf"><font color="#1122CC">[Paper]</font></a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf"><font color="#1122CC">[Erratum]</font></a>
+- <font color="#0099FF">The Roles of Statistics in Human Neuroscience.</font></a> <i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]
 
-- **Chén**. The Rise of Big-data Statistical Science. Book review of Big Data in Omics and Imaging: Integrated Analysis and Causal Inference. <i>The Journal of the American Statistical Association</i> **2019**. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf"><font color="#1122CC">[Paper]</font></a>
+- <font color="#0099FF">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font></a> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488. <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]
 
-- **Chén**, Saraiva, Nagels, Phan, Schwantje, Cao, Gou, Reinen, Xiong, and de Vos. Thou Shalt Not Reject the <i>P</i>-value. <i>arXiv</i> **2020**. <a href="https://arxiv.org/pdf/2002.07270.pdf"><font color="#1122CC">[Paper]</font></a>
+- <font color="#0099FF">Thou Shalt Not Reject the <i>P</i>-value.</font></a>. <i>arXiv</i> 2020. **2002.07270** <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper] (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos).
 
-- Zeki and **Chén**. The Bayesian-Laplacian Brain. <i>European Journal of Neuroscience</i> **2019**. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf"><font color="#1122CC">[Paper]</font></a>
+- <font color="#0099FF">The Bayesian-Laplacian Brain.</font></a> <i>European Journal of Neuroscience</i> 2019. <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper] (with S. Zeki).
 
 
-## Book chapters
+## <font color="#CC300">Book chapters</font></a>
 
 - Gou and **Chén**. Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint. In <i>ICSA Book Series in Statistics</i>. **Springer**: Berlin, Germany, **2018**. <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf"><font color="#1122CC">[Chapter]</font></a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook"><font color="#1122CC">[Book]</font></a>
 
 - Dasgupta, **Chén**, Basu, and Daoud. Unsupervised Learning Methods to Proteomic Data from Colon Cancer. In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, **2013**. <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf"><font color="#1122CC">[Chapter]</font></a>
 
 
-## Papers
+## <font color="#CC300">Papers</font></a>
 
+
+- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
 
 - **Chén O. Y.**, Cao H., Reinen J., Qian T., Gou J., Phan H., de Vos M., and Cannon T. Resting-state brain information flow predicts cognitive flexibility in humans. <i>Scientific Reports</i> **2019**, 9, 3879. <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf"><font color="#1122CC">[Paper]</font></a>
 
 - **Chén O. Y.**, Cao H., Phan H., Reinen J., Gou J., Di J., Qian T., Rrince J., Cannon T, and de Vos M. High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.
 
 - **Chén O. Y.**, Phan H., Qian T., and de Vos M. The Causal Effect of Priming.
-
-- **Chén O. Y.**, Lipsmeier F., Phan H., Prince J., Taylor K. I., Lindemann M., Gossens C., and de Vos M. Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.
 
 - Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. <i>Nature Communications</i> **2018**, 9, 3836. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a><a href="https://scitechdaily.com/yale-scientists-detect-early-warning-sign-of-psychosis"><font color="#1122CC">[News]</font></a><a href="https://reliawire.com/psychosis-neural-signature/"><font color="#1122CC">[Blog]</font></a> 
@@ -107,7 +107,7 @@ comments:
 - Dasgupta, N., **Chén O. Y.**, Basu, R., and Daoud S.S. Comparison of Methods for Unsupervised Learning Methods – an Applied Study using Proteomic Data from Colon Cancer and Simulations. *2012 Conference on Contemporary Issues and Applications of Statistics (CIAS 2012)*, Indian Statistical Institute. 2012.
 
 
-## Lectures and talks
+## <font color="#CC300">Lectures and talks</font></a>
 
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 
@@ -148,7 +148,7 @@ Health Association, Chicago, IL. October, 2015.
 Pullman,WA. August, 2015.
 
 
-## Honors and awards 
+## <font color="#CC300">Honors and awards</font></a> 
 
 - Si-Shui Lecture. 
 
@@ -168,7 +168,7 @@ Pullman,WA. August, 2015.
 Public Health Association.
 
 
-## Unpublished Reviews, Essays, Handbooks, and Notes
+## <font color="#CC300">Unpublished Reviews, Essays, Handbooks, and Notes</font></a>
 
 - **Chén O. Y.** Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
 (Pfister and Gerstner, 2006).  <a href="{{ site.baseurl }}/files/doc/Review_STDP.pdf"><font color="#1122CC">[Link]</font></a>
