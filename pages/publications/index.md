@@ -25,45 +25,44 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <span style="color:#006699;">The Roles of Statistics in Human Neuroscience.</span> <i>Brain Sci.</i> 2019. <b>9</b> 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
+- <span style="color:#006699;">The Roles of Statistics in Human Neuroscience.</span> <i>Brain Sci.</i> <b>9</b> 194 (2019). <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
-- <span style="color:#006699;">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</span> <i>The Journal of the American Statistical Association</i> 2020. <b>115</b>, 487-488 <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
+- <span style="color:#006699;">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Thou Shalt Not Reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b>, 2020 (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
+- <span style="color:#006699;">Thou Shalt Not Reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">The Bayesian-Laplacian Brain.</span> <i>European Journal of Neuroscience</i> 2019 (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
+- <span style="color:#006699;">The Bayesian-Laplacian Brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
 
 
 ## <font color="#CC300">Book chapters</font>
 
-- <font color="#006699">Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint.</font> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany. 2018 (with J. Gou) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
+- <span style="color:#006699;">Critical Boundary Refinement in a Group Sequential Trial When the Primary Endpoint Data Accumulate Faster Than the Secondary Endpoint.</span> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany (2018) (with J. Gou) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
 
-- <font color="#006699">Unsupervised Learning Methods to Proteomic Data from Colon Cancer.</font> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India, 2013 (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>.
+- <span style="color:#006699;">Unsupervised Learning Methods to Proteomic Data from Colon Cancer.</span> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>.
 
 
 ## <font color="#CC300">Papers</font>
 
 
-- <font color="#006699">Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.</font> <i>IEEE Transactions on Biomedical Engineering</i>, 2020 (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos).
+- <span style="color:#006699;">Building a Machine-learning Framework to Remotely Assess Parkinsons Disease Using Smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos).
 
-- <font color="#006699">Resting-state brain information flow predicts cognitive flexibility in humans.</font> <i>Scientific Reports</i> 2019, **9**, 3879 (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>
+- <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>
 
-- <font color="#006699">High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.</font> 2019 (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Rrince, T. Cannon T, and de Vos M.)
+- <span style="color:#006699;">High-dimensional Whole Brain Mediation Analysis: methods and application in psychosis research.</span> (2019) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Rrince, T. Cannon T, and de Vos M.)
 
-- **Chén O. Y.**, Phan H., Qian T., and de Vos M. The Causal Effect of Priming.
+- <span style="color:#006699;">The Causal Effect of Priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 
-- Cao H, **Chén O. Y.**, Chung Y, McEwen SC, Bearden CE, Addington J, Goodyear B, Cadenhead KS, Mirzakhanian H, Cornblatt BA, Olvet DM, Mathalon DH, McGlashan TH, Perkins DO, Belger A, Seidman LJ, Thermenos H, Tsuang MT, van Erp TGM, Walker EF, Hamann S, Anticevic A, Woods SW, Cannon TD. Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization. <i>Nature Communications</i> **2018**, 9, 3836. <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf"><font color="#1122CC">[Paper]</font></a>
-<a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a><a href="https://scitechdaily.com/yale-scientists-detect-early-warning-sign-of-psychosis"><font color="#1122CC">[News]</font></a><a href="https://reliawire.com/psychosis-neural-signature/"><font color="#1122CC">[Blog]</font></a> 
+- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao H, Y. Chung Y, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, BA Cornblatt, DM Olvet, DH Mathalon, TH McGlashan, DO Perkins, A Belger, LJ Seidman, H Thermenos, MT Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
-- Reinen, J., **Chén O. Y.**, Baker J., Yeo, T., Anderson K., Hutchison R., Sabuncu M., Öngür D., Roffman J., Smoller J., Holmes A. The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness. <i>Nature Communications</i> **2018**, 9, 1157. <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
+- The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf"><font color="#1122CC">[Paper]</font></a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf"><font color="#1122CC">[Supp. Materials]</font></a>
 
-- **Chén** and Jacroux. On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs. <i>Communications in Statistics - Theory and Methods</i> **2015**, 44, 2473-2506. <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf"><font color="#1122CC">[Paper]</font></a>
+- <span style="color:#006699;">On the Use of Semi-folding in Regular Blocks Two-level Factorial Designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) (with M.A. Jacroux) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>
 
-- Zeki, **Chén**, and Romaya. The Biological Basis of Mathematical Beauty. <i>Frontiers in Human Neuroscience</i> **2018**, 12, 467. <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract"><font color="#1122CC">[Paper]</font></a> 
+- <span style="color:#006699;">The Biological Basis of Mathematical Beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) (with S. Zeki and J. Romaya) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a> 
 
-- **Chén O. Y.**, Ogburn E., Crainiceanu C., Caffo, B., Wager T., and Lindquist, M. High-dimensional Multivariate Mediation with Application to Neuroimaging Data. <i>Biostatistics</i> **2015**, 19, 121–136 <a href="{{ site.baseurl }}/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>
-<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf"><font color="#1122CC">[Asymptotic Theory]</font></a> 
+- <span style="color:#006699;">High-dimensional Multivariate Mediation with Application to Neuroimaging Data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) (with E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
+<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a> 
 
 - **Chén O. Y.**, Xiao L., Schrack J., Ferrucci L, and Crainiceanu C. A Longitudinal Functional Data Analysis for Underlying Daily Physical Activity Change. 2015. <a href="{{ site.baseurl }}/files/doc/LFDA.pdf"><font color="#1122CC">[Paper]</font></a>
 
