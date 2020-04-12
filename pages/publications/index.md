@@ -22,16 +22,6 @@ comments:
 </script>
 
 
-.description {
-  color: #000;
-}
-
-.description em {
-  color: #006699;
-}
-
-
-
 
 ## <font color="#CC300">Reviews</font>
 
