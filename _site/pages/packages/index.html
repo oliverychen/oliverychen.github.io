@@ -95,22 +95,12 @@
 				    
 				        
 				    
-				    <li><a href="http://oliverychen.github.io/pages/blog/" >The Brain Whispers</a></li>
+				    <li><a href="http://oliverychen.github.io/pages/publications/" >Papers</a></li>
 				
 				    
 				        
 				    
-				    <li><a href="http://oliverychen.github.io/pages/packages/" >Software</a></li>
-				
-				    
-				        
-				    
-				    <li><a href="http://oliverychen.github.io/pages/publications/" >Works</a></li>
-				
-				    
-				        
-				    
-				    <li><a href="http://oliverychen.github.io/pages/personal/" >Personal</a></li>
+				    <li><a href="http://oliverychen.github.io/pages/personal/" >Paintings</a></li>
 				
 		    </ul>
 		</nav>
@@ -252,16 +242,50 @@
 </ul>
 
 <p class="indented">
-The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The output contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The package extends the population value decomposition methods (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790.) to a general case. 
+The package provides a general method for simultaneous dimensionality reduction of large populations of massive images. The input can be a massive matrix containing brain imaging data obtained from hundreds of thousands of subjects. The package contains two parts: (1) group-level information shared by a population and (2) subject-specific information that is idiosyncratic. The codes are based upon the generalized population value decomposition (gPVD) developed in by Chén et al. (see <a href="/files/doc/HDMM.pdf"><font color="#1122CC">[Paper]</font></a>), which was inspired by and extended the population value decomposition (PVD) method (cf. Crainiceanu et al. (2011) Population value decomposition, a framework for the analysis of image populations. JASA 106, no. 495 (2011): 775-790). 
 
 <br />
 <br />
-<font color="#1122CC">Package source (click to download):</font>
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
 
 <br />
 <br />
-<a href="/files/doc/gPVD.R"><font color="#1122CC">GPVD pacakge [gPVD.R]</font></a>
+<!--
+<a href="/files/doc/gPVD.R"><font color="#1122CC">GPVD package [gPVD.R]</font></a>
+-->
+</p>
 
+<hr />
+
+<ul>
+  <li><strong>Chén O.Y.</strong> (Author and Maintainer). <strong>Spike Timing-Dependent Plasticity</strong>.</li>
+</ul>
+
+<p class="indented">
+The software studies the visual and quantitative properties of different interactions and STDP (Spike Timing-Dependent Plasticity) learning window (see Software section of the <a href="/files/doc/Review_STDP.pdf"><font color="#1122CC">[Document]</font></a> for more information).
+
+<font color="#1122CC">
+<br />
+<br />
+Package:	
+<br />
+<br />
+library(shiny)
+<br />
+runGitHub("oliverychen/pfister")
+</font>
+
+<br />
+<br />
+Additional software:
+
+<br />
+<font color="#1122CC">
+<br />
+<a href="/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
+<br />
+<a href="/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
+</font>
 </p>
 
 <hr />
@@ -278,7 +302,10 @@ The package employs positive and negative brain network to predicate behavior vi
 <font color="#1122CC">
 <br />
 <br />
-R execution and help functions:	
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
+
+<!--
+Execution and help functions:	
 <br />
 <br />
 library(devtools)
@@ -288,7 +315,9 @@ install_github("oliverychen/network.predication")
 library(network.predication)
 <br />
 help(network.predication)
+-->
 </font>
+
 
 </p>
 
@@ -300,8 +329,12 @@ help(network.predication)
 
 <p class="indented">
 
+<br />
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
+
+<!--
 <font color="#1122CC">
-R execution and help functions:
+Execution and help functions:
 <br />
 <br />
 library(GIFTS)
@@ -310,6 +343,7 @@ help(GIFTS_fpca)
 <br />
 help(GIFTS_mean)
 </font>
+-->
 </p>
 
 <hr />
@@ -323,11 +357,15 @@ help(GIFTS_mean)
 The package provides functions that calculate the estimates of the Principal Direction of Mediations (PDMs) and corresponding path coefficients of ultra-high dimensional data, provided treatment (e.g. thermal pain), response (e.g. reported pain), and mediation data (e.g. measurements of fMRI data).
 
 
+<br />
+<br />
+<font color="#1122CC">Please send me an email if you would like a copy of the package.</font>
 
+<!--
 <font color="#1122CC">
 <br />
 <br />
-R execution and help functions:
+Execution and help functions:
 <br />
 <br />
 library(devtools)
@@ -342,27 +380,13 @@ help(PDM_1)
 <br />
 help(PDM_2)
 </font>
+-->
 </p>
 
 <hr />
 
 <ul>
-  <li><strong>Chén O.Y.</strong> (Author and Maintainer). <strong>Spike Timing-Dependent Plasticity</strong>.</li>
-</ul>
-
-<p class="indented">
-<font color="#1122CC">
-<br />
-<a href="/files/doc/server.R"><font color="#1122CC">Server [server.R]</font></a>
-<br />
-<a href="/files/doc/ui.R"><font color="#1122CC">User interface [ui.R]</font></a>
-</font>
-</p>
-
-<hr />
-
-<ul>
-  <li><strong>Chén O.Y.</strong> (Co-author). <strong>Refund</strong>. I contributed functions that (1) calculate the estimates for parameters of bivariate functions; and (2) conduct covariance estimation and smoothing.</li>
+  <li><strong>Chén O.Y.</strong> (Co-author). <strong>Refund</strong>. I contributed functions that (1) perform parameter estimation for bivariate functions; and (2) conduct covariance estimation and smoothing.</li>
 </ul>
 
 <!--
@@ -515,7 +539,7 @@ help(PDM_2)
     
 
 <!-- 
-<span>&copy; 2018 Oliver Y. Chén. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
+<span>&copy; 2020 Oliver Y. Chén. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/" rel="nofollow">Minimal Mistakes</a> theme.</span>
 -->
   </footer>
 </div><!-- /.footer-wrap -->
