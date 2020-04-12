@@ -24,7 +24,7 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <nobr><font color="#006699">The Roles of Statistics in Human Neuroscience.</font></nobr><i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper] <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
+- <font color="#006699">The Roles of Statistics in Human Neuroscience.</font> <i>Brain Sci.</i> 2019. **9**, 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
 - <font color="#006699">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font> <i>The Journal of the American Statistical Association</i> 2020. **115**, 487-488 <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
 
