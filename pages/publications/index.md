@@ -31,7 +31,7 @@ comments:
 
 - <span style="color:#006699;">Thou shalt not reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">The bayesian-laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
+- <span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
 
 
 ## <font color="#CC300">Book chapters</font>
@@ -52,7 +52,7 @@ comments:
 
 - <span style="color:#006699;">The causal effect of priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 
-- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao H, Y. Chung Y, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, BA Cornblatt, DM Olvet, DH Mathalon, TH McGlashan, DO Perkins, A Belger, LJ Seidman, H Thermenos, MT Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
+- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>.
@@ -68,9 +68,9 @@ comments:
 
 - <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) (with L Xiao, J. Schrack, L. Ferrucci, and C. Crainiceanu) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
+- <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) (with L. Xiao, J. Schrack, L. Ferrucci, and C. Crainiceanu) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512480"><font color="#1122CC">[Paper]</font></a>. 
+- <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512480">[Paper]</a>. 
 
 - <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>arXiv</i> <b>1907.13177</b> (2019) (with H. Phan, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/abs/1907.13177">[Paper]</a>.
 
@@ -88,13 +88,13 @@ comments:
 
 - <span style="color:#006699;">Unifying isolated and overlapping audio event detection with multi-label multi-task convolutional recurrent neural networks.</span> In <i>ICASSP</i> 51-55 (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlinz, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01092.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Beyond equal-length snippets: how long is sufficient to recognize an audio scene?</span> (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01095v1.pdf"><font color="#1122CC">[Paper]</font></a>.
+- <span style="color:#006699;">Beyond equal-length snippets: how long is sufficient to recognize an audio scene?</span> (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01095v1.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) (with H. Cao H, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">DNN filter bank improves 1-max pooling CNN for automatic sleep stage classification.</span> <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 453-456 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512286"><font color="#1122CC">[Paper]</font></a>.
+- <span style="color:#006699;">DNN filter bank improves 1-max pooling CNN for automatic sleep stage classification.</span> <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 453-456 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512286">[Paper]</a>.
 
-- <span style="color:#006699;">Towards better practice of deep learning for automatic sleep staging.</span> IEEE (2018) (with Phan, Andreotti, Cooray, **Chén**, and de Vos) <a href="https://arxiv.org/pdf/1907.13177.pdf"><font color="#1122CC">[Paper]</font></a>.
+- <span style="color:#006699;">Towards better practice of deep learning for automatic sleep staging.</span> IEEE (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1907.13177.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Penalised iterative sparse partial correlation estimation (Π-SPaCE) - with an application to whole-brain graph estimation.</span> (2015) (with J. Di).
 	
