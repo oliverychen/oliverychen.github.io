@@ -35,11 +35,11 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <em>The Roles of Statistics in Human Neuroscience.</em> <i>Brain Sci.</i> 2019. <b>9</b> 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
+- <span color="#006699">The Roles of Statistics in Human Neuroscience.</span> <i>Brain Sci.</i> 2019. <b>9</b> 194. <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
 - <font color="#006699">Big Data in Omics and Imaging: Integrated Analysis and Causal Inference.</font> <i>The Journal of the American Statistical Association</i> 2020. <b>115</b>, 487-488 <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
 
-- <em>Thou Shalt Not Reject the <i>P</i>-value.</em> <i>arXiv</i> <b>2002.07270</b>, 2020 (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
+- <span color="#006699">Thou Shalt Not Reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b>, 2020 (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
 - <font color="#006699">The Bayesian-Laplacian Brain.</font> <i>European Journal of Neuroscience</i> 2019 (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
 
