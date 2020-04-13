@@ -102,9 +102,9 @@ comments:
 	
 - <span style="color:#006699;">The generative representational similarity analysis.</span>
 
-- <span style="color:#006699;">Comparison of clustering algorithms: an example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud).
+- <span style="color:#006699;">Comparison of clustering algorithms: an example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/ Dasgupta et al.pdf">[Paper]</a>..
 	
-- <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations.</span> <i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
+- <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
 
 
 ## <font color="#CC300">Lectures and talks</font>
