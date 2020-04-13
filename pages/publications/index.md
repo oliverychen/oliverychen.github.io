@@ -76,7 +76,7 @@ comments:
 
 - <span style="color:#006699;">Cross-paradigm connectivity: reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020) (with H. Cao, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon).
 
-- <span style="color:#006699;">Improving GANs for speech enhancement.</span> <i>arXiv</i>, <b>2001.05532</b> (2020) (with H. Phan, I. McLoughlin, L. Pham, P. Koch, M. de Vos, and A. Mertins) <a href="https://arxiv.org/pdf/2001.05532.pdf">[Paper]</a>
+- <span style="color:#006699;">Improving GANs for speech enhancement.</span> <i>arXiv</i> <b>2001.05532</b> (2020) (with H. Phan, I. McLoughlin, L. Pham, P. Koch, M. de Vos, and A. Mertins) <a href="https://arxiv.org/pdf/2001.05532.pdf">[Paper]</a>
 
 - <span style="color:#006699;">Revisiting convolutional neural networks for automated sleep staging.</span> <i>EMBC</i> (2020) (wiht H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos).
 
