@@ -68,7 +68,7 @@ comments:
 
 - <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Automatic sleep staging: personalization with single-night data via KL-divergence regularization. (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
+- <span style="color:#006699;">Automatic sleep staging: personalization with single-night data via KL-divergence regularization. <i>Physiological Measurements</i> (2020) (with H. Phan, K. Mikkelsen, P. Koch, A. Mertins, P. Kidmose, and M. de Vos).
 
 - <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) (with L. Xiao, J. Schrack, L. Ferrucci, and C. Crainiceanu) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
 
