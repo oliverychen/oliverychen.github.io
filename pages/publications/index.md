@@ -52,9 +52,9 @@ comments:
 
 - <span style="color:#006699;">The causal effect of priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 
-- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
+- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
-- <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
+- <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, and A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">On the use of semi-folding in regular blocks two-level factorial designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) (with M.A. Jacroux) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
@@ -92,7 +92,7 @@ comments:
 
 - <span style="color:#006699;">Beyond equal-length snippets: how long is sufficient to recognize an audio scene?</span> (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01095v1.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) (with H. Cao H, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
+- <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) (with H. Cao H, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">DNN filter bank improves 1-max pooling CNN for automatic sleep stage classification.</span> <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 453-456 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512286">[Paper]</a>.
 
@@ -120,22 +120,22 @@ comments:
 
 - Mathematical Institute, University of Oxford. Oxford, UK. February, 2018
 
-- University of Oxford. Institute of Biomedical Engineering. Oxford, UK. February, 2018
+- Institute of Biomedical Engineering, University of Oxford. Oxford, UK. February, 2018
 
-- Yale University. Cognitive Neuroscience Laboratory. New Haven. CT. June, 2017
+- Cognitive Neuroscience Laboratory, Yale University. New Haven. CT. June, 2017
 
 - Bernstein Center for Computational Neuroscience. Berlin, Germany. August, 2016.
 
-- Yale University. Department of Psychology, New Haven, CT. July, 2016.
+- Department of Psychology, Yale University. New Haven, CT. July, 2016.
 
 - Si-Shui Lecture. He University and He Eye Hospital. Shen-Yang, China. September, 2016.
 
-- Stanford University. Department of Psychology, Serra Mall, Stanford, CA. January, 2016.
+- Department of Psychology, Stanford University. Serra Mall, Stanford, CA. January, 2016.
 
-- University of Oxford. MRC Brain Network Dynamics Unit, Oxford, United Kingdom. December,
+- MRC Brain Network Dynamics Unit, University of Oxford. Oxford, United Kingdom. December,
 2015.
 
-- University of Cambridge. Engineering Department, Cambridge, United Kingdom. December, 2015.
+- Engineering Department, University of Cambridge. Cambridge, United Kingdom. December, 2015.
 
 - The 8th International Conference of the ERCIM WG on Computational and Methodological Statistics,
 London, United Kingdom. December, 2015.
@@ -146,8 +146,7 @@ Health Association, Chicago, IL. October, 2015.
 - ETH Zürich and University of Zürich. Institut für Neuroinformatik, Zürich, Switzerland, August,
 2015.
 
-- Washington State University. Mathematics Colloquium, Department of Mathematics and Statistics,
-Pullman,WA. August, 2015.
+- Mathematics Colloquium. Department of Mathematics and Statistics, Washington State University. Pullman, WA. August, 2015.
 
 
 ## <font color="#CC300">Honors and awards</font> 
