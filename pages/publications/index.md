@@ -48,7 +48,7 @@ comments:
 
 - <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">High-dimensional whole brain mediation analysis: methods and application in psychosis research.</span> (2019) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos).
+- <span style="color:#006699;">High-dimensional whole brain mediation analysis: methods and application in psychosis research.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The causal effect of priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 
