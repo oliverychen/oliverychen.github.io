@@ -44,7 +44,7 @@ comments:
 ## <font color="#CC300">Papers</font>
 
 
-- <span style="color:#006699;">Building a machine-learning framework to remotely assess Parkinson's disease using smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos).
+- <span style="color:#006699;">Building a machine-learning framework to remotely assess Parkinson's disease using smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/PD_Chen.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>.
 
