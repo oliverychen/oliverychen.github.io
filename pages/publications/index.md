@@ -64,6 +64,9 @@ comments:
 - <span style="color:#006699;">High-dimensional multivariate mediation with application to neuroimaging data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) (with E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
 
+- <span style="color:#006699;">XSleepNet: Multi-View Sequential Model for
+Automatic Sleep Staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. Phan, P. Koch, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/2007.05492.pdf">[Paper]</a>
+
 - <span style="color:#006699;">SeqSleepNet: end-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>.
 
 - <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
