@@ -27,7 +27,7 @@ comments:
 
 - <span style="color:#006699;">The roles of statistics in human neuroscience.</span> <i>Brain Sci.</i> <b>9</b>, 194 (2019). <i>Dedicated to Michael Jacroux in Honour of his Emeritus Retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
-- <span style="color:#006699;">Big data in omics and imaging: integrated analysis and causal inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
+- <span style="color:#006699;">Big data in omics and imaging: Integrated analysis and causal inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Thou shalt not reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
@@ -48,11 +48,11 @@ comments:
 
 - <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Identifying Neural Signatures Mediating Behavioral Symptoms and Psychosis Onset: High-Dimensional Whole Brain Functional Mediation Analysis.</span> <i>bioRxiv</i> <b>2020.04.15.043034</b> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
+- <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>bioRxiv</i> <b>2020.04.15.043034</b> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The causal effect of priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 
-- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: a state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
+- <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: A state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, and A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>.
@@ -64,22 +64,22 @@ comments:
 - <span style="color:#006699;">High-dimensional multivariate mediation with application to neuroimaging data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) (with E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
 
-- <span style="color:#006699;">XSleepNet: Multi-View Sequential Model for
-Automatic Sleep Staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. Phan, P. Koch, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/2007.05492.pdf">[Paper]</a>
+- <span style="color:#006699;">XSleepNet: Multi-view sequential model for
+automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. Phan, P. Koch, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/2007.05492.pdf">[Paper]</a>
 
-- <span style="color:#006699;">SeqSleepNet: end-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>.
+- <span style="color:#006699;">SeqSleepNet: End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>.
 
 - <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Automatic sleep staging: personalization with single-night data via KL-divergence regularization.</span> <i>Physiological Measurements</i> (2020) (with H. Phan, K. Mikkelsen, P. Koch, A. Mertins, P. Kidmose, and M. de Vos).
+- <span style="color:#006699;">Automatic sleep staging: Personalization with single-night data via KL-divergence regularization.</span> <i>Physiological Measurements</i> (2020) (with H. Phan, K. Mikkelsen, P. Koch, A. Mertins, P. Kidmose, and M. de Vos).
 
 - <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) (with L. Xiao, J. Schrack, L. Ferrucci, and C. Crainiceanu) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512480">[Paper]</a>. 
+- <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: Learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512480">[Paper]</a>. 
 
 - <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>arXiv</i> <b>1907.13177</b> (2019) (with H. Phan, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/abs/1907.13177">[Paper]</a>.
 
-- <span style="color:#006699;">Cross-paradigm connectivity: reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020) (with H. Cao, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon).
+- <span style="color:#006699;">Cross-paradigm connectivity: Reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020) (with H. Cao, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon).
 
 - <span style="color:#006699;">Improving GANs for speech enhancement.</span> <i>arXiv</i> <b>2001.05532</b> (2020) (with H. Phan, I. McLoughlin, L. Pham, P. Koch, M. de Vos, and A. Mertins) <a href="https://arxiv.org/pdf/2001.05532.pdf">[Paper]</a>
 
@@ -93,7 +93,7 @@ Automatic Sleep Staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 
 - <span style="color:#006699;">Unifying isolated and overlapping audio event detection with multi-label multi-task convolutional recurrent neural networks.</span> In <i>ICASSP</i> 51-55 (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlinz, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01092.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Beyond equal-length snippets: how long is sufficient to recognize an audio scene?</span> (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01095v1.pdf">[Paper]</a>.
+- <span style="color:#006699;">Beyond equal-length snippets: How long is sufficient to recognize an audio scene?</span> (2018) (with H. Phan, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/pdf/1811.01095v1.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) (with H. Cao H, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
 
@@ -107,7 +107,7 @@ Automatic Sleep Staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 	
 - <span style="color:#006699;">The generative representational similarity analysis.</span>
 
-- <span style="color:#006699;">Comparison of clustering algorithms: an example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/ Dasgupta et al.pdf">[Paper]</a>.
+- <span style="color:#006699;">Comparison of clustering algorithms: An example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/ Dasgupta et al.pdf">[Paper]</a>.
 	
 - <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
 
