@@ -25,13 +25,13 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <span style="color:#006699;">Personalized healthcare and publicHealth in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Paper]</a>.
+- <span style="color:#006699;">Personalized healthcare and public health in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Paper]</a>.
+
+- <span style="color:#006699;">Thou shalt not reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">The roles of statistics in human neuroscience.</span> <i>Brain Sci.</i> <b>9</b>, 194 (2019). <i>I dedicate this paper to Michael Jacroux, who showed me the excitement of statistics, in honour of his emeritus retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
 - <span style="color:#006699;">Big data in omics and imaging: Integrated analysis and causal inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
-
-- <span style="color:#006699;">Thou shalt not reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
 
