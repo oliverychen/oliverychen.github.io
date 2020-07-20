@@ -25,7 +25,7 @@ comments:
 
 ## <font color="#CC300">Reviews</font>
 
-- <span style="color:#006699;">Personalized healthcare and publicHealth in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="https://doi.org/10.31219/osf.io/hmves">[Paper]</a>.
+- <span style="color:#006699;">Personalized healthcare and publicHealth in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">The roles of statistics in human neuroscience.</span> <i>Brain Sci.</i> <b>9</b>, 194 (2019). <i>I dedicate this paper to Michael Jacroux, who showed me the excitement of statistics, in honour of his emeritus retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
