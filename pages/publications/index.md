@@ -52,8 +52,6 @@ comments:
 
 - <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>bioRxiv</i> <b>2020.04.15.043034</b> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
-- <span style="color:#006699;">The causal effect of priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
-
 - <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: A state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, and A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
@@ -106,6 +104,8 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 - <span style="color:#006699;">Penalised iterative sparse partial correlation estimation (Π-SPaCE) - with an application to whole-brain graph estimation.</span> (2015) (with J. Di).
 	
 - <span style="color:#006699;">A generalized and drifting time corrected approach using Wiener-Granger causality and VAR(p) process for detecting high-dimensional directed functional communication between brain regions and predicting behavior.</span>
+
+- <span style="color:#006699;">The causal effect of priming.</span> (2019) (with H. Phan, T. Qian, and M. de Vos).
 	
 - <span style="color:#006699;">The generative representational similarity analysis.</span>
 
