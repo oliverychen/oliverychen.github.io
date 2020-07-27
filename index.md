@@ -70,8 +70,7 @@ I read Engineering Science at the University of Oxford, and am an Honorary Resea
 I work on research in statistics and neuroscience. With equal passion I write [*The Brain Whispers*](http://oliverychen.com/pages/blog/) blog, sharing some humble points on brain data science. 
 -->
 <br>
-I work on research in statistics and neuroscience. My training was in cell and developmental biology (Visiting
-Lecturer, University College London), psychology and neuroscience (Yale), biostatistics (Johns Hopkins), theoretical statistics (Northwestern), and mathematical statistics (Washington). I studied economics and finance in university.
+I work on research in statistics and neuroscience. My training was in biomedical engineering (Oxford), neurobiology (Visiting Lecturer, University College London), psychology and neuroscience (Yale), biostatistics (Johns Hopkins), theoretical statistics (Northwestern), and mathematical statistics (Washington). I studied economics and finance in university.
 
 <br>
 In another rather amatuer life, I paint [watercolor and oil](http://oliverychen.com/pages/personal/). 
