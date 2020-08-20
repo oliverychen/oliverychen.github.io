@@ -27,7 +27,7 @@ comments:
 
 - <span style="color:#006699;">Personalized healthcare and public health in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">On Statistical Analysis of Brain Variability.</span> <i>Preprints</i> <b>202008.0428.v1</b> (2020) (with H. Phan, G. Nagel, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/On_Statistical_Analysis_of_Brain_Variability_Chén_et_al.pdf">[Paper]</a>.
+- <span style="color:#006699;">On Statistical Analysis of Brain Variability.</span> <i>Preprints</i> <b>202008.0428.v1</b> (2020) (with H. Phan, G. Nagel, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/On_Statistical_Analysis_of_Brain_Variability.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Thou shalt not reject the <i>P</i>-value.</span> <i>arXiv</i> <b>2002.07270</b> (2020) (with R. Saraiva, G. Nagels, H. Phan, T. Schwantje, H. Cao, J. Gou, J. Reinen, B. Xiong, and M. de Vos) <a href="https://arxiv.org/pdf/2002.07270.pdf">[Paper]</a>.
 
