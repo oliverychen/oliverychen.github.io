@@ -23,7 +23,7 @@ comments:
 
 
 
-## <font color="#CC300">Reviews</font>
+## <font color="#CC300">Papers</font>
 
 - <span style="color:#006699;">Personalized healthcare and public health in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Paper]</a>.
 
@@ -38,15 +38,19 @@ comments:
 - <span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) (with S. Zeki) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
 
 
+<!--
 ## <font color="#CC300">Book chapters</font>
+-->
 
 - <span style="color:#006699;">Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint.</span> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany (2018) (with J. Gou) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
 
+<!--
 - <span style="color:#006699;">Unsupervised learning methods to proteomic data from colon cancer.</span> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>.
+-->
 
-
+<!--
 ## <font color="#CC300">Papers</font>
-
+-->
 
 - <span style="color:#006699;">Building a machine-learning framework to remotely assess Parkinson's disease using smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/PD_Chen.pdf">[Paper]</a>.
 
@@ -111,10 +115,13 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 	
 - <span style="color:#006699;">The generative representational similarity analysis.</span>
 
+<!--
 - <span style="color:#006699;">Comparison of clustering algorithms: An example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/ Dasgupta et al.pdf">[Paper]</a>.
-	
-- <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
+-->
 
+<!--
+- <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
+-->
 
 ## <font color="#CC300">Lectures and talks</font>
 
@@ -193,4 +200,5 @@ Public Health Association.
 - For more information, please see his [**curriculum vitae**](/files/doc/CV_Chen_Feb_2015.pdf).
 -->
   
+
 
