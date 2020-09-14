@@ -83,7 +83,7 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 
 - <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: Learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://ieeexplore.ieee.org/document/8512480">[Paper]</a>. 
 
-- <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>IEEE Transactions on Biomedical Engineering</b> (2019) (with H. Phan, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/abs/1907.13177">[Paper]</a>.
+- <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2019) (with H. Phan, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos) <a href="https://arxiv.org/abs/1907.13177">[Paper]</a>.
 
 - <span style="color:#006699;">Cross-paradigm connectivity: Reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020) (with H. Cao, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon).
 
