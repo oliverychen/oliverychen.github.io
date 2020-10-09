@@ -128,6 +128,8 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 
 
+- Department of Mathematical Sciences, University of Arkansas. Department Seminar (virtual due to Covid). October, 2020
+
 - John von Neumann Institute, Vietnam National University. Ho Chi Minh City, Vietnam. December, 2018
 
 - Roche Innovation Center. Basel, Switzerland. September, 2018
