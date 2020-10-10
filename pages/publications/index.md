@@ -128,17 +128,17 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 
 
-- Department Seminar. Department of Mathematical Sciences, University of Arkansas. October, 2020
+- Department Seminar. Department of Mathematical Sciences, University of Arkansas. October, 2020.
 
-- John von Neumann Institute, Vietnam National University. Ho Chi Minh City, Vietnam. December, 2018
+- John von Neumann Institute, Vietnam National University. Ho Chi Minh City, Vietnam. December, 2018.
 
-- Roche Innovation Center. Basel, Switzerland. September, 2018
+- Roche Innovation Center. Basel, Switzerland. September, 2018.
 
-- Mathematical Institute, University of Oxford. Oxford, UK. February, 2018
+- Mathematical Institute, University of Oxford. Oxford, UK. February, 2018.
 
-- Institute of Biomedical Engineering, University of Oxford. Oxford, UK. February, 2018
+- Institute of Biomedical Engineering, University of Oxford. Oxford, UK. February, 2018.
 
-- Cognitive Neuroscience Laboratory, Yale University. New Haven. CT. June, 2017
+- Cognitive Neuroscience Laboratory, Yale University. New Haven. CT. June, 2017.
 
 - Bernstein Center for Computational Neuroscience. Berlin, Germany. August, 2016.
 
