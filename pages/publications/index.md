@@ -77,6 +77,10 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 
 - <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) (with H. Phan, F. Andreotti, N. Cooray, and M. de Vos) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
 
+- <span style="color:#006699;">Self-attention generative adversarial network for speech enhancement.</span> <i>ICASSP</i>, (2021) (with H. Phan, H. Nguyen, P. Koch, N. Duong, I. McLoughlin, and A. Mertins).
+
+- <span style="color:#006699;">Multi-view audio classification: with applications to environmental sound, audio scene, and music genre data.</span> <i>ICASSP</i>, (2021) (with H. Phan, H. Nguyen, P. Koch, N. Duong, I. McLoughlin, and A. Mertins).
+
 - <span style="color:#006699;">Automatic sleep staging: Personalization with single-night data via KL-divergence regularization.</span> <i>Physiological Measurements</i> (2020) (with H. Phan, K. Mikkelsen, P. Koch, A. Mertins, P. Kidmose, and M. de Vos).
 
 - <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) (with L. Xiao, J. Schrack, L. Ferrucci, and C. Crainiceanu) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
