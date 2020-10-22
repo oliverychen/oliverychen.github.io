@@ -42,7 +42,6 @@ comments:
 ## <font color="#CC300">Book chapters</font>
 -->
 
-- <span style="color:#006699;">Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint.</span> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany (2018) (with J. Gou) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
 
 <!--
 - <span style="color:#006699;">Unsupervised learning methods to proteomic data from colon cancer.</span> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>.
@@ -56,12 +55,14 @@ comments:
 
 - <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>bioRxiv</i> <b>2020.04.15.043034</b> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
+- <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>NeuroImage</i> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: A state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) (with H. Cao, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">The human cerebral cortex possesses a reconfigurable dynamic network architecture that is disrupted in psychotic illness.</span> <i>Nature Communications</i> <b>9</b>, 1157 (2018) (with J. Reinen, J. Baker, T. Yeo, K. Anderson, R. Hutchison, M. Sabuncu, D. Öngür, J. Roffman, J. Smoller, and A. Holmes) <a href="{{ site.baseurl }}/files/doc/Reinen_2018.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/Reinen_2018_Supp.pdf">[Supp. Materials]</a>.
+
+- <span style="color:#006699;">Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint.</span> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany (2018) (with J. Gou) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
 
 - <span style="color:#006699;">On the use of semi-folding in regular blocks two-level factorial designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) (with M.A. Jacroux) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
 
