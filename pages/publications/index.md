@@ -128,10 +128,11 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 - <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
 -->
 
-## <font color="#CC300">Lectures and talks</font>
+## <font color="#CC300">Lectures</font>
 
+<!--
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
-
+-->
 
 - Department Seminar. Department of Mathematical Sciences, University of Arkansas. October, 2020.
 
@@ -170,7 +171,7 @@ Health Association, Chicago, IL. October, 2015.
 - Mathematics Colloquium. Department of Mathematics and Statistics, Washington State University. Pullman, WA. August, 2015.
 
 
-## <font color="#CC300">Honors and awards</font> 
+## <font color="#CC300">Honors</font> 
 
 - Si-Shui Lecture. 
 
@@ -190,6 +191,7 @@ Health Association, Chicago, IL. October, 2015.
 Public Health Association.
 
 
+<!--
 ## <font color="#CC300">Unpublished Reviews, Essays, Handbooks, and Notes</font>
 
 - **Chén O. Y.** Comments on <i>Triplets of Spikes in a Model of Spike Timing-Dependent Plasticity </i>
@@ -200,6 +202,7 @@ Public Health Association.
 - **Chén O. Y.** A Brief Study Guide for Full, Blocking, and Fractional Factorial Experimental Designs. <a href="{{ site.baseurl }}/files/doc/ED.pdf"><span style="color:#006699;">[Link]</span></a>
 
 - **Chén O. Y.** Notes for Time Series Data Analysis. <a href="{{ site.baseurl }}/files/doc/TS.pdf"><span style="color:#006699;">[Link]</span></a>
+-->
 
 <!--
 ## Others
