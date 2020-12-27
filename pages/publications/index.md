@@ -53,7 +53,7 @@ comments:
 
 - <span style="color:#006699;">Building a machine-learning framework to remotely assess Parkinson's disease using smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) (with F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/PD_Chen.pdf">[Paper]</a>.
 
-- <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="https://www.nature.com/articles/s41598-019-40345-8.pdf">[Paper]</a>.
+- <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) (with H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon) <a href="{{ site.baseurl }}/files/doc/Granger.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>NeuroImage</i> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
