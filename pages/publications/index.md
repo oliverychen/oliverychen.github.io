@@ -25,7 +25,7 @@ comments:
 
 ## <font color="#CC300">Papers</font>
 
-- <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>NeuroImage</i> (2020) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
+- <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>NeuroImage</i> (2021) (with H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
 - <span style="color:#006699;">Personalized healthcare and public health in the digital age.</span> <i>OSF Preprints</i> <b>10.31219</b> (2020) (with B. Roberts) <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Paper]</a>.
 
