@@ -134,6 +134,19 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 **I have made many errors and mistakes in research and in ways of thinking; I am very grateful to scholars from various of fields who have pointed out my shortcomings and helped me learn and grow.**
 -->
 
+
+- The Lausanne University Hospital. December, 2020.
+
+- University of Oxford. Big Data Institute. November, 2020.
+
+- ETH Zürich. Department of Health Sciences and Technology. November, 2020.
+
+- Queen Mary University of London. School of Electronic Engineering and Computer Science. November, 2020.
+
+- University College London. Department of Statistics. Nov 2020.
+
+- Imperial College London. Department of Epidemiology and Biostatistics. February, 2020.
+
 - Department Seminar. Department of Mathematical Sciences, University of Arkansas. October, 2020.
 
 - John von Neumann Institute, Vietnam National University. Ho Chi Minh City, Vietnam. December, 2018.
