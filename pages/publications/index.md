@@ -81,7 +81,7 @@ automatic sleep staging.</span> <i>arXiv</i> <b>2007.05492</b> (2020) (with H. P
 
 - <span style="color:#006699;">Self-attention generative adversarial network for speech enhancement.</span> <i>ICASSP</i>, (2021) (with H. Phan, H. Nguyen, P. Koch, N. Duong, I. McLoughlin, and A. Mertins).
 
-- <span style="color:#006699;">Multi-view audio classification: with applications to environmental sound, audio scene, and music genre data.</span> <i>ICASSP</i>, (2021) (with H. Phan, H. Nguyen, P. Koch, N. Duong, I. McLoughlin, and A. Mertins).
+- <span style="color:#006699;">Multi-view Audio and Music Classification.</span> <i>ICASSP</i>, (2021) (with H. Phan, H. Nguyen, P. Koch, N. Duong, I. McLoughlin, and A. Mertins) <a href="https://arxiv.org/pdf/2103.02420.pdf">[Paper]</a>.
 
 - <span style="color:#006699;">Automatic sleep staging: Personalization with single-night data via KL-divergence regularization.</span> <i>Physiological Measurements</i> (2020) (with H. Phan, K. Mikkelsen, P. Koch, A. Mertins, P. Kidmose, and M. de Vos).
 
