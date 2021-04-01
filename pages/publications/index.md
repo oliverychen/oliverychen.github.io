@@ -47,10 +47,6 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 
 <!--
-- <span style="color:#006699;">Unsupervised learning methods to proteomic data from colon cancer.</span> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>.
--->
-
-<!--
 ## <font color="#CC300">Papers</font>
 -->
 
@@ -122,15 +118,12 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - <b>OY Chén</b>. <span style="color:#006699;">A generalized and drifting time corrected approach using Wiener-Granger causality and VAR(p) process for detecting high-dimensional directed functional communication between brain regions and predicting behavior.</span>
 
+- N. Dasgupta, <b>OY Chén</b>, R. Basu, and S.S. Daoud. <span style="color:#006699;">Unsupervised learning methods to proteomic data from colon cancer.</span> In <i>Contemporary Topics in Mathematics and Statistics with Applications</i>. New Delhi, India (2013) <a href="{{ site.baseurl }}/files/doc/Dasgupta_and_Chen_Chapter.pdf">[Chapter]</a>.
 
+- N. Dasgupta, <b>OY Chén</b>, R. Basu, and S.S. Daoud. <span style="color:#006699;">Comparison of clustering algorithms: An example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) <a href="{{ site.baseurl }}/files/doc/ Dasgupta et al.pdf">[Paper]</a>.
 
-<!--
-- <span style="color:#006699;">Comparison of clustering algorithms: An example with proteomic data.</span> <i>Advances and Applications in Statistics</i> <b>33</b>, 63 (2013) (with N. Dasgupta, R. Basu, and S.S. Daoud) <a href="{{ site.baseurl }}/files/doc/ Dasgupta et al.pdf">[Paper]</a>.
--->
+- N. Dasgupta, <b>OY Chén</b>, R. Basu, and S.S. Daoud. <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012).
 
-<!--
-- <span style="color:#006699;">Comparison of methods for unsupervised learning methods – an applied study using proteomic data from colon cancer and simulations. In </span><i>CIAS</i>, Indian Statistical Institute (2012) (with N. Dasgupta, R. Basu, and S.S. Daoud).
--->
 
 ## <font color="#CC300">Lectures</font>
 
