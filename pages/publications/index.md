@@ -74,33 +74,14 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - J. Gou and <b>OY Chén</b>. <span style="color:#006699;">Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint.</span> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany (2018) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
 
-- <b>OY Chén</b> and M.A. Jacroux. <span style="color:#006699;">On the use of semi-folding in regular blocks two-level factorial designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
-
-- S. Zeki, <b>OY Chén</b>, and J. Romaya. <span style="color:#006699;">The biological basis of mathematical beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a>.
-
 - <b>OY Chén</b>, E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist. <span style="color:#006699;">High-dimensional multivariate mediation with application to neuroimaging data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
 
-
-- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">SeqSleepNet: End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>.
-
-- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
-
-- H. Phan, H. Nguyen, <b>OY Chén</b>, P. Koch, N. Duong, I. McLoughlin, and A. Mertins. <span style="color:#006699;">Self-attention generative adversarial network for speech enhancement.</span> <i>ICASSP</i>, (2021) <a href="https://arxiv.org/abs/2010.09132">[Paper]</a>.
-
-- H. Phan, H. Nguyen, <b>OY Chén</b>, P. Koch, N. Duong, I. McLoughlin, and A. Mertins. <span style="color:#006699;">Multi-view Audio and Music Classification.</span> <i>ICASSP</i>, (2021) <a href="https://arxiv.org/pdf/2103.02420.pdf">[Paper]</a>.
-
-- H. Phan, K. Mikkelsen, <b>OY Chén</b>, P. Koch, A. Mertins, P. Kidmose, and M. de Vos. <span style="color:#006699;">Personalized automatic sleep staging with single-night data: a pilot study with Kullback–Leibler divergence regularization.</span> <i>Physiological Measurements</i> (2020).
-
 - <b>OY Chén</b>, L. Xiao, B. Caffo, M. Lindquist, J. Schrack, L. Ferrucci, and C. Crainiceanu. <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
 
-- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: Learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018). <a href="https://ieeexplore.ieee.org/document/8512480">[Paper]</a>. 
+- <b>OY Chén</b> and M.A. Jacroux. <span style="color:#006699;">On the use of semi-folding in regular blocks two-level factorial designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
 
-- H. Phan, <b>OY Chén</b>, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2019) <a href="https://ieeexplore.ieee.org/document/9181436">[Paper]</a>.
-
-- H. Cao, <b>OY Chén</b>, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon. <span style="color:#006699;">Cross-paradigm connectivity: Reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020).
-
-- H. Phan, I. McLoughlin, L. Pham, <b>OY Chén</b>, P. Koch, M. de Vos, and A. Mertins. <span style="color:#006699;">Improving GANs for speech enhancement.</span> <i>IEEE Signal Processing Letters</i> (2020) <a href="https://arxiv.org/pdf/2001.05532.pdf">[Paper]</a>
+- S. Zeki, <b>OY Chén</b>, and J. Romaya. <span style="color:#006699;">The biological basis of mathematical beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a>.
 
 - H. Phan, <b>OY Chén</b>, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Revisiting convolutional neural networks for automated sleep staging.</span> <i>EMBC</i> (2020).
 
@@ -116,9 +97,28 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - H. Cao H, <b>OY Chén</b>, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon. <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
 
-- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">DNN filter bank improves 1-max pooling CNN for automatic sleep stage classification.</span> <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 453-456 (2018) <a href="https://ieeexplore.ieee.org/document/8512286">[Paper]</a>.
+- H. Phan, <b>OY Chén</b>, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2019) <a href="https://ieeexplore.ieee.org/document/9181436">[Paper]</a>.
+
+- H. Cao, <b>OY Chén</b>, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon. <span style="color:#006699;">Cross-paradigm connectivity: Reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020).
 
 - H. Phan, <b>OY Chén</b>, F. Andreotti, N. Cooray, and M. de Vos. <span style="color:#006699;">Towards better practice of deep learning for automatic sleep staging.</span> IEEE (2018) <a href="https://arxiv.org/pdf/1907.13177.pdf">[Paper]</a>.
+
+- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">SeqSleepNet: End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>.
+
+- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">Joint classification and prediction CNN framework for automatic sleep stage classification.</span> <i>IEEE Transactions on Biomedical Engineering</i> <b>66</b>, 1285-1296 (2018) <a href="https://arxiv.org/pdf/1805.06546.pdf">[Paper]</a>.
+
+- H. Phan, H. Nguyen, <b>OY Chén</b>, P. Koch, N. Duong, I. McLoughlin, and A. Mertins. <span style="color:#006699;">Self-attention generative adversarial network for speech enhancement.</span> <i>ICASSP</i>, (2021) <a href="https://arxiv.org/abs/2010.09132">[Paper]</a>.
+
+- H. Phan, H. Nguyen, <b>OY Chén</b>, P. Koch, N. Duong, I. McLoughlin, and A. Mertins. <span style="color:#006699;">Multi-view Audio and Music Classification.</span> <i>ICASSP</i>, (2021) <a href="https://arxiv.org/pdf/2103.02420.pdf">[Paper]</a>.
+
+- H. Phan, K. Mikkelsen, <b>OY Chén</b>, P. Koch, A. Mertins, P. Kidmose, and M. de Vos. <span style="color:#006699;">Personalized automatic sleep staging with single-night data: a pilot study with Kullback–Leibler divergence regularization.</span> <i>Physiological Measurements</i> (2020).
+
+
+- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">Automatic sleep stage classification using single-channel EEG: Learning sequential features with attention-based recurrent reural networks.</span> In <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 1452-1455 (2018). <a href="https://ieeexplore.ieee.org/document/8512480">[Paper]</a>. 
+
+- H. Phan, I. McLoughlin, L. Pham, <b>OY Chén</b>, P. Koch, M. de Vos, and A. Mertins. <span style="color:#006699;">Improving GANs for speech enhancement.</span> <i>IEEE Signal Processing Letters</i> (2020) <a href="https://arxiv.org/pdf/2001.05532.pdf">[Paper]</a>
+
+- H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">DNN filter bank improves 1-max pooling CNN for automatic sleep stage classification.</span> <i>IEEE Engineering in Medicine and Biology Society (EMBC)</i>, 453-456 (2018) <a href="https://ieeexplore.ieee.org/document/8512286">[Paper]</a>.
 
 - <b>OY Chén</b>. <span style="color:#006699;">A generalized and drifting time corrected approach using Wiener-Granger causality and VAR(p) process for detecting high-dimensional directed functional communication between brain regions and predicting behavior.</span>
 
