@@ -27,7 +27,7 @@ comments:
 
 - <b>OY Chén</b>, H. Cao, H. Phan, J. Reinen, J. Gou, J. Di, T. Qian, J. Prince, T. Cannon, and M. de Vos. <span style="color:#006699;">Identifying neural signatures mediating behavioral symptoms and psychosis onset: High-dimensional whole brain functional mediation analysis.</span> <i>NeuroImage</i> (2021) <a href="{{ site.baseurl }}/files/doc/HD_functional_mediation.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/HD_functional_mediation_supp.pdf">[Supp. Materials]</a>.
 
-- <b>OY Chén</b> and B. Roberts <span style="color:#006699;">Personalized healthcare and public health in the digital age.</span> <i>
+- <b>OY Chén</b> and B. Roberts. <span style="color:#006699;">Personalized healthcare and public health in the digital age.</span> <i>
 Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Chen_and_Roberts_published.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/P_n_P.pdf">[Longer version]</a>.
 
 - <b>OY Chén</b>, H. Phan, G. Nagel, and M. de Vos. <span style="color:#006699;">On Statistical Analysis of Brain Variability.</span> <i>Preprints</i> <b>202008.0428.v1</b> (2020) <a href="{{ site.baseurl }}/files/doc/On_Statistical_Analysis_of_Brain_Variability.pdf">[Paper]</a>.
@@ -36,9 +36,9 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - <b>OY Chén</b>. <span style="color:#006699;">The roles of statistics in human neuroscience.</span> <i>Brain Sci.</i> <b>9</b>, 194 (2019). <i>I dedicate this paper to Michael Jacroux, who showed me the excitement of statistics, in honour of his emeritus retirement.</i> <a href="{{ site.baseurl }}/files/doc/Fisher.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Fisher_Erratum.pdf">[Erratum]</a>.
 
-- <b>OY Chén</b> <span style="color:#006699;">Big data in omics and imaging: Integrated analysis and causal inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
+- <b>OY Chén</b>. <span style="color:#006699;">Big data in omics and imaging: Integrated analysis and causal inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
 
-- S. Zeki and <b>OY Chén</b><span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
+- S. Zeki and <b>OY Chén</b>. <span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
 
 
 <!--
@@ -58,7 +58,7 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - <b>OY Chén</b>, H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon. <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) <a href="{{ site.baseurl }}/files/doc/Granger.pdf">[Paper]</a>.
 
-- <b>OY Chén</b> and J Di. <span style="color:#006699;">Penalised iterative sparse partial correlation estimation (Π-SPaCE) - with an application to whole-brain graph estimation.</span> (2021+)
+- <b>OY Chén</b> and J. Di. <span style="color:#006699;">Penalised iterative sparse partial correlation estimation (Π-SPaCE) - with an application to whole-brain graph estimation.</span> (2021+)
 
 - <b>OY Chén</b>, H. Phan, T. Qian, and M. de Vos. <span style="color:#006699;">The causal effect of priming.</span> (2021).
 	
