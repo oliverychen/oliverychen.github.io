@@ -38,7 +38,7 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - <b>OY Chén</b>. <span style="color:#006699;">Big data in omics and imaging: Integrated analysis and causal inference.</span> <i>The Journal of the American Statistical Association</i> <b>115</b>, 487-488 (2020) <a href="{{ site.baseurl }}/files/doc/Book_review_Xiong.pdf">[Paper]</a>.
 
-- S. Zeki and <b>OY Chén</b>. <span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
+- <b>OY Chén</b>, F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos. <span style="color:#006699;">Building a machine-learning framework to remotely assess Parkinson's disease using smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) <a href="{{ site.baseurl }}/files/doc/PD_Chen.pdf">[Paper]</a>.
 
 
 <!--
@@ -50,9 +50,11 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 ## <font color="#CC300">Papers</font>
 -->
 
-- <b>OY Chén</b>, F. Lipsmeier, H. Phan, J. Prince, K.I. Taylor, M. Lindemann, C. Gossens, and M. de Vos. <span style="color:#006699;">Building a machine-learning framework to remotely assess Parkinson's disease using smartphones.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2020) <a href="{{ site.baseurl }}/files/doc/PD_Chen.pdf">[Paper]</a>.
 
 - <b>OY Chén</b>, H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon. <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) <a href="{{ site.baseurl }}/files/doc/Granger.pdf">[Paper]</a>.
+
+- S. Zeki and <b>OY Chén</b>. <span style="color:#006699;">The Bayesian-Laplacian brain.</span> <i>European Journal of Neuroscience</i> <b>51</b>, 1441-1462 (2019) <a href="{{ site.baseurl }}/files/doc/Bayesian_Laplacian_Brain.pdf">[Paper]</a>.
+
 
 - <b>OY Chén</b>, E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist. <span style="color:#006699;">High-dimensional multivariate mediation with application to neuroimaging data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
 <a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
