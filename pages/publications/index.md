@@ -54,12 +54,19 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - <b>OY Chén</b>, H. Cao, J. Reinen, T. Qian, J. Gou, H. Phan, M. de Vos, and T. Cannon. <span style="color:#006699;">Resting-state brain information flow predicts cognitive flexibility in humans.</span> <i>Scientific Reports</i> <b>9</b>, 3879 (2019) <a href="{{ site.baseurl }}/files/doc/Granger.pdf">[Paper]</a>.
 
+- <b>OY Chén</b>, E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist. <span style="color:#006699;">High-dimensional multivariate mediation with application to neuroimaging data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
+<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
+
+- <b>OY Chén</b>, L. Xiao, B. Caffo, M. Lindquist, J. Schrack, L. Ferrucci, and C. Crainiceanu. <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
+
+- <b>OY Chén</b> and M.A. Jacroux. <span style="color:#006699;">On the use of semi-folding in regular blocks two-level factorial designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
+
+
 - <b>OY Chén</b> and J. Di. <span style="color:#006699;">Penalised iterative sparse partial correlation estimation (Π-SPaCE) - with an application to whole-brain graph estimation.</span> (2021+)
 
 - <b>OY Chén</b>, H. Phan, T. Qian, and M. de Vos. <span style="color:#006699;">The causal effect of priming.</span> (2021).
 	
 - <b>OY Chén</b>. <span style="color:#006699;">The generative representational similarity analysis.</span> (2021+)
-
 
 - H. Cao, <b>OY Chén</b>, Y. Chung, S.C. McEwen, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon. <span style="color:#006699;">Cerebello-thalamo-cortical hyperconnectivity: A state-independent functional neural signature for psychosis prediction and characterization.</span> <i>Nature Communications</i> <b>9</b>, 3836 (2018) <a href="{{ site.baseurl }}/files/doc/Cao_2018_Nature_Comm.pdf">[Paper]</a><a href="{{ site.baseurl }}/files/doc/Cao_et_al_supp.pdf">[Supp. Materials]</a>.
 
@@ -69,13 +76,6 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 - H. Phan, <b>OY Chén</b>, P. Koch, A. Mertins, and M. de Vos. <span style="color:#006699;">XSleepNet: Multi-view sequential model for automatic sleep staging.</span> <i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</i> (2021) <a href="https://arxiv.org/pdf/2007.05492.pdf">[Paper]</a>
 
 - J. Gou and <b>OY Chén</b>. <span style="color:#006699;">Critical boundary refinement in a group sequential trial when the primary endpoint data accumulate faster than the secondary endpoint.</span> In <i>ICSA Book Series in Statistics</i>. Springer, Berlin, Germany (2018) <a href="{{ site.baseurl }}/files/doc/Gou_and_Chen.pdf">[Chapter]</a> <a href="https://www.springer.com/us/book/9783030153090#aboutBook">[Book]</a>.
-
-- <b>OY Chén</b>, E. Ogburn, C. Crainiceanu, B. Caffo, T. Wager, and M. Lindquist. <span style="color:#006699;">High-dimensional multivariate mediation with application to neuroimaging data.</span> <i>Biostatistics</i> <b>19</b>, 121–136 (2015) <a href="{{ site.baseurl }}/files/doc/HDMM.pdf">[Paper]</a>
-<a href="{{ site.baseurl }}/files/doc/HDMM_Supplemental_Materials.pdf">[Asymptotic Theory]</a>.
-
-- <b>OY Chén</b>, L. Xiao, B. Caffo, M. Lindquist, J. Schrack, L. Ferrucci, and C. Crainiceanu. <span style="color:#006699;">A longitudinal functional data analysis for underlying daily physical activity change.</span> (2015) <a href="{{ site.baseurl }}/files/doc/LFDA.pdf">[Paper]</a>.
-
-- <b>OY Chén</b> and M.A. Jacroux. <span style="color:#006699;">On the use of semi-folding in regular blocks two-level factorial designs.</span> <i>Communications in Statistics - Theory and Methods</i> <b>44</b>, 2473-2506 (2015) <a href="{{ site.baseurl }}/files/doc/Chen_Jacroux.pdf">[Paper]</a>.
 
 - S. Zeki, <b>OY Chén</b>, and J. Romaya. <span style="color:#006699;">The biological basis of mathematical beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a>.
 
