@@ -148,30 +148,30 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - Imperial College London. Department of Epidemiology and Biostatistics. February, 2020.
 
-- Department Seminar. Department of Mathematical Sciences, University of Arkansas. October, 2020.
+- University of Arkansas. Department Seminar. Department of Mathematical Sciences. October, 2020.
 
-- John von Neumann Institute, Vietnam National University. Ho Chi Minh City, Vietnam. December, 2018.
+- Vietnam National University. John von Neumann Institute. Ho Chi Minh City, Vietnam. December, 2018.
 
 - Roche Innovation Center. Basel, Switzerland. September, 2018.
 
-- Mathematical Institute, University of Oxford. Oxford, UK. February, 2018.
+- University of Oxford. Mathematical Institute. Oxford, UK. February, 2018.
 
-- Institute of Biomedical Engineering, University of Oxford. Oxford, UK. February, 2018.
+- University of Oxford. Institute of Biomedical Engineering. Oxford, UK. February, 2018.
 
-- Cognitive Neuroscience Laboratory, Yale University. New Haven. CT. June, 2017.
+- Yale University. Cognitive Neuroscience Laboratory. New Haven. CT. June, 2017.
 
-- Bernstein Center for Computational Neuroscience. Berlin, Germany. August, 2016.
+- Humboldt-Universität zu Berlin. Bernstein Center for Computational Neuroscience. Berlin, Germany. August, 2016.
 
-- Department of Psychology, Yale University. New Haven, CT. July, 2016.
+- Yale University. Department of Psychology. New Haven, CT. July, 2016.
 
-- Si-Shui Lecture. He University and He Eye Hospital. Shen-Yang, China. September, 2016.
+- He University and He Eye Hospital. Si-Shui Lecture. Shen-Yang, China. September, 2016.
 
-- Department of Psychology, Stanford University. Serra Mall, Stanford, CA. January, 2016.
+- Stanford University. Department of Psychology. Serra Mall, Stanford, CA. January, 2016.
 
-- MRC Brain Network Dynamics Unit, University of Oxford. Oxford, United Kingdom. December,
+- University of Oxford. MRC Brain Network Dynamics Unit. Oxford, United Kingdom. December,
 2015.
 
-- Engineering Department, University of Cambridge. Cambridge, United Kingdom. December, 2015.
+- University of Cambridge. Engineering Department. Cambridge, United Kingdom. December, 2015.
 
 - The 8th International Conference of the ERCIM WG on Computational and Methodological Statistics,
 London, United Kingdom. December, 2015.
@@ -182,7 +182,7 @@ Health Association, Chicago, IL. October, 2015.
 - ETH Zürich and University of Zürich. Institut für Neuroinformatik, Zürich, Switzerland, August,
 2015.
 
-- Mathematics Colloquium. Department of Mathematics and Statistics, Washington State University. Pullman, WA. August, 2015.
+- Washington State University. Mathematics Colloquium. Department of Mathematics and Statistics. Pullman, WA. August, 2015.
 
 
 ## <font color="#CC300">Honors</font> 
