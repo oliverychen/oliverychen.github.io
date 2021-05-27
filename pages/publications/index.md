@@ -81,8 +81,6 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - S. Zeki, <b>OY Chén</b>, and J. Romaya. <span style="color:#006699;">The biological basis of mathematical beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a>.
 
-- H. Phan, K. Mikkelsen, <b>OY Chén</b>, P. Koch, A. Mertins, and M. de Vos. <span style="color:#006699;">SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification.</span> <i>arXiv</i> <b>2105.11043</b> (2021) <a href="https://arxiv.org/pdf/2105.11043.pdf">[Paper]</a>
-
 - H. Phan, <b>OY Chén</b>, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Revisiting convolutional neural networks for automated sleep staging.</span> <i>EMBC</i> (2020).
 
 - H. Phan, <b>OY Chén</b>, L. Pham, P. Koch, M. de Vos, I. McLoughlin, and A. Mertins. <span style="color:#006699;">Spatial-temporal attention pooling for audio scene classification.</span> <i>Interspeech</i> (2019) <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3040.pdf">[Paper]</a>.
@@ -102,6 +100,8 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 - H. Cao, <b>OY Chén</b>, S. McEwen, J. Forsyth, G. Dylan, C. Bearden, J. Addington, B. Goodyear, K. Cadenhead, H. Mirzakhanian, B. Cornblatt, R. Carrión, D. Mathalon, T. McGlashan, D. Perkins, A. Belger, H. Thermenos, M. Tsuang, T. van Erp, E. Walker, S. Hamann, A. Anticevic, S. Wood, and T.D. Cannon. <span style="color:#006699;">Cross-paradigm connectivity: Reliabiltiy, stability, and utility.</span> <i>Brain Imaging and Behavior</i> (2020).
 
 - H. Phan, <b>OY Chén</b>, F. Andreotti, N. Cooray, and M. de Vos. <span style="color:#006699;">Towards better practice of deep learning for automatic sleep staging.</span> IEEE (2018) <a href="https://arxiv.org/pdf/1907.13177.pdf">[Paper]</a>.
+
+- H. Phan, K. Mikkelsen, <b>OY Chén</b>, P. Koch, A. Mertins, and M. de Vos. <span style="color:#006699;">SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification.</span> <i>arXiv</i> <b>2105.11043</b> (2021) <a href="https://arxiv.org/pdf/2105.11043.pdf">[Paper]</a>
 
 - H. Phan, F. Andreotti, N. Cooray, <b>OY Chén</b>, and M. de Vos. <span style="color:#006699;">SeqSleepNet: End-to-end hierarchical recurrent neural network for sequence-to-sequence automatic sleep staging.</span> <i>IEEE Transactions on Neural Systems and Rehabilitation Engineering</i> <b>27</b>, 400-410 (2018) <a href="https://arxiv.org/pdf/1809.10932.pdf">[Paper]</a> <a href="{{ site.baseurl }}/files/doc/Front_page.pdf">[Journal Cover]</a>.
 
