@@ -81,6 +81,8 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - S. Zeki, <b>OY Chén</b>, and J. Romaya. <span style="color:#006699;">The biological basis of mathematical beauty.</span> <i>Frontiers in Human Neuroscience</i> <b>12</b>, 467 (2018) <a href="https://www.frontiersin.org/articles/10.3389/fnhum.2018.00467/abstract">[Paper]</a>.
 
+- H. Phan, K. Mikkelsen, <b>OY Chén</b>, P. Koch, A. Mertins, and M. de Vos. <span style="color:#006699;">SleepTransformer: Automatic Sleep Staging with Interpretability and Uncertainty Quantification.</span> <i>arXiv</i> <b>2105.11043</b> (2021) <a href="https://arxiv.org/pdf/2105.11043.pdf">[Paper]</a>
+
 - H. Phan, <b>OY Chén</b>, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Revisiting convolutional neural networks for automated sleep staging.</span> <i>EMBC</i> (2020).
 
 - H. Phan, <b>OY Chén</b>, L. Pham, P. Koch, M. de Vos, I. McLoughlin, and A. Mertins. <span style="color:#006699;">Spatial-temporal attention pooling for audio scene classification.</span> <i>Interspeech</i> (2019) <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3040.pdf">[Paper]</a>.
@@ -91,9 +93,9 @@ Frontiers in Digital Health</i> (2021) <a href="{{ site.baseurl }}/files/doc/Che
 
 - H. Phan, <b>OY Chén</b>, P. Koch, L. Pham, I. McLoughlinz, A. Mertins, and M. de Vos. <span style="color:#006699;">Unifying isolated and overlapping audio event detection with multi-label multi-task convolutional recurrent neural networks.</span> In <i>ICASSP</i> 51-55 (2018) <a href="https://arxiv.org/pdf/1811.01092.pdf">[Paper]</a>.
 
-- H. Phan, <b>OY Chén</b>, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Beyond equal-length snippets: How long is sufficient to recognize an audio scene?</span> (2018) <a href="https://arxiv.org/pdf/1811.01095v1.pdf">[Paper]</a>.
-
 - H. Cao H, <b>OY Chén</b>, S.C. McEwen, Y. Chung, C.E. Bearden, J. Addington, B. Goodyear, K.S. Cadenhead, H. Mirzakhanian, B.A. Cornblatt, D.M. Olvet, D.H. Mathalon, T.H. McGlashan, D.O. Perkins, A. Belger, L.J. Seidman, H. Thermenos, M.T. Tsuang, T.G.M. van Erp, E.F. Walker, S. Hamann, A. Anticevic, S.W. Woods, and T.D. Cannon. <span style="color:#006699;">Altered brain activation during memory retrieval precedes and predicts conversion to psychosis in individuals at clinical high risk.</span> <i>Schizophrenia Bulletin</i> <b>45</b>, 924-933 (2018) <a href="{{ site.baseurl }}/files/doc/Cao_et_al_2018_Schizophrenia_Bulletin.pdf">[Paper]</a>.
+
+- H. Phan, <b>OY Chén</b>, P. Koch, L. Pham, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Beyond equal-length snippets: How long is sufficient to recognize an audio scene?</span> (2018) <a href="https://arxiv.org/pdf/1811.01095v1.pdf">[Paper]</a>.
 
 - H. Phan, <b>OY Chén</b>, P. Koch, Z. Lu, I. McLoughlin, A. Mertins, and M. de Vos. <span style="color:#006699;">Towards more accurate automatic sleep staging via deep transfer learning.</span> <i>IEEE Transactions on Biomedical Engineering</i> (2019) <a href="https://ieeexplore.ieee.org/document/9181436">[Paper]</a>.
 
